@@ -36,6 +36,10 @@ def fetch_fixtures(league_name: str, season: str) -> Path:
     (like run_pipeline.py) can catch and continue past a bad pair.
     """
     # ─── Lookup league from master_leagues.json ───────────────────────────────
+    # Supports two input forms:
+    #   "LaLiga"                 - plain name lookup (fine when the name is unique)
+    #   "Serie A (BRA)"          - name + country code, required when the name collides
+    #                              across countries (e.g. "Premier League", "Serie A")
     master_leagues = Path("master_leagues.json")
     if not master_leagues.exists():
         raise FileNotFoundError("master_leagues.json not found in current directory")
@@ -43,14 +47,30 @@ def fetch_fixtures(league_name: str, season: str) -> Path:
     with open(master_leagues) as f:
         leagues = json.load(f)
 
-    match = next(
-        (l for l in leagues if l["name"].lower() == league_name.lower()),
-        None
-    )
+    country_hint = None
+    name_query = league_name
+    if "(" in league_name and league_name.endswith(")"):
+        name_query, country_part = league_name.rsplit("(", 1)
+        name_query = name_query.strip()
+        country_hint = country_part.rstrip(")").strip().upper()
 
-    if not match:
+    candidates = [l for l in leagues if l["name"].lower() == name_query.lower()]
+
+    if country_hint:
+        candidates = [l for l in candidates if l["country"].upper() == country_hint]
+
+    if not candidates:
         available = ", ".join(l["name"] for l in leagues)
         raise ValueError(f"League '{league_name}' not found in master_leagues.json. Available: {available}")
+
+    if len(candidates) > 1:
+        options = ", ".join(f"{l['name']} ({l['country']})" for l in candidates)
+        raise ValueError(
+            f"'{league_name}' is ambiguous - matches multiple countries: {options}. "
+            f"Specify the country, e.g. \"{candidates[0]['name']} ({candidates[0]['country']})\"."
+        )
+
+    match = candidates[0]
 
     league_id   = match["id"]
     league_name = match["name"]

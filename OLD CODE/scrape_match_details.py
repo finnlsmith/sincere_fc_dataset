@@ -96,7 +96,6 @@ def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: s
     success = 0
     failed  = 0
     skipped = 0
-    related = 0  # matches under a different competition name (playoffs, etc.) - still saved, tracked separately
 
     print(f"\nScraping {total} matches into {out_dir} ...\n")
 
@@ -125,20 +124,16 @@ def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: s
             league        = data.get("general", {}).get("leagueName")
             finished_flag = data.get("general", {}).get("finished")
 
-            if not finished_flag:
-                print(f"[{i+1}/{total}] ✗ Not actually finished: {match_id} — {home} vs {away}")
+            if league != league_name or not finished_flag:
+                print(f"[{i+1}/{total}] ✗ Bad data (league='{league}', finished={finished_flag}): {match_id} — {home} vs {away}")
                 failed += 1
                 continue
 
             with open(out_path, "w") as f:
                 json.dump({"pageProps": data}, f)
 
-            if league != league_name:
-                print(f"[{i+1}/{total}] ⚑ Related competition saved (league='{league}'): {home} vs {away} ({match_id})")
-                related += 1
-            else:
-                print(f"[{i+1}/{total}] ✓ {home} vs {away} ({match_id})")
-                success += 1
+            print(f"[{i+1}/{total}] ✓ {home} vs {away} ({match_id})")
+            success += 1
 
         except Exception as e:
             print(f"[{i+1}/{total}] ✗ Error on {match_id}: {e}")
@@ -146,8 +141,8 @@ def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: s
 
         time.sleep(DELAY)
 
-    print(f"\nDone. ✓ {success} saved | ⚑ {related} related-competition | ✗ {failed} failed | ⏭ {skipped} skipped")
-    return {"success": success, "failed": failed, "skipped": skipped, "related_competition": related}
+    print(f"\nDone. ✓ {success} saved | ✗ {failed} failed | ⏭ {skipped} skipped")
+    return {"success": success, "failed": failed, "skipped": skipped}
 
 
 if __name__ == "__main__":

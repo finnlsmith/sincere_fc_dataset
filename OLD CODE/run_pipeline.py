@@ -8,13 +8,22 @@ Usage:
     python run_pipeline.py --force                  # re-run pairs already marked complete
     python run_pipeline.py --pair-delay 20           # seconds to wait between pairs (default 15)
 
-Config file shape (pipeline_config.json):
+Config file shape (pipeline_config.json) — per-league season lists, NOT a cross-product.
+This matters because different leagues use different season formats: cross-year leagues
+(most of Europe) use "2022/2023", calendar-year leagues (Brazil, MLS, etc.) use "2022".
+A single global "seasons" list applied to every league would be wrong for at least one of them.
+
 {
-  "leagues": ["Premier League", "LaLiga"],
-  "seasons": ["2023/2024", "2024/2025"]
+  "pairs": [
+    {"league": "Premier League", "seasons": ["2022/2023", "2023/2024", "2024/2025"]},
+    {"league": "LaLiga",         "seasons": ["2022/2023", "2023/2024", "2024/2025"]},
+    {"league": "Brazil Serie A", "seasons": ["2022", "2023", "2024", "2025"]}
+  ]
 }
 
-Runs the full cross-product (every league x every season).
+Tip: use build_pipeline_config.py to generate the "pairs" list automatically from
+league_season_calendars.json instead of typing season strings by hand:
+    python build_pipeline_config.py "Premier League" "LaLiga" "Brazil Serie A" --through 2025
 """
 
 import argparse
@@ -43,10 +52,27 @@ def load_master_leagues() -> list:
 
 
 def league_lookup(leagues: list, league_name: str) -> dict:
-    match = next((l for l in leagues if l["name"].lower() == league_name.lower()), None)
-    if not match:
+    """
+    Same "Name" or "Name (CCODE)" lookup as fetch_fixtures.py, kept in sync so the
+    tracker key (country_leagueid) always matches the league fetch_fixtures actually hit.
+    """
+    country_hint = None
+    name_query = league_name
+    if "(" in league_name and league_name.endswith(")"):
+        name_query, country_part = league_name.rsplit("(", 1)
+        name_query = name_query.strip()
+        country_hint = country_part.rstrip(")").strip().upper()
+
+    candidates = [l for l in leagues if l["name"].lower() == name_query.lower()]
+    if country_hint:
+        candidates = [l for l in candidates if l["country"].upper() == country_hint]
+
+    if not candidates:
         raise ValueError(f"League '{league_name}' not found in master_leagues.json")
-    return match
+    if len(candidates) > 1:
+        options = ", ".join(f"{l['name']} ({l['country']})" for l in candidates)
+        raise ValueError(f"'{league_name}' is ambiguous - matches: {options}. Specify the country.")
+    return candidates[0]
 
 
 def load_tracker() -> dict:
@@ -128,7 +154,7 @@ def run_pair(league_name: str, season: str, leagues: list, tracker: dict, force:
     })
 
     output_dir = f"raw_json/{league_key}_{slug}"
-    result = scrape_match_details(fixtures_file_name, output_dir, league_name)
+    result = scrape_match_details(fixtures_file_name, output_dir, league_entry["name"])
 
     update_tracker(tracker, league_entry, season, {
         "match_details": {
@@ -159,9 +185,15 @@ def main():
     with open(config_path) as f:
         config = json.load(f)
 
-    leagues_wanted = config["leagues"]
-    seasons_wanted = config["seasons"]
-    pairs = [(l, s) for l in leagues_wanted for s in seasons_wanted]
+    if "pairs" not in config:
+        print("✗ Config file uses the old {\"leagues\": [...], \"seasons\": [...]} cross-product format.")
+        print("  That format assumes every league uses the same season strings, which breaks for")
+        print("  calendar-year leagues (e.g. Brazil uses \"2022\", not \"2022/2023\").")
+        print("  Use the new {\"pairs\": [{\"league\": ..., \"seasons\": [...]}]} format instead —")
+        print("  see build_pipeline_config.py to generate it automatically.")
+        sys.exit(1)
+
+    pairs = [(entry["league"], season) for entry in config["pairs"] for season in entry["seasons"]]
 
     all_leagues = load_master_leagues()
     tracker = load_tracker()
