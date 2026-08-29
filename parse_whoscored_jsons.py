@@ -2,22 +2,23 @@
 Parse raw WhoScored JSON (as produced by whoscored_scrape_update_2.py) into
 per-league, per-metric DataFrames plus a player-meta table.
 
-Expects the input directory to contain one subfolder per league, each holding
-JSON files named like: <LeagueKey>_<season>_<category>_<subcategory>.json
-e.g. "EPL_2025_26_goals_situations.json"
+Expects the input directory to contain JSON files directly (flat, no
+subfolders), named like: <LeagueKey>_<season>_<category>_<subcategory>.json
+e.g. "EPL_2026_27_goals_situations.json"
 (this matches the raw_json_<date>/ output of whoscored_scrape_update_2.py)
 
 Usage:
     python parse_whoscored_jsons.py <input_dir> <output_dir>
 
 Example:
-    python parse_whoscored_jsons.py raw_json_2026-08-18 parsed_whoscored_2026-08-18
+    python parse_whoscored_jsons.py raw_json_2026-08-27 parsed_whoscored_2026-08-27
 """
 
 import json
 import os
 import pickle
 import sys
+from collections import defaultdict
 from pathlib import Path
 
 import pandas as pd
@@ -37,22 +38,36 @@ def parse_whoscored_jsons(input_dir: str, output_dir: str) -> Path:
 
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    league_folders = [f for f in os.listdir(in_dir) if (in_dir / f).is_dir()]
+    json_files = [f for f in os.listdir(in_dir) if f.endswith(".json")]
 
-    if not league_folders:
-        raise ValueError(f"No league subfolders found in {in_dir}")
+    if not json_files:
+        raise ValueError(f"No .json files found in {in_dir}")
 
-    for league_folder in league_folders:
-        raw_dir = in_dir / league_folder
-        print(f"\nProcessing: {league_folder}")
+    # Group files by league, inferred from the filename prefix (everything
+    # before the season component), since the scraper saves flat files
+    # rather than one subfolder per league.
+    files_by_league = defaultdict(list)
+    for fname in json_files:
+        base_name = os.path.splitext(fname)[0]
+        parts = base_name.split("_")
+        if len(parts) < 4:
+            print(f"  Skipping {fname} (unexpected filename format)")
+            continue
+        league_name = parts[0]
+        files_by_league[league_name].append(fname)
 
-        json_files = [f for f in os.listdir(raw_dir) if f.endswith(".json")]
+    if not files_by_league:
+        raise ValueError(f"No usable JSON filenames found in {in_dir}")
+
+    for league_name, fnames in files_by_league.items():
+        print(f"\nProcessing: {league_name} ({len(fnames)} files)")
 
         dfs_by_metric = {}
         player_meta = None
+        season = None
 
-        for fname in json_files:
-            file_path = raw_dir / fname
+        for fname in fnames:
+            file_path = in_dir / fname
 
             with open(file_path, encoding="utf-8") as f:
                 data = json.load(f)
@@ -67,8 +82,8 @@ def parse_whoscored_jsons(input_dir: str, output_dir: str) -> Path:
             base_name = os.path.splitext(fname)[0]
             parts = base_name.split("_")
 
-            # e.g. "EPL_2025_26_goals_situations" -> season="EPL_2025_26", metric="goals_situations"
-            season = "_".join(parts[:3])
+            # e.g. "EPL_2026_27_goals_situations" -> season="2026_27", metric="goals_situations"
+            season = "_".join(parts[1:3])
             metric = "_".join(parts[3:])
 
             stat_cols = [c for c in df.columns if c not in META_COLS]
@@ -84,7 +99,7 @@ def parse_whoscored_jsons(input_dir: str, output_dir: str) -> Path:
             dfs_by_metric.setdefault(metric, []).append(metric_df)
 
         if not dfs_by_metric:
-            print(f"  No usable data found for {league_folder}, skipping save")
+            print(f"  No usable data found for {league_name}, skipping save")
             continue
 
         dfs_by_metric = {
@@ -92,17 +107,15 @@ def parse_whoscored_jsons(input_dir: str, output_dir: str) -> Path:
             for k, v in dfs_by_metric.items()
         }
 
-        safe_name = league_folder.replace(" ", "_").replace(",", "")
-
-        pkl_path = out_dir / f"{safe_name}_dfs_by_metric.pkl"
+        pkl_path = out_dir / f"{league_name}_{season}_dfs_by_metric.pkl"
         with open(pkl_path, "wb") as f:
             pickle.dump(dfs_by_metric, f)
 
         if player_meta is not None:
-            meta_path = out_dir / f"{safe_name}_player_meta.csv"
+            meta_path = out_dir / f"{league_name}_{season}_player_meta.csv"
             player_meta.to_csv(meta_path, index=False)
 
-        print(f"  Saved: {safe_name} ({len(dfs_by_metric)} metrics, "
+        print(f"  Saved: {league_name} ({len(dfs_by_metric)} metrics, "
               f"{len(player_meta) if player_meta is not None else 0} players)")
 
     print(f"\nDone. Output in: {out_dir}")
@@ -112,7 +125,7 @@ def parse_whoscored_jsons(input_dir: str, output_dir: str) -> Path:
 if __name__ == "__main__":
     if len(sys.argv) != 3:
         print("Usage: python parse_whoscored_jsons.py <input_dir> <output_dir>")
-        print("Example: python parse_whoscored_jsons.py raw_json_2026-08-18 parsed_whoscored_2026-08-18")
+        print("Example: python parse_whoscored_jsons.py raw_json_2026-08-27 parsed_whoscored_2026-08-27")
         sys.exit(1)
 
     try:

@@ -1,0 +1,46 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Expected goals (xG),1.99,1.24
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,xG open play,1.39,1.09
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,xG set play,0.60,0.15
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,xG non-penalty,1.99,1.24
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,xG on target (xGOT),0.70,1.83
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Expected goals (xG),0.64,1.59
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,xG open play,0.47,1.35
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,xG set play,0.17,0.23
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,xG non-penalty,0.64,1.59
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,xG on target (xGOT),0.82,1.39
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Expected goals (xG),0.67,2.72
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,xG open play,0.62,1.16
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,xG set play,0.05,1.56
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,xG non-penalty,0.67,2.72
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,xG on target (xGOT),1.09,1.79
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Expected goals (xG),4.41,1.84
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,xG open play,2.84,1.02
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,xG set play,0.00,0.03
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,xG non-penalty,2.84,1.05
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,xG on target (xGOT),3.91,1.80
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Expected goals (xG),1.86,0.18
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,xG open play,1.03,0.13
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,xG set play,0.04,0.05
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,xG non-penalty,1.07,0.18
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,xG on target (xGOT),2.02,0.08
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Expected goals (xG),1.05,1.28
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,xG open play,0.87,1.10
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,xG set play,0.18,0.18
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,xG non-penalty,1.05,1.28
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,xG on target (xGOT),0.23,0.18
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Expected goals (xG),2.77,0.70
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,xG open play,1.44,0.64
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,xG set play,1.33,0.06
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,xG non-penalty,2.77,0.70
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,xG on target (xGOT),0.44,1.53
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Expected goals (xG),0.42,1.80
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,xG open play,0.17,1.80
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,xG set play,0.24,0.00
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,xG non-penalty,0.42,1.80
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,xG on target (xGOT),0.47,0.18
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Expected goals (xG),0.87,2.16
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,xG open play,0.87,1.93
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,xG set play,0.00,0.23
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,xG non-penalty,0.87,2.16
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,xG on target (xGOT),0.88,2.37

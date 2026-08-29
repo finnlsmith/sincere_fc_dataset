@@ -1,0 +1,91 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Passes,616,347
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Accurate passes,565 (92%),271 (78%)
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Own half,230,112
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Opposition half,335,159
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Accurate long balls,21 (66%),32 (50%)
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Accurate crosses,1 (5%),1 (10%)
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Throws,11,7
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Touches in opposition box,36,3
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Offsides,5,0
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Passes,257,669
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Accurate passes,180 (70%),588 (88%)
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Own half,113,197
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Opposition half,67,391
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Accurate long balls,19 (28%),25 (52%)
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Accurate crosses,5 (33%),9 (23%)
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Throws,10,30
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Touches in opposition box,11,41
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Offsides,0,3
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Passes,417,581
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Accurate passes,343 (82%),505 (87%)
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Own half,154,262
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Opposition half,189,243
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Accurate long balls,27 (49%),12 (38%)
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Accurate crosses,2 (14%),2 (17%)
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Throws,23,16
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Touches in opposition box,35,14
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Offsides,2,0
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Passes,333,557
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Accurate passes,262 (79%),489 (88%)
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Own half,140,282
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Opposition half,122,207
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Accurate long balls,18 (35%),32 (56%)
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Accurate crosses,5 (33%),4 (17%)
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Throws,16,28
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Touches in opposition box,21,18
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Offsides,1,4
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Passes,411,326
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Accurate passes,321 (78%),232 (71%)
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Own half,176,141
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Opposition half,145,91
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Accurate long balls,28 (39%),24 (41%)
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Accurate crosses,4 (21%),3 (38%)
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Throws,25,12
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Touches in opposition box,22,15
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Offsides,3,3
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Passes,360,549
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Accurate passes,296 (82%),482 (88%)
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Own half,168,208
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Opposition half,128,274
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Accurate long balls,25 (52%),14 (42%)
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Accurate crosses,11 (52%),3 (21%)
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Throws,11,11
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Touches in opposition box,39,17
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Offsides,3,2
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Passes,647,242
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Accurate passes,601 (93%),185 (76%)
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Own half,255,102
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Opposition half,346,83
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Accurate long balls,30 (81%),11 (32%)
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Accurate crosses,5 (22%),1 (25%)
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Throws,9,18
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Touches in opposition box,38,5
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Offsides,6,2
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Passes,658,344
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Accurate passes,584 (89%),270 (78%)
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Own half,270,168
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Opposition half,314,102
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Accurate long balls,18 (47%),34 (49%)
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Accurate crosses,9 (38%),1 (13%)
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Throws,13,12
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Touches in opposition box,37,6
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Offsides,2,1
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Passes,296,445
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Accurate passes,224 (76%),375 (84%)
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Own half,145,126
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Opposition half,79,249
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Accurate long balls,15 (28%),22 (48%)
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Accurate crosses,1 (13%),7 (26%)
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Throws,20,17
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Touches in opposition box,16,36
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Offsides,2,1
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Passes,639,394
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Accurate passes,553 (87%),322 (82%)
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Own half,286,127
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Opposition half,267,195
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Accurate long balls,34 (53%),24 (39%)
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Accurate crosses,4 (24%),5 (45%)
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Throws,17,14
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Touches in opposition box,25,38
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Offsides,0,3

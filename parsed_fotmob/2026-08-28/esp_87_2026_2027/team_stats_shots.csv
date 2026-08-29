@@ -1,0 +1,141 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,Total shots,18,6
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,Shots off target,7,2
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,Shots on target,8,2
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,Blocked shots,3,2
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,Hit woodwork,0,0
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,Shots inside box,11,3
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,Shots outside box,7,3
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,Total shots,15,5
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,Shots off target,5,2
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,Shots on target,6,1
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,Blocked shots,4,2
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,Hit woodwork,1,0
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,Shots inside box,8,4
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,Shots outside box,7,1
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,Total shots,4,13
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,Shots off target,1,5
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,Shots on target,2,5
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,Blocked shots,1,3
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,Hit woodwork,0,0
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,Shots inside box,1,8
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,Shots outside box,3,5
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,Total shots,8,11
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,Shots off target,4,2
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,Shots on target,3,6
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,Blocked shots,1,3
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,Hit woodwork,0,0
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,Shots inside box,6,7
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,Shots outside box,2,4
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,Total shots,16,4
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,Shots off target,6,3
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,Shots on target,6,0
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,Blocked shots,4,1
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,Hit woodwork,0,0
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,Shots inside box,9,2
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,Shots outside box,7,2
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,Total shots,22,5
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,Shots off target,7,5
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,Shots on target,10,0
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,Blocked shots,5,0
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,Hit woodwork,2,1
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,Shots inside box,18,3
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,Shots outside box,4,2
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,Total shots,17,12
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,Shots off target,6,3
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,Shots on target,3,7
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,Blocked shots,8,2
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,Hit woodwork,0,0
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,Shots inside box,9,7
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,Shots outside box,8,5
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,Total shots,20,10
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,Shots off target,3,4
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,Shots on target,11,3
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,Blocked shots,6,3
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,Hit woodwork,0,0
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,Shots inside box,14,7
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,Shots outside box,6,3
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,Total shots,13,6
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,Shots off target,6,3
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,Shots on target,4,3
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,Blocked shots,3,0
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,Hit woodwork,0,0
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,Shots inside box,9,5
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,Shots outside box,4,1
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,Total shots,16,15
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,Shots off target,5,7
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,Shots on target,3,3
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,Blocked shots,8,5
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,Hit woodwork,0,0
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,Shots inside box,10,6
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,Shots outside box,6,9
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,Total shots,18,7
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,Shots off target,7,2
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,Shots on target,8,4
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,Blocked shots,3,1
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,Hit woodwork,0,0
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,Shots inside box,11,4
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,Shots outside box,7,3
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,Total shots,19,13
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,Shots off target,5,3
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,Shots on target,4,6
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,Blocked shots,10,4
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,Hit woodwork,0,0
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,Shots inside box,6,10
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,Shots outside box,13,3
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,Total shots,18,9
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,Shots off target,7,3
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,Shots on target,7,3
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,Blocked shots,4,3
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,Hit woodwork,0,1
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,Shots inside box,9,5
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,Shots outside box,9,4
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,Total shots,7,11
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,Shots off target,5,4
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,Shots on target,2,7
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,Blocked shots,0,0
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,Hit woodwork,1,0
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,Shots inside box,5,10
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,Shots outside box,2,1
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,Total shots,8,21
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,Shots off target,4,7
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,Shots on target,3,8
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,Blocked shots,1,6
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,Hit woodwork,0,2
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,Shots inside box,4,14
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,Shots outside box,4,7
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,Total shots,12,6
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,Shots off target,9,3
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,Shots on target,1,3
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,Blocked shots,2,0
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,Hit woodwork,1,0
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,Shots inside box,5,6
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,Shots outside box,7,0
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,Total shots,13,6
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,Shots off target,8,1
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,Shots on target,2,4
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,Blocked shots,3,1
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,Hit woodwork,1,0
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,Shots inside box,6,3
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,Shots outside box,7,3
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,Total shots,12,11
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,Shots off target,4,6
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,Shots on target,7,1
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,Blocked shots,1,4
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,Hit woodwork,1,1
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,Shots inside box,7,5
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,Shots outside box,5,6
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,Total shots,8,15
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,Shots off target,4,9
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,Shots on target,3,3
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,Blocked shots,1,3
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,Hit woodwork,0,1
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,Shots inside box,5,9
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,Shots outside box,3,6
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,Total shots,8,7
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,Shots off target,4,3
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,Shots on target,2,3
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,Blocked shots,2,1
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,Hit woodwork,0,0
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,Shots inside box,4,3
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,Shots outside box,4,4

@@ -102,9 +102,32 @@ def parse_league_json(json_study: dict) -> tuple[str, str, pd.DataFrame]:
                 df = df.rename(columns={f"{key}_player": "player"})
             dfs.append(df)
 
+    # Coalesce player_id/player_uuid across every category BEFORE the
+    # dedup-merge below drops all but the first one it sees. This matters
+    # because a player can be entirely absent from one category (e.g.
+    # goalkeepers have no "attack" section), so their real ID would
+    # otherwise only exist in a column (e.g. goalkeeping_player_id) that
+    # gets discarded as a "duplicate" of attack_player_id, leaving them
+    # with no ID at all in the final output.
+    id_lookup = {}
+    for suffix in ["player_id", "player_uuid"]:
+        frames = []
+        for df in dfs:
+            id_cols = [c for c in df.columns if c.endswith(f"_{suffix}") and "player" in df.columns]
+            for id_col in id_cols:
+                frames.append(df[["player", id_col]].rename(columns={id_col: "_val"}))
+        if frames:
+            combined = pd.concat(frames, ignore_index=True).dropna(subset=["_val"])
+            id_lookup[suffix] = combined.drop_duplicates("player", keep="first").set_index("player")["_val"]
+
     merged_df_clean, removed_columns, base_names_removed = merge_without_duplicates_and_report(
         dfs, merge_key="player", stats_keys=STATS_KEYS
     )
+
+    # Add canonical, fully-coalesced ID columns (present for every player
+    # regardless of which category originally carried their ID).
+    for suffix, lookup in id_lookup.items():
+        merged_df_clean[f"opta_{suffix}"] = merged_df_clean["player"].map(lookup)
 
     if "player" in merged_df_clean.columns:
         cols = list(merged_df_clean.columns)

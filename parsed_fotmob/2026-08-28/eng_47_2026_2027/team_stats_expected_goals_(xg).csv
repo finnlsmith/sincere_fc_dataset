@@ -1,0 +1,51 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Expected goals (xG),1.88,0.20
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,xG open play,1.62,0.20
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,xG set play,0.26,0.00
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,xG non-penalty,1.88,0.20
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,xG on target (xGOT),2.44,0.04
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Expected goals (xG),1.01,1.83
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,xG open play,0.07,1.52
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,xG set play,0.94,0.31
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,xG non-penalty,1.01,1.83
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,xG on target (xGOT),1.93,0.60
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Expected goals (xG),1.12,1.96
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,xG open play,0.62,1.96
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,xG set play,0.50,0.00
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,xG non-penalty,1.12,1.96
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,xG on target (xGOT),1.65,0.94
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Expected goals (xG),1.80,0.66
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,xG open play,1.72,0.48
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,xG set play,0.07,0.18
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,xG non-penalty,1.80,0.66
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,xG on target (xGOT),1.63,0.35
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Expected goals (xG),0.66,0.47
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,xG open play,0.19,0.14
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,xG set play,0.47,0.33
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,xG non-penalty,0.66,0.47
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,xG on target (xGOT),0.33,0.53
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Expected goals (xG),3.87,0.57
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,xG open play,1.85,0.53
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,xG set play,1.23,0.03
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,xG non-penalty,3.09,0.57
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,xG on target (xGOT),3.12,0.61
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Expected goals (xG),3.77,0.29
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,xG open play,3.54,0.18
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,xG set play,0.22,0.11
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,xG non-penalty,3.77,0.29
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,xG on target (xGOT),3.59,0.00
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Expected goals (xG),2.25,0.65
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,xG open play,1.21,0.55
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,xG set play,1.04,0.10
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,xG non-penalty,2.25,0.65
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,xG on target (xGOT),2.68,1.70
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Expected goals (xG),1.58,2.98
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,xG open play,1.46,0.96
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,xG set play,0.12,1.24
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,xG non-penalty,1.58,2.19
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,xG on target (xGOT),1.56,2.97
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Expected goals (xG),1.33,2.24
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,xG open play,1.28,1.96
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,xG set play,0.05,0.28
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,xG non-penalty,1.33,2.24
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,xG on target (xGOT),1.17,2.02

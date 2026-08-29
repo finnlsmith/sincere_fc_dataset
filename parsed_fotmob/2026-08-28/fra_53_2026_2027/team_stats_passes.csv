@@ -1,0 +1,82 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Passes,472,384
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Accurate passes,400 (85%),316 (82%)
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Own half,207,174
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Opposition half,193,142
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Accurate long balls,44 (71%),19 (39%)
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Accurate crosses,13 (32%),4 (40%)
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Throws,25,13
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Touches in opposition box,34,25
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Offsides,2,2
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Passes,411,434
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Accurate passes,330 (80%),351 (81%)
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Own half,162,154
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Opposition half,168,197
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Accurate long balls,14 (38%),17 (35%)
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Accurate crosses,4 (13%),3 (16%)
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Throws,19,16
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Touches in opposition box,23,27
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Offsides,3,3
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Passes,416,399
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Accurate passes,319 (77%),312 (78%)
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Own half,222,176
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Opposition half,97,136
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Accurate long balls,36 (46%),37 (49%)
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Accurate crosses,2 (15%),11 (38%)
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Throws,21,20
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Touches in opposition box,14,40
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Offsides,3,2
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Passes,470,416
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Accurate passes,415 (88%),338 (81%)
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Own half,259,184
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Opposition half,156,154
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Accurate long balls,21 (55%),17 (44%)
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Accurate crosses,3 (23%),3 (25%)
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Throws,19,18
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Touches in opposition box,31,29
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Offsides,0,3
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Passes,687,337
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Accurate passes,626 (91%),286 (85%)
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Own half,299,196
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Opposition half,327,90
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Accurate long balls,16 (47%),18 (44%)
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Accurate crosses,2 (13%),1 (8%)
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Throws,19,9
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Touches in opposition box,34,8
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Offsides,0,0
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Passes,630,418
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Accurate passes,552 (88%),352 (84%)
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Own half,231,207
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Opposition half,321,145
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Accurate long balls,29 (48%),12 (31%)
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Accurate crosses,4 (17%),4 (25%)
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Throws,21,10
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Touches in opposition box,21,22
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Offsides,2,1
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Passes,435,479
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Accurate passes,371 (85%),416 (87%)
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Own half,224,250
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Opposition half,147,166
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Accurate long balls,29 (58%),28 (52%)
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Accurate crosses,4 (24%),1 (7%)
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Throws,19,16
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Touches in opposition box,31,24
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Offsides,2,0
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Passes,458,681
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Accurate passes,384 (84%),608 (89%)
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Own half,181,417
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Opposition half,203,191
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Accurate long balls,29 (55%),20 (44%)
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Accurate crosses,7 (27%),0 (0%)
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Throws,15,11
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Touches in opposition box,20,13
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Offsides,1,2
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Passes,326,737
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Accurate passes,250 (77%),666 (90%)
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Own half,151,226
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Opposition half,99,440
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Accurate long balls,22 (45%),67 (83%)
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Accurate crosses,4 (40%),6 (22%)
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Throws,14,23
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Touches in opposition box,14,30
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Offsides,0,7

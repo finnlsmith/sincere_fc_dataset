@@ -1,0 +1,61 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,Yellow cards,4,3
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,Red cards,0,1
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,Fouls committed,16,13
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,Yellow cards,2,3
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,Red cards,0,0
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,Fouls committed,17,11
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,Yellow cards,0,1
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,Red cards,1,0
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,Fouls committed,7,16
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,Yellow cards,2,2
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,Red cards,0,0
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,Fouls committed,17,12
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,Yellow cards,3,0
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,Red cards,0,0
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,Fouls committed,17,7
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,Yellow cards,1,2
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,Red cards,0,0
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,Fouls committed,13,6
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,Yellow cards,2,4
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,Red cards,0,0
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,Fouls committed,14,14
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,Yellow cards,3,3
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,Red cards,0,0
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,Fouls committed,10,8
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,Yellow cards,4,4
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,Red cards,1,0
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,Fouls committed,18,18
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,Yellow cards,2,1
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,Red cards,0,0
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,Fouls committed,10,11
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,Yellow cards,2,4
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,Red cards,1,0
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,Fouls committed,11,16
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,Yellow cards,3,2
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,Red cards,1,0
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,Fouls committed,12,13
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,Yellow cards,3,3
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,Red cards,0,0
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,Fouls committed,9,12
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,Yellow cards,1,0
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,Red cards,0,0
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,Fouls committed,13,12
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,Yellow cards,5,1
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,Red cards,0,0
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,Fouls committed,19,7
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,Yellow cards,1,3
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,Red cards,0,0
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,Fouls committed,14,17
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,Yellow cards,1,4
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,Red cards,0,0
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,Fouls committed,12,12
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,Yellow cards,2,1
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,Red cards,0,0
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,Fouls committed,9,12
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,Yellow cards,1,2
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,Red cards,0,0
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,Fouls committed,14,13
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,Yellow cards,2,3
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,Red cards,0,0
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,Fouls committed,17,17
