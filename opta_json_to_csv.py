@@ -110,7 +110,7 @@ def parse_league_json(json_study: dict) -> tuple[str, str, pd.DataFrame]:
     # gets discarded as a "duplicate" of attack_player_id, leaving them
     # with no ID at all in the final output.
     id_lookup = {}
-    for suffix in ["player_id", "player_uuid"]:
+    for suffix in ["player_id", "player_uuid", "team_id", "team_uuid"]:
         frames = []
         for df in dfs:
             id_cols = [c for c in df.columns if c.endswith(f"_{suffix}") and "player" in df.columns]

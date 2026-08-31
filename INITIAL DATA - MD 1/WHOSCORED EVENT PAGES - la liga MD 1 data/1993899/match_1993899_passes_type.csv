@@ -1,0 +1,33 @@
+playerId,playerName,teamId,h_a,matchId,passCornerAccurate,passCornerInaccurate,passFreekickAccurate,passFreekickInaccurate,passCrossAccurate,passCrossInaccurate
+84008.0,Marcos Alonso,62,h,1993899,0,0,4,0,0,1
+91242.0,Iago Aspas,62,h,1993899,0,0,1,0,0,0
+98126.0,Ante Budimir,131,a,1993899,0,0,0,0,0,0
+101238.0,Moi Gómez,131,a,1993899,0,0,0,0,0,0
+119189.0,Rubén García,131,a,1993899,1,2,1,0,1,3
+249960.0,Lucas Torró,131,a,1993899,0,0,1,0,0,0
+296723.0,Ionut Radu,62,h,1993899,0,0,3,3,0,0
+336251.0,Kike Barja,131,a,1993899,0,0,0,0,3,1
+369497.0,Javi Galán,62,h,1993899,0,0,1,0,0,1
+374638.0,Alejandro Catena,131,a,1993899,0,0,3,0,0,0
+378626.0,Carl Starfelt,62,h,1993899,0,0,0,0,0,0
+381673.0,Jon Moncayola,131,a,1993899,0,0,0,0,0,2
+381674.0,Sergio Herrera,131,a,1993899,0,0,1,0,0,0
+383924.0,Raúl García,131,a,1993899,0,0,0,0,0,0
+386622.0,Sergio Carreira,62,h,1993899,0,0,0,0,0,1
+395321.0,Aimar Oroz,131,a,1993899,0,0,0,0,0,0
+396158.0,Ferran Jutglà,62,h,1993899,0,0,0,0,0,0
+409030.0,Ilaix Moriba,62,h,1993899,0,0,0,0,0,0
+427001.0,Hugo Álvarez,62,h,1993899,0,1,0,0,1,3
+441888.0,Jones El Abdellaoui,62,h,1993899,0,0,0,0,0,1
+444227.0,Williot Swedberg,62,h,1993899,0,0,0,0,0,0
+444253.0,Jorge Herrando,131,a,1993899,0,0,0,0,0,0
+447853.0,Jonathan Dubasin,131,a,1993899,0,0,0,0,1,0
+459082.0,Pablo Durán,62,h,1993899,0,0,0,0,0,0
+461771.0,Abel Bretones,131,a,1993899,0,0,0,0,0,2
+462768.0,Miguel Román,62,h,1993899,0,4,1,1,0,4
+463588.0,Javi Rueda,62,h,1993899,0,0,1,0,0,2
+474267.0,Iker Muñoz,131,a,1993899,0,0,0,0,0,2
+508331.0,Javi Rodríguez,62,h,1993899,0,0,2,0,0,0
+517618.0,Iñigo Arguibide,131,a,1993899,0,0,0,0,0,2
+518928.0,Asier Osambela,131,a,1993899,0,0,2,0,0,0
+528001.0,Yoel Lago,62,h,1993899,0,0,1,0,0,0

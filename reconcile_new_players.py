@@ -15,14 +15,15 @@ requires both a team match and a high name-similarity score — to avoid
 false-positive links.
 
 Usage:
-    python reconcile_new_players.py <master_table_csv> <opta_csv> <whoscored_meta_csv> <fotmob_player_stats_csv> <output_csv>
+    python reconcile_new_players.py <master_table_csv> <opta_csv> <whoscored_meta_csv> <fotmob_player_stats_csv> <output_csv> [other_league_teams_csv]
 
 Example:
     python reconcile_new_players.py master_player_table.csv \\
         "English Premier League_..._merged_df_clean.csv" \\
         EPL_2026_27_player_meta.csv \\
         eng_47_player_stats.csv \\
-        reconciled_new_players_EPL_2026-08-29.csv
+        reconciled_new_players_EPL_2026-08-29.csv \\
+        other_league_teams_for_EPL.csv
 """
 
 import sys
@@ -32,6 +33,17 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 import pandas as pd
+
+# Bundesliga hasn't started yet, so we have no live scrape to derive its
+# current club list from — same stopgap as match_players_to_master.py.
+# Keep these two lists in sync.
+BUNDESLIGA_STOPGAP_TEAMS = {
+    "Bayern Munich", "Borussia Dortmund", "RB Leipzig", "Bayer Leverkusen",
+    "Eintracht Frankfurt", "VfB Stuttgart", "SC Freiburg", "Borussia Monchengladbach",
+    "VfL Wolfsburg", "Werder Bremen", "Union Berlin", "TSG Hoffenheim",
+    "FC Augsburg", "1. FC Heidenheim", "Mainz 05", "FC St. Pauli",
+    "Holstein Kiel", "VfL Bochum",
+}
 
 NAME_MATCH_THRESHOLD = 0.82  # fuzzy ratio, conservative to avoid false links
 
@@ -57,6 +69,30 @@ def team_core_tokens(name: str) -> frozenset:
     """Tokens of a team name with small connector words stripped, so e.g.
     'atletico de madrid' and 'atletico madrid' reduce to the same set."""
     return frozenset(t for t in name.split() if t not in TEAM_NAME_STOPWORDS)
+
+
+def teams_match(team_a, team_b) -> bool:
+    """Same logic as match_players_to_master.py / build_player_legend.py:
+    substring containment, or token-set equality/subset after stripping
+    small connector words."""
+    na, nb = normalize(team_a), normalize(team_b)
+    if not na or not nb:
+        return False
+    if na == nb or na in nb or nb in na:
+        return True
+    ca, cb = team_core_tokens(na), team_core_tokens(nb)
+    if ca and cb and (ca == cb or ca.issubset(cb) or cb.issubset(ca)):
+        return True
+    return False
+
+
+def team_is_other_league(canon_team, other_league_teams: set) -> bool:
+    """True only if canon_team confidently matches a team known to belong
+    to a DIFFERENT league. Must be kept consistent with
+    match_players_to_master.py's version of this check."""
+    if pd.isna(canon_team) or not other_league_teams:
+        return False
+    return any(teams_match(canon_team, t) for t in other_league_teams)
 
 
 def build_team_clusters(team_names: set[str]) -> dict[str, str]:
@@ -112,6 +148,7 @@ def reconcile_new_players(
     whoscored_meta_csv: str,
     fotmob_player_stats_csv: str,
     output_csv: str,
+    other_league_teams_csv: str | None = None,
 ) -> Path:
     print("Loading master_player_table.csv ...")
     master = pd.read_csv(
@@ -125,19 +162,57 @@ def reconcile_new_players(
     master_by_opta_id = master.dropna(subset=["player_id"]).drop_duplicates("player_id").set_index("player_id")
     master_by_fotmob_id = master.dropna(subset=["fotmob_player_id"]).drop_duplicates("fotmob_player_id").set_index("fotmob_player_id")
     master_by_ws_id = master.dropna(subset=["whoscored_playerId"]).drop_duplicates("whoscored_playerId").set_index("whoscored_playerId")
+    master_team_by_opta_id = master.dropna(subset=["player_id"]).drop_duplicates("player_id").set_index("player_id")["canon_team"]
+    master_team_by_fotmob_id = master.dropna(subset=["fotmob_player_id"]).drop_duplicates("fotmob_player_id").set_index("fotmob_player_id")["canon_team"]
+    master_team_by_ws_id = master.dropna(subset=["whoscored_playerId"]).drop_duplicates("whoscored_playerId").set_index("whoscored_playerId")["canon_team"]
 
     team_map = master.dropna(subset=["team_id"]).drop_duplicates("team_id").set_index("team_id")["canon_team"]
+
+    # Same cross-league safeguard as match_players_to_master.py — MUST be
+    # kept consistent between the two scripts. Without this, a player whose
+    # raw ID happens to be present in master's index gets treated as
+    # "already matched" here even when match_players_to_master.py correctly
+    # rejected that same match as cross-league-implausible — meaning the
+    # player would vanish from BOTH the matched pool AND this unmatched
+    # pool entirely, disappearing from the final legend rather than
+    # correctly appearing as a new/unverified entry. (Found via a real
+    # case: Rodri, Péter Gulácsi, and Altay Bayindir all went missing
+    # entirely until this fix.)
+    other_league_teams = set(BUNDESLIGA_STOPGAP_TEAMS)
+    if other_league_teams_csv is not None:
+        ref = pd.read_csv(other_league_teams_csv)
+        other_league_teams |= set(ref.iloc[:, 0].dropna().unique())
+        print(f"Cross-league safeguard active: {len(other_league_teams)} known other-league teams")
+    else:
+        print(f"Cross-league safeguard active with Bundesliga stopgap list only "
+              f"({len(other_league_teams)} teams) — pass other_league_teams_csv for full coverage")
 
     # ─── Opta unmatched ─────────────────────────────────────────────────────
     print("Finding unmatched Opta players ...")
     opta = pd.read_csv(opta_csv, low_memory=False)
     id_col = "opta_player_id" if "opta_player_id" in opta.columns else "attack_player_id"
-    opta_sub = opta[["player", id_col, "attack_team_id"]].drop_duplicates()
+    # Same coalesce-vs-fallback pattern as the player ID: attack_team_id is
+    # null for anyone absent from Opta's "attack" category (goalkeepers,
+    # confirmed — possibly others), which silently orphaned them from
+    # name+team matching entirely. Prefer the coalesced opta_team_id
+    # (covers every player) when the parser producing it is in use.
+    team_id_col = "opta_team_id" if "opta_team_id" in opta.columns else "attack_team_id"
+    if team_id_col == "attack_team_id":
+        print("  ⚠️  Using attack_team_id (older parser output) — players missing from "
+              "Opta's 'attack' category (e.g. goalkeepers) will have no team and won't "
+              "be matchable here. Re-run opta_json_to_csv.py to fix this properly.")
+    opta_sub = opta[["player", id_col, team_id_col]].drop_duplicates()
     opta_sub[id_col] = pd.to_numeric(opta_sub[id_col], errors="coerce").astype("Int64")
-    opta_sub["team_name"] = opta_sub["attack_team_id"].map(team_map)
-    opta_unmatched = opta_sub[
-        opta_sub[id_col].notna() & ~opta_sub[id_col].isin(master_by_opta_id.index)
-    ].copy()
+    opta_sub["team_name"] = opta_sub[team_id_col].map(team_map)
+
+    def opta_is_unmatched(pid):
+        if pd.isna(pid):
+            return False
+        if pid not in master_by_opta_id.index:
+            return True
+        return team_is_other_league(master_team_by_opta_id.get(pid), other_league_teams)
+
+    opta_unmatched = opta_sub[opta_sub[id_col].apply(opta_is_unmatched)].copy()
     opta_unmatched["source"] = "opta"
     opta_unmatched = opta_unmatched.rename(columns={"player": "name", id_col: "native_id"})[
         ["source", "native_id", "name", "team_name"]
@@ -149,9 +224,15 @@ def reconcile_new_players(
     ws = pd.read_csv(whoscored_meta_csv)
     ws_sub = ws[["name", "playerId", "teamName"]].drop_duplicates()
     ws_sub["playerId"] = pd.to_numeric(ws_sub["playerId"], errors="coerce").astype("Int64")
-    ws_unmatched = ws_sub[
-        ws_sub["playerId"].notna() & ~ws_sub["playerId"].isin(master_by_ws_id.index)
-    ].copy()
+
+    def ws_is_unmatched(pid):
+        if pd.isna(pid):
+            return False
+        if pid not in master_by_ws_id.index:
+            return True
+        return team_is_other_league(master_team_by_ws_id.get(pid), other_league_teams)
+
+    ws_unmatched = ws_sub[ws_sub["playerId"].apply(ws_is_unmatched)].copy()
     ws_unmatched["source"] = "whoscored"
     ws_unmatched = ws_unmatched.rename(columns={"playerId": "native_id", "teamName": "team_name"})[
         ["source", "native_id", "name", "team_name"]
@@ -163,9 +244,15 @@ def reconcile_new_players(
     fm = pd.read_csv(fotmob_player_stats_csv)
     fm_sub = fm[["player_name", "player_id", "team_name"]].drop_duplicates()
     fm_sub["player_id"] = pd.to_numeric(fm_sub["player_id"], errors="coerce").astype("Int64")
-    fm_unmatched = fm_sub[
-        fm_sub["player_id"].notna() & ~fm_sub["player_id"].isin(master_by_fotmob_id.index)
-    ].copy()
+
+    def fm_is_unmatched(pid):
+        if pd.isna(pid):
+            return False
+        if pid not in master_by_fotmob_id.index:
+            return True
+        return team_is_other_league(master_team_by_fotmob_id.get(pid), other_league_teams)
+
+    fm_unmatched = fm_sub[fm_sub["player_id"].apply(fm_is_unmatched)].copy()
     fm_unmatched["source"] = "fotmob"
     fm_unmatched = fm_unmatched.rename(columns={"player_id": "native_id", "player_name": "name"})[
         ["source", "native_id", "name", "team_name"]
@@ -196,10 +283,19 @@ def reconcile_new_players(
             for j in idxs:
                 if j in assigned:
                     continue
-                if all_unmatched.at[j, "source"] == all_unmatched.at[i, "source"]:
-                    continue  # don't cluster two rows from the same source together
-                sim = name_similarity(all_unmatched.at[i, "name"], all_unmatched.at[j, "name"])
-                if sim >= NAME_MATCH_THRESHOLD:
+                cluster_sources = {all_unmatched.at[c, "source"] for c in cluster}
+                if all_unmatched.at[j, "source"] in cluster_sources:
+                    continue  # don't add a second row from a source already in this cluster
+                # must be similar enough to EVERY member already in the cluster, not just
+                # the seed row — otherwise two rows can each independently match the seed
+                # on name similarity without ever being compared to each other, letting two
+                # same-source rows (a real case found: two different FotMob IDs, "Miguel
+                # Rodríguez" and "Mikel Rodríguez", both matching the same Opta seed) both
+                # slip into one cluster despite being mutually incompatible
+                if all(
+                    name_similarity(all_unmatched.at[c, "name"], all_unmatched.at[j, "name"]) >= NAME_MATCH_THRESHOLD
+                    for c in cluster
+                ):
                     cluster.append(j)
                     assigned.add(j)
             cluster_id = f"new_2026_{next_cluster_id}"
@@ -228,12 +324,14 @@ def reconcile_new_players(
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 6:
-        print("Usage: python reconcile_new_players.py <master_table_csv> <opta_csv> <whoscored_meta_csv> <fotmob_player_stats_csv> <output_csv>")
+    if len(sys.argv) not in (6, 7):
+        print("Usage: python reconcile_new_players.py <master_table_csv> <opta_csv> <whoscored_meta_csv> <fotmob_player_stats_csv> <output_csv> [other_league_teams_csv]")
         sys.exit(1)
 
+    other_league_teams_csv = sys.argv[6] if len(sys.argv) == 7 else None
+
     try:
-        reconcile_new_players(*sys.argv[1:6])
+        reconcile_new_players(*sys.argv[1:6], other_league_teams_csv)
     except Exception as e:
         print(f"✗ {e}")
         sys.exit(1)

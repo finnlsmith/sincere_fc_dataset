@@ -1,0 +1,33 @@
+playerId,playerName,teamId,h_a,matchId,passLongBallAccurate,passLongBallInaccurate,shortPassAccurate,shortPassInaccurate,passTotal
+44120.0,Pierre-Emerick Aubameyang,59,a,1993913,0,0,7,5,13
+100881.0,Ximo Navarro,59,a,1993913,1,0,36,1,43
+141497.0,Einar Galilea,69,h,1993913,4,2,62,1,69
+261509.0,Alfonso Herrero,69,h,1993913,7,3,21,0,35
+357786.0,Juan Cruz,69,h,1993913,0,0,11,0,16
+366204.0,Joaquín Muñoz,69,h,1993913,0,0,17,2,21
+391317.0,Julen Lobete,69,h,1993913,0,0,2,0,2
+393081.0,Giacomo Quagliata,59,a,1993913,0,1,25,3,40
+409130.0,Mario Soriano,59,a,1993913,1,1,42,3,49
+423420.0,Leo Román,59,a,1993913,5,2,34,1,45
+428620.0,Luismi Cruz,59,a,1993913,1,1,15,3,25
+431768.0,Lucas Noubi,59,a,1993913,3,2,35,2,42
+447938.0,Carlos Puga,69,h,1993913,1,2,50,7,70
+448009.0,Diego Villares,59,a,1993913,1,1,18,1,23
+448011.0,Yeremay Hernández,59,a,1993913,0,0,3,2,5
+448041.0,Adrià Alti,59,a,1993913,0,0,10,2,13
+448273.0,Miguel Loureiro,59,a,1993913,1,5,58,0,64
+448289.0,Ramón Enríquez,69,h,1993913,2,0,4,2,8
+448292.0,Haitam Abaida,69,h,1993913,0,0,2,1,6
+448294.0,Dani Lorenzo,69,h,1993913,7,1,60,3,71
+448303.0,David Larrubia,69,h,1993913,0,0,9,7,17
+461527.0,Carlos Dotor,69,h,1993913,2,3,35,6,47
+470032.0,Lorenzo Amatucci,59,a,1993913,4,0,51,2,57
+471958.0,Rafa Rodríguez,69,h,1993913,0,0,5,0,5
+507361.0,David Mella,59,a,1993913,1,0,3,1,7
+508035.0,Izan Merino,69,h,1993913,8,0,60,3,71
+508349.0,Rafita,69,h,1993913,1,1,37,4,47
+511043.0,Ángel Recio,69,h,1993913,5,2,51,1,59
+527113.0,Jonathan Asp Jensen,59,a,1993913,0,1,12,2,15
+541868.0,Chupe,69,h,1993913,0,0,10,4,14
+598590.0,Bil Nsongo,59,a,1993913,0,0,2,2,4
+631884.0,Bright Ede,59,a,1993913,1,0,17,2,20

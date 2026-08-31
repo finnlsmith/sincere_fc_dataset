@@ -1,0 +1,371 @@
+source,native_id,name,team_name,team_norm,team_cluster,cluster_id
+fotmob,1668963,Federico Cassa,Atalanta,atalanta,atalanta,new_2026_0
+opta,617164,Federico Cassa,Atalanta,atalanta,atalanta,new_2026_0
+fotmob,951743,Giacomo Raspadori,Atalanta,atalanta,atalanta,new_2026_1
+opta,446969,Giacomo Raspadori,Atalanta,atalanta,atalanta,new_2026_1
+whoscored,371497,Giacomo Raspadori,Atalanta,atalanta,atalanta,new_2026_1
+fotmob,1498718,Kingstone Mutandwa,Cagliari,cagliari,cagliari,new_2026_10
+opta,612704,Kingstone Mutandwa,Cagliari,cagliari,cagliari,new_2026_10
+whoscored,484359,Kingstone Mutandwa,Cagliari,cagliari,cagliari,new_2026_10
+fotmob,1830782,Christian Garofalo,Napoli,napoli,napoli,new_2026_100
+opta,577684,Christian Garofalo,Napoli,napoli,napoli,new_2026_100
+fotmob,1403328,Costantino Favasuli,Napoli,napoli,napoli,new_2026_101
+opta,587833,Costantino Favasuli,Napoli,napoli,napoli,new_2026_101
+fotmob,1313884,Rafa Marín,Napoli,napoli,napoli,new_2026_102
+opta,488040,Rafa Marín,Napoli,napoli,napoli,new_2026_102
+whoscored,430301,Rafa Marín,Napoli,napoli,napoli,new_2026_102
+fotmob,1233748,David Romero,Parma,parma,parma,new_2026_103
+opta,482766,David Romero,Parma,parma,parma,new_2026_103
+fotmob,1054114,El Bilal Touré,Parma,parma,parma,new_2026_104
+opta,476489,El Bilal Touré,Parma,parma,parma,new_2026_104
+whoscored,391527,El Bilal Touré,Parma Calcio 1913,parma calcio 1913,parma,new_2026_104
+fotmob,1190371,Matija Frigan,Parma,parma,parma,new_2026_105
+opta,521472,Matija Frigan,Parma,parma,parma,new_2026_105
+fotmob,1684415,Ousmane Diallo,Parma,parma,parma,new_2026_106
+opta,633419,Ousmane Diallo,Parma,parma,parma,new_2026_106
+whoscored,574054,Ousmane Diallo,Parma Calcio 1913,parma calcio 1913,parma,new_2026_106
+fotmob,1439776,Rachid Kouda,Parma,parma,parma,new_2026_107
+opta,625908,Rachid Kouda,Parma,parma,parma,new_2026_107
+whoscored,494399,Rachid Kouda,Parma Calcio 1913,parma calcio 1913,parma,new_2026_107
+fotmob,1843609,Simone Lontani,Parma,parma,parma,new_2026_108
+opta,631127,Simone Lontani,Parma,parma,parma,new_2026_108
+whoscored,643601,Simone Lontani,Parma Calcio 1913,parma calcio 1913,parma,new_2026_108
+fotmob,1797278,Thomás de Martis,Parma,parma,parma,new_2026_109
+opta,659246,Thomás de Martis,Parma,parma,parma,new_2026_109
+fotmob,1396084,Raphael Kofler,Cagliari,cagliari,cagliari,new_2026_11
+opta,587803,Raphael Kofler,Cagliari,cagliari,cagliari,new_2026_11
+whoscored,599855,Abdou-Salam Konate,Parma Calcio 1913,parma calcio 1913,parma,new_2026_110
+fotmob,1519035,Giovanni Daffara,Parma,parma,parma,new_2026_111
+fotmob,1337884,Konstantinos Koulierakis,Roma,roma,roma,new_2026_112
+opta,570164,Konstantinos Koulierakis,Roma,roma,roma,new_2026_112
+whoscored,457282,Konstantinos Koulierakis,Roma,roma,roma,new_2026_112
+fotmob,726345,Nahuel Molina,Roma,roma,roma,new_2026_113
+opta,221586,Nahuel Molina,Roma,roma,roma,new_2026_113
+fotmob,1705134,Robinio Vaz,Roma,roma,roma,new_2026_114
+opta,631000,Robinio Vaz,Roma,roma,roma,new_2026_114
+fotmob,1525065,Rodrigo Mora,Roma,roma,roma,new_2026_115
+opta,593207,Rodrigo Mora,Roma,roma,roma,new_2026_115
+whoscored,532725,Rodrigo Mora,Roma,roma,roma,new_2026_115
+whoscored,578592,Emanuele Lulli,Roma,roma,roma,new_2026_116
+fotmob,1816282,Alessandro Di Bitonto,Sassuolo,sassuolo,sassuolo,new_2026_117
+opta,666360,Alessandro Di Bitonto,Sassuolo,sassuolo,sassuolo,new_2026_117
+fotmob,1641041,Darryl Bakola,Sassuolo,sassuolo,sassuolo,new_2026_118
+opta,634416,Darryl Bakola,Sassuolo,sassuolo,sassuolo,new_2026_118
+whoscored,525813,Darryl Bakola,Sassuolo,sassuolo,sassuolo,new_2026_118
+fotmob,1203195,Fedde Leysen,Sassuolo,sassuolo,sassuolo,new_2026_119
+opta,519635,Fedde Leysen,Sassuolo,sassuolo,sassuolo,new_2026_119
+whoscored,428122,Fedde Leysen,Sassuolo,sassuolo,sassuolo,new_2026_119
+fotmob,1459564,Kaiki,Como,como,como,new_2026_12
+opta,535554,Kaiki,Como,como,como,new_2026_12
+fotmob,2022716,Gabriel Kulla,Sassuolo,sassuolo,sassuolo,new_2026_120
+opta,669708,Gabriel Kulla,Sassuolo,sassuolo,sassuolo,new_2026_120
+whoscored,644183,Gabriel Kulla,Sassuolo,sassuolo,sassuolo,new_2026_120
+fotmob,1398350,Patrick Nuamah,Sassuolo,sassuolo,sassuolo,new_2026_121
+opta,588203,Patrick Nuamah,Sassuolo,sassuolo,sassuolo,new_2026_121
+fotmob,1210653,Riccardo Ciervo,Sassuolo,sassuolo,sassuolo,new_2026_122
+opta,515593,Riccardo Ciervo,Sassuolo,sassuolo,sassuolo,new_2026_122
+whoscored,407149,Riccardo Ciervo,Sassuolo,sassuolo,sassuolo,new_2026_122
+whoscored,587699,Simone Cinquegrano,Sassuolo,sassuolo,sassuolo,new_2026_123
+whoscored,422803,Cas Odenthal,Sassuolo,sassuolo,sassuolo,new_2026_124
+fotmob,1746591,Alessio Cacciamani,Torino,torino,torino,new_2026_125
+opta,643622,Alessio Cacciamani,Torino,torino,torino,new_2026_125
+whoscored,558992,Alessio Cacciamani,Torino,torino,torino,new_2026_125
+fotmob,1762472,Andrea Luongo,Torino,torino,torino,new_2026_126
+opta,635773,Andrea Luongo,Torino,torino,torino,new_2026_126
+fotmob,1577119,Diego Mascardi,Torino,torino,torino,new_2026_127
+opta,596959,Diego Mascardi,Torino,torino,torino,new_2026_127
+whoscored,497569,Diego Mascardi,Torino,torino,torino,new_2026_127
+fotmob,1218556,Kian Fitz-Jim,Torino,torino,torino,new_2026_128
+opta,492771,Kian Fitz-Jim,Torino,torino,torino,new_2026_128
+whoscored,415781,Kian Fitz-Jim,Torino,torino,torino,new_2026_128
+fotmob,1269329,James Abankwah,Udinese,udinese,udinese,new_2026_129
+opta,491266,James Abankwah,Udinese,udinese,udinese,new_2026_129
+whoscored,446988,James Abankwah,Udinese,udinese,udinese,new_2026_129
+fotmob,638090,Luis Milla,Como,como,como,new_2026_13
+opta,167742,Luis Milla,Como,como,como,new_2026_13
+whoscored,279320,Luis Milla,Como,como,como,new_2026_13
+fotmob,1436270,Unai Gómez,Udinese,udinese,udinese,new_2026_130
+opta,619506,Unai Gómez,Udinese,udinese,udinese,new_2026_130
+whoscored,480619,Unai Gómez,Udinese,udinese,udinese,new_2026_130
+fotmob,1146636,Edoardo Piana,Udinese,udinese,udinese,new_2026_131
+fotmob,924431,Gianluca Busio,Venezia,venezia,venezia,new_2026_132
+whoscored,358142,Gianluca Busio,Venezia,venezia,venezia,new_2026_132
+fotmob,1072710,Bartol Franjic,Venezia,venezia,venezia,new_2026_133
+whoscored,404275,Bartol Franjic,Venezia,venezia,venezia,new_2026_133
+fotmob,845368,John Yeboah,Venezia,venezia,venezia,new_2026_134
+whoscored,365389,John Yeboah,Venezia,venezia,venezia,new_2026_134
+fotmob,1379468,Albion Rrahmani,Venezia,venezia,venezia,new_2026_135
+whoscored,418516,Albion Rrahmani,Venezia,venezia,venezia,new_2026_135
+fotmob,958640,Akor Adams,Venezia,venezia,venezia,new_2026_136
+whoscored,408616,Akor Adams,Venezia,venezia,venezia,new_2026_136
+fotmob,992052,Thierry Correia,Venezia,venezia,venezia,new_2026_137
+whoscored,367180,Thierry Correia,Venezia,venezia,venezia,new_2026_137
+fotmob,888167,Kike Pérez,Venezia,venezia,venezia,new_2026_138
+whoscored,395579,Kike Pérez,Venezia,venezia,venezia,new_2026_138
+fotmob,414232,Ridgeciano Haps,Venezia,venezia,venezia,new_2026_139
+whoscored,122398,Ridgeciano Haps,Venezia,venezia,venezia,new_2026_139
+fotmob,1593861,Mattia Liberali,Como,como,como,new_2026_14
+opta,577694,Mattia Liberali,Como,como,como,new_2026_14
+whoscored,533537,Mattia Liberali,Como,como,como,new_2026_14
+fotmob,1388039,Richie Sagrado,Venezia,venezia,venezia,new_2026_140
+whoscored,442979,Richie Sagrado,Venezia,venezia,venezia,new_2026_140
+fotmob,1130600,Filip Stankovic,Venezia,venezia,venezia,new_2026_141
+whoscored,391573,Filip Stankovic,Venezia,venezia,venezia,new_2026_141
+fotmob,1290968,Antoine Hainaut,Venezia,venezia,venezia,new_2026_142
+whoscored,447493,Antoine Hainaut,Venezia,venezia,venezia,new_2026_142
+fotmob,1592168,Matteo Dagasso,Venezia,venezia,venezia,new_2026_143
+whoscored,495552,Matteo Dagasso,Venezia,venezia,venezia,new_2026_143
+fotmob,1352744,Joël Schingtienne,Venezia,venezia,venezia,new_2026_144
+whoscored,445367,Joël Schingtienne,Venezia,venezia,venezia,new_2026_144
+fotmob,866165,Lion Lauberbach,Venezia,venezia,venezia,new_2026_145
+fotmob,1050821,Simone Panada,Venezia,venezia,venezia,new_2026_146
+fotmob,1162514,Marko Lawk Farji,Venezia,venezia,venezia,new_2026_147
+fotmob,1298186,Redouane Halhal,Venezia,venezia,venezia,new_2026_148
+fotmob,1357947,Alvin Okoro,Venezia,venezia,venezia,new_2026_149
+fotmob,793907,Trevoh Chalobah,Como,como,como,new_2026_15
+opta,180736,Trevoh Chalobah,Como,como,como,new_2026_15
+whoscored,353292,Trevoh Chalobah,Como,como,como,new_2026_15
+fotmob,1460862,Lamine Fanne,Venezia,venezia,venezia,new_2026_150
+fotmob,1529483,Kornel Lisman,Venezia,venezia,venezia,new_2026_151
+fotmob,1842921,Ale Gomes,Venezia,venezia,venezia,new_2026_152
+fotmob,1109171,Yan Couto,Como,como,como,new_2026_16
+opta,468236,Yan Couto,Como,como,como,new_2026_16
+whoscored,421975,Yan Couto,Como,como,como,new_2026_16
+fotmob,1835436,Brando Mazzeo,Fiorentina,fiorentina,fiorentina,new_2026_17
+opta,682910,Brando Mazzeo,Fiorentina,fiorentina,fiorentina,new_2026_17
+fotmob,1666494,Christ Inao Oulaï,Fiorentina,fiorentina,fiorentina,new_2026_18
+opta,660728,Christ Inao Oulaï,Fiorentina,fiorentina,fiorentina,new_2026_18
+whoscored,547352,Christ Inao Oulaï,Fiorentina,fiorentina,fiorentina,new_2026_18
+fotmob,2018923,Federico Croci,Fiorentina,fiorentina,fiorentina,new_2026_19
+opta,665767,Federico Croci,Fiorentina,fiorentina,fiorentina,new_2026_19
+fotmob,1594898,Paolo Vismara,Atalanta,atalanta,atalanta,new_2026_2
+fotmob,1607566,Franco Mastantuono,Fiorentina,fiorentina,fiorentina,new_2026_20
+opta,576550,Franco Mastantuono,Fiorentina,fiorentina,fiorentina,new_2026_20
+whoscored,514810,Franco Mastantuono,Fiorentina,fiorentina,fiorentina,new_2026_20
+fotmob,1203661,Radu Dragusin,Fiorentina,fiorentina,fiorentina,new_2026_21
+opta,493125,Radu Dragusin,Fiorentina,fiorentina,fiorentina,new_2026_21
+whoscored,400097,Radu Dragusin,Fiorentina,fiorentina,fiorentina,new_2026_21
+opta,669473,Valde,Fiorentina,fiorentina,fiorentina,new_2026_22
+whoscored,555515,Valde,Fiorentina,fiorentina,fiorentina,new_2026_22
+fotmob,1501917,Viery,Fiorentina,fiorentina,fiorentina,new_2026_23
+opta,624094,Viery,Fiorentina,fiorentina,fiorentina,new_2026_23
+fotmob,1327513,Giorgio Cittadini,Frosinone,frosinone,frosinone,new_2026_24
+whoscored,430899,Giorgio Cittadini,Frosinone,frosinone,frosinone,new_2026_24
+fotmob,1289655,Lorenzo Palmisani,Frosinone,frosinone,frosinone,new_2026_25
+whoscored,447439,Lorenzo Palmisani,Frosinone,frosinone,frosinone,new_2026_25
+fotmob,746829,Giacomo Calò,Frosinone,frosinone,frosinone,new_2026_26
+whoscored,316947,Giacomo Calò,Frosinone,frosinone,frosinone,new_2026_26
+fotmob,1235421,Anthony Oyono,Frosinone,frosinone,frosinone,new_2026_27
+whoscored,431032,Anthony Oyono,Frosinone,frosinone,frosinone,new_2026_27
+fotmob,1396091,Gabriele Bracaglia,Frosinone,frosinone,frosinone,new_2026_28
+whoscored,447442,Gabriele Bracaglia,Frosinone,frosinone,frosinone,new_2026_28
+fotmob,1415326,Gabriele Calvani,Frosinone,frosinone,frosinone,new_2026_29
+whoscored,460562,Gabriele Calvani,Frosinone,frosinone,frosinone,new_2026_29
+fotmob,1113694,Jonathan Rowe,Bologna,bologna,bologna,new_2026_3
+opta,483365,Jonathan Rowe,Bologna,bologna,bologna,new_2026_3
+fotmob,1342748,Giorgi Kvernadze,Frosinone,frosinone,frosinone,new_2026_30
+whoscored,477060,Giorgi Kvernadze,Frosinone,frosinone,frosinone,new_2026_30
+fotmob,992025,Aleksa Terzic,Frosinone,frosinone,frosinone,new_2026_31
+whoscored,377261,Aleksa Terzic,Frosinone,frosinone,frosinone,new_2026_31
+fotmob,1117058,Ilario Monterisi,Frosinone,frosinone,frosinone,new_2026_32
+whoscored,389124,Ilario Monterisi,Frosinone,frosinone,frosinone,new_2026_32
+whoscored,450288,Luis Hasa,Frosinone,frosinone,frosinone,new_2026_33
+fotmob,1670272,Matteo Cichella,Frosinone,frosinone,frosinone,new_2026_34
+whoscored,536355,Matteo Cichella,Frosinone,frosinone,frosinone,new_2026_34
+fotmob,1256534,Antonio Raimondo,Frosinone,frosinone,frosinone,new_2026_35
+whoscored,415892,Antonio Raimondo,Frosinone,frosinone,frosinone,new_2026_35
+fotmob,749488,Romano Schmid,Frosinone,frosinone,frosinone,new_2026_36
+whoscored,383847,Romano Schmid,Frosinone,frosinone,frosinone,new_2026_36
+fotmob,353519,Kevin Akpoguma,Frosinone,frosinone,frosinone,new_2026_37
+fotmob,415425,Matteo Pisseri,Frosinone,frosinone,frosinone,new_2026_38
+fotmob,617044,Florian Grillitsch,Frosinone,frosinone,frosinone,new_2026_39
+fotmob,2008804,Marco Libra,Bologna,bologna,bologna,new_2026_4
+opta,650842,Marco Libra,Bologna,bologna,bologna,new_2026_4
+fotmob,1188316,Ilias Koutsoupias,Frosinone,frosinone,frosinone,new_2026_40
+fotmob,1250568,Wisdom Amey,Frosinone,frosinone,frosinone,new_2026_41
+fotmob,1280112,Sebastiano Desplanches,Frosinone,frosinone,frosinone,new_2026_42
+fotmob,1285119,Anouar El Azzouzi,Frosinone,frosinone,frosinone,new_2026_43
+fotmob,1670284,Adam Zulevic,Genoa,genoa,genoa,new_2026_44
+opta,662323,Adam Zulevic,Genoa,genoa,genoa,new_2026_44
+whoscored,641371,Adam Zulevic,Genoa,genoa,genoa,new_2026_44
+fotmob,1405996,David Puczka,Genoa,genoa,genoa,new_2026_45
+opta,520217,David Puczka,Genoa,genoa,genoa,new_2026_45
+fotmob,707970,Djibril Sow,Genoa,genoa,genoa,new_2026_46
+opta,185524,Djibril Sow,Genoa,genoa,genoa,new_2026_46
+whoscored,317630,Djibril Sow,Genoa,genoa,genoa,new_2026_46
+fotmob,1677025,Franz-Ethan Meichtry,Genoa,genoa,genoa,new_2026_47
+opta,661006,Ethan Meichtry,Genoa,genoa,genoa,new_2026_47
+whoscored,582356,Ethan Meichtry,Genoa,genoa,genoa,new_2026_47
+fotmob,1184458,Mario Mitaj,Genoa,genoa,genoa,new_2026_48
+opta,474900,Mario Mitaj,Genoa,genoa,genoa,new_2026_48
+fotmob,1902062,Samuel Wiafe,Genoa,genoa,genoa,new_2026_49
+opta,613692,Samuel Wiafe,Genoa,genoa,genoa,new_2026_49
+fotmob,1661207,Mikel Amondarain,Bologna,bologna,bologna,new_2026_5
+opta,625459,Mikel Amondarain,Bologna,bologna,bologna,new_2026_5
+whoscored,490854,Mikel Amondarain,Bologna,bologna,bologna,new_2026_5
+fotmob,951238,Franz Stolz,Genoa,genoa,genoa,new_2026_50
+fotmob,1410437,Aleksandar Stankovic,Internazionale,internazionale,inter,new_2026_51
+opta,563722,Aleksandar Stankovic,Inter,inter,inter,new_2026_51
+whoscored,459075,Aleksandar Stankovic,Inter,inter,inter,new_2026_51
+fotmob,1254297,Andy Diouf,Internazionale,internazionale,inter,new_2026_52
+opta,503696,Andy Diouf,Inter,inter,inter,new_2026_52
+whoscored,415415,Andy Diouf,Inter,inter,inter,new_2026_52
+fotmob,611223,Benjamin Pavard,Internazionale,internazionale,inter,new_2026_53
+opta,202675,Benjamin Pavard,Inter,inter,inter,new_2026_53
+fotmob,1814609,Jamal Iddrissou,Internazionale,internazionale,inter,new_2026_54
+opta,669929,Jamal Iddrissou,Inter,inter,inter,new_2026_54
+fotmob,263653,John Stones,Internazionale,internazionale,inter,new_2026_55
+opta,97299,John Stones,Inter,inter,inter,new_2026_55
+whoscored,101374,John Stones,Inter,inter,inter,new_2026_55
+fotmob,1830575,Leonardo Bovio,Internazionale,internazionale,inter,new_2026_56
+opta,631126,Leonardo Bovio,Inter,inter,inter,new_2026_56
+fotmob,787350,Douglas Luiz,Juventus,juventus,juventus,new_2026_57
+opta,230046,Douglas Luiz,Juventus,juventus,juventus,new_2026_57
+whoscored,337883,Douglas Luiz,Juventus,juventus,juventus,new_2026_57
+fotmob,862616,Edon Zhegrova,Juventus,juventus,juventus,new_2026_58
+opta,431128,Edon Zhegrova,Juventus,juventus,juventus,new_2026_58
+fotmob,538501,Guglielmo Vicario,Juventus,juventus,juventus,new_2026_59
+opta,184254,Guglielmo Vicario,Juventus,juventus,juventus,new_2026_59
+whoscored,147863,Guglielmo Vicario,Juventus,juventus,juventus,new_2026_59
+fotmob,1283469,Oussama El Azzouzi,Bologna,bologna,bologna,new_2026_6
+opta,543215,Oussama El Azzouzi,Bologna,bologna,bologna,new_2026_6
+whoscored,443980,Oussama El Azzouzi,Bologna,bologna,bologna,new_2026_6
+fotmob,643229,Jérémie Boga,Juventus,juventus,juventus,new_2026_60
+opta,135365,Jérémie Boga,Juventus,juventus,juventus,new_2026_60
+whoscored,280766,Jérémie Boga,Juventus,juventus,juventus,new_2026_60
+fotmob,1684401,Kerim Alajbegovic,Juventus,juventus,juventus,new_2026_61
+opta,593271,Kerim Alajbegovic,Juventus,juventus,juventus,new_2026_61
+opta,231004,Nico González,Juventus,juventus,juventus,new_2026_62
+fotmob,823825,Randal Kolo Muani,Juventus,juventus,juventus,new_2026_63
+opta,247693,Randal Kolo Muani,Juventus,juventus,juventus,new_2026_63
+whoscored,333542,Randal Kolo Muani,Juventus,juventus,juventus,new_2026_63
+fotmob,629594,Alfonso Pedraza,Lazio,lazio,lazio,new_2026_64
+opta,208380,Alfonso Pedraza,Lazio,lazio,lazio,new_2026_64
+whoscored,276489,Alfonso Pedraza,Lazio,lazio,lazio,new_2026_64
+opta,436416,Christos Mandas,Lazio,lazio,lazio,new_2026_65
+whoscored,418171,Christos Mandas,Lazio,lazio,lazio,new_2026_65
+fotmob,724196,Danilho Doekhi,Lazio,lazio,lazio,new_2026_66
+opta,216257,Danilho Doekhi,Lazio,lazio,lazio,new_2026_66
+whoscored,303076,Danilho Doekhi,Lazio,lazio,lazio,new_2026_66
+fotmob,2159101,Ricardo Bordon,Lazio,lazio,lazio,new_2026_67
+opta,681438,Ricardo Bordon,Lazio,lazio,lazio,new_2026_67
+fotmob,1444195,Davide Renzetti,Lazio,lazio,lazio,new_2026_68
+fotmob,1666063,Hjalte Laerke,Lecce,lecce,lecce,new_2026_69
+opta,670530,Hjalte Lærke,Lecce,lecce,lecce,new_2026_69
+fotmob,1165232,Giuseppe Aurelio,Cagliari,cagliari,cagliari,new_2026_7
+opta,508629,Giuseppe Aurelio,Cagliari,cagliari,cagliari,new_2026_7
+whoscored,395932,Giuseppe Aurelio,Cagliari,cagliari,cagliari,new_2026_7
+fotmob,1417101,Paco Esteban,Lecce,lecce,lecce,new_2026_70
+opta,598675,Paco Esteban,Lecce,lecce,lecce,new_2026_70
+fotmob,883824,Willem Geubbels,Lecce,lecce,lecce,new_2026_71
+opta,242894,Willem Geubbels,Lecce,lecce,lecce,new_2026_71
+whoscored,345987,Willem Geubbels,Lecce,lecce,lecce,new_2026_71
+whoscored,577174,Olaf Gorter,Lecce,lecce,lecce,new_2026_72
+fotmob,506322,Marco Bleve,Lecce,lecce,lecce,new_2026_73
+fotmob,352879,Adrien Rabiot,Milan,milan,milan,new_2026_74
+opta,120743,Adrien Rabiot,AC Milan,ac milan,milan,new_2026_74
+whoscored,116609,Adrien Rabiot,AC Milan,ac milan,milan,new_2026_74
+fotmob,1445650,Alphadjo Cissè,Milan,milan,milan,new_2026_75
+opta,578315,Alphadjo Cissè,AC Milan,ac milan,milan,new_2026_75
+whoscored,475622,Alphadjo Cissè,AC Milan,ac milan,milan,new_2026_75
+fotmob,1787535,Christian Comotto,Milan,milan,milan,new_2026_76
+opta,631119,Christian Comotto,AC Milan,ac milan,milan,new_2026_76
+fotmob,1342754,Diego Moreira,Milan,milan,milan,new_2026_77
+opta,491011,Diego Moreira,AC Milan,ac milan,milan,new_2026_77
+fotmob,940087,Gonçalo Ramos,Milan,milan,milan,new_2026_78
+opta,449980,Gonçalo Ramos,AC Milan,ac milan,milan,new_2026_78
+whoscored,395802,Gonçalo Ramos,AC Milan,ac milan,milan,new_2026_78
+fotmob,1669433,Sankhoun Diawara,Milan,milan,milan,new_2026_79
+opta,662133,Sankhoun Diawara,AC Milan,ac milan,milan,new_2026_79
+fotmob,528453,Harry Winks,Cagliari,cagliari,cagliari,new_2026_8
+opta,157668,Harry Winks,Cagliari,cagliari,cagliari,new_2026_8
+whoscored,143990,Harry Winks,Cagliari,cagliari,cagliari,new_2026_8
+fotmob,2022740,Leo Paul Bouyer,Milan,milan,milan,new_2026_80
+fotmob,1879542,Mathis Mout,Monza,monza,monza,new_2026_81
+whoscored,605289,Mathis Mout,Monza,monza,monza,new_2026_81
+fotmob,1585676,Gustavo Varela,Monza,monza,monza,new_2026_82
+whoscored,527501,Gustavo Varela,Monza,monza,monza,new_2026_82
+fotmob,1425693,Adam Bakoune,Monza,monza,monza,new_2026_83
+whoscored,468675,Adam Bakoune,Monza,monza,monza,new_2026_83
+fotmob,1190023,Omari Forson,Monza,monza,monza,new_2026_84
+whoscored,491385,Omari Forson,Monza,monza,monza,new_2026_84
+fotmob,937462,Andrea Colpani,Monza,monza,monza,new_2026_85
+whoscored,356733,Andrea Colpani,Monza,monza,monza,new_2026_85
+whoscored,511708,Manga Foe Ondoa,Monza,monza,monza,new_2026_86
+fotmob,1524139,Lorenzo Lucchesi,Monza,monza,monza,new_2026_87
+whoscored,497047,Lorenzo Lucchesi,Monza,monza,monza,new_2026_87
+fotmob,1453338,Jay Robinson,Monza,monza,monza,new_2026_88
+whoscored,538255,Jay Robinson,Monza,monza,monza,new_2026_88
+fotmob,814284,Filippo Delli Carri,Monza,monza,monza,new_2026_89
+whoscored,331063,Filippo Delli Carri,Monza,monza,monza,new_2026_89
+fotmob,1166344,Kevin Carlos,Cagliari,cagliari,cagliari,new_2026_9
+opta,509201,Kevin Carlos,Cagliari,cagliari,cagliari,new_2026_9
+fotmob,1189402,Nicolas Galazzi,Monza,monza,monza,new_2026_90
+whoscored,423516,Nicolas Galazzi,Monza,monza,monza,new_2026_90
+fotmob,824655,Ricardo Mangas,Monza,monza,monza,new_2026_91
+whoscored,389108,Ricardo Mangas,Monza,monza,monza,new_2026_91
+fotmob,799497,Samuele Birindelli,Monza,monza,monza,new_2026_92
+whoscored,328785,Samuele Birindelli,Monza,monza,monza,new_2026_92
+fotmob,1123969,Andrea Carboni,Monza,monza,monza,new_2026_93
+whoscored,390493,Andrea Carboni,Monza,monza,monza,new_2026_93
+fotmob,917464,Semuel Pizzignacco,Monza,monza,monza,new_2026_94
+whoscored,351408,Semuel Pizzignacco,Monza,monza,monza,new_2026_94
+fotmob,899649,Valentin Antov,Monza,monza,monza,new_2026_95
+fotmob,1577900,Foe Ondoa,Monza,monza,monza,new_2026_96
+fotmob,1668173,Solomon Loubao,Monza,monza,monza,new_2026_97
+fotmob,1804416,Aljaz Strajnar,Monza,monza,monza,new_2026_98
+fotmob,2155256,Aleksandr Ballabio,Monza,monza,monza,new_2026_99
+opta,578303,Adam Bakoune,,,,
+opta,484640,Akor Adams,,,,
+opta,543173,Albion Rrahmani,,,,
+opta,712678,Ale Gomes,,,,
+opta,430847,Aleksa Terzic,,,,
+opta,577193,Alvin Okoro,,,,
+opta,501395,Andrea Carboni,,,,
+opta,449739,Andrea Colpani,,,,
+opta,464965,Anouar El Azzouzi,,,,
+opta,520025,Anthony Oyono,,,,
+opta,588403,Antoine Hainaut,,,,
+opta,538734,Antonio Raimondo,,,,
+opta,240996,Bartol Franjic,,,,
+opta,465626,Filip Stankovic,,,,
+opta,244397,Filippo Delli Carri,,,,
+opta,210159,Florian Grillitsch,,,,
+opta,588664,Gabriele Bracaglia,,,,
+opta,594346,Gabriele Calvani,,,,
+opta,226522,Giacomo Calò,,,,
+opta,427168,Gianluca Busio,,,,
+opta,558122,Giorgi Kvernadze,,,,
+opta,493261,Giorgio Cittadini,,,,
+opta,561812,Gustavo Varela,,,,
+opta,499207,Ilario Monterisi,,,,
+opta,492199,Ilias Koutsoupias,,,,
+opta,495024,Jay Robinson,,,,
+opta,241243,John Yeboah,,,,
+opta,585392,Joël Schingtienne,,,,
+opta,120002,Kevin Akpoguma,,,,
+opta,241865,Kike Pérez,,,,
+opta,639018,Kornel Lisman,,,,
+opta,617693,Lamine Fanne,,,,
+opta,428364,Lion Lauberbach,,,,
+opta,629287,Lorenzo Lucchesi,,,,
+opta,547908,Lorenzo Palmisani,,,,
+opta,640813,Manga Foe Ondoa,,,,
+opta,549738,Marko Farji,,,,
+opta,598561,Mathis Mout,,,,
+opta,576530,Matteo Cichella,,,,
+opta,628209,Matteo Dagasso,,,,
+opta,516018,Nicolas Galazzi,,,,
+opta,487828,Omari Forson,,,,
+opta,552173,Redouane Halhal,,,,
+opta,176490,Ricardo Mangas,,,,
+opta,513537,Richie Sagrado,,,,
+opta,148435,Ridgeciano Haps,,,,
+opta,228564,Romano Schmid,,,,
+opta,241711,Samuele Birindelli,,,,
+opta,444455,Semuel Pizzignacco,,,,
+opta,487989,Simone Panada,,,,
+opta,664879,Solomon Loubao,,,,
+opta,222629,Thierry Correia,,,,
+opta,235001,Valentin Antov,,,,
+opta,537503,Wisdom Amey,,,,
