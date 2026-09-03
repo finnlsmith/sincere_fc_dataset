@@ -6,16 +6,24 @@ Expects the input directory to contain the raw *_stats_<timestamp>.json files
 (one per league) as saved by grab_data_from_opta_api_2.py.
 
 Usage:
-    python opta_json_to_csv.py <input_dir> <output_dir>
+    python opta_json_to_csv.py <input_dir> [output_dir]
+
+If output_dir is omitted, defaults to opta_parsed_<today's date>, to avoid
+manual output-folder naming drift (this is exactly what produced the
+2026-08-28 / retest / retest2 duplicate-folder mess earlier this season).
+Pass an explicit output_dir to override, e.g. for a deliberate one-off
+reparse during debugging.
 
 Example:
-    python opta_json_to_csv.py opta_raw_2026-08-18 opta_parsed_2026-08-18
+    python opta_json_to_csv.py opta_raw_2026-08-18
+    python opta_json_to_csv.py opta_raw_2026-08-18 opta_parsed_manual_debug_run
 """
 
 import json
 import os
 import sys
 from collections import defaultdict
+from datetime import datetime
 from functools import reduce
 from pathlib import Path
 
@@ -137,8 +145,10 @@ def parse_league_json(json_study: dict) -> tuple[str, str, pd.DataFrame]:
     return league_name, stats_time, merged_df_clean
 
 
-def opta_json_to_csv(input_dir: str, output_dir: str) -> Path:
+def opta_json_to_csv(input_dir: str, output_dir: str | None = None) -> Path:
     in_dir = Path(input_dir)
+    if output_dir is None:
+        output_dir = f"opta_parsed_{datetime.now().strftime('%Y-%m-%d')}"
     out_dir = Path(output_dir)
 
     if not in_dir.exists():
@@ -171,13 +181,15 @@ def opta_json_to_csv(input_dir: str, output_dir: str) -> Path:
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python opta_json_to_csv.py <input_dir> <output_dir>")
-        print("Example: python opta_json_to_csv.py opta_raw_2026-08-18 opta_parsed_2026-08-18")
+    if len(sys.argv) not in (2, 3):
+        print("Usage: python opta_json_to_csv.py <input_dir> [output_dir]")
+        print("Example: python opta_json_to_csv.py opta_raw_2026-08-18")
+        print("         python opta_json_to_csv.py opta_raw_2026-08-18 opta_parsed_manual_debug_run")
         sys.exit(1)
 
     try:
-        opta_json_to_csv(sys.argv[1], sys.argv[2])
+        output_dir = sys.argv[2] if len(sys.argv) == 3 else None
+        opta_json_to_csv(sys.argv[1], output_dir)
     except Exception as e:
         print(f"✗ {e}")
         sys.exit(1)

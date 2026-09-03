@@ -29,7 +29,7 @@ CCODE = "USA_NY"
 def fetch_fixtures(league_name: str, season: str) -> Path:
     """
     Fetch the fixture list for (league_name, season) from FotMob and save it
-    to fixtures_tiredness/<league_key>_<season_slug>_fixtures.json.
+    to fixtures_regular_scrape/<league_key>_<season_slug>_fixtures.json.
 
     Returns the Path to the saved file.
     Raises RuntimeError / SystemExit-equivalent exceptions on failure so callers
@@ -82,7 +82,7 @@ def fetch_fixtures(league_name: str, season: str) -> Path:
     season_url  = season.replace("/", "-")
     season_enc  = season.replace("/", "%2F")
 
-    out_dir = Path("fixtures_tiredness")
+    out_dir = Path("fixtures_regular_scrape")
     out_dir.mkdir(parents=True, exist_ok=True)
 
     page_url = f"https://www.fotmob.com/leagues/{league_id}/overview/{league_slug}?season={season_url}"
