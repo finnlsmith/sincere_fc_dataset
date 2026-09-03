@@ -177,7 +177,7 @@ def dismiss_cookie_banner(driver, timeout=8) -> bool:
 def scrape_whoscored(output_dir: str | None = None) -> Path:
     if output_dir is None:
         todays_date = datetime.now().strftime("%Y-%m-%d")
-        output_dir = f"whoscored_raw_json_{todays_date}"
+        output_dir = f"data/whoscored/raw/whoscored_raw_json_{todays_date}"
 
     raw_json_dir = Path(output_dir)
     raw_json_dir.mkdir(parents=True, exist_ok=True)

@@ -9,15 +9,15 @@ sincerefc_scraping_project_spec.md, section 4, DataMB).
 Usage:
     python scrape_datamb.py [output_dir]
 
-If output_dir is omitted, defaults to a dated folder: datamb_snapshots/<YYYY-MM-DD>/
+If output_dir is omitted, defaults to a dated folder: data/datamb/snapshots/<YYYY-MM-DD>/
 
 Example:
     python scrape_datamb.py
-    python scrape_datamb.py datamb_snapshots/2026-08-18
+    python scrape_datamb.py data/datamb/snapshots/2026-08-18
 
 Can also be imported and called directly:
     from scrape_datamb import scrape_datamb
-    combined_csv_path = scrape_datamb("datamb_snapshots/2026-08-18")
+    combined_csv_path = scrape_datamb("data/datamb/snapshots/2026-08-18")
 """
 
 import sys
@@ -42,7 +42,7 @@ EXPECTED_MIN_ROWS = {
 def scrape_datamb(output_dir: str | None = None) -> Path:
     if output_dir is None:
         today = datetime.now().strftime("%Y-%m-%d")
-        output_dir = f"datamb_snapshots/{today}"
+        output_dir = f"data/datamb/snapshots/{today}"
 
     out_dir = Path(output_dir)
     raw_dir = out_dir / "raw"

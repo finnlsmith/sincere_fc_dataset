@@ -25,12 +25,12 @@ DELAY = 1.5
 
 def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: str) -> dict:
     """
-    Scrape match details for every finished match in fixtures_regular_scrape/<fixtures_filename>,
+    Scrape match details for every finished match in data/fixtures/<fixtures_filename>,
     saving each to <output_dir>/<match_id>.json. Skips files that already exist.
 
     Returns {"success": n, "failed": n, "skipped": n}.
     """
-    fixtures_file = Path("fixtures_regular_scrape") / fixtures_filename
+    fixtures_file = Path("data/fixtures") / fixtures_filename
     out_dir       = Path(output_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 

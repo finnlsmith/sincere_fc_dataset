@@ -15,8 +15,8 @@ Pass an explicit output_dir to override, e.g. for a deliberate one-off
 reparse during debugging.
 
 Example:
-    python opta_json_to_csv.py opta_raw_2026-08-18
-    python opta_json_to_csv.py opta_raw_2026-08-18 opta_parsed_manual_debug_run
+    python opta_json_to_csv.py data/opta/raw/opta_raw_2026-08-18
+    python opta_json_to_csv.py data/opta/raw/opta_raw_2026-08-18 data/opta/parsed/opta_parsed_manual_debug_run
 """
 
 import json
@@ -148,7 +148,7 @@ def parse_league_json(json_study: dict) -> tuple[str, str, pd.DataFrame]:
 def opta_json_to_csv(input_dir: str, output_dir: str | None = None) -> Path:
     in_dir = Path(input_dir)
     if output_dir is None:
-        output_dir = f"opta_parsed_{datetime.now().strftime('%Y-%m-%d')}"
+        output_dir = f"data/opta/parsed/opta_parsed_{datetime.now().strftime('%Y-%m-%d')}"
     out_dir = Path(output_dir)
 
     if not in_dir.exists():
@@ -183,8 +183,8 @@ def opta_json_to_csv(input_dir: str, output_dir: str | None = None) -> Path:
 if __name__ == "__main__":
     if len(sys.argv) not in (2, 3):
         print("Usage: python opta_json_to_csv.py <input_dir> [output_dir]")
-        print("Example: python opta_json_to_csv.py opta_raw_2026-08-18")
-        print("         python opta_json_to_csv.py opta_raw_2026-08-18 opta_parsed_manual_debug_run")
+        print("Example: python opta_json_to_csv.py data/opta/raw/opta_raw_2026-08-18")
+        print("         python opta_json_to_csv.py data/opta/raw/opta_raw_2026-08-18 data/opta/parsed/opta_parsed_manual_debug_run")
         sys.exit(1)
 
     try:

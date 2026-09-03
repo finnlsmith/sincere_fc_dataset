@@ -30,7 +30,7 @@ LEAGUES = {
 def scrape_opta(output_dir: str | None = None) -> Path:
     if output_dir is None:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        output_dir = f"opta_raw_{timestamp}"
+        output_dir = f"data/opta/raw/opta_raw_{timestamp}"
 
     out_dir = Path(output_dir)
     out_dir.mkdir(parents=True, exist_ok=True)

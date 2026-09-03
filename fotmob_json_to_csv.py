@@ -3,7 +3,7 @@ Parse raw FotMob match-detail JSON (as produced by scrape_match_details.py)
 into per-player-per-match, per-shot, and per-team-stat-category CSVs.
 
 Expects the input directory to contain one JSON file per match, as saved by
-scrape_match_details.py (i.e. fotmob_raw_json/<league_key>/<match_id>.json).
+scrape_match_details.py (i.e. data/fotmob/raw/<league_key>/<match_id>.json).
 
 Output granularity is match-level, not season-aggregated — this is
 deliberate: FotMob is the pipeline's only true timeline source, so keeping
@@ -18,15 +18,15 @@ collide or overwrite each other.
 Usage:
     python fotmob_json_to_csv.py <input_dir> [output_base_dir]
 
-If output_base_dir is omitted, defaults to "parsed_fotmob". The league code
+If output_base_dir is omitted, defaults to "data/fotmob/parsed". The league code
 is derived automatically from the input directory's folder name (e.g.
 "eng_47_2026_2027"), and today's date is used for the dated subfolder.
 
 Example:
-    python fotmob_json_to_csv.py fotmob_raw_json/eng_47_2026_2027
-    # -> parsed_fotmob/2026-08-28/eng_47_2026_2027/player_stats.csv, etc.
+    python fotmob_json_to_csv.py data/fotmob/raw/eng_47_2026_2027
+    # -> data/fotmob/parsed/2026-08-28/eng_47_2026_2027/player_stats.csv, etc.
 
-    python fotmob_json_to_csv.py fotmob_raw_json/eng_47_2026_2027 parsed_fotmob
+    python fotmob_json_to_csv.py data/fotmob/raw/eng_47_2026_2027 data/fotmob/parsed
 """
 
 import sys
@@ -55,11 +55,11 @@ def fotmob_json_to_csv(input_dir: str, output_base_dir: str | None = None) -> Pa
         raise FileNotFoundError(f"Input directory not found: {raw_dir}")
 
     # League code derived from the input folder's own name, e.g.
-    # "fotmob_raw_json/eng_47_2026_2027" -> "eng_47_2026_2027"
+    # "data/fotmob/raw/eng_47_2026_2027" -> "eng_47_2026_2027"
     league_code = raw_dir.name
 
     if output_base_dir is None:
-        output_base_dir = "parsed_fotmob"
+        output_base_dir = "data/fotmob/parsed"
 
     today = datetime.now().strftime("%Y-%m-%d")
     out_dir = Path(output_base_dir) / today / league_code
@@ -194,7 +194,7 @@ def fotmob_json_to_csv(input_dir: str, output_base_dir: str | None = None) -> Pa
 if __name__ == "__main__":
     if len(sys.argv) not in (2, 3):
         print("Usage: python fotmob_json_to_csv.py <input_dir> [output_base_dir]")
-        print("Example: python fotmob_json_to_csv.py fotmob_raw_json/eng_47_2026_2027")
+        print("Example: python fotmob_json_to_csv.py data/fotmob/raw/eng_47_2026_2027")
         sys.exit(1)
 
     output_base_dir = sys.argv[2] if len(sys.argv) == 3 else None

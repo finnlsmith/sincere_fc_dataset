@@ -29,7 +29,7 @@ CCODE = "USA_NY"
 def fetch_fixtures(league_name: str, season: str) -> Path:
     """
     Fetch the fixture list for (league_name, season) from FotMob and save it
-    to fixtures_regular_scrape/<league_key>_<season_slug>_fixtures.json.
+    to data/fixtures/<league_key>_<season_slug>_fixtures.json.
 
     Returns the Path to the saved file.
     Raises RuntimeError / SystemExit-equivalent exceptions on failure so callers
@@ -40,9 +40,9 @@ def fetch_fixtures(league_name: str, season: str) -> Path:
     #   "LaLiga"                 - plain name lookup (fine when the name is unique)
     #   "Serie A (BRA)"          - name + country code, required when the name collides
     #                              across countries (e.g. "Premier League", "Serie A")
-    master_leagues = Path("master_leagues.json")
+    master_leagues = Path("reference_data/master_leagues.json")
     if not master_leagues.exists():
-        raise FileNotFoundError("master_leagues.json not found in current directory")
+        raise FileNotFoundError("reference_data/master_leagues.json not found (expected at reference_data/master_leagues.json)")
 
     with open(master_leagues) as f:
         leagues = json.load(f)
@@ -61,7 +61,7 @@ def fetch_fixtures(league_name: str, season: str) -> Path:
 
     if not candidates:
         available = ", ".join(l["name"] for l in leagues)
-        raise ValueError(f"League '{league_name}' not found in master_leagues.json. Available: {available}")
+        raise ValueError(f"League '{league_name}' not found in reference_data/master_leagues.json. Available: {available}")
 
     if len(candidates) > 1:
         options = ", ".join(f"{l['name']} ({l['country']})" for l in candidates)
@@ -82,7 +82,7 @@ def fetch_fixtures(league_name: str, season: str) -> Path:
     season_url  = season.replace("/", "-")
     season_enc  = season.replace("/", "%2F")
 
-    out_dir = Path("fixtures_regular_scrape")
+    out_dir = Path("data/fixtures")
     out_dir.mkdir(parents=True, exist_ok=True)
 
     page_url = f"https://www.fotmob.com/leagues/{league_id}/overview/{league_slug}?season={season_url}"
@@ -171,7 +171,7 @@ def fetch_fixtures(league_name: str, season: str) -> Path:
 
     print(f"✓ Saved to {out_path}")
 
-    next_cmd = f'python scrape_match_details.py {out_path.name} fotmob_raw_json/{league_key}_{season_slug} "{league_name}"'
+    next_cmd = f'python scripts/fotmob/fotmob_scrape_match_details.py {out_path.name} data/fotmob/raw/{league_key}_{season_slug} "{league_name}"'
     print(f"\nNext step — scrape match details:")
     print(f"  {next_cmd}")
 

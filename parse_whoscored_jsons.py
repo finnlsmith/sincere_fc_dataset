@@ -17,8 +17,8 @@ folder mess earlier this season). Pass an explicit output_dir to override,
 e.g. for a deliberate one-off reparse during debugging.
 
 Example:
-    python parse_whoscored_jsons.py raw_json_2026-08-27
-    python parse_whoscored_jsons.py raw_json_2026-08-27 parsed_whoscored_manual_debug_run
+    python parse_whoscored_jsons.py data/whoscored/raw/whoscored_raw_json_2026-08-27
+    python parse_whoscored_jsons.py data/whoscored/raw/whoscored_raw_json_2026-08-27 data/whoscored/parsed/parsed_whoscored_manual_debug_run
 """
 
 import json
@@ -40,7 +40,7 @@ META_COLS = [
 def parse_whoscored_jsons(input_dir: str, output_dir: str | None = None) -> Path:
     in_dir = Path(input_dir)
     if output_dir is None:
-        output_dir = f"parsed_whoscored_{datetime.now().strftime('%Y-%m-%d')}"
+        output_dir = f"data/whoscored/parsed/parsed_whoscored_{datetime.now().strftime('%Y-%m-%d')}"
     out_dir = Path(output_dir)
 
     if not in_dir.exists():
@@ -135,8 +135,8 @@ def parse_whoscored_jsons(input_dir: str, output_dir: str | None = None) -> Path
 if __name__ == "__main__":
     if len(sys.argv) not in (2, 3):
         print("Usage: python parse_whoscored_jsons.py <input_dir> [output_dir]")
-        print("Example: python parse_whoscored_jsons.py raw_json_2026-08-27")
-        print("         python parse_whoscored_jsons.py raw_json_2026-08-27 parsed_whoscored_manual_debug_run")
+        print("Example: python parse_whoscored_jsons.py data/whoscored/raw/whoscored_raw_json_2026-08-27")
+        print("         python parse_whoscored_jsons.py data/whoscored/raw/whoscored_raw_json_2026-08-27 data/whoscored/parsed/parsed_whoscored_manual_debug_run")
         sys.exit(1)
 
     try:
