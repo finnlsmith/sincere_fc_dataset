@@ -91,18 +91,18 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 619512,Hamza Koutoune,Nice,existing,619512.0,575454.0,1796096.0
 619025,Harouna Djibirin,Angers,existing,619025.0,591723.0,1832893.0
 684058,Henrick Do Marcolino,Rennes,existing,684058.0,550830.0,1707955.0
-462609,Himad Abdelli,Marseille,existing,462609.0,,956659.0
+462609,Himad Abdelli,Marseille,existing,462609.0,447045.0,956659.0
 243741,Hugo Magnetti,Brest,existing,243741.0,330614.0,812415.0
 484842,Hákon Haraldsson,Lille,existing,484842.0,424252.0,1044470.0
 483320,Igor Paixão,Marseille,existing,483320.0,436553.0,1265963.0
 511182,Ilan Kebbal,Paris FC,existing,511182.0,422186.0,999690.0
 633698,Ilane Touré,Monaco,existing,633698.0,605151.0,1815791.0
-477580,Illia Zabarnyi,Paris Saint-Germain,existing,477580.0,,
+477580,Illia Zabarnyi,Paris Saint-Germain,existing,477580.0,,1140003.0
 616245,Ilyas Azizi,Toulouse,existing,616245.0,559897.0,1751857.0
 669390,Isaac Cossier,Lille,existing,669390.0,541108.0,1680590.0
 512745,Isaak Touré,Lorient,existing,512745.0,,
 469169,Isak Jansson,Nice,existing,469169.0,407884.0,944385.0
-596121,Ismaëlo Ganiou,Lens,existing,596121.0,456795.0,
+596121,Ismaëlo Ganiou,Lens,existing,596121.0,456795.0,1406645.0
 620407,Ismaïl Bouneb,Le Havre,existing,620407.0,,1487952.0
 495382,Issa Soumaré,Le Havre,existing,495382.0,422864.0,1103837.0
 448010,Jacen Russell-Rowe,Toulouse,existing,448010.0,439236.0,1106866.0
@@ -134,7 +134,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 552015,Lamine Sy,Auxerre,existing,552015.0,469372.0,1334805.0
 445970,Lassine Sinayoko,Auxerre,existing,445970.0,431346.0,923196.0
 544908,Lasso Coulibaly,Auxerre,existing,544908.0,531773.0,1276685.0
-608246,Lilian Raolisoa,Angers,existing,608246.0,471064.0,
+608246,Lilian Raolisoa,Angers,existing,608246.0,471064.0,1431818.0
 196111,Lionel Mpasi,Le Havre,existing,196111.0,461465.0,912286.0
 485335,Lucas Chevalier,Paris Saint-Germain,existing,,,1177131.0
 174888,Lucas Hernández,Paris Saint-Germain,existing,174888.0,139186.0,504606.0
@@ -150,7 +150,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 430510,Mama Baldé,Brest,existing,430510.0,345396.0,541933.0
 604124,Mamadou Coulibaly,Monaco,existing,604124.0,482049.0,1524548.0
 724962,Mamadou Koné,Lorient,existing,724962.0,605076.0,1888816.0
-658062,Marius Louër,Angers,existing,658062.0,542892.0,
+658062,Marius Louër,Angers,existing,658062.0,542892.0,1688980.0
 201401,Mark McKenzie,Toulouse,existing,201401.0,355122.0,924485.0
 116406,Marquinhos,Paris Saint-Germain,existing,116406.0,101949.0,267365.0
 59956,Mathieu Gorgelin,Lens,existing,,,186811.0
@@ -181,7 +181,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 538078,Nathan Ngoy,Lille,existing,538078.0,414495.0,1252070.0
 476391,Nathaniel Adjei,Lorient,existing,476391.0,515492.0,1351065.0
 210494,Nayef Aguerd,Marseille,existing,210494.0,362434.0,617310.0
-586855,Ngal'ayel Mukau,Lille,existing,586855.0,468938.0,
+586855,Ngal'ayel Mukau,Lille,existing,586855.0,468938.0,1428153.0
 86479,Nicolás Tagliafico,Lyon,existing,86479.0,83809.0,195750.0
 634897,Nidal Celik,Lens,existing,634897.0,,1657810.0
 204584,Niklas Schmidt,Toulouse,existing,204584.0,328265.0,637754.0
@@ -225,7 +225,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 213199,Rémy Descamps,Lyon,existing,213199.0,319888.0,767014.0
 592515,Rémy Labeau Lascary,Brest,existing,592515.0,455470.0,1401248.0
 612589,Sadibou Sané,Metz,existing,612589.0,493103.0,1523208.0
-499724,Sam Amo-Ameyaw,Strasbourg,existing,499724.0,482895.0,
+499724,Sam Amo-Ameyaw,Strasbourg,existing,499724.0,482895.0,1418073.0
 482380,Samir Chergui,Paris FC,existing,482380.0,438655.0,1039219.0
 643307,Samir El Mourabet,Strasbourg,existing,643307.0,512740.0,1598170.0
 575453,Santiago Hidalgo,Toulouse,existing,575453.0,437747.0,1362516.0
@@ -267,142 +267,188 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 100952,Yvon Mvogo,Lorient,existing,100952.0,103542.0,274787.0
 231875,Yéhvann Diouf,Nice,existing,231875.0,319767.0,766574.0
 578498,Zoumana Diallo,Nice,existing,578498.0,552235.0,1366618.0
-new_2026_22,Ahmed Touba,Le Havre,new_linked_full,240864.0,399608.0,792653.0
-new_2026_63,Alec Georgen,Lorient,new_linked_full,199663.0,313693.0,688285.0
+new_2026_25,Ahmed Touba,Le Havre,new_linked_full,240864.0,399608.0,792653.0
+new_2026_68,Alec Georgen,Lorient,new_linked_full,199663.0,313693.0,688285.0
 new_2026_0,Amine El Ouazzani,Angers,new_linked_full,501332.0,511493.0,1123505.0
-new_2026_23,Amir Richardson,Le Havre,new_linked_full,538786.0,455515.0,1255860.0
-new_2026_82,Anis Soubeir,Monaco,new_linked_full,722369.0,642597.0,2130847.0
-new_2026_4,Aristide Zossou,Auxerre,new_linked_full,669341.0,539650.0,1679978.0
-new_2026_5,Arthur Piedfort,Auxerre,new_linked_full,549914.0,485928.0,1441582.0
-new_2026_60,Basar Önal,Lille,new_linked_full,574035.0,532237.0,1347229.0
-new_2026_108,Bryan Reynolds,Rennes,new_linked_full,223353.0,364716.0,924446.0
-new_2026_6,Christ Makosso,Auxerre,new_linked_full,620069.0,511679.0,1474555.0
-new_2026_125,Christ Tapé,Toulouse,new_linked_full,659285.0,635418.0,1666482.0
-new_2026_64,Dembo Sylla,Lorient,new_linked_full,591255.0,476822.0,1399999.0
-new_2026_112,Diogo Sousa,Strasbourg,new_linked_full,569691.0,497764.0,1701117.0
-new_2026_90,Djelan Morana,Nice,new_linked_full,751514.0,648498.0,2140393.0
-new_2026_24,Djibril Ouziad,Le Havre,new_linked_full,750309.0,645115.0,2156004.0
-new_2026_99,Dro Fernández,Paris Saint-Germain,new_linked_full,619825.0,572375.0,1682313.0
-new_2026_14,Egil Selvik,Brest,new_linked_full,477192.0,372297.0,631757.0
-new_2026_25,Elias Jelert,Le Havre,new_linked_full,555929.0,443655.0,1305787.0
-new_2026_109,Eliezer Mayenda,Rennes,new_linked_full,564406.0,494670.0,1391052.0
-new_2026_113,Fabio Baldé,Strasbourg,new_linked_full,576786.0,535020.0,1666019.0
-new_2026_72,Felix Bacher,Lyon,new_linked_full,459633.0,534281.0,951498.0
-new_2026_100,Ferran Torres,Paris Saint-Germain,new_linked_full,224444.0,349760.0,881771.0
-new_2026_114,Filip Jörgensen,Strasbourg,new_linked_full,508479.0,404749.0,1200984.0
-new_2026_83,Flávio Nazinho,Monaco,new_linked_full,483078.0,411913.0,1239590.0
-new_2026_53,Franjo Ivanovic,Lens,new_linked_full,515168.0,499993.0,1406419.0
-new_2026_115,Genesis Antwi,Strasbourg,new_linked_full,591382.0,555021.0,1647186.0
-new_2026_117,Giovanni Reyna,Strasbourg,new_linked_full,427420.0,389087.0,1071179.0
-new_2026_127,Ismaïl Diallo,Toulouse,new_linked_full,664866.0,547433.0,1668299.0
-new_2026_118,Jacobo Ortega,Strasbourg,new_linked_full,499360.0,641375.0,1677224.0
-new_2026_119,Jeyland Mitchell,Strasbourg,new_linked_full,622116.0,517344.0,1340071.0
+new_2026_26,Amir Richardson,Le Havre,new_linked_full,538786.0,455515.0,1255860.0
+new_2026_90,Anis Soubeir,Monaco,new_linked_full,722369.0,642597.0,2130847.0
+new_2026_6,Aristide Zossou,Auxerre,new_linked_full,669341.0,539650.0,1679978.0
+new_2026_7,Arthur Piedfort,Auxerre,new_linked_full,549914.0,485928.0,1441582.0
+new_2026_64,Basar Önal,Lille,new_linked_full,574035.0,532237.0,1347229.0
+new_2026_118,Bryan Reynolds,Rennes,new_linked_full,223353.0,364716.0,924446.0
+new_2026_8,Christ Makosso,Auxerre,new_linked_full,620069.0,511679.0,1474555.0
+new_2026_138,Christ Tapé,Toulouse,new_linked_full,659285.0,635418.0,1666482.0
+new_2026_69,Dembo Sylla,Lorient,new_linked_full,591255.0,476822.0,1399999.0
+new_2026_124,Diogo Sousa,Strasbourg,new_linked_full,569691.0,497764.0,1701117.0
+new_2026_98,Djelan Morana,Nice,new_linked_full,751514.0,648498.0,2140393.0
+new_2026_27,Djibril Ouziad,Le Havre,new_linked_full,750309.0,645115.0,2156004.0
+new_2026_107,Dro Fernández,Paris Saint-Germain,new_linked_full,619825.0,572375.0,1682313.0
+new_2026_17,Egil Selvik,Brest,new_linked_full,477192.0,372297.0,631757.0
+new_2026_28,Elias Jelert,Le Havre,new_linked_full,555929.0,443655.0,1305787.0
+new_2026_119,Eliezer Mayenda,Rennes,new_linked_full,564406.0,494670.0,1391052.0
+new_2026_125,Fabio Baldé,Strasbourg,new_linked_full,576786.0,535020.0,1666019.0
+new_2026_78,Felix Bacher,Lyon,new_linked_full,459633.0,534281.0,951498.0
+new_2026_108,Ferran Torres,Paris Saint-Germain,new_linked_full,224444.0,349760.0,881771.0
+new_2026_126,Filip Jörgensen,Strasbourg,new_linked_full,508479.0,404749.0,1200984.0
+new_2026_91,Flávio Nazinho,Monaco,new_linked_full,483078.0,411913.0,1239590.0
+new_2026_56,Franjo Ivanovic,Lens,new_linked_full,515168.0,499993.0,1406419.0
+new_2026_127,Genesis Antwi,Strasbourg,new_linked_full,591382.0,555021.0,1647186.0
+new_2026_129,Giovanni Reyna,Strasbourg,new_linked_full,427420.0,389087.0,1071179.0
+new_2026_109,Hamari Traoré,Paris FC,new_linked_full,174528.0,289018.0,426892.0
+new_2026_140,Ismaïl Diallo,Toulouse,new_linked_full,664866.0,547433.0,1668299.0
+new_2026_130,Jacobo Ortega,Strasbourg,new_linked_full,499360.0,641375.0,1677224.0
+new_2026_131,Jeyland Mitchell,Strasbourg,new_linked_full,622116.0,517344.0,1340071.0
 new_2026_1,Joseph Kalulu,Angers,new_linked_full,633077.0,511638.0,1610106.0
-new_2026_26,Josh Maja,Le Havre,new_linked_full,195480.0,325156.0,791805.0
-new_2026_73,Julien Duranville,Lyon,new_linked_full,560114.0,438951.0,1368304.0
-new_2026_27,Kaito Mizuta,Le Havre,new_linked_full,547866.0,422891.0,1072117.0
-new_2026_120,Karim Coulibaly,Strasbourg,new_linked_full,628995.0,554472.0,1643851.0
-new_2026_74,Loïs Openda,Lyon,new_linked_full,235084.0,363618.0,747767.0
-new_2026_102,Luca Koleosho,Paris FC,new_linked_full,487702.0,438959.0,1368318.0
-new_2026_103,Lucas Digne,Paris Saint-Germain,new_linked_full,101188.0,89925.0,210111.0
-new_2026_75,Mads Bidstrup,Lyon,new_linked_full,481405.0,410457.0,1081025.0
-new_2026_54,Maik Nawrocki,Lens,new_linked_full,484668.0,423273.0,1053713.0
-new_2026_7,Mamadou Diop,Auxerre,new_linked_full,587304.0,467216.0,1387237.0
-new_2026_17,Mamady Diambou,Brest,new_linked_full,524040.0,425916.0,1231909.0
-new_2026_121,Mateo del Blanco,Strasbourg,new_linked_full,569598.0,432471.0,1336846.0
-new_2026_18,Mathis Lainé,Brest,new_linked_full,669911.0,604989.0,2155246.0
-new_2026_84,Mathys Detourbet,Monaco,new_linked_full,652152.0,549006.0,1709473.0
-new_2026_55,Michal Skóras,Lens,new_linked_full,484672.0,401354.0,954190.0
-new_2026_56,Michaël Cuisance,Lens,new_linked_full,204730.0,344198.0,861445.0
-new_2026_104,Mika Godts,Paris Saint-Germain,new_linked_full,568465.0,462099.0,1396372.0
-new_2026_76,Mohamed Ouédraogo,Lyon,new_linked_full,624682.0,528204.0,1512829.0
-new_2026_92,Nathan Ngoumou,Nice,new_linked_full,469323.0,375341.0,979759.0
-new_2026_78,Neal Maupay,Marseille,new_linked_full,115382.0,119822.0,391064.0
-new_2026_110,Nicolas Lemaître,Rennes,new_linked_full,206935.0,275036.0,625422.0
-new_2026_66,Noah Mbamba,Lorient,new_linked_full,530081.0,414601.0,1225704.0
-new_2026_105,Omar Sissoko,Paris FC,new_linked_full,630700.0,511557.0,1529204.0
-new_2026_85,Oumar Konaté,Monaco,new_linked_full,659292.0,642598.0,1651122.0
-new_2026_106,Patrick Zabi,Paris FC,new_linked_full,683822.0,550549.0,1709839.0
-new_2026_9,Rayan Mandengue,Auxerre,new_linked_full,645666.0,513551.0,1810011.0
-new_2026_128,Sion Oppong,Toulouse,new_linked_full,685398.0,642119.0,1717493.0
-new_2026_28,Sota Nakamura,Le Havre,new_linked_full,685433.0,570092.0,1714197.0
-new_2026_68,Souleymane Faye,Lorient,new_linked_full,482432.0,499785.0,1107257.0
-new_2026_57,Souleymane Sagnan,Lens,new_linked_full,634379.0,554952.0,1727044.0
-new_2026_129,Thomas Jørgensen,Toulouse,new_linked_full,592867.0,482583.0,1481910.0
-new_2026_58,Thorgan Hazard,Lens,new_linked_full,97471.0,101537.0,264190.0
+new_2026_29,Josh Maja,Le Havre,new_linked_full,195480.0,325156.0,791805.0
+new_2026_79,Julien Duranville,Lyon,new_linked_full,560114.0,438951.0,1368304.0
+new_2026_30,Kaito Mizuta,Le Havre,new_linked_full,547866.0,422891.0,1072117.0
+new_2026_132,Karim Coulibaly,Strasbourg,new_linked_full,628995.0,554472.0,1643851.0
+new_2026_80,Loïs Openda,Lyon,new_linked_full,235084.0,363618.0,747767.0
+new_2026_110,Luca Koleosho,Paris FC,new_linked_full,487702.0,438959.0,1368318.0
+new_2026_111,Lucas Digne,Paris Saint-Germain,new_linked_full,101188.0,89925.0,210111.0
+new_2026_81,Mads Bidstrup,Lyon,new_linked_full,481405.0,410457.0,1081025.0
+new_2026_57,Maik Nawrocki,Lens,new_linked_full,484668.0,423273.0,1053713.0
+new_2026_9,Mamadou Diop,Auxerre,new_linked_full,587304.0,467216.0,1387237.0
+new_2026_20,Mamady Diambou,Brest,new_linked_full,524040.0,425916.0,1231909.0
+new_2026_133,Mateo del Blanco,Strasbourg,new_linked_full,569598.0,432471.0,1336846.0
+new_2026_21,Mathis Lainé,Brest,new_linked_full,669911.0,604989.0,2155246.0
+new_2026_92,Mathys Detourbet,Monaco,new_linked_full,652152.0,549006.0,1709473.0
+new_2026_58,Michal Skóras,Lens,new_linked_full,484672.0,401354.0,954190.0
+new_2026_59,Michaël Cuisance,Lens,new_linked_full,204730.0,344198.0,861445.0
+new_2026_112,Mika Godts,Paris Saint-Germain,new_linked_full,568465.0,462099.0,1396372.0
+new_2026_82,Mohamed Ouédraogo,Lyon,new_linked_full,624682.0,528204.0,1512829.0
+new_2026_100,Nathan Ngoumou,Nice,new_linked_full,469323.0,375341.0,979759.0
+new_2026_84,Neal Maupay,Marseille,new_linked_full,115382.0,119822.0,391064.0
+new_2026_120,Nicolas Lemaître,Rennes,new_linked_full,206935.0,275036.0,625422.0
+new_2026_71,Noah Mbamba,Lorient,new_linked_full,530081.0,414601.0,1225704.0
+new_2026_113,Omar Sissoko,Paris FC,new_linked_full,630700.0,511557.0,1529204.0
+new_2026_93,Oumar Konaté,Monaco,new_linked_full,659292.0,642598.0,1651122.0
+new_2026_114,Patrick Zabi,Paris FC,new_linked_full,683822.0,550549.0,1709839.0
+new_2026_11,Rayan Mandengue,Auxerre,new_linked_full,645666.0,513551.0,1810011.0
+new_2026_141,Sion Oppong,Toulouse,new_linked_full,685398.0,642119.0,1717493.0
+new_2026_31,Sota Nakamura,Le Havre,new_linked_full,685433.0,570092.0,1714197.0
+new_2026_73,Souleymane Faye,Lorient,new_linked_full,482432.0,499785.0,1107257.0
+new_2026_60,Souleymane Sagnan,Lens,new_linked_full,634379.0,554952.0,1727044.0
+new_2026_95,Stanis Idumbo,Monaco,new_linked_full,549946.0,516051.0,1366936.0
+new_2026_142,Thomas Jørgensen,Toulouse,new_linked_full,592867.0,482583.0,1481910.0
+new_2026_61,Thorgan Hazard,Lens,new_linked_full,97471.0,101537.0,264190.0
 new_2026_3,Usman Simbakoli,Angers,new_linked_full,523895.0,408914.0,1169692.0
-new_2026_29,Vincent Sasso,Le Havre,new_linked_full,73954.0,120590.0,210443.0
-new_2026_93,Xavier Mandza,Nice,new_linked_full,672279.0,641142.0,2116938.0
-new_2026_59,Yacine Titraoui,Lens,new_linked_full,562049.0,457785.0,1288907.0
-new_2026_77,Zachary Athekame,Lyon,new_linked_full,622748.0,499996.0,1595629.0
-new_2026_89,Aboulaye Camara,Nice,new_linked_partial,750207.0,,2117308.0
-new_2026_32,Adil Bourabaa,Le Mans,new_linked_partial,,607609.0,1900516.0
-new_2026_134,Adrien Monfray,Troyes,new_linked_partial,,236497.0,465719.0
-new_2026_38,Alexandre Lauray,Le Mans,new_linked_partial,,372889.0,1039807.0
-new_2026_145,Alexandre Phliponeau,Troyes,new_linked_partial,,367207.0,992082.0
-new_2026_136,Anis Ouzenadji,Troyes,new_linked_partial,,602817.0,1797614.0
-new_2026_139,Antoine Mille,Troyes,new_linked_partial,,512097.0,1342983.0
-new_2026_35,Antoine Rabillard,Le Mans,new_linked_partial,,302333.0,717270.0
-new_2026_124,Aymen Amaaouch,Toulouse,new_linked_partial,672306.0,,2173745.0
-new_2026_111,Benjamin Brantlind,Strasbourg,new_linked_partial,648131.0,,1611469.0
-new_2026_34,Dame Gueye,Le Mans,new_linked_partial,,303292.0,725256.0
-new_2026_126,David Odogu,Toulouse,new_linked_partial,571290.0,,1469996.0
-new_2026_46,Erwan Colas,Le Mans,new_linked_partial,,470779.0,1438609.0
-new_2026_15,Evan Mailly,Brest,new_linked_partial,673089.0,,1827757.0
-new_2026_50,Ewan Hatfout,Le Mans,new_linked_partial,,388499.0,1114371.0
-new_2026_101,Hamari Traoré,Paris FC,new_linked_partial,174528.0,,426892.0
-new_2026_39,Harold Voyer,Le Mans,new_linked_partial,,547547.0,1311670.0
-new_2026_142,Hugo Picard,Troyes,new_linked_partial,,511492.0,1411553.0
-new_2026_137,Iron Gomis,Troyes,new_linked_partial,,371549.0,1030945.0
-new_2026_65,Isak Jensen,Lorient,new_linked_partial,513456.0,464921.0,
-new_2026_91,Issiaga Camara,Nice,new_linked_partial,632701.0,,1644329.0
-new_2026_40,Jean Vercruysse,Le Mans,new_linked_partial,,547375.0,1244864.0
-new_2026_16,Joseph Nonge,Brest,new_linked_partial,549915.0,468853.0,
+new_2026_32,Vincent Sasso,Le Havre,new_linked_full,73954.0,120590.0,210443.0
+new_2026_101,Xavier Mandza,Nice,new_linked_full,672279.0,641142.0,2116938.0
+new_2026_62,Yacine Titraoui,Lens,new_linked_full,562049.0,457785.0,1288907.0
+new_2026_83,Zachary Athekame,Lyon,new_linked_full,622748.0,499996.0,1595629.0
+new_2026_97,Aboulaye Camara,Nice,new_linked_partial,750207.0,,2117308.0
+new_2026_35,Adil Bourabaa,Le Mans,new_linked_partial,,607609.0,1900516.0
+new_2026_147,Adrien Monfray,Troyes,new_linked_partial,,236497.0,465719.0
+new_2026_41,Alexandre Lauray,Le Mans,new_linked_partial,,372889.0,1039807.0
+new_2026_158,Alexandre Phliponeau,Troyes,new_linked_partial,,367207.0,992082.0
+new_2026_149,Anis Ouzenadji,Troyes,new_linked_partial,,602817.0,1797614.0
+new_2026_152,Antoine Mille,Troyes,new_linked_partial,,512097.0,1342983.0
+new_2026_38,Antoine Rabillard,Le Mans,new_linked_partial,,302333.0,717270.0
+new_2026_137,Aymen Amaaouch,Toulouse,new_linked_partial,672306.0,,2173745.0
+new_2026_123,Benjamin Brantlind,Strasbourg,new_linked_partial,648131.0,,1611469.0
+new_2026_37,Dame Gueye,Le Mans,new_linked_partial,,303292.0,725256.0
+new_2026_139,David Odogu,Toulouse,new_linked_partial,571290.0,,1469996.0
+new_2026_49,Erwan Colas,Le Mans,new_linked_partial,,470779.0,1438609.0
+new_2026_18,Evan Mailly,Brest,new_linked_partial,673089.0,,1827757.0
+new_2026_53,Ewan Hatfout,Le Mans,new_linked_partial,,388499.0,1114371.0
+new_2026_42,Harold Voyer,Le Mans,new_linked_partial,,547547.0,1311670.0
+new_2026_155,Hugo Picard,Troyes,new_linked_partial,,511492.0,1411553.0
+new_2026_150,Iron Gomis,Troyes,new_linked_partial,,371549.0,1030945.0
+new_2026_70,Isak Jensen,Lorient,new_linked_partial,513456.0,464921.0,
+new_2026_99,Issiaga Camara,Nice,new_linked_partial,632701.0,,1644329.0
+new_2026_43,Jean Vercruysse,Le Mans,new_linked_partial,,547375.0,1244864.0
+new_2026_19,Joseph Nonge,Brest,new_linked_partial,549915.0,468853.0,
 new_2026_2,Jules Bouffandeau,Angers,new_linked_partial,749741.0,,2173845.0
-new_2026_146,Kandet Diawara,Troyes,new_linked_partial,,487109.0,1108031.0
-new_2026_31,Louis Mafouta,Le Mans,new_linked_partial,,431641.0,807955.0
-new_2026_61,Loun Srdanovic,Lille,new_linked_partial,621219.0,,1660370.0
-new_2026_42,Lucas Bretelle,Le Mans,new_linked_partial,,511551.0,1523312.0
-new_2026_36,Lucas Buadés,Le Mans,new_linked_partial,,363569.0,874319.0
-new_2026_37,Lucas Calodat,Le Mans,new_linked_partial,,429023.0,1317318.0
-new_2026_133,Lucas Maronnier,Troyes,new_linked_partial,,511490.0,1330942.0
-new_2026_140,Merwan Ifnaou,Troyes,new_linked_partial,,602813.0,1523321.0
-new_2026_48,Milan Robin,Le Mans,new_linked_partial,,547569.0,1359270.0
-new_2026_143,Mouhamed Diop,Troyes,new_linked_partial,,443871.0,1321149.0
-new_2026_33,Nicolas Kocik,Le Mans,new_linked_partial,,302841.0,722531.0
-new_2026_41,Noa Boissé,Le Mans,new_linked_partial,,547546.0,1668295.0
-new_2026_144,Noah Donkor,Troyes,new_linked_partial,,602815.0,1844131.0
-new_2026_138,Patrick Beach,Troyes,new_linked_partial,,599694.0,1335765.0
-new_2026_8,Pierre Ekwah,Auxerre,new_linked_partial,458297.0,,1113784.0
-new_2026_44,Rayan Bamba,Le Mans,new_linked_partial,,520975.0,1632788.0
-new_2026_135,Renaud Ripart,Troyes,new_linked_partial,,232582.0,348420.0
-new_2026_86,Safouane Benzahra,Monaco,new_linked_partial,708057.0,,1845327.0
-new_2026_10,Salimou Danfakha,Auxerre,new_linked_partial,750163.0,,2155074.0
-new_2026_87,Stanis Idumbo,Monaco,new_linked_partial,549946.0,,1366936.0
-new_2026_43,Théo Eyoum,Le Mans,new_linked_partial,,547548.0,1420942.0
-new_2026_45,William Harhouz,Le Mans,new_linked_partial,,602708.0,1791882.0
-new_2026_147,Yacouba Kone,Troyes,new_linked_partial,,644957.0,2155240.0
-new_2026_49,Yasser Larouci,Le Mans,new_linked_partial,,386971.0,1068902.0
-new_2026_141,Yvann Titi,Troyes,new_linked_partial,,602812.0,1487935.0
-new_2026_107,Alessandro Longoni,Paris Saint-Germain,new_unverified,,,1662399.0
-new_2026_47,Billal Brahimi,Le Mans,new_unverified,,362801.0,
-new_2026_150,Christ Batola,Troyes,new_unverified,,,1760691.0
-new_2026_52,Daouda Traoré,Le Mans,new_unverified,,,1388072.0
-new_2026_81,Faris Moumbagna,Marseille,new_unverified,,395595.0,
-new_2026_30,Gauthier Gallon,Le Havre,new_unverified,,,348409.0
-new_2026_116,Ghianny Kodia,Strasbourg,new_unverified,691255.0,,
-new_2026_123,Ghianny Kodia Ladji,Strasbourg,new_unverified,,,1729847.0
-new_2026_148,Hillel Konaté,Troyes,new_unverified,,,560896.0
-new_2026_151,Idrissa Soukouna,Troyes,new_unverified,,,2155239.0
-new_2026_70,Isak Steiner Jensen,Lorient,new_unverified,,,1202070.0
-new_2026_20,Joseph Boende,Brest,new_unverified,,,1427018.0
-new_2026_21,Mathieu Patouillet,Brest,new_unverified,,,1514445.0
-new_2026_132,Mathys Niflore,Toulouse,new_unverified,,,1487879.0
-new_2026_122,Milosz Piekutowski,Strasbourg,new_unverified,,,1283393.0
-new_2026_71,Nosa Edward Obaretin,Lorient,new_unverified,,,1526621.0
-new_2026_67,Nosa Obaretin,Lorient,new_unverified,551410.0,,
-new_2026_149,Paolo Gozzi,Troyes,new_unverified,,,1039458.0
-new_2026_13,Paul Nardi,Auxerre,new_unverified,,,291643.0
-new_2026_51,Raúl Torrente,Le Mans,new_unverified,,,1202891.0
-new_2026_19,Romain Cagnon,Brest,new_unverified,,,820010.0
-new_2026_98,Teddy Boulhendi,Nice,new_unverified,,,1210649.0
+new_2026_159,Kandet Diawara,Troyes,new_linked_partial,,487109.0,1108031.0
+new_2026_34,Louis Mafouta,Le Mans,new_linked_partial,,431641.0,807955.0
+new_2026_65,Loun Srdanovic,Lille,new_linked_partial,621219.0,,1660370.0
+new_2026_45,Lucas Bretelle,Le Mans,new_linked_partial,,511551.0,1523312.0
+new_2026_39,Lucas Buadés,Le Mans,new_linked_partial,,363569.0,874319.0
+new_2026_40,Lucas Calodat,Le Mans,new_linked_partial,,429023.0,1317318.0
+new_2026_146,Lucas Maronnier,Troyes,new_linked_partial,,511490.0,1330942.0
+new_2026_153,Merwan Ifnaou,Troyes,new_linked_partial,,602813.0,1523321.0
+new_2026_51,Milan Robin,Le Mans,new_linked_partial,,547569.0,1359270.0
+new_2026_156,Mouhamed Diop,Troyes,new_linked_partial,,443871.0,1321149.0
+new_2026_36,Nicolas Kocik,Le Mans,new_linked_partial,,302841.0,722531.0
+new_2026_44,Noa Boissé,Le Mans,new_linked_partial,,547546.0,1668295.0
+new_2026_157,Noah Donkor,Troyes,new_linked_partial,,602815.0,1844131.0
+new_2026_151,Patrick Beach,Troyes,new_linked_partial,,599694.0,1335765.0
+new_2026_10,Pierre Ekwah,Auxerre,new_linked_partial,458297.0,,1113784.0
+new_2026_47,Rayan Bamba,Le Mans,new_linked_partial,,520975.0,1632788.0
+new_2026_148,Renaud Ripart,Troyes,new_linked_partial,,232582.0,348420.0
+new_2026_94,Safouane Benzahra,Monaco,new_linked_partial,708057.0,,1845327.0
+new_2026_12,Salimou Danfakha,Auxerre,new_linked_partial,750163.0,,2155074.0
+new_2026_46,Théo Eyoum,Le Mans,new_linked_partial,,547548.0,1420942.0
+new_2026_48,William Harhouz,Le Mans,new_linked_partial,,602708.0,1791882.0
+new_2026_160,Yacouba Kone,Troyes,new_linked_partial,,644957.0,2155240.0
+new_2026_52,Yasser Larouci,Le Mans,new_linked_partial,,386971.0,1068902.0
+new_2026_154,Yvann Titi,Troyes,new_linked_partial,,602812.0,1487935.0
+new_2026_166,Adil Bourabaa,,new_unverified,729203.0,,
+new_2026_167,Adrien Monfray,,new_unverified,149588.0,,
+new_2026_117,Alessandro Longoni,Paris Saint-Germain,new_unverified,,,1662399.0
+new_2026_168,Alexandre Lauray,,new_unverified,482549.0,,
+new_2026_169,Alexandre Phliponeau,,new_unverified,471437.0,,
+new_2026_170,Anis Ouzenadji,,new_unverified,703779.0,,
+new_2026_171,Antoine Mille,,new_unverified,444395.0,,
+new_2026_172,Antoine Rabillard,,new_unverified,221456.0,,
+new_2026_50,Billal Brahimi,Le Mans,new_unverified,,362801.0,
+new_2026_164,Christ Batola,Troyes,new_unverified,,,1760691.0
+new_2026_173,Christ Batola,,new_unverified,672304.0,,
+new_2026_174,Dame Gueye,,new_unverified,222862.0,,
+new_2026_175,Daouda Traoré,,new_unverified,587082.0,,
+new_2026_55,Daouda Traoré,Le Mans,new_unverified,,,1388072.0
+new_2026_176,Erwan Colas,,new_unverified,563115.0,,
+new_2026_177,Ewan Hatfout,,new_unverified,498382.0,,
+new_2026_88,Faris Moumbagna,Marseille,new_unverified,,395595.0,
+new_2026_33,Gauthier Gallon,Le Havre,new_unverified,,,348409.0
+new_2026_128,Ghianny Kodia,Strasbourg,new_unverified,691255.0,,
+new_2026_136,Ghianny Kodia Ladji,Strasbourg,new_unverified,,,1729847.0
+new_2026_178,Harold Voyer,,new_unverified,225893.0,,
+new_2026_161,Hillel Konaté,Troyes,new_unverified,,,560896.0
+new_2026_179,Hugo Picard,,new_unverified,554580.0,,
+new_2026_165,Idrissa Soukouna,Troyes,new_unverified,,,2155239.0
+new_2026_180,Idrissa Soukouna,,new_unverified,749560.0,,
+new_2026_181,Iron Gomis,,new_unverified,480469.0,,
+new_2026_76,Isak Steiner Jensen,Lorient,new_unverified,,,1202070.0
+new_2026_182,Jean Vercruysse,,new_unverified,477712.0,,
+new_2026_23,Joseph Boende,Brest,new_unverified,,,1427018.0
+new_2026_183,Kandet Diawara,,new_unverified,496521.0,,
+new_2026_122,Kilian Belazzoug,Rennes,new_unverified,,,1841191.0
+new_2026_184,Louis Mafouta,,new_unverified,442793.0,,
+new_2026_185,Lucas Bretelle,,new_unverified,560489.0,,
+new_2026_186,Lucas Buadés,,new_unverified,433731.0,,
+new_2026_187,Lucas Calodat,,new_unverified,561736.0,,
+new_2026_188,Lucas Maronnier,,new_unverified,554582.0,,
+new_2026_121,Mahamadou Nagida,Rennes,new_unverified,,,1553514.0
+new_2026_115,Mamadou Mbow,Paris FC,new_unverified,,,1053678.0
+new_2026_24,Mathieu Patouillet,Brest,new_unverified,,,1514445.0
+new_2026_145,Mathys Niflore,Toulouse,new_unverified,,,1487879.0
+new_2026_189,Merwan Ifnaoui,,new_unverified,628026.0,,
+new_2026_163,Michel Diaz,Troyes,new_unverified,,,1401205.0
+new_2026_190,Milan Robin,,new_unverified,208557.0,,
+new_2026_134,Milosz Piekutowski,Strasbourg,new_unverified,,,1283393.0
+new_2026_191,Mouhamed Diop,,new_unverified,550567.0,,
+new_2026_192,Nicolas Kocik,,new_unverified,222388.0,,
+new_2026_193,Noa Boissé,,new_unverified,665236.0,,
+new_2026_194,Noah Donkor,,new_unverified,719331.0,,
+new_2026_77,Nosa Edward Obaretin,Lorient,new_unverified,,,1526621.0
+new_2026_72,Nosa Obaretin,Lorient,new_unverified,551410.0,,
+new_2026_162,Paolo Gozzi,Troyes,new_unverified,,,1039458.0
+new_2026_195,Paolo Gozzi,,new_unverified,248667.0,,
+new_2026_196,Patrick Beach,,new_unverified,568146.0,,
+new_2026_15,Paul Nardi,Auxerre,new_unverified,,,291643.0
+new_2026_197,Rayan Bamba,,new_unverified,653530.0,,
+new_2026_198,Raúl Torrente,,new_unverified,519534.0,,
+new_2026_54,Raúl Torrente,Le Mans,new_unverified,,,1202891.0
+new_2026_199,Renaud Ripart,,new_unverified,121150.0,,
+new_2026_22,Romain Cagnon,Brest,new_unverified,,,820010.0
+new_2026_75,Souleymane Touré,Lorient,new_unverified,,,1180547.0
+new_2026_106,Teddy Boulhendi,Nice,new_unverified,,,1210649.0
+new_2026_16,Thelonius Bair,Auxerre,new_unverified,,,942893.0
+new_2026_200,Théo Eyoum,,new_unverified,511500.0,,
+new_2026_89,Théo Vermot,Marseille,new_unverified,,,1078904.0
+new_2026_201,William Harhouz,,new_unverified,701214.0,,
+new_2026_202,Yacouba Koné,,new_unverified,749559.0,,
+new_2026_203,Yasser Larouci,,new_unverified,432990.0,,
+new_2026_204,Yvann Titi,,new_unverified,620415.0,,

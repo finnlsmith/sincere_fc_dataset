@@ -84,7 +84,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 428785,Jeff Chabot,Stuttgart,existing,428785.0,343317.0,867080.0
 93683,Jeffrey Gouweleeuw,Augsburg,existing,93683.0,97351.0,245315.0
 519322,Jobe Bellingham,Borussia Dortmund,existing,519322.0,422365.0,1287373.0
-427426,Joe Scally,Borussia Monchengladbach,existing,427426.0,363069.0,
+427426,Joe Scally,Borussia Monchengladbach,existing,427426.0,363069.0,959696.0
 519638,Johan Bakayoko,RB Leipzig,existing,519638.0,427824.0,1203194.0
 118876,Jonas Hofmann,Bayer Leverkusen,existing,118876.0,115163.0,331542.0
 494589,Jonas Urbig,Bayern Munich,existing,,,1285872.0
@@ -117,7 +117,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 476824,Leonidas Stergiou,Heidenheim,existing,476824.0,401742.0,1019947.0
 518058,Leopold Querfeld,Union Berlin,existing,518058.0,427502.0,1199947.0
 219846,Linton Maina,Koln,existing,219846.0,354555.0,930035.0
-696486,Linus Güther,Union Berlin,existing,696486.0,,
+696486,Linus Güther,Union Berlin,existing,696486.0,,1958812.0
 519095,Livan Burcu,Union Berlin,existing,519095.0,495291.0,1520506.0
 687635,Louis Lemke,Hamburger SV,existing,687635.0,607388.0,1899791.0
 649816,Love Arrhov,Eintracht Frankfurt,existing,649816.0,605345.0,1717491.0
@@ -152,7 +152,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 477717,Maxime Estève,Burnley,existing,477717.0,,1250443.0
 465859,Maximilian Beier,Borussia Dortmund,existing,465859.0,387125.0,1047667.0
 200850,Maximilian Eggestein,Freiburg,existing,200850.0,254557.0,602523.0
-204335,Maximilian Mittelstädt,Stuttgart,existing,204335.0,261020.0,
+204335,Maximilian Mittelstädt,Stuttgart,existing,204335.0,261020.0,614384.0
 550661,Mert Kömür,Augsburg,existing,550661.0,474412.0,1453218.0
 62480,Michael Gregoritsch,Augsburg,existing,62480.0,84919.0,198316.0
 443661,Michael Olise,Bayern Munich,existing,443661.0,371281.0,1029063.0
@@ -233,131 +233,192 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 481035,Yuito Suzuki,Freiburg,existing,481035.0,472403.0,1134467.0
 166028,Yussuf Poulsen,Hamburger SV,existing,166028.0,132943.0,266527.0
 479342,Ísak Jóhannesson,Koln,existing,479342.0,406062.0,1000428.0
-new_2026_5,Afonso Moreira,Bayer 04 Leverkusen,new_linked_full,551191.0,478033.0,1367047.0
-new_2026_62,Albert Grønbæk,Hamburger SV,new_linked_full,494779.0,424809.0,1133381.0
-new_2026_106,Arthur Vermeeren,RB Leipzig,new_linked_full,578612.0,445430.0,1387389.0
-new_2026_70,Bambasé Conté,TSG 1899 Hoffenheim,new_linked_full,513565.0,433100.0,1338957.0
-new_2026_63,Bilal Nadir,Hamburger SV,new_linked_full,546178.0,422240.0,1283407.0
-new_2026_107,Brajan Gruda,RB Leipzig,new_linked_full,513433.0,471784.0,1430151.0
+new_2026_6,Afonso Moreira,Bayer 04 Leverkusen,new_linked_full,551191.0,478033.0,1367047.0
+new_2026_67,Albert Grønbæk,Hamburger SV,new_linked_full,494779.0,424809.0,1133381.0
+new_2026_114,Arthur Vermeeren,RB Leipzig,new_linked_full,578612.0,445430.0,1387389.0
+new_2026_75,Bambasé Conté,TSG 1899 Hoffenheim,new_linked_full,513565.0,433100.0,1338957.0
+new_2026_68,Bilal Nadir,Hamburger SV,new_linked_full,546178.0,422240.0,1283407.0
+new_2026_115,Brajan Gruda,RB Leipzig,new_linked_full,513433.0,471784.0,1430151.0
 new_2026_0,Calvin Brackelmann,FC Augsburg,new_linked_full,585070.0,445983.0,1300329.0
-new_2026_27,Cedric Itten,SV Werder Bremen,new_linked_full,198383.0,312582.0,726956.0
-new_2026_108,Christopher Nkunku,RB Leipzig,new_linked_full,213198.0,300945.0,704523.0
-new_2026_28,Chuki,SV Werder Bremen,new_linked_full,587669.0,506115.0,1315344.0
-new_2026_29,Dariusz Stalmach,SV Werder Bremen,new_linked_full,545189.0,552277.0,1276988.0
-new_2026_129,Emmanuel Latte Lath,1. FC Union Berlin,new_linked_full,233581.0,323242.0,783585.0
+new_2026_30,Cedric Itten,SV Werder Bremen,new_linked_full,198383.0,312582.0,726956.0
+new_2026_116,Christopher Nkunku,RB Leipzig,new_linked_full,213198.0,300945.0,704523.0
+new_2026_31,Chuki,SV Werder Bremen,new_linked_full,587669.0,506115.0,1315344.0
+new_2026_32,Dariusz Stalmach,SV Werder Bremen,new_linked_full,545189.0,552277.0,1276988.0
+new_2026_142,Emmanuel Latte Lath,1. FC Union Berlin,new_linked_full,233581.0,323242.0,783585.0
+new_2026_139,Fabian Bredlow,VfB Stuttgart,new_linked_full,179612.0,142529.0,522236.0
 new_2026_1,Fabian Rieder,FC Augsburg,new_linked_full,449787.0,404193.0,1161211.0
-new_2026_82,Fabio Gruber,1. FSV Mainz 05,new_linked_full,515169.0,552278.0,1362417.0
-new_2026_6,Facundo Medina,Bayer 04 Leverkusen,new_linked_full,224868.0,330672.0,812652.0
-new_2026_9,Giannis Konstantelias,Borussia Dortmund,new_linked_full,477510.0,476927.0,1215014.0
-new_2026_76,Gideon Mensah,1. FC Köln,new_linked_full,229670.0,402749.0,771630.0
-new_2026_34,Jeremiaha Maluze,Eintracht Frankfurt,new_linked_full,700073.0,568298.0,1671553.0
-new_2026_10,Joane Gadou,Borussia Dortmund,new_linked_full,592891.0,513664.0,1479742.0
-new_2026_11,Joey Veerman,Borussia Dortmund,new_linked_full,231653.0,382556.0,792429.0
-new_2026_12,Kauã Prates,Borussia Dortmund,new_linked_full,685487.0,551822.0,1750565.0
-new_2026_61,Keisuke Goto,Sport-Club Freiburg,new_linked_full,587165.0,550709.0,1436730.0
-new_2026_13,Konstantinos Karetsas,Borussia Dortmund,new_linked_full,609068.0,471855.0,1536436.0
-new_2026_30,Ludovit Reis,SV Werder Bremen,new_linked_full,433051.0,343436.0,869326.0
-new_2026_78,Luka Lochoshvili,1. FC Köln,new_linked_full,211265.0,404262.0,784175.0
-new_2026_35,Malik Pimpong,Eintracht Frankfurt,new_linked_full,687059.0,606459.0,1690128.0
-new_2026_65,Martin Adeline,Hamburger SV,new_linked_full,493355.0,430308.0,1324082.0
-new_2026_72,Mats Rots,TSG 1899 Hoffenheim,new_linked_full,576750.0,475578.0,1445416.0
-new_2026_7,Miguel Gutiérrez,Bayer 04 Leverkusen,new_linked_full,248498.0,395788.0,942379.0
-new_2026_73,Nathan De Cat,TSG 1899 Hoffenheim,new_linked_full,646003.0,532302.0,1664759.0
-new_2026_31,Niclas Füllkrug,SV Werder Bremen,new_linked_full,91889.0,104058.0,276791.0
-new_2026_83,Otto Ruoppi,1. FSV Mainz 05,new_linked_full,573117.0,566595.0,1347994.0
-new_2026_37,Otávio,Eintracht Frankfurt,new_linked_full,694362.0,557907.0,1738366.0
-new_2026_66,Patson Daka,Hamburger SV,new_linked_full,245419.0,345560.0,644459.0
-new_2026_79,Paul Okon-Engstler,1. FC Köln,new_linked_full,550966.0,570078.0,1527363.0
-new_2026_38,Raphael Onyedika,Eintracht Frankfurt,new_linked_full,503548.0,425338.0,1126768.0
-new_2026_67,Sebastiaan Bornauw,Hamburger SV,new_linked_full,437738.0,364235.0,922892.0
-new_2026_68,Terem Moffi,Hamburger SV,new_linked_full,438398.0,400505.0,885005.0
-new_2026_81,Thijs Dallinga,1. FC Köln,new_linked_full,438590.0,379687.0,885085.0
-new_2026_131,Zeno Van den Bosch,1. FC Union Berlin,new_linked_full,531858.0,410525.0,1231677.0
-new_2026_112,Adil Aouchiche,FC Schalke 04,new_linked_partial,,382491.0,1047664.0
-new_2026_126,Badredine Bouanani,VfB Stuttgart,new_linked_partial,492949.0,,1388070.0
-new_2026_60,Berkay Yilmaz,Sport-Club Freiburg,new_linked_partial,547313.0,,1580371.0
-new_2026_71,Cajetan Lenz,TSG 1899 Hoffenheim,new_linked_partial,695474.0,,1793498.0
-new_2026_101,Clemens Lippmann,SC Paderborn 07,new_linked_partial,,625161.0,1701615.0
-new_2026_20,Daiki Hashioka,Borussia Mönchengladbach,new_linked_partial,209293.0,,878296.0
-new_2026_21,David Herold,Borussia Mönchengladbach,new_linked_partial,493326.0,,1356589.0
-new_2026_115,Dejan Ljubicic,FC Schalke 04,new_linked_partial,,363662.0,861668.0
-new_2026_121,Edin Dzeko,FC Schalke 04,new_linked_partial,,24845.0,15403.0
-new_2026_22,Enzo Leopold,Borussia Mönchengladbach,new_linked_partial,543919.0,,1301517.0
-new_2026_127,Fabian Bredlow,Stuttgart,new_linked_partial,179612.0,142529.0,
-new_2026_49,Felix Keidel,SV 07 Elversberg,new_linked_partial,,438493.0,1366338.0
-new_2026_130,Felix Uduokhai,1. FC Union Berlin,new_linked_partial,221693.0,,767800.0
-new_2026_50,Florian Le Joncour,SV 07 Elversberg,new_linked_partial,,294026.0,594886.0
-new_2026_41,Francis Onyeka,SV 07 Elversberg,new_linked_partial,,514447.0,1603681.0
-new_2026_95,Gabriel Vidovic,SC Paderborn 07,new_linked_partial,,424368.0,1276453.0
-new_2026_113,Hasan Kuruçay,FC Schalke 04,new_linked_partial,,435993.0,794619.0
-new_2026_23,Isac Lidberg,Borussia Mönchengladbach,new_linked_partial,193806.0,,655095.0
-new_2026_8,Ismael Saibari,Bayern Munich,new_linked_partial,492963.0,404776.0,
-new_2026_43,Jan Gyamerah,SV 07 Elversberg,new_linked_partial,,132011.0,458602.0
-new_2026_24,Jan Leszczynski,Borussia Mönchengladbach,new_linked_partial,626569.0,,1660228.0
-new_2026_90,Jano ter Horst,SC Paderborn 07,new_linked_partial,,494154.0,1520469.0
-new_2026_98,Jonah Sticker,SC Paderborn 07,new_linked_partial,,495281.0,1520593.0
-new_2026_77,Jonathan Friemel,1. FC Köln,new_linked_partial,685509.0,,1829438.0
-new_2026_25,Ko Itakura,Borussia Mönchengladbach,new_linked_partial,210906.0,,620917.0
-new_2026_64,Kofi Amoako,Hamburger SV,new_linked_partial,550884.0,,1587901.0
-new_2026_45,Lasse Günther,SV 07 Elversberg,new_linked_partial,,425057.0,1245692.0
-new_2026_88,Laurin Curda,SC Paderborn 07,new_linked_partial,,486781.0,1426060.0
-new_2026_99,Laurin Ulrich,SC Paderborn 07,new_linked_partial,,444292.0,1367587.0
-new_2026_109,Loris Karius,FC Schalke 04,new_linked_partial,,107176.0,287894.0
-new_2026_51,Luca Schnellbacher,SV 07 Elversberg,new_linked_partial,,446542.0,459010.0
-new_2026_52,Luca Sirch,SV 07 Elversberg,new_linked_partial,,485040.0,1097361.0
-new_2026_40,Lukas Petkov,SV 07 Elversberg,new_linked_partial,,406672.0,1093782.0
-new_2026_44,Lukas Pinckert,SV 07 Elversberg,new_linked_partial,,446537.0,1280560.0
-new_2026_47,Lukasz Poreba,SV 07 Elversberg,new_linked_partial,,424465.0,962113.0
-new_2026_26,Mathieu Nguefack,Borussia Mönchengladbach,new_linked_partial,648805.0,,1975572.0
-new_2026_94,Mattes Hansen,SC Paderborn 07,new_linked_partial,,487066.0,1515976.0
-new_2026_54,Maurice Krattenmacher,SV 07 Elversberg,new_linked_partial,,485137.0,1412933.0
-new_2026_46,Maximilian Rohr,SV 07 Elversberg,new_linked_partial,,419916.0,1077911.0
-new_2026_118,Mertcan Ayhan,FC Schalke 04,new_linked_partial,,560433.0,1755657.0
-new_2026_116,Moussa Sylla,FC Schalke 04,new_linked_partial,,344041.0,860056.0
-new_2026_92,Nahuel Noll,SC Paderborn 07,new_linked_partial,,416165.0,1257826.0
+new_2026_89,Fabio Gruber,1. FSV Mainz 05,new_linked_full,515169.0,552278.0,1362417.0
+new_2026_7,Facundo Medina,Bayer 04 Leverkusen,new_linked_full,224868.0,330672.0,812652.0
+new_2026_10,Giannis Konstantelias,Borussia Dortmund,new_linked_full,477510.0,476927.0,1215014.0
+new_2026_82,Gideon Mensah,1. FC Köln,new_linked_full,229670.0,402749.0,771630.0
+new_2026_37,Jeremiaha Maluze,Eintracht Frankfurt,new_linked_full,700073.0,568298.0,1671553.0
+new_2026_11,Joane Gadou,Borussia Dortmund,new_linked_full,592891.0,513664.0,1479742.0
+new_2026_12,Joey Veerman,Borussia Dortmund,new_linked_full,231653.0,382556.0,792429.0
+new_2026_13,Kauã Prates,Borussia Dortmund,new_linked_full,685487.0,551822.0,1750565.0
+new_2026_65,Keisuke Goto,Sport-Club Freiburg,new_linked_full,587165.0,550709.0,1436730.0
+new_2026_14,Konstantinos Karetsas,Borussia Dortmund,new_linked_full,609068.0,471855.0,1536436.0
+new_2026_33,Ludovit Reis,SV Werder Bremen,new_linked_full,433051.0,343436.0,869326.0
+new_2026_84,Luka Lochoshvili,1. FC Köln,new_linked_full,211265.0,404262.0,784175.0
+new_2026_38,Malik Pimpong,Eintracht Frankfurt,new_linked_full,687059.0,606459.0,1690128.0
+new_2026_70,Martin Adeline,Hamburger SV,new_linked_full,493355.0,430308.0,1324082.0
+new_2026_77,Mats Rots,TSG 1899 Hoffenheim,new_linked_full,576750.0,475578.0,1445416.0
+new_2026_8,Miguel Gutiérrez,Bayer 04 Leverkusen,new_linked_full,248498.0,395788.0,942379.0
+new_2026_78,Nathan De Cat,TSG 1899 Hoffenheim,new_linked_full,646003.0,532302.0,1664759.0
+new_2026_34,Niclas Füllkrug,SV Werder Bremen,new_linked_full,91889.0,104058.0,276791.0
+new_2026_90,Otto Ruoppi,1. FSV Mainz 05,new_linked_full,573117.0,566595.0,1347994.0
+new_2026_40,Otávio,Eintracht Frankfurt,new_linked_full,694362.0,557907.0,1738366.0
+new_2026_71,Patson Daka,Hamburger SV,new_linked_full,245419.0,345560.0,644459.0
+new_2026_85,Paul Okon-Engstler,1. FC Köln,new_linked_full,550966.0,570078.0,1527363.0
+new_2026_41,Raphael Onyedika,Eintracht Frankfurt,new_linked_full,503548.0,425338.0,1126768.0
+new_2026_72,Sebastiaan Bornauw,Hamburger SV,new_linked_full,437738.0,364235.0,922892.0
+new_2026_92,Sheraldo Becker,1. FSV Mainz 05,new_linked_full,173547.0,137227.0,495222.0
+new_2026_73,Terem Moffi,Hamburger SV,new_linked_full,438398.0,400505.0,885005.0
+new_2026_87,Thijs Dallinga,1. FC Köln,new_linked_full,438590.0,379687.0,885085.0
+new_2026_144,Zeno Van den Bosch,1. FC Union Berlin,new_linked_full,531858.0,410525.0,1231677.0
+new_2026_121,Adil Aouchiche,FC Schalke 04,new_linked_partial,,382491.0,1047664.0
+new_2026_138,Badredine Bouanani,VfB Stuttgart,new_linked_partial,492949.0,,1388070.0
+new_2026_64,Berkay Yilmaz,Sport-Club Freiburg,new_linked_partial,547313.0,,1580371.0
+new_2026_76,Cajetan Lenz,TSG 1899 Hoffenheim,new_linked_partial,695474.0,,1793498.0
+new_2026_108,Clemens Lippmann,SC Paderborn 07,new_linked_partial,,625161.0,1701615.0
+new_2026_22,Daiki Hashioka,Borussia Mönchengladbach,new_linked_partial,209293.0,,878296.0
+new_2026_23,David Herold,Borussia Mönchengladbach,new_linked_partial,493326.0,,1356589.0
+new_2026_124,Dejan Ljubicic,FC Schalke 04,new_linked_partial,,363662.0,861668.0
+new_2026_130,Edin Dzeko,FC Schalke 04,new_linked_partial,,24845.0,15403.0
+new_2026_24,Enzo Leopold,Borussia Mönchengladbach,new_linked_partial,543919.0,,1301517.0
+new_2026_53,Felix Keidel,SV 07 Elversberg,new_linked_partial,,438493.0,1366338.0
+new_2026_143,Felix Uduokhai,1. FC Union Berlin,new_linked_partial,221693.0,,767800.0
+new_2026_54,Florian Le Joncour,SV 07 Elversberg,new_linked_partial,,294026.0,594886.0
+new_2026_44,Francis Onyeka,SV 07 Elversberg,new_linked_partial,,514447.0,1603681.0
+new_2026_102,Gabriel Vidovic,SC Paderborn 07,new_linked_partial,,424368.0,1276453.0
+new_2026_122,Hasan Kuruçay,FC Schalke 04,new_linked_partial,,435993.0,794619.0
+new_2026_25,Isac Lidberg,Borussia Mönchengladbach,new_linked_partial,193806.0,,655095.0
+new_2026_9,Ismael Saibari,Bayern Munich,new_linked_partial,492963.0,404776.0,
+new_2026_47,Jan Gyamerah,SV 07 Elversberg,new_linked_partial,,132011.0,458602.0
+new_2026_26,Jan Leszczynski,Borussia Mönchengladbach,new_linked_partial,626569.0,,1660228.0
+new_2026_97,Jano ter Horst,SC Paderborn 07,new_linked_partial,,494154.0,1520469.0
+new_2026_105,Jonah Sticker,SC Paderborn 07,new_linked_partial,,495281.0,1520593.0
+new_2026_83,Jonathan Friemel,1. FC Köln,new_linked_partial,685509.0,,1829438.0
+new_2026_129,Junior Dina Ebimbe,FC Schalke 04,new_linked_partial,,372927.0,1040889.0
+new_2026_27,Ko Itakura,Borussia Mönchengladbach,new_linked_partial,210906.0,,620917.0
+new_2026_69,Kofi Amoako,Hamburger SV,new_linked_partial,550884.0,,1587901.0
+new_2026_49,Lasse Günther,SV 07 Elversberg,new_linked_partial,,425057.0,1245692.0
+new_2026_95,Laurin Curda,SC Paderborn 07,new_linked_partial,,486781.0,1426060.0
+new_2026_106,Laurin Ulrich,SC Paderborn 07,new_linked_partial,,444292.0,1367587.0
+new_2026_118,Loris Karius,FC Schalke 04,new_linked_partial,,107176.0,287894.0
+new_2026_55,Luca Schnellbacher,SV 07 Elversberg,new_linked_partial,,446542.0,459010.0
+new_2026_56,Luca Sirch,SV 07 Elversberg,new_linked_partial,,485040.0,1097361.0
+new_2026_43,Lukas Petkov,SV 07 Elversberg,new_linked_partial,,406672.0,1093782.0
+new_2026_48,Lukas Pinckert,SV 07 Elversberg,new_linked_partial,,446537.0,1280560.0
+new_2026_51,Lukasz Poreba,SV 07 Elversberg,new_linked_partial,,424465.0,962113.0
+new_2026_28,Mathieu Nguefack,Borussia Mönchengladbach,new_linked_partial,648805.0,,1975572.0
+new_2026_101,Mattes Hansen,SC Paderborn 07,new_linked_partial,,487066.0,1515976.0
+new_2026_58,Maurice Krattenmacher,SV 07 Elversberg,new_linked_partial,,485137.0,1412933.0
+new_2026_50,Maximilian Rohr,SV 07 Elversberg,new_linked_partial,,419916.0,1077911.0
+new_2026_127,Mertcan Ayhan,FC Schalke 04,new_linked_partial,,560433.0,1755657.0
+new_2026_125,Moussa Sylla,FC Schalke 04,new_linked_partial,,344041.0,860056.0
+new_2026_99,Nahuel Noll,SC Paderborn 07,new_linked_partial,,416165.0,1257826.0
 new_2026_2,Nathanaël Mbuku,FC Augsburg,new_linked_partial,476892.0,,1049799.0
-new_2026_74,Natnael Abraha,TSG 1899 Hoffenheim,new_linked_partial,627549.0,,1899713.0
-new_2026_48,Nicolas Kristof,SV 07 Elversberg,new_linked_partial,,446532.0,1285926.0
-new_2026_110,Nikola Katic,FC Schalke 04,new_linked_partial,,363666.0,725655.0
-new_2026_36,Noël Aséko,Eintracht Frankfurt,new_linked_partial,549875.0,,1596359.0
-new_2026_32,Paul Erevbenagie,SV Werder Bremen,new_linked_partial,627418.0,,1810868.0
-new_2026_84,Rael Nakuzola,1. FSV Mainz 05,new_linked_partial,750292.0,,2140397.0
-new_2026_93,Raphael Obermair,SC Paderborn 07,new_linked_partial,,336037.0,784225.0
-new_2026_80,Reigan Heskey,1. FC Köln,new_linked_partial,580921.0,,1665352.0
-new_2026_119,Robin Gosens,FC Schalke 04,new_linked_partial,,141726.0,518346.0
-new_2026_122,Ron Schallenberg,FC Schalke 04,new_linked_partial,,401089.0,820974.0
-new_2026_91,Santiago Castañeda,SC Paderborn 07,new_linked_partial,,531855.0,1362492.0
+new_2026_79,Natnael Abraha,TSG 1899 Hoffenheim,new_linked_partial,627549.0,,1899713.0
+new_2026_52,Nicolas Kristof,SV 07 Elversberg,new_linked_partial,,446532.0,1285926.0
+new_2026_119,Nikola Katic,FC Schalke 04,new_linked_partial,,363666.0,725655.0
+new_2026_39,Noël Aséko,Eintracht Frankfurt,new_linked_partial,549875.0,,1596359.0
+new_2026_35,Paul Erevbenagie,SV Werder Bremen,new_linked_partial,627418.0,,1810868.0
+new_2026_91,Rael Nakuzola,1. FSV Mainz 05,new_linked_partial,750292.0,,2140397.0
+new_2026_100,Raphael Obermair,SC Paderborn 07,new_linked_partial,,336037.0,784225.0
+new_2026_86,Reigan Heskey,1. FC Köln,new_linked_partial,580921.0,,1665352.0
+new_2026_128,Robin Gosens,FC Schalke 04,new_linked_partial,,141726.0,518346.0
+new_2026_131,Ron Schallenberg,FC Schalke 04,new_linked_partial,,401089.0,820974.0
+new_2026_98,Santiago Castañeda,SC Paderborn 07,new_linked_partial,,531855.0,1362492.0
 new_2026_3,Seol Young-Woo,Augsburg,new_linked_partial,183364.0,477549.0,
-new_2026_85,Sheraldo Becker,1. FSV Mainz 05,new_linked_partial,173547.0,,495222.0
-new_2026_111,Soufian El-Faouzi,FC Schalke 04,new_linked_partial,,414038.0,1249185.0
-new_2026_86,Stefan Posch,1. FSV Mainz 05,new_linked_partial,191803.0,,557325.0
-new_2026_96,Stefano Marino,SC Paderborn 07,new_linked_partial,,429675.0,1321553.0
-new_2026_97,Steffen Tigges,SC Paderborn 07,new_linked_partial,,301066.0,706500.0
-new_2026_117,Timo Becker,FC Schalke 04,new_linked_partial,,323169.0,785739.0
-new_2026_89,Tjark Scheller,SC Paderborn 07,new_linked_partial,,502544.0,1415373.0
-new_2026_100,Tom Baack,SC Paderborn 07,new_linked_partial,,306961.0,658444.0
-new_2026_114,Vitalie Becker,FC Schalke 04,new_linked_partial,,531850.0,1659420.0
-new_2026_33,Alexander Schlager,SV Werder Bremen,new_unverified,,,450739.0
-new_2026_87,Alexander Schwolow,1. FSV Mainz 05,new_unverified,,,248437.0
-new_2026_57,Amara Condé,SV 07 Elversberg,new_unverified,,,763990.0
-new_2026_18,Daiki Hashioka,Borussia M.Gladbach,new_unverified,,411101.0,
-new_2026_15,David Herold,Borussia M.Gladbach,new_unverified,,454351.0,
-new_2026_42,David Mokwa,Elversberg,new_unverified,,549132.0,
-new_2026_104,Deniz Zeitler,SC Paderborn 07,new_unverified,,,1580112.0
-new_2026_19,Isac Lidberg,Borussia M.Gladbach,new_unverified,,284451.0,
-new_2026_59,Ismael Saibari,FC Bayern München,new_unverified,,,1180288.0
-new_2026_123,Janik Bachmann,FC Schalke 04,new_unverified,,,560976.0
-new_2026_120,Junior Dina Ebimbe,Schalke 04,new_unverified,,372927.0,
-new_2026_17,Ko Itakura,Borussia M.Gladbach,new_unverified,,369525.0,
-new_2026_125,Luca Vozar,FC Schalke 04,new_unverified,,,1842512.0
-new_2026_128,Marius Funk,VfB Stuttgart,new_unverified,,,659086.0
-new_2026_102,Markus Schubert,SC Paderborn 07,new_unverified,,,659046.0
-new_2026_16,Mathieu Nguefack,Borussia M.Gladbach,new_unverified,,643385.0,
-new_2026_55,Nicholas Mickelson,SV 07 Elversberg,new_unverified,,,633721.0
-new_2026_105,Niklas Mohr,SC Paderborn 07,new_unverified,,,1801952.0
-new_2026_53,Noah Darvich,Elversberg,new_unverified,,534793.0,
-new_2026_58,Noel Futkeu,SV 07 Elversberg,new_unverified,,,1138725.0
-new_2026_103,Oliver Batista Meier,SC Paderborn 07,new_unverified,,,950822.0
-new_2026_124,Satoshi Tanaka,FC Schalke 04,new_unverified,,,1155066.0
-new_2026_56,Tim Boss,SV 07 Elversberg,new_unverified,,,659051.0
+new_2026_120,Soufian El-Faouzi,FC Schalke 04,new_linked_partial,,414038.0,1249185.0
+new_2026_93,Stefan Posch,1. FSV Mainz 05,new_linked_partial,191803.0,,557325.0
+new_2026_103,Stefano Marino,SC Paderborn 07,new_linked_partial,,429675.0,1321553.0
+new_2026_104,Steffen Tigges,SC Paderborn 07,new_linked_partial,,301066.0,706500.0
+new_2026_126,Timo Becker,FC Schalke 04,new_linked_partial,,323169.0,785739.0
+new_2026_96,Tjark Scheller,SC Paderborn 07,new_linked_partial,,502544.0,1415373.0
+new_2026_107,Tom Baack,SC Paderborn 07,new_linked_partial,,306961.0,658444.0
+new_2026_123,Vitalie Becker,FC Schalke 04,new_linked_partial,,531850.0,1659420.0
+new_2026_146,Adil Aouchiche,,new_unverified,465676.0,,
+new_2026_16,Alexander Meyer,Borussia Dortmund,new_unverified,,,743381.0
+new_2026_36,Alexander Schlager,SV Werder Bremen,new_unverified,,,450739.0
+new_2026_94,Alexander Schwolow,1. FSV Mainz 05,new_unverified,,,248437.0
+new_2026_147,Amara Condé,,new_unverified,213459.0,,
+new_2026_61,Amara Condé,SV 07 Elversberg,new_unverified,,,763990.0
+new_2026_135,Chukwubuike Adamu,FC Schalke 04,new_unverified,,,882163.0
+new_2026_148,Clemens Lippmann,,new_unverified,629188.0,,
+new_2026_45,Cole Campbell,Elversberg,new_unverified,,513605.0,
+new_2026_20,Daiki Hashioka,Borussia M.Gladbach,new_unverified,,411101.0,
+new_2026_17,David Herold,Borussia M.Gladbach,new_unverified,,454351.0,
+new_2026_46,David Mokwa,Elversberg,new_unverified,,549132.0,
+new_2026_149,Dejan Ljubicic,,new_unverified,429631.0,,
+new_2026_111,Deniz Zeitler,SC Paderborn 07,new_unverified,,,1580112.0
+new_2026_150,Deniz Zeitler,,new_unverified,640659.0,,
+new_2026_151,Edin Dzeko,,new_unverified,42544.0,,
+new_2026_152,Felix Keidel,,new_unverified,524093.0,,
+new_2026_153,Florian Le Joncour,,new_unverified,205823.0,,
+new_2026_66,Florian Müller,Sport-Club Freiburg,new_unverified,,,737365.0
+new_2026_154,Francis Onyeka,,new_unverified,593262.0,,
+new_2026_155,Gabriel Vidovic,,new_unverified,508347.0,,
+new_2026_156,Hasan Kuruçay,,new_unverified,240737.0,,
+new_2026_21,Isac Lidberg,Borussia M.Gladbach,new_unverified,,284451.0,
+new_2026_63,Ismael Saibari,FC Bayern München,new_unverified,,,1180288.0
+new_2026_157,Jan Gyamerah,,new_unverified,164537.0,,
+new_2026_133,Janik Bachmann,FC Schalke 04,new_unverified,,,560976.0
+new_2026_158,Janik Bachmann,,new_unverified,191906.0,,
+new_2026_159,Jano ter Horst,,new_unverified,626599.0,,
+new_2026_160,Jonah Sticker,,new_unverified,627290.0,,
+new_2026_161,Junior Dina Ebimbe,,new_unverified,438309.0,,
+new_2026_132,Kevin Müller,FC Schalke 04,new_unverified,,,215159.0
+new_2026_19,Ko Itakura,Borussia M.Gladbach,new_unverified,,369525.0,
+new_2026_162,Lasse Günther,,new_unverified,493332.0,,
+new_2026_163,Laurin Curda,,new_unverified,465852.0,,
+new_2026_164,Laurin Ulrich,,new_unverified,516960.0,,
+new_2026_117,Leopold Zingerle,RB Leipzig,new_unverified,,,450972.0
+new_2026_165,Loris Karius,,new_unverified,104542.0,,
+new_2026_81,Luca Philipp,TSG 1899 Hoffenheim,new_unverified,,,1175933.0
+new_2026_166,Luca Schnellbacher,,new_unverified,165167.0,,
+new_2026_167,Luca Sirch,,new_unverified,545635.0,,
+new_2026_137,Luca Vozar,FC Schalke 04,new_unverified,,,1842512.0
+new_2026_168,Luca Vozar,,new_unverified,685541.0,,
+new_2026_112,Luka Duric,SC Paderborn 07,new_unverified,,,1586401.0
+new_2026_169,Lukas Petkov,,new_unverified,520845.0,,
+new_2026_170,Lukas Pinckert,,new_unverified,543907.0,,
+new_2026_171,Lukasz Poreba,,new_unverified,465341.0,,
+new_2026_141,Marius Funk,VfB Stuttgart,new_unverified,,,659086.0
+new_2026_109,Markus Schubert,SC Paderborn 07,new_unverified,,,659046.0
+new_2026_18,Mathieu Nguefack,Borussia M.Gladbach,new_unverified,,643385.0,
+new_2026_172,Mattes Hansen,,new_unverified,513442.0,,
+new_2026_173,Maurice Krattenmacher,,new_unverified,522089.0,,
+new_2026_174,Maximilian Rohr,,new_unverified,487057.0,,
+new_2026_134,Maximilian Wöber,FC Schalke 04,new_unverified,,,701149.0
+new_2026_175,Mertcan Ayhan,,new_unverified,578554.0,,
+new_2026_176,Moussa Sylla,,new_unverified,240149.0,,
+new_2026_177,Nahuel Noll,,new_unverified,515210.0,,
+new_2026_5,Nediljko Labrovic,FC Augsburg,new_unverified,,,1284464.0
+new_2026_178,Nicholas Mickelson,,new_unverified,428442.0,,
+new_2026_59,Nicholas Mickelson,SV 07 Elversberg,new_unverified,,,633721.0
+new_2026_179,Nicolas Kristof,,new_unverified,545755.0,,
+new_2026_113,Niklas Mohr,SC Paderborn 07,new_unverified,,,1801952.0
+new_2026_180,Niklas Mohr,,new_unverified,704210.0,,
+new_2026_181,Nikola Katic,,new_unverified,186348.0,,
+new_2026_57,Noah Darvich,Elversberg,new_unverified,,534793.0,
+new_2026_182,Noel Futkeu,,new_unverified,513628.0,,
+new_2026_62,Noel Futkeu,SV 07 Elversberg,new_unverified,,,1138725.0
+new_2026_110,Oliver Batista Meier,SC Paderborn 07,new_unverified,,,950822.0
+new_2026_183,Oliver Batista Meier,,new_unverified,439348.0,,
+new_2026_184,Raphael Obermair,,new_unverified,245795.0,,
+new_2026_185,Robin Gosens,,new_unverified,177901.0,,
+new_2026_186,Ron Schallenberg,,new_unverified,246025.0,,
+new_2026_88,Ron-Robert Zieler,1. FC Köln,new_unverified,,,41087.0
+new_2026_187,Santiago Castañeda,,new_unverified,495002.0,,
+new_2026_136,Satoshi Tanaka,FC Schalke 04,new_unverified,,,1155066.0
+new_2026_188,Satoshi Tanaka,,new_unverified,494868.0,,
+new_2026_189,Soufiane El-Faouzi,,new_unverified,537147.0,,
+new_2026_190,Stefano Marino,,new_unverified,518035.0,,
+new_2026_191,Steffen Tigges,,new_unverified,220369.0,,
+new_2026_60,Tim Boss,SV 07 Elversberg,new_unverified,,,659051.0
+new_2026_192,Timo Becker,,new_unverified,228726.0,,
+new_2026_193,Tjark Scheller,,new_unverified,633996.0,,
+new_2026_194,Tom Baack,,new_unverified,212687.0,,
+new_2026_195,Vitalie Becker,,new_unverified,632766.0,,
 new_2026_4,Young-Woo Seol,FC Augsburg,new_unverified,,,1132818.0

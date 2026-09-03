@@ -1,5 +1,5 @@
 playerId,playerName,teamId,h_a,matchId,tackleWonTotal,challengeLost,tackleTotalAttempted
-82989.0,Isco,54,h,1993909,0,0,0
+82989.0,Isco,54,h,1993909,0,1,1
 83686.0,Marc Bartra,54,h,1993909,1,0,1
 125211.0,Héctor Bellerín,54,h,1993909,0,2,2
 270504.0,Álex Remiro,68,a,1993909,0,0,0
@@ -8,11 +8,11 @@ playerId,playerName,teamId,h_a,matchId,tackleWonTotal,challengeLost,tackleTotalA
 313542.0,Carlos Soler,68,a,1993909,1,0,1
 315566.0,Igor Zubeldia,68,a,1993909,1,1,2
 318505.0,Yangel Herrera,68,a,1993909,0,0,0
-323148.0,Marc Roca,54,h,1993909,2,2,4
+323148.0,Marc Roca,54,h,1993909,2,3,5
 355110.0,Sergio Gómez,68,a,1993909,2,0,2
 362501.0,Cucho Hernández,54,h,1993909,1,1,2
-364315.0,Antony,54,h,1993909,1,0,1
-367583.0,Aihen Muñoz,68,a,1993909,1,0,1
+364315.0,Antony,54,h,1993909,1,1,2
+367583.0,Aihen Muñoz,68,a,1993909,1,1,2
 367857.0,Ander Barrenetxea,68,a,1993909,0,1,1
 377285.0,Takefusa Kubo,68,a,1993909,1,0,1
 382631.0,Rodrigo Riquelme,54,h,1993909,1,2,3
@@ -25,7 +25,7 @@ playerId,playerName,teamId,h_a,matchId,tackleWonTotal,challengeLost,tackleTotalA
 432475.0,Nelson Deossa,54,h,1993909,0,0,0
 448208.0,Álvaro Valles,54,h,1993909,0,0,0
 463961.0,Jon Aramburu,68,a,1993909,2,2,4
-495459.0,Jon Martín,68,a,1993909,2,1,3
-512611.0,Facundo Bernal,54,h,1993909,1,1,2
+495459.0,Jon Martín,68,a,1993909,2,4,6
+512611.0,Facundo Bernal,54,h,1993909,1,4,5
 546574.0,Alex Marchal,68,a,1993909,1,0,1
 551186.0,Pablo García,54,h,1993909,0,0,0

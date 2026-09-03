@@ -3,7 +3,7 @@ playerId,playerName,teamId,h_a,matchId,tackleWonTotal,challengeLost,tackleTotalA
 90115.0,Aïssa Mandi,832,a,1993914,1,0,1
 98126.0,Ante Budimir,131,h,1993914,1,0,1
 101238.0,Moi Gómez,131,h,1993914,0,0,0
-119189.0,Rubén García,131,h,1993914,1,0,1
+119189.0,Rubén García,131,h,1993914,1,1,2
 129620.0,Jeremy Toljan,832,a,1993914,0,0,0
 249960.0,Lucas Torró,131,h,1993914,0,0,0
 336251.0,Kike Barja,131,h,1993914,0,0,0
@@ -17,14 +17,14 @@ playerId,playerName,teamId,h_a,matchId,tackleWonTotal,challengeLost,tackleTotalA
 395321.0,Aimar Oroz,131,h,1993914,0,0,0
 395708.0,Víctor García,832,a,1993914,0,0,0
 396490.0,Raúl Moro,131,h,1993914,0,0,0
-407567.0,Iván Romero,832,a,1993914,1,1,2
+407567.0,Iván Romero,832,a,1993914,1,2,3
 413346.0,Jon Ander Olasagasti,832,a,1993914,3,0,3
 415345.0,Hugo Sotelo,832,a,1993914,0,0,0
 444253.0,Jorge Herrando,131,h,1993914,0,0,0
 445095.0,Karl Etta Eyong,832,a,1993914,0,0,0
 446729.0,Thiago Fernández,832,a,1993914,2,1,3
 447853.0,Jonathan Dubasin,131,h,1993914,0,0,0
-448231.0,Roger Brugué,832,a,1993914,0,0,0
+448231.0,Roger Brugué,832,a,1993914,0,1,1
 461771.0,Abel Bretones,131,h,1993914,1,0,1
 467181.0,Enzo Bardeli,832,a,1993914,1,1,2
 474267.0,Iker Muñoz,131,h,1993914,1,1,2

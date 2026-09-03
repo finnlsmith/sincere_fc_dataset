@@ -1,15 +1,15 @@
 playerId,playerName,teamId,h_a,matchId,tackleWonTotal,challengeLost,tackleTotalAttempted
 73798.0,Thibaut Courtois,52,h,1993904,0,0,0
-136741.0,Bernardo Silva,52,h,1993904,2,4,6
-247995.0,Gonçalo Guedes,68,a,1993904,0,0,0
+136741.0,Bernardo Silva,52,h,1993904,2,6,8
+247995.0,Gonçalo Guedes,68,a,1993904,0,1,1
 270504.0,Álex Remiro,68,a,1993904,0,0,0
 298839.0,Mikel Oyarzabal,68,a,1993904,0,1,1
 300713.0,Kylian Mbappé,52,h,1993904,0,0,0
-313542.0,Carlos Soler,68,a,1993904,1,0,1
-315566.0,Igor Zubeldia,68,a,1993904,2,0,2
+313542.0,Carlos Soler,68,a,1993904,1,2,3
+315566.0,Igor Zubeldia,68,a,1993904,2,1,3
 317541.0,Brahim Díaz,52,h,1993904,1,0,1
-318505.0,Yangel Herrera,68,a,1993904,0,1,1
-322153.0,Denzel Dumfries,52,h,1993904,1,0,1
+318505.0,Yangel Herrera,68,a,1993904,0,3,3
+322153.0,Denzel Dumfries,52,h,1993904,1,1,2
 337782.0,Vinícius Júnior,52,h,1993904,0,0,0
 344644.0,Federico Valverde,52,h,1993904,2,0,2
 345957.0,Ibrahima Konaté,52,h,1993904,0,0,0
@@ -18,10 +18,10 @@ playerId,playerName,teamId,h_a,matchId,tackleWonTotal,challengeLost,tackleTotalA
 367857.0,Ander Barrenetxea,68,a,1993904,0,1,1
 369109.0,Eduardo Camavinga,52,h,1993904,0,0,0
 377285.0,Takefusa Kubo,68,a,1993904,0,2,2
-379868.0,Jude Bellingham,52,h,1993904,1,0,1
+379868.0,Jude Bellingham,52,h,1993904,1,1,2
 407080.0,Luka Sucic,68,a,1993904,0,1,1
-407138.0,Beñat Turrientes,68,a,1993904,1,1,2
-415181.0,Arda Güler,52,h,1993904,1,1,2
+407138.0,Beñat Turrientes,68,a,1993904,1,2,3
+415181.0,Arda Güler,52,h,1993904,1,2,3
 428066.0,Orri Óskarsson,68,a,1993904,0,0,0
 437583.0,Álvaro Carreras,52,h,1993904,0,0,0
 463961.0,Jon Aramburu,68,a,1993904,0,2,2

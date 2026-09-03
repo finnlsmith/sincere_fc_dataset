@@ -225,6 +225,14 @@ def reconcile_new_players(
             return False
         if pid not in master_by_ws_id.index:
             return True
+        # A player can be present in master_by_ws_id but with no valid Opta
+        # anchor (confidence_tier="whoscored_only") — match_players_to_master.py
+        # correctly treats this as unmatched too (no valid canonical_id to
+        # assign); this script previously didn't check for it, so those
+        # players were wrongly treated as "already matched elsewhere" and
+        # silently excluded from reconciliation entirely.
+        if pd.isna(master_by_ws_id.loc[pid, "player_id"]):
+            return True
         return team_is_other_league(master_team_by_ws_id.get(pid), other_league_teams)
 
     ws_unmatched = ws_sub[ws_sub["playerId"].apply(ws_is_unmatched)].copy()
@@ -244,6 +252,12 @@ def reconcile_new_players(
         if pd.isna(pid):
             return False
         if pid not in master_by_fotmob_id.index:
+            return True
+        # Same fotmob_only-tier issue as the WhoScored branch above — see
+        # that comment for the full explanation. Confirmed real case:
+        # Andriy Lunin, fotmob_id=800882, master row has fotmob_player_id
+        # set but player_id (Opta anchor) is null, confidence_tier=fotmob_only.
+        if pd.isna(master_by_fotmob_id.loc[pid, "player_id"]):
             return True
         return team_is_other_league(master_team_by_fotmob_id.get(pid), other_league_teams)
 
@@ -296,6 +310,23 @@ def reconcile_new_players(
             cluster_id = f"new_2026_{next_cluster_id}"
             for c in cluster:
                 all_unmatched.at[c, "cluster_id"] = cluster_id
+            next_cluster_id += 1
+
+    # Any row that never got a cluster_id — e.g. team_cluster was NaN
+    # because this player's team_id never resolved via team_map (a
+    # confirmed real case: some Opta rows' team lookups fail silently) —
+    # would otherwise vanish downstream, since build_player_legend.py's
+    # groupby("cluster_id") also drops NaN group keys by default. Give
+    # each of these its own singleton cluster so they still surface as an
+    # unverified new-player row instead of disappearing entirely.
+    unclustered = all_unmatched["cluster_id"].isna()
+    n_unclustered = int(unclustered.sum())
+    if n_unclustered:
+        print(f"  ⚠️  {n_unclustered} players had no usable team info (couldn't be "
+              f"clustered by team, e.g. an unresolved Opta team_id) — assigning "
+              f"each its own singleton entry rather than dropping them")
+        for idx in all_unmatched[unclustered].index:
+            all_unmatched.at[idx, "cluster_id"] = f"new_2026_{next_cluster_id}"
             next_cluster_id += 1
 
     n_clusters = all_unmatched["cluster_id"].nunique()
