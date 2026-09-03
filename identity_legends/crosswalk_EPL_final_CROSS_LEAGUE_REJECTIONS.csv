@@ -2,11 +2,13 @@ source,name,native_id,master_team
 opta,Abdoul Ouattara,572584,Strasbourg
 opta,Aladji Bamba,632794,Monaco
 opta,Aurèle Amenda,539142,Eintracht Frankfurt
+opta,Ayyoub Bouaddi,637238,Lille
 opta,Bazoumana Touré,611665,Hoffenheim
 opta,Conor Gallagher,232787,Atletico Madrid
 opta,César Palacios,571779,Real Madrid
 opta,Emersonn,543968,Toulouse
 opta,Ethan Nwaneri,499175,Marseille
+opta,Exequiel Palacios,218543,Bayer Leverkusen
 opta,Gonzalo García,551466,Real Madrid
 opta,Ibrahim Osman,612855,Auxerre
 opta,Jaydee Canvot,651426,Toulouse
@@ -17,8 +19,11 @@ opta,Kostas Tsimikas,214285,Roma
 opta,Lucas Gourna-Douath,469266,Le Havre
 opta,Mamadou Sangaré,513545,Lens
 opta,Marcus Rashford,176297,Barcelona
+opta,Matt O'Riley,219249,Marseille
 opta,Matteo Ruggeri,487992,Atletico Madrid
+opta,Mohamed-Ali Cho,490884,Nice
 opta,Nico Elvedi,173774,Borussia Monchengladbach
+opta,Nicolas Jackson,517052,Bayern Munich
 opta,Nobel Mendy,606930,Rayo Vallecano
 opta,Pep Chavarría,498444,Rayo Vallecano
 opta,Ronald Araujo,445087,Barcelona
@@ -28,29 +33,42 @@ opta,Valentín Barco,543158,Strasbourg
 opta,Víctor Muñoz,551499,Osasuna
 opta,Xaver Schlager,204561,RB Leipzig
 opta,Yéremy Pino,488024,Villarreal
+opta,Zion Suzuki,433969,Parma
 opta,Álvaro Rodríguez,561245,Elche
 opta,Óscar Mingueza,242313,Celta Vigo
-whoscored,Nobel Mendy,469508,Rayo Vallecano
 whoscored,Mamadou Sangaré,442971,Lens
-whoscored,Emersonn,429556,Toulouse
-whoscored,Julio Enciso,417747,Strasbourg
-whoscored,Gonzalo García,498798,Real Madrid
+whoscored,Nobel Mendy,469508,Rayo Vallecano
 whoscored,Tarik Muharemovic,439533,Sassuolo
-whoscored,Thomas Meunier,104376,Lille
+whoscored,Julio Enciso,417747,Strasbourg
 whoscored,Víctor Muñoz,548106,Osasuna
-whoscored,Ronald Araujo,384711,Barcelona
+whoscored,Emersonn,429556,Toulouse
 whoscored,Marcus Rashford,300299,Barcelona
+whoscored,Thomas Meunier,104376,Lille
 whoscored,Jérémy Jacquet,468827,Rennes
-whoscored,Abdoul Ouattara,433937,Strasbourg
-whoscored,Jaydee Canvot,531676,Toulouse
-whoscored,César Palacios,534901,Real Madrid
-whoscored,Matteo Ruggeri,402046,Atletico Madrid
-whoscored,Ibrahim Osman,519755,Auxerre
-whoscored,Aurèle Amenda,450271,Eintracht Frankfurt
-whoscored,Aladji Bamba,546589,Monaco
+whoscored,Gonzalo García,498798,Real Madrid
+whoscored,Lucas Gourna-Douath,393137,Le Havre
+whoscored,Exequiel Palacios,299684,Bayer Leverkusen
+whoscored,Nico Elvedi,243534,Borussia Monchengladbach
 whoscored,Yéremy Pino,403865,Villarreal
-whoscored,Pep Chavarría,448468,Rayo Vallecano
+whoscored,Nicolas Jackson,426050,Bayern Munich
 whoscored,Xaver Schlager,262856,RB Leipzig
+whoscored,Ayyoub Bouaddi,504830,Lille
+whoscored,Ronald Araujo,384711,Barcelona
+whoscored,César Palacios,534901,Real Madrid
+whoscored,Aurèle Amenda,450271,Eintracht Frankfurt
+whoscored,Kostas Tsimikas,301455,Roma
+whoscored,Ibrahim Osman,519755,Auxerre
+whoscored,Matteo Ruggeri,402046,Atletico Madrid
+whoscored,Abdoul Ouattara,433937,Strasbourg
+whoscored,Aladji Bamba,546589,Monaco
+whoscored,Pep Chavarría,448468,Rayo Vallecano
+whoscored,Jaydee Canvot,531676,Toulouse
+whoscored,Zion Suzuki,447570,Parma
+whoscored,Bazoumana Touré,551965,Hoffenheim
+whoscored,Óscar Mingueza,397469,Celta Vigo
+whoscored,Álvaro Rodríguez,460772,Elche
+whoscored,Mohamed-Ali Cho,399014,Nice
+whoscored,Valentín Barco,419341,Strasbourg
 whoscored,Conor Gallagher,375621,Atletico Madrid
 fotmob,Ethan Nwaneri,1254234,Marseille
 fotmob,Aurèle Amenda,1257648,Eintracht Frankfurt
@@ -84,3 +102,8 @@ fotmob,Valentín Barco,1272440,Strasbourg
 fotmob,Mike Penders,1319972,Strasbourg
 fotmob,César Palacios,1403691,Real Madrid
 fotmob,Gonzalo García,1413847,Real Madrid
+fotmob,Michele Di Gregorio,766062,Juventus
+fotmob,Nicolas Jackson,1197347,Bayern Munich
+fotmob,Mohamed-Ali Cho,1180718,Nice
+fotmob,Ayyoub Bouaddi,1561552,Lille
+fotmob,Exequiel Palacios,693599,Bayer Leverkusen

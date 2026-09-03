@@ -7,37 +7,43 @@ opta,Anthony Gordon,232826,Newcastle
 opta,Arouna Sangante,509285,Le Havre
 opta,Aïssa Mandi,86813,Lille
 opta,Bernardo Silva,165809,Manchester City
+opta,Cristian Romero,221632,Tottenham
 opta,Denzel Dumfries,199432,Inter
 opta,Enes Ünal,168636,Bournemouth
 opta,Facundo Buonanotte,536916,Leeds
 opta,Ibrahima Konaté,204716,Liverpool
 opta,Karim Adeyemi,453750,Borussia Dortmund
 opta,Lee Kang-In,451358,Paris Saint-Germain
+opta,Mamadou Sarr,574458,Strasbourg
 opta,Marc Cucurella,179268,Chelsea
+opta,Matteo Prati,588222,Torino
 opta,Orel Mangala,179519,Lyon
 opta,Pedro Felipe,617105,Sassuolo
 opta,Pierre-Emerick Aubameyang,54694,Marseille
+opta,Rodri,220566,Manchester City
 opta,Saba Sazonov,492977,Torino
 opta,Yan Diomande,692871,RB Leipzig
 opta,Yassir Zabiri,652987,Rennes
-whoscored,Alejandro Grimaldo,107252,Bayer Leverkusen
 whoscored,Pierre-Emerick Aubameyang,44120,Marseille
 whoscored,Anthony Gordon,349669,Newcastle
 whoscored,Lee Kang-In,367780,Paris Saint-Germain
 whoscored,Aïssa Mandi,90115,Lille
-whoscored,Ibrahima Konaté,345957,Liverpool
-whoscored,Karim Adeyemi,392646,Borussia Dortmund
-whoscored,Bernardo Silva,136741,Manchester City
-whoscored,Denzel Dumfries,322153,Inter
-whoscored,Enes Ünal,134695,Bournemouth
-whoscored,Marc Cucurella,363496,Chelsea
-whoscored,Orel Mangala,344073,Lyon
-whoscored,Arouna Sangante,486031,Le Havre
-whoscored,Andrés García,469329,Aston Villa
-whoscored,Rodri,303139,Manchester City
-whoscored,Pedro Felipe,478316,Sassuolo
-whoscored,Yan Diomande,557000,RB Leipzig
+whoscored,Alejandro Grimaldo,107252,Bayer Leverkusen
 whoscored,Yassir Zabiri,538158,Rennes
+whoscored,Ibrahima Konaté,345957,Liverpool
+whoscored,Marc Cucurella,363496,Chelsea
+whoscored,Karim Adeyemi,392646,Borussia Dortmund
+whoscored,Denzel Dumfries,322153,Inter
+whoscored,Bernardo Silva,136741,Manchester City
+whoscored,Arouna Sangante,486031,Le Havre
+whoscored,Enes Ünal,134695,Bournemouth
+whoscored,Rodri,303139,Manchester City
+whoscored,Orel Mangala,344073,Lyon
+whoscored,Andrés García,469329,Aston Villa
+whoscored,Yan Diomande,557000,RB Leipzig
+whoscored,Pedro Felipe,478316,Sassuolo
+whoscored,Abdoulaye Faye,498812,Lorient
+whoscored,Matteo Prati,447544,Torino
 fotmob,Enes Ünal,464486,Bournemouth
 fotmob,Orel Mangala,765693,Lyon
 fotmob,Saba Sazonov,1179368,Torino
@@ -62,3 +68,6 @@ fotmob,Ibrahima Konaté,820140,Liverpool
 fotmob,Marc Cucurella,873289,Chelsea
 fotmob,Yan Diomande,1735453,RB Leipzig
 fotmob,Arouna Sangante,1244272,Le Havre
+fotmob,Matteo Prati,1396089,Torino
+fotmob,Mamadou Sarr,1426170,Strasbourg
+fotmob,Cristian Romero,789066,Tottenham

@@ -1,5 +1,6 @@
 canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 472713,Aaron Hickey,Brentford,existing,472713.0,402367.0,1002039.0
+214590,Aaron Wan-Bissaka,West Ham,existing,214590.0,331924.0,760320.0
 578153,Abdukodir Khusanov,Manchester City,existing,578153.0,493206.0,1362998.0
 54469,Adam Smith,Bournemouth,existing,54469.0,69877.0,160447.0
 496221,Adam Wharton,Crystal Palace,existing,496221.0,430774.0,1296650.0
@@ -20,12 +21,13 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 466525,Anton Stach,Leeds,existing,466525.0,401073.0,881735.0
 169528,Antonee Robinson,Fulham,existing,169528.0,306581.0,662428.0
 485055,Antonín Kinsky,Tottenham,existing,485055.0,457006.0,1341475.0
-248056,Ao Tanaka,Leeds,existing,248056.0,,935728.0
+248056,Ao Tanaka,Leeds,existing,248056.0,423347.0,935728.0
 547701,Archie Gray,Tottenham,existing,547701.0,429922.0,1323305.0
 465680,Arnaud Kalimuendo,Nottingham Forest,existing,465680.0,384005.0,1095445.0
+220362,Axel Disasi,West Ham,existing,220362.0,300426.0,696646.0
 606745,Ayden Heaven,Manchester United,existing,606745.0,517341.0,1559639.0
 242882,Bafodé Diakité,Bournemouth,existing,242882.0,,979752.0
-489639,Bart Verbruggen,Brighton,existing,,400138.0,1131987.0
+489639,Bart Verbruggen,Brighton,existing,489639.0,400138.0,1131987.0
 115556,Ben Davies,Tottenham,existing,115556.0,,276121.0
 496208,Ben Gannon-Doak,Bournemouth,existing,496208.0,430350.0,1324871.0
 198869,Ben White,Arsenal,existing,198869.0,322036.0,776151.0
@@ -39,9 +41,10 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 242898,Brennan Johnson,Crystal Palace,existing,242898.0,379688.0,1076756.0
 441264,Brian Brobbey,Sunderland,existing,441264.0,404568.0,940446.0
 141746,Bruno Fernandes,Manchester United,existing,141746.0,123761.0,422685.0
+208706,Bruno Guimarães,Newcastle,existing,208706.0,338780.0,850354.0
 446008,Bryan Mbeumo,Manchester United,existing,446008.0,353377.0,923312.0
 223340,Bukayo Saka,Arsenal,existing,223340.0,367185.0,961995.0
-209046,Callum Hudson-Odoi,Nottingham Forest,existing,209046.0,,846383.0
+209046,Callum Hudson-Odoi,Nottingham Forest,existing,209046.0,350088.0,846383.0
 75115,Callum Wilson,West Ham,existing,75115.0,134115.0,184321.0
 232892,Calvin Bassey,Fulham,existing,232892.0,396976.0,877401.0
 200720,Caoimhín Kelleher,Brentford,existing,200720.0,322176.0,776689.0
@@ -52,6 +55,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 427623,Chris Richards,Crystal Palace,existing,427623.0,395401.0,950829.0
 554197,Chris Rigg,Sunderland,existing,554197.0,469645.0,1327319.0
 60689,Chris Wood,Nottingham Forest,existing,60689.0,73380.0,169719.0
+575204,Claudio Echeverri,Girona,existing,575204.0,,1486264.0
 243298,Cody Gakpo,Liverpool,existing,243298.0,352825.0,806552.0
 244851,Cole Palmer,Chelsea,existing,244851.0,395692.0,1096353.0
 500040,Cristhian Mosquera,Arsenal,existing,500040.0,425591.0,1298907.0
@@ -59,10 +63,10 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 223827,Dan Ballard,Sunderland,existing,223827.0,371761.0,
 456512,Dan Ndoye,Nottingham Forest,existing,456512.0,398414.0,1022649.0
 533463,Dango Ouattara,Brentford,existing,533463.0,422183.0,1250253.0
-200617,Daniel James,Leeds,existing,200617.0,,717176.0
+200617,Daniel James,Leeds,existing,200617.0,302313.0,717176.0
 247348,Daniel Muñoz,Crystal Palace,existing,247348.0,400496.0,859282.0
 50175,Danny Welbeck,Brighton,existing,50175.0,,113836.0
-111317,David Brooks,Bournemouth,existing,111317.0,,674014.0
+111317,David Brooks,Bournemouth,existing,111317.0,295084.0,674014.0
 154561,David Raya,Arsenal,existing,154561.0,276366.0,562727.0
 172649,Dean Henderson,Crystal Palace,existing,172649.0,304008.0,719330.0
 204480,Declan Rice,Arsenal,existing,204480.0,332325.0,654096.0
@@ -76,20 +80,26 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 433154,Dwight McNeil,Everton,existing,433154.0,357427.0,939542.0
 232413,Eberechi Eze,Arsenal,existing,232413.0,332403.0,818975.0
 205533,Eddie Nketiah,Crystal Palace,existing,205533.0,345845.0,
+613804,El Hadji Malick Diouf,West Ham,existing,613804.0,,1451265.0
 215379,Elliot Anderson,Nottingham Forest,existing,215379.0,402596.0,1089691.0
-209289,Emile Smith Rowe,Fulham,existing,209289.0,,889534.0
+209289,Emile Smith Rowe,Fulham,existing,209289.0,363686.0,889534.0
 195546,Emiliano Buendía,Aston Villa,existing,195546.0,260592.0,610184.0
+98980,Emiliano Martínez,Aston Villa,existing,98980.0,102248.0,268375.0
 448047,Enzo Fernández,Chelsea,existing,448047.0,369430.0,1137705.0
 484420,Enzo Le Fée,Sunderland,existing,484420.0,398393.0,1049999.0
 223094,Erling Haaland,Manchester City,existing,223094.0,315227.0,737066.0
 624773,Estêvão,Chelsea,existing,624773.0,510728.0,1580774.0
 199598,Ethan Ampadu,Leeds,existing,199598.0,322418.0,780432.0
-231065,Ethan Pinnock,Brentford,existing,231065.0,,711357.0
+231065,Ethan Pinnock,Brentford,existing,231065.0,342499.0,711357.0
 444102,Evanilson,Bournemouth,existing,444102.0,384430.0,1098096.0
 485337,Evann Guessand,Crystal Palace,existing,485337.0,382587.0,1087966.0
+199798,Ezri Konsa,Aston Villa,existing,199798.0,301440.0,710159.0
 119471,Fabian Schär,Newcastle,existing,119471.0,82726.0,189982.0
+231416,Ferdi Kadioglu,Brighton,existing,231416.0,321958.0,774448.0
 494595,Florian Wirtz,Liverpool,existing,494595.0,394786.0,1152455.0
 428580,Frank Onyeka,Brentford,existing,428580.0,404109.0,856685.0
+244858,Fábio Carvalho,Brentford,existing,244858.0,,963965.0
+243526,Gabriel Gudmundsson,Leeds,existing,243526.0,,744494.0
 226597,Gabriel Magalhães,Arsenal,existing,226597.0,334087.0,795179.0
 577285,George Hemmings,Aston Villa,existing,577285.0,576066.0,1607333.0
 463067,Georginio Rutter,Brighton,existing,463067.0,362433.0,956925.0
@@ -131,7 +141,9 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 226182,Jayden Bogle,Leeds,existing,226182.0,354291.0,789646.0
 643970,Jayden Lienou,Leeds,existing,643970.0,,1797582.0
 231747,Jean-Philippe Mateta,Crystal Palace,existing,231747.0,328096.0,706297.0
+152551,Jefferson Lerma,Crystal Palace,existing,152551.0,,466672.0
 216094,Jeremie Frimpong,Liverpool,existing,216094.0,392644.0,966018.0
+174874,Joachim Andersen,Fulham,existing,174874.0,231135.0,503659.0
 699989,Jocelin Ta Bi,Sunderland,existing,699989.0,,1690655.0
 214225,Joe Rodon,Leeds,existing,214225.0,302312.0,717174.0
 200089,Joe Willock,Newcastle,existing,200089.0,342563.0,
@@ -146,6 +158,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 477424,Josko Gvardiol,Manchester City,existing,477424.0,402664.0,1070712.0
 448089,João Gomes,Wolves,existing,448089.0,403693.0,1174672.0
 475168,João Pedro,Chelsea,existing,475168.0,373525.0,1021382.0
+575901,Julio Soler,Bournemouth,existing,575901.0,,1358655.0
 222683,Justin Kluivert,Bournemouth,existing,222683.0,331579.0,794253.0
 247412,Jørgen Strand Larsen,Crystal Palace,existing,247412.0,333048.0,821100.0
 219847,Kai Havertz,Arsenal,existing,219847.0,326413.0,749736.0
@@ -160,21 +173,22 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 516895,Kobbie Mainoo,Manchester United,existing,516895.0,460260.0,1292810.0
 191866,Kristoffer Ajer,Brentford,existing,191866.0,321085.0,552718.0
 515597,Lamare Bogarde,Aston Villa,existing,515597.0,408946.0,1190033.0
-550864,Leny Yoro,Manchester United,existing,550864.0,,1358581.0
+550864,Leny Yoro,Manchester United,existing,550864.0,437299.0,1358581.0
 553746,Leo Shahar,Newcastle,existing,553746.0,,1414761.0
 460028,Levi Colwill,Chelsea,existing,460028.0,421351.0,1096400.0
 155408,Lewis Cook,Bournemouth,existing,155408.0,136456.0,562724.0
 83299,Lewis Dunk,Brighton,existing,83299.0,86441.0,201690.0
 487838,Lewis Hall,Newcastle,existing,487838.0,430294.0,1197655.0
 547719,Lewis Miley,Newcastle,existing,547719.0,474264.0,1296763.0
-221820,Lisandro Martínez,Manchester United,existing,221820.0,,847983.0
+463034,Liam Delap,Chelsea,existing,463034.0,401254.0,1113903.0
+221820,Lisandro Martínez,Manchester United,existing,221820.0,340105.0,847983.0
 469272,Loum Tchaouna,Burnley,existing,469272.0,425118.0,1283034.0
 470315,Luca Netz,Nottingham Forest,existing,470315.0,394888.0,1155130.0
 611917,Luca Williams-Barnett,Tottenham,existing,611917.0,,1636112.0
 570526,Lucas Bergvall,Tottenham,existing,570526.0,505295.0,1386775.0
 201595,Lucas Perri,Leeds,existing,,,637656.0
 610799,Luka Vuskovic,Tottenham,existing,610799.0,,1413996.0
-174594,Lukas Nmecha,Leeds,existing,174594.0,,861197.0
+174594,Lukas Nmecha,Leeds,existing,174594.0,347340.0,861197.0
 167512,Luke O'Nien,Sunderland,existing,167512.0,134373.0,480253.0
 106760,Luke Shaw,Manchester United,existing,106760.0,118244.0,362694.0
 465642,Malick Thiaw,Newcastle,existing,465642.0,393355.0,1137407.0
@@ -202,9 +216,12 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 513466,Merlin Röhl,Everton,existing,513466.0,419945.0,1210384.0
 607464,Michael Kayode,Brentford,existing,607464.0,470031.0,1429912.0
 106611,Michael Keane,Everton,existing,106611.0,,290410.0
+491279,Micky van de Ven,Tottenham,existing,491279.0,425229.0,1097466.0
 195384,Mikel Merino,Arsenal,existing,195384.0,238916.0,574645.0
 440089,Mikkel Damsgaard,Brentford,existing,440089.0,401168.0,888912.0
 544877,Milos Kerkez,Liverpool,existing,544877.0,424273.0,1195281.0
+460842,Mohammed Kudus,Tottenham,existing,460842.0,400166.0,891743.0
+486672,Moisés Caicedo,Chelsea,existing,486672.0,410175.0,1137668.0
 222531,Morgan Gibbs-White,Nottingham Forest,existing,222531.0,332867.0,789502.0
 244850,Morgan Rogers,Aston Villa,existing,244850.0,362824.0,883080.0
 575476,Murillo,Nottingham Forest,existing,575476.0,445424.0,1458711.0
@@ -212,27 +229,29 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 432830,Nathan Collins,Brentford,existing,432830.0,372724.0,961306.0
 243571,Nathan Patterson,Everton,existing,243571.0,,1112684.0
 215136,Neco Williams,Nottingham Forest,existing,215136.0,386969.0,1078788.0
-470313,Nick Woltemade,Newcastle,existing,470313.0,,1106563.0
-465694,Nico González,Manchester City,existing,465694.0,,1280132.0
+556637,Nehemiah Oriola,Brighton,existing,556637.0,,1526697.0
+470313,Nick Woltemade,Newcastle,existing,470313.0,386606.0,1106563.0
+465694,Nico González,Manchester City,existing,465694.0,422939.0,1280132.0
 472769,Nico O'Reilly,Manchester City,existing,472769.0,468847.0,1300526.0
-250199,Nicolás Domínguez,Nottingham Forest,existing,250199.0,,827315.0
+250199,Nicolás Domínguez,Nottingham Forest,existing,250199.0,334653.0,827315.0
 227444,Nikola Milenkovic,Nottingham Forest,existing,227444.0,319785.0,766611.0
 536661,Nilson Angulo,Sunderland,existing,536661.0,443064.0,1287010.0
 435997,Noah Okafor,Leeds,existing,435997.0,376090.0,915797.0
 577669,Noah Sadiki,Sunderland,existing,577669.0,437449.0,1359649.0
 248857,Noni Madueke,Arsenal,existing,248857.0,389935.0,1084981.0
-200834,Nordi Mukiele,Sunderland,existing,200834.0,,602304.0
+200834,Nordi Mukiele,Sunderland,existing,200834.0,299077.0,602304.0
 230001,Noussair Mazraoui,Manchester United,existing,230001.0,349932.0,775539.0
 159506,Ola Aina,Nottingham Forest,existing,159506.0,315543.0,682548.0
 204120,Olivier Boscagli,Brighton,existing,204120.0,260809.0,613715.0
 201895,Omar Alderete,Sunderland,existing,201895.0,344639.0,751998.0
-438234,Omar Marmoush,Manchester City,existing,438234.0,,839204.0
+438234,Omar Marmoush,Manchester City,existing,438234.0,394749.0,839204.0
 477555,Oscar Bobb,Fulham,existing,477555.0,430709.0,1113790.0
 60307,Pascal Groß,Brighton,existing,60307.0,71824.0,167008.0
 222694,Pascal Struijk,Leeds,existing,222694.0,,796974.0
 596777,Patrick Dorgu,Manchester United,existing,596777.0,495260.0,1526560.0
 244954,Pau Torres,Aston Villa,existing,244954.0,344259.0,792645.0
 247632,Pedro Neto,Chelsea,existing,247632.0,337916.0,843040.0
+441164,Pedro Porro,Tottenham,existing,441164.0,362352.0,941573.0
 209244,Phil Foden,Manchester City,existing,209244.0,331254.0,815006.0
 448104,Piero Hincapié,Arsenal,existing,448104.0,404832.0,1137667.0
 499604,Rayan,Bournemouth,existing,499604.0,472122.0,1478295.0
@@ -242,18 +261,21 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 434399,Reinildo Mandava,Sunderland,existing,434399.0,361812.0,600524.0
 466075,Riccardo Calafiori,Arsenal,existing,466075.0,386519.0,1105912.0
 212319,Richarlison,Tottenham,existing,212319.0,317804.0,654908.0
-194010,Rico Henry,Brentford,existing,194010.0,,562892.0
+194010,Rico Henry,Brentford,existing,194010.0,229562.0,562892.0
 477064,Rico Lewis,Manchester City,existing,477064.0,444791.0,1288450.0
 611922,Rio Ngumoha,Liverpool,existing,611922.0,548566.0,1597668.0
 215059,Robert Sánchez,Chelsea,existing,215059.0,362151.0,789571.0
 498016,Robin Roefs,Sunderland,existing,498016.0,422814.0,1125720.0
 202993,Rodrigo Bentancur,Tottenham,existing,202993.0,303657.0,620618.0
 244042,Rodrigo Muniz,Fulham,existing,244042.0,403649.0,1128945.0
-461199,Romaine Mundle,Sunderland,existing,461199.0,,1123947.0
+461199,Romaine Mundle,Sunderland,existing,461199.0,450254.0,1123947.0
 514356,Roméo Lavia,Chelsea,existing,514356.0,425319.0,1190867.0
 88894,Ross Barkley,Aston Villa,existing,88894.0,92547.0,215384.0
+158499,Ryan Christie,Bournemouth,existing,158499.0,128882.0,439369.0
 441266,Ryan Gravenberch,Liverpool,existing,441266.0,363884.0,956683.0
+616288,Ryan McAidoo,Manchester City,existing,616288.0,584927.0,1680328.0
 184349,Ryan Sessegnon,Fulham,existing,184349.0,322611.0,773991.0
+204968,Ryan Yates,Nottingham Forest,existing,204968.0,,775614.0
 171314,Rúben Dias,Manchester City,existing,171314.0,313171.0,614006.0
 207189,Sander Berge,Fulham,existing,207189.0,321020.0,540963.0
 432422,Sandro Tonali,Newcastle,existing,432422.0,343501.0,867414.0
@@ -263,10 +285,12 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 576628,Shea Lacey,Manchester United,existing,576628.0,563779.0,1436260.0
 220237,Sven Botman,Newcastle,existing,220237.0,379732.0,956682.0
 210156,Taiwo Awoniyi,Nottingham Forest,existing,210156.0,281049.0,643717.0
+173879,Tammy Abraham,Aston Villa,existing,173879.0,317506.0,749661.0
 586309,Thierno Barry,Everton,existing,586309.0,537713.0,1398392.0
+490094,Tim Iroegbunam,Everton,existing,490094.0,416208.0,1203512.0
 166477,Timothy Castagne,Fulham,existing,166477.0,141169.0,465750.0
 487676,Trai Hume,Sunderland,existing,487676.0,424514.0,1067763.0
-591386,Trey Nyoni,Liverpool,existing,591386.0,,1436258.0
+591386,Trey Nyoni,Liverpool,existing,591386.0,509423.0,1436258.0
 569577,Triston Rowe,Aston Villa,existing,569577.0,,1442496.0
 200785,Tyler Adams,Bournemouth,existing,200785.0,315275.0,729769.0
 496661,Tyler Dibling,Everton,existing,496661.0,,1292833.0
@@ -278,9 +302,11 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 97032,Virgil van Dijk,Liverpool,existing,97032.0,95408.0,209405.0
 224967,Vitalii Mykolenko,Everton,existing,224967.0,345516.0,
 204580,Vitaly Janelt,Brentford,existing,204580.0,298689.0,688273.0
-616222,Vitor Reis,Girona,existing,616222.0,,1580952.0
+616222,Vitor Reis,Girona,existing,616222.0,478314.0,1580952.0
 121709,Walter Benítez,Crystal Palace,existing,,,448897.0
 158983,Wataru Endo,Liverpool,existing,158983.0,,202643.0
+444463,Wesley Fofana,Chelsea,existing,444463.0,373946.0,917802.0
+492859,Wilfried Gnonto,Leeds,existing,492859.0,,1107286.0
 108413,Will Hughes,Crystal Palace,existing,108413.0,,295067.0
 538207,William Osula,Newcastle,existing,538207.0,416209.0,1258092.0
 437505,Wilson Isidor,Sunderland,existing,437505.0,363535.0,887703.0
@@ -289,111 +315,126 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 216646,Yoane Wissa,Newcastle,existing,216646.0,296240.0,666857.0
 166989,Youri Tielemans,Aston Villa,existing,166989.0,136345.0,465960.0
 549067,Zach Abbott,Nottingham Forest,existing,549067.0,,1296769.0
-new_2026_97,Aladji Bamba,Newcastle United,new_linked_full,632794.0,546589.0,1695681.0
-new_2026_98,Amar Dedic,Newcastle United,new_linked_full,463726.0,418203.0,958010.0
-new_2026_39,Anan Khalaili,Crystal Palace,new_linked_full,570794.0,444136.0,1477878.0
-new_2026_5,António Silva,Bournemouth,new_linked_full,483067.0,443613.0,1292092.0
+new_2026_113,Aladji Bamba,Newcastle United,new_linked_full,632794.0,546589.0,1695681.0
+new_2026_114,Amar Dedic,Newcastle United,new_linked_full,463726.0,418203.0,958010.0
+new_2026_45,Anan Khalaili,Crystal Palace,new_linked_full,570794.0,444136.0,1477878.0
+new_2026_6,António Silva,Bournemouth,new_linked_full,483067.0,443613.0,1292092.0
+new_2026_108,Ayyoub Bouaddi,Manchester City,new_linked_full,637238.0,504830.0,1561552.0
+new_2026_115,Bazoumana Touré,Newcastle United,new_linked_full,611665.0,551965.0,1624586.0
 new_2026_0,Christos Tzolis,Arsenal,new_linked_full,439509.0,399296.0,1157237.0
-new_2026_106,Conor Gallagher,Tottenham Hotspur,new_linked_full,232787.0,375621.0,966027.0
-new_2026_11,Costinha,Brighton and Hove Albion,new_linked_full,451490.0,395954.0,1079456.0
-new_2026_45,César Palacios,Fulham,new_linked_full,571779.0,534901.0,1403691.0
-new_2026_6,Daniel Jebbison,Bournemouth,new_linked_full,523700.0,415163.0,1253827.0
-new_2026_18,Geovany Quenda,Chelsea,new_linked_full,593117.0,509068.0,1530314.0
-new_2026_46,Gonzalo García,Fulham,new_linked_full,551466.0,498798.0,1413847.0
-new_2026_44,Hayden Hackney,Everton,new_linked_full,244860.0,388651.0,982394.0
-new_2026_12,Ibrahim Osman,Brighton and Hove Albion,new_linked_full,612855.0,519755.0,1215410.0
-new_2026_40,Jaydee Canvot,Crystal Palace,new_linked_full,651426.0,531676.0,1664722.0
-new_2026_90,Jérémy Jacquet,Liverpool,new_linked_full,606702.0,468827.0,1473534.0
-new_2026_92,Lewis Koumas,Liverpool,new_linked_full,514514.0,492374.0,1364042.0
-new_2026_100,Lukás Hornícek,Newcastle United,new_linked_full,470551.0,415682.0,1186978.0
-new_2026_10,Mamadou Sangaré,Brentford,new_linked_full,513545.0,442971.0,1185211.0
-new_2026_96,Marcus Rashford,Manchester United,new_linked_full,176297.0,300299.0,696365.0
+new_2026_123,Conor Gallagher,Tottenham Hotspur,new_linked_full,232787.0,375621.0,966027.0
+new_2026_14,Costinha,Brighton and Hove Albion,new_linked_full,451490.0,395954.0,1079456.0
+new_2026_52,César Palacios,Fulham,new_linked_full,571779.0,534901.0,1403691.0
+new_2026_7,Daniel Jebbison,Bournemouth,new_linked_full,523700.0,415163.0,1253827.0
+new_2026_23,Geovany Quenda,Chelsea,new_linked_full,593117.0,509068.0,1530314.0
+new_2026_53,Gonzalo García,Fulham,new_linked_full,551466.0,498798.0,1413847.0
+new_2026_51,Hayden Hackney,Everton,new_linked_full,244860.0,388651.0,982394.0
+new_2026_15,Ibrahim Osman,Brighton and Hove Albion,new_linked_full,612855.0,519755.0,1215410.0
+new_2026_46,Jaydee Canvot,Crystal Palace,new_linked_full,651426.0,531676.0,1664722.0
+new_2026_102,Jérémy Jacquet,Liverpool,new_linked_full,606702.0,468827.0,1473534.0
+new_2026_109,Kaden Braithwaite,Manchester City,new_linked_full,554054.0,540462.0,1682403.0
+new_2026_104,Lewis Koumas,Liverpool,new_linked_full,514514.0,492374.0,1364042.0
+new_2026_116,Lukás Hornícek,Newcastle United,new_linked_full,470551.0,415682.0,1186978.0
+new_2026_12,Mamadou Sangaré,Brentford,new_linked_full,513545.0,442971.0,1185211.0
+new_2026_112,Marcus Rashford,Manchester United,new_linked_full,176297.0,300299.0,696365.0
 new_2026_3,Matteo Ruggeri,Aston Villa,new_linked_full,487992.0,402046.0,1051097.0
-new_2026_107,Mikey Moore,Tottenham Hotspur,new_linked_full,499721.0,526481.0,1407250.0
-new_2026_19,Pep Chavarría,Chelsea,new_linked_full,498444.0,448468.0,988805.0
-new_2026_93,Ronald Araujo,Liverpool,new_linked_full,445087.0,384711.0,921253.0
-new_2026_101,Sean Steur,Newcastle United,new_linked_full,636852.0,552573.0,1643770.0
-new_2026_48,Shea Charles,Fulham,new_linked_full,463210.0,428060.0,1281452.0
-new_2026_41,Takehiro Tomiyasu,Crystal Palace,new_linked_full,223723.0,377283.0,664444.0
-new_2026_89,Tarik Muharemovic,Leeds United,new_linked_full,522047.0,439533.0,1250485.0
-new_2026_105,Thomas Meunier,Sunderland,new_linked_full,93605.0,104376.0,277771.0
-new_2026_94,Víctor Muñoz,Liverpool,new_linked_full,551499.0,548106.0,1553105.0
-new_2026_104,Xaver Schlager,Nottingham Forest,new_linked_full,204561.0,262856.0,620027.0
-new_2026_16,Zadok Yohanna,Brighton and Hove Albion,new_linked_full,700308.0,623567.0,1782648.0
-new_2026_80,Abdoul Ouattara,Ipswich Town,new_linked_partial,,433937.0,1343053.0
-new_2026_74,Abdul Fatawu,Ipswich Town,new_linked_partial,,430985.0,1265626.0
-new_2026_28,Aurèle Amenda,Coventry City,new_linked_partial,,450271.0,1257648.0
-new_2026_99,Bazoumana Touré,Newcastle United,new_linked_partial,611665.0,,1624586.0
-new_2026_22,Bobby Thomas,Coventry City,new_linked_partial,,395615.0,1161885.0
-new_2026_24,Brandon Thomas-Asante,Coventry City,new_linked_partial,,331235.0,776184.0
-new_2026_32,Caleb Yirenkyi,Coventry City,new_linked_partial,,561984.0,1615927.0
-new_2026_26,Carl Rushworth,Coventry City,new_linked_partial,,421944.0,1187236.0
-new_2026_79,Chuba Akpom,Ipswich Town,new_linked_partial,,122294.0,413158.0
-new_2026_61,Cody Drameh,Hull City,new_linked_partial,,414473.0,962046.0
-new_2026_78,Daizen Maeda,Ipswich Town,new_linked_partial,,377287.0,728765.0
-new_2026_70,Dara O'Shea,Ipswich Town,new_linked_partial,,362826.0,789578.0
-new_2026_57,Elliot Stroud,Hull City,new_linked_partial,,614510.0,1272349.0
-new_2026_27,Ellis Simms,Coventry City,new_linked_partial,,396483.0,982284.0
-new_2026_69,Emersonn,Ipswich Town,new_linked_partial,,429556.0,1320949.0
+new_2026_124,Mikey Moore,Tottenham Hotspur,new_linked_full,499721.0,526481.0,1407250.0
+new_2026_99,Nico Elvedi,Leeds United,new_linked_full,173774.0,243534.0,517346.0
+new_2026_4,Nicolas Jackson,Aston Villa,new_linked_full,517052.0,426050.0,1197347.0
+new_2026_24,Pep Chavarría,Chelsea,new_linked_full,498444.0,448468.0,988805.0
+new_2026_20,Promise David,Brighton and Hove Albion,new_linked_full,538007.0,532188.0,1252132.0
+new_2026_105,Ronald Araujo,Liverpool,new_linked_full,445087.0,384711.0,921253.0
+new_2026_117,Sean Steur,Newcastle United,new_linked_full,636852.0,552573.0,1643770.0
+new_2026_56,Shea Charles,Fulham,new_linked_full,463210.0,428060.0,1281452.0
+new_2026_47,Takehiro Tomiyasu,Crystal Palace,new_linked_full,223723.0,377283.0,664444.0
+new_2026_100,Tarik Muharemovic,Leeds United,new_linked_full,522047.0,439533.0,1250485.0
+new_2026_122,Thomas Meunier,Sunderland,new_linked_full,93605.0,104376.0,277771.0
+new_2026_25,Valentín Barco,Chelsea,new_linked_full,543158.0,419341.0,1272440.0
+new_2026_106,Víctor Muñoz,Liverpool,new_linked_full,551499.0,548106.0,1553105.0
+new_2026_120,Xaver Schlager,Nottingham Forest,new_linked_full,204561.0,262856.0,620027.0
+new_2026_21,Zadok Yohanna,Brighton and Hove Albion,new_linked_full,700308.0,623567.0,1782648.0
+new_2026_49,Zavier Gozo,Crystal Palace,new_linked_full,559152.0,505602.0,1455818.0
+new_2026_5,Zion Suzuki,Aston Villa,new_linked_full,433969.0,447570.0,1053679.0
+new_2026_9,Álvaro Rodríguez,Bournemouth,new_linked_full,561245.0,460772.0,1327406.0
+new_2026_50,Óscar Mingueza,Crystal Palace,new_linked_full,242313.0,397469.0,952095.0
+new_2026_92,Abdoul Ouattara,Ipswich Town,new_linked_partial,,433937.0,1343053.0
+new_2026_81,Abdul Fatawu,Ipswich Town,new_linked_partial,,430985.0,1265626.0
+new_2026_13,Amario Cozier-Duberry,Brighton and Hove Albion,new_linked_partial,519324.0,,1254170.0
+new_2026_29,Aurèle Amenda,Coventry City,new_linked_partial,,450271.0,1257648.0
+new_2026_27,Bobby Thomas,Coventry City,new_linked_partial,,395615.0,1161885.0
+new_2026_35,Brandon Thomas-Asante,Coventry City,new_linked_partial,,331235.0,776184.0
+new_2026_33,Caleb Yirenkyi,Coventry City,new_linked_partial,,561984.0,1615927.0
+new_2026_31,Carl Rushworth,Coventry City,new_linked_partial,,421944.0,1187236.0
+new_2026_88,Chuba Akpom,Ipswich Town,new_linked_partial,,122294.0,413158.0
+new_2026_71,Cody Drameh,Hull City,new_linked_partial,,414473.0,962046.0
+new_2026_89,Daizen Maeda,Ipswich Town,new_linked_partial,,377287.0,728765.0
+new_2026_85,Dara O'Shea,Ipswich Town,new_linked_partial,,362826.0,789578.0
+new_2026_87,Darnell Furlong,Ipswich Town,new_linked_partial,,262401.0,609733.0
+new_2026_70,Elliot Stroud,Hull City,new_linked_partial,,614510.0,1272349.0
+new_2026_34,Ellis Simms,Coventry City,new_linked_partial,,396483.0,982284.0
+new_2026_82,Emersonn,Ipswich Town,new_linked_partial,,429556.0,1320949.0
+new_2026_36,Ephron Mason-Clark,Coventry City,new_linked_partial,,342899.0,798654.0
 new_2026_1,Ethan Nwaneri,Arsenal,new_linked_partial,499175.0,,1254234.0
-new_2026_30,Gustavo Hamer,Coventry City,new_linked_partial,,332143.0,775355.0
-new_2026_73,Jack Clarke,Ipswich Town,new_linked_partial,,363516.0,914402.0
-new_2026_25,Jack Rudoni,Coventry City,new_linked_partial,,381107.0,1030830.0
-new_2026_75,Jacob Greaves,Ipswich Town,new_linked_partial,,381161.0,1079103.0
-new_2026_9,Jannik Schuster,Brentford,new_linked_partial,513086.0,,1572340.0
-new_2026_31,Jay Dasilva,Coventry City,new_linked_partial,,318767.0,759814.0
-new_2026_52,John Egan,Hull City,new_linked_partial,,108632.0,295062.0
-new_2026_7,Juanlu Sánchez,Bournemouth,new_linked_partial,494928.0,,1158512.0
-new_2026_71,Julio Enciso,Ipswich Town,new_linked_partial,,417747.0,1073742.0
-new_2026_81,Kasey McAteer,Ipswich Town,new_linked_partial,,429531.0,1113915.0
-new_2026_77,Kjell Scherpen,Ipswich Town,new_linked_partial,,361867.0,796398.0
-new_2026_49,Konstantinos Tzolakis,Hull City,new_linked_partial,,397331.0,1072068.0
-new_2026_76,Leif Davis,Ipswich Town,new_linked_partial,,366211.0,980381.0
-new_2026_59,Lewie Coyle,Hull City,new_linked_partial,,301415.0,709148.0
-new_2026_62,Liam Millar,Hull City,new_linked_partial,,391821.0,932308.0
-new_2026_47,Luc De Fougerolles,Fulham,new_linked_partial,547686.0,,1399943.0
-new_2026_60,Lucas Herrington,Hull City,new_linked_partial,,606532.0,1686118.0
+new_2026_86,Exequiel Palacios,Ipswich Town,new_linked_partial,,299684.0,693599.0
+new_2026_39,Gustavo Hamer,Coventry City,new_linked_partial,,332143.0,775355.0
+new_2026_68,Hidemasa Morita,Hull City,new_linked_partial,,409279.0,915102.0
+new_2026_79,Jack Clarke,Ipswich Town,new_linked_partial,,363516.0,914402.0
+new_2026_30,Jack Rudoni,Coventry City,new_linked_partial,,381107.0,1030830.0
+new_2026_94,Jacob Greaves,Ipswich Town,new_linked_partial,,381161.0,1079103.0
+new_2026_11,Jannik Schuster,Brentford,new_linked_partial,513086.0,,1572340.0
+new_2026_16,Jaouen Hadjam,Brighton and Hove Albion,new_linked_partial,512123.0,,1178324.0
+new_2026_28,Jay Dasilva,Coventry City,new_linked_partial,,318767.0,759814.0
+new_2026_59,John Egan,Hull City,new_linked_partial,,108632.0,295062.0
+new_2026_8,Juanlu Sánchez,Bournemouth,new_linked_partial,494928.0,,1158512.0
+new_2026_121,Jules Ahoka,Sunderland,new_linked_partial,696104.0,,1811265.0
+new_2026_80,Julio Enciso,Ipswich Town,new_linked_partial,,417747.0,1073742.0
+new_2026_91,Kasey McAteer,Ipswich Town,new_linked_partial,,429531.0,1113915.0
+new_2026_83,Kjell Scherpen,Ipswich Town,new_linked_partial,,361867.0,796398.0
+new_2026_57,Konstantinos Tzolakis,Hull City,new_linked_partial,,397331.0,1072068.0
+new_2026_103,Kostas Tsimikas,Liverpool,new_linked_partial,214285.0,301455.0,
+new_2026_84,Leif Davis,Ipswich Town,new_linked_partial,,366211.0,980381.0
+new_2026_67,Lewie Coyle,Hull City,new_linked_partial,,301415.0,709148.0
+new_2026_69,Liam Millar,Hull City,new_linked_partial,,391821.0,932308.0
+new_2026_54,Luc De Fougerolles,Fulham,new_linked_partial,547686.0,,1399943.0
+new_2026_66,Lucas Gourna-Douath,Hull City,new_linked_partial,,393137.0,1137106.0
+new_2026_72,Lucas Herrington,Hull City,new_linked_partial,,606532.0,1686118.0
 new_2026_2,Luka Lynch,Aston Villa,new_linked_partial,571380.0,,1553189.0
-new_2026_13,Malick Yalcouyé,Brighton,new_linked_partial,611695.0,533015.0,
-new_2026_72,Marcelino Núñez,Ipswich Town,new_linked_partial,,417745.0,1129081.0
-new_2026_56,Matt Crooks,Hull City,new_linked_partial,,105742.0,280507.0
-new_2026_29,Matt Grimes,Coventry City,new_linked_partial,,138584.0,478357.0
-new_2026_64,Matt Targett,Hull City,new_linked_partial,,136776.0,538112.0
-new_2026_14,Michael Svoboda,Brighton and Hove Albion,new_linked_partial,454490.0,,951921.0
-new_2026_33,Milan van Ewijk,Coventry City,new_linked_partial,,379760.0,1074750.0
-new_2026_58,Mohamed Belloumi,Hull City,new_linked_partial,,457802.0,1231090.0
-new_2026_88,Nico Elvedi,Leeds United,new_linked_partial,173774.0,,517346.0
-new_2026_51,Nobel Mendy,Hull City,new_linked_partial,,469508.0,1428427.0
-new_2026_55,Oli McBurnie,Hull City,new_linked_partial,,138695.0,509151.0
-new_2026_103,Ousmane Diomande,Nottingham Forest,new_linked_partial,568420.0,,1425182.0
-new_2026_63,Paddy McNair,Hull City,new_linked_partial,,244565.0,575780.0
-new_2026_15,Promise David,Brighton and Hove Albion,new_linked_partial,538007.0,,1252132.0
-new_2026_53,Regan Slater,Hull City,new_linked_partial,,349981.0,807930.0
-new_2026_54,Ryan Giles,Hull City,new_linked_partial,,362831.0,933635.0
-new_2026_50,Semi Ajayi,Hull City,new_linked_partial,,247815.0,410836.0
-new_2026_20,Valentín Barco,Chelsea,new_linked_partial,543158.0,,1272440.0
-new_2026_23,Victor Torp,Coventry City,new_linked_partial,,409424.0,845985.0
-new_2026_42,Yéremy Pino,Crystal Palace,new_linked_partial,488024.0,403865.0,
-new_2026_8,Álvaro Rodríguez,Bournemouth,new_linked_partial,561245.0,,1327406.0
-new_2026_43,Óscar Mingueza,Crystal Palace,new_linked_partial,242313.0,,952095.0
-new_2026_34,Ben Wilson,Coventry City,new_unverified,,,302783.0
-new_2026_86,Cameron Humphreys,Ipswich Town,new_unverified,,,1287056.0
-new_2026_83,Christian Walton,Ipswich Town,new_unverified,,,512013.0
-new_2026_85,Cédric Kipré,Ipswich Town,new_unverified,,,760398.0
-new_2026_84,Darnell Furlong,Ipswich Town,new_unverified,,,609733.0
-new_2026_65,Dillon Phillips,Hull City,new_unverified,,,518500.0
-new_2026_102,Ewen Jaouen,Newcastle United,new_unverified,,,1438570.0
-new_2026_95,Gerónimo Rulli,Manchester City,new_unverified,,,245555.0
-new_2026_68,Jens Hjertø-Dahl,Hull City,new_unverified,,,1377949.0
-new_2026_35,Joel Latibeaudiere,Coventry City,new_unverified,,,863822.0
-new_2026_37,Josh Eccles,Coventry City,new_unverified,,,962000.0
-new_2026_66,Kieran Dowell,Hull City,new_unverified,,,605262.0
-new_2026_91,Kostas Tsimikas,Liverpool,new_unverified,214285.0,,
-new_2026_36,Liam Kitching,Coventry City,new_unverified,,,914399.0
-new_2026_67,Lucas Gourna-Douath,Hull City,new_unverified,,,1137106.0
-new_2026_17,Malick Junior Yalcouyé,Brighton and Hove Albion,new_unverified,,,1602352.0
-new_2026_21,Mike Penders,Chelsea,new_unverified,,,1319972.0
-new_2026_82,Sindre Egeli,Ipswich,new_unverified,,426913.0,
-new_2026_87,Sindre Walle Egeli,Ipswich Town,new_unverified,,,1307961.0
-new_2026_38,Tatsuhiro Sakamoto,Coventry City,new_unverified,,,1025603.0
-new_2026_4,Zion Suzuki,Aston Villa,new_unverified,,,1053679.0
+new_2026_55,Macauley Zepa,Fulham,new_linked_partial,616069.0,,1631628.0
+new_2026_17,Malick Yalcouyé,Brighton,new_linked_partial,611695.0,533015.0,
+new_2026_90,Marcelino Núñez,Ipswich Town,new_linked_partial,,417745.0,1129081.0
+new_2026_61,Matt Crooks,Hull City,new_linked_partial,,105742.0,280507.0
+new_2026_37,Matt Grimes,Coventry City,new_linked_partial,,138584.0,478357.0
+new_2026_74,Matt Targett,Hull City,new_linked_partial,,136776.0,538112.0
+new_2026_19,Michael Svoboda,Brighton and Hove Albion,new_linked_partial,454490.0,,951921.0
+new_2026_40,Milan van Ewijk,Coventry City,new_linked_partial,,379760.0,1074750.0
+new_2026_62,Mohamed Belloumi,Hull City,new_linked_partial,,457802.0,1231090.0
+new_2026_75,Mohamed-Ali Cho,Hull City,new_linked_partial,,399014.0,1180718.0
+new_2026_60,Nobel Mendy,Hull City,new_linked_partial,,469508.0,1428427.0
+new_2026_64,Oli McBurnie,Hull City,new_linked_partial,,138695.0,509151.0
+new_2026_119,Ousmane Diomande,Nottingham Forest,new_linked_partial,568420.0,,1425182.0
+new_2026_73,Paddy McNair,Hull City,new_linked_partial,,244565.0,575780.0
+new_2026_63,Regan Slater,Hull City,new_linked_partial,,349981.0,807930.0
+new_2026_65,Ryan Giles,Hull City,new_linked_partial,,362831.0,933635.0
+new_2026_58,Semi Ajayi,Hull City,new_linked_partial,,247815.0,410836.0
+new_2026_32,Tatsuhiro Sakamoto,Coventry City,new_linked_partial,,431539.0,1025603.0
+new_2026_38,Victor Torp,Coventry City,new_linked_partial,,409424.0,845985.0
+new_2026_48,Yéremy Pino,Crystal Palace,new_linked_partial,488024.0,403865.0,
+new_2026_101,Alex Cairns,Leeds United,new_unverified,,,279481.0
+new_2026_41,Ben Wilson,Coventry City,new_unverified,,,302783.0
+new_2026_97,Cameron Humphreys,Ipswich Town,new_unverified,,,1287056.0
+new_2026_95,Christian Walton,Ipswich Town,new_unverified,,,512013.0
+new_2026_96,Cédric Kipré,Ipswich Town,new_unverified,,,760398.0
+new_2026_76,Dillon Phillips,Hull City,new_unverified,,,518500.0
+new_2026_118,Ewen Jaouen,Newcastle United,new_unverified,,,1438570.0
+new_2026_111,Gerónimo Rulli,Manchester City,new_unverified,,,245555.0
+new_2026_78,Jens Hjertø-Dahl,Hull City,new_unverified,,,1377949.0
+new_2026_42,Joel Latibeaudiere,Coventry City,new_unverified,,,863822.0
+new_2026_44,Josh Eccles,Coventry City,new_unverified,,,962000.0
+new_2026_77,Kieran Dowell,Hull City,new_unverified,,,605262.0
+new_2026_43,Liam Kitching,Coventry City,new_unverified,,,914399.0
+new_2026_22,Malick Junior Yalcouyé,Brighton and Hove Albion,new_unverified,,,1602352.0
+new_2026_18,Matt O'Riley,Brighton,new_unverified,219249.0,,
+new_2026_10,Michele Di Gregorio,Bournemouth,new_unverified,,,766062.0
+new_2026_26,Mike Penders,Chelsea,new_unverified,,,1319972.0
+new_2026_93,Sindre Egeli,Ipswich,new_unverified,,426913.0,
+new_2026_98,Sindre Walle Egeli,Ipswich Town,new_unverified,,,1307961.0

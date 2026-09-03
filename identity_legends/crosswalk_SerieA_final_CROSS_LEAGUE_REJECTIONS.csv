@@ -3,13 +3,16 @@ opta,Adrien Rabiot,120743,Marseille
 opta,Akor Adams,484640,Sevilla
 opta,Alfonso Pedraza,208380,Villarreal
 opta,Andy Diouf,503696,Lens
+opta,Arthur Theate,465189,Eintracht Frankfurt
 opta,Benjamin Pavard,202675,Marseille
+opta,Curtis Jones,206915,Liverpool
 opta,Danilho Doekhi,216257,Union Berlin
 opta,Darryl Bakola,634416,Marseille
 opta,Diego Moreira,491011,Strasbourg
 opta,Djibril Sow,185524,Sevilla
 opta,Douglas Luiz,230046,Aston Villa
 opta,Edon Zhegrova,431128,Lille
+opta,Eray Cömert,220327,Valencia
 opta,Franco Mastantuono,576550,Real Madrid
 opta,Giacomo Raspadori,446969,Atletico Madrid
 opta,Gonçalo Ramos,449980,Paris Saint-Germain
@@ -20,6 +23,7 @@ opta,Jérémie Boga,135365,Nice
 opta,Kevin Akpoguma,120002,Hoffenheim
 opta,Kevin Carlos,509201,Nice
 opta,Konstantinos Koulierakis,570164,Wolfsburg
+opta,Leonardo Balerdi,446682,Marseille
 opta,Luis Milla,167742,Getafe
 opta,Nahuel Molina,221586,Atletico Madrid
 opta,Nico González,231004,Atletico Madrid
@@ -34,34 +38,41 @@ opta,Trevoh Chalobah,180736,Chelsea
 opta,Unai Gómez,619506,Athletic Club
 opta,Valde,669473,Real Madrid
 opta,Willem Geubbels,242894,Paris FC
+opta,Willy Kambwala,518466,Villarreal
 opta,Yan Couto,468236,Borussia Dortmund
-whoscored,Trevoh Chalobah,353292,Chelsea
-whoscored,Giacomo Raspadori,371497,Atletico Madrid
-whoscored,Luis Milla,279320,Getafe
+whoscored,Nico González,345322,Atletico Madrid
 whoscored,Andy Diouf,415415,Lens
-whoscored,Adrien Rabiot,116609,Marseille
+whoscored,Luis Milla,279320,Getafe
+whoscored,Trevoh Chalobah,353292,Chelsea
 whoscored,Douglas Luiz,337883,Aston Villa
-whoscored,Danilho Doekhi,303076,Union Berlin
 whoscored,Guglielmo Vicario,147863,Tottenham
-whoscored,Gonçalo Ramos,395802,Paris Saint-Germain
-whoscored,Rafa Marín,430301,Villarreal
+whoscored,Benjamin Pavard,259648,Marseille
+whoscored,Adrien Rabiot,116609,Marseille
+whoscored,Giacomo Raspadori,371497,Atletico Madrid
 whoscored,Darryl Bakola,525813,Marseille
-whoscored,Alfonso Pedraza,276489,Villarreal
+whoscored,Gonçalo Ramos,395802,Paris Saint-Germain
+whoscored,Danilho Doekhi,303076,Union Berlin
+whoscored,Rafa Marín,430301,Villarreal
+whoscored,John Stones,101374,Manchester City
+whoscored,Eray Cömert,301034,Valencia
+whoscored,Nahuel Molina,303728,Atletico Madrid
+whoscored,Unai Gómez,480619,Athletic Club
 whoscored,Akor Adams,408616,Sevilla
-whoscored,Thierry Correia,367180,Valencia
-whoscored,Konstantinos Koulierakis,457282,Wolfsburg
-whoscored,Oussama El Azzouzi,443980,Auxerre
+whoscored,Yan Couto,421975,Borussia Dortmund
 whoscored,Randal Kolo Muani,333542,Tottenham
 whoscored,Jérémie Boga,280766,Nice
-whoscored,Yan Couto,421975,Borussia Dortmund
-whoscored,Radu Dragusin,400097,Tottenham
-whoscored,John Stones,101374,Manchester City
-whoscored,Unai Gómez,480619,Athletic Club
-whoscored,Willem Geubbels,345987,Paris FC
-whoscored,Djibril Sow,317630,Sevilla
+whoscored,Alfonso Pedraza,276489,Villarreal
+whoscored,Konstantinos Koulierakis,457282,Wolfsburg
 whoscored,Valde,555515,Real Madrid
-whoscored,Franco Mastantuono,514810,Real Madrid
+whoscored,Oussama El Azzouzi,443980,Auxerre
 whoscored,Romano Schmid,383847,Bremen
+whoscored,Djibril Sow,317630,Sevilla
+whoscored,Thierry Correia,367180,Valencia
+whoscored,Radu Dragusin,400097,Tottenham
+whoscored,Curtis Jones,355354,Liverpool
+whoscored,Franco Mastantuono,514810,Real Madrid
+whoscored,Kevin Carlos,400295,Nice
+whoscored,Willem Geubbels,345987,Paris FC
 fotmob,Nahuel Molina,726345,Atletico Madrid
 fotmob,Radu Dragusin,1203661,Tottenham
 fotmob,Konstantinos Koulierakis,1337884,Wolfsburg
@@ -96,3 +107,9 @@ fotmob,Unai Gómez,1436270,Athletic Club
 fotmob,Willem Geubbels,883824,Paris FC
 fotmob,Akor Adams,958640,Sevilla
 fotmob,Thierry Correia,992052,Valencia
+fotmob,Arthur Theate,1173250,Eintracht Frankfurt
+fotmob,Curtis Jones,933768,Liverpool
+fotmob,Kamil Grabara,760722,Wolfsburg
+fotmob,Leonardo Balerdi,958464,Marseille
+fotmob,Willy Kambwala,1344550,Villarreal
+fotmob,Eray Cömert,705484,Valencia

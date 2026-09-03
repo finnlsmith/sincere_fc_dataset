@@ -1,0 +1,373 @@
+name,playerId,teamId,teamName,age,height,weight,positionText,season
+Donyell Malen,351354,84,Roma,27,178,68,Forward,2026_27
+Nico González,345322,87,Juventus,28,180,77,Forward,2026_27
+Paulo Dybala,114863,84,Roma,32,177,75,Forward,2026_27
+Antonio Vergara,429529,276,Napoli,23,182,70,Midfielder,2026_27
+Bremer,339875,87,Juventus,29,188,87,Defender,2026_27
+Daniele Ghilardi,486744,84,Roma,23,189,77,Defender,2026_27
+Bryan Cristante,109149,84,Roma,31,186,80,Midfielder,2026_27
+Hassane Kamara,239881,86,Udinese,32,170,67,Defender,2026_27
+Gabriele Bracaglia,447442,2732,Frosinone,23,185,74,Defender,2026_27
+Davide Frattesi,331425,77,Lazio,26,178,74,Midfielder,2026_27
+Nicolò Barella,148684,75,Inter,29,175,68,Midfielder,2026_27
+Giacomo Calò,316947,2732,Frosinone,29,180,74,Midfielder,2026_27
+Hakan Çalhanoglu,110373,75,Inter,32,178,76,Midfielder,2026_27
+Samuel Chukwueze,363665,80,AC Milan,27,172,70,Forward,2026_27
+Mario Hermoso,344156,84,Roma,31,184,75,Defender,2026_27
+Gianluca Mancini,244804,84,Roma,30,190,77,Defender,2026_27
+Manuel Locatelli,273539,87,Juventus,28,185,75,Midfielder,2026_27
+Andy Diouf,415415,75,Inter,23,187,82,Midfielder,2026_27
+Tasos Douvikas,422873,1290,Como,27,186,76,Forward,2026_27
+Francisco Conceição,409221,87,Juventus,23,166,67,Forward,2026_27
+Francesco Pio Esposito,497222,75,Inter,21,190,80,Forward,2026_27
+Alessandro Romano,550174,78,Cagliari,20,180,73,Midfielder,2026_27
+Luis Milla,279320,1290,Como,31,175,67,Midfielder,2026_27
+Marco Carnesecchi,383278,300,Atalanta,26,191,83,Goalkeeper,2026_27
+Wesley,429481,84,Roma,22,175,73,Defender,2026_27
+Emanuele Lulli,578592,84,Roma,19,184,0,Defender,2026_27
+Giorgi Kvernadze,477060,2732,Frosinone,23,188,67,Forward,2026_27
+Evan Ndicka,323450,84,Roma,27,192,85,Defender,2026_27
+Jurgen Ekkelenkamp,355963,86,Udinese,26,188,83,Midfielder,2026_27
+Cristian Volpato,427130,2889,Sassuolo,22,187,76,Midfielder,2026_27
+Domenico Berardi,118542,2889,Sassuolo,32,183,72,Forward,2026_27
+Federico Dimarco,255929,75,Inter,28,175,75,Defender,2026_27
+Kevin De Bruyne,73084,276,Napoli,35,181,79,Midfielder,2026_27
+Trevoh Chalobah,353292,1290,Como,27,190,75,Defender,2026_27
+Pierre Kalulu,391836,87,Juventus,26,179,69,Defender,2026_27
+Mile Svilar,331422,84,Roma,27,189,77,Goalkeeper,2026_27
+Matías Soulé,425079,84,Roma,23,182,74,Forward,2026_27
+Christos Mandas,418171,77,Lazio,24,189,83,Goalkeeper,2026_27
+Lorenzo Palmisani,447439,2732,Frosinone,22,196,0,Goalkeeper,2026_27
+Nico Paz,448659,1290,Como,21,185,79,Midfielder,2026_27
+Mattia Zaccagni,149029,77,Lazio,31,177,63,Midfielder,2026_27
+Koni De Winter,404623,80,AC Milan,24,191,78,Defender,2026_27
+Maduka Okoye,392339,86,Udinese,27,198,94,Goalkeeper,2026_27
+Amir Rrahmani,295358,276,Napoli,32,192,87,Defender,2026_27
+Manuel Akanji,297390,75,Inter,31,188,91,Defender,2026_27
+Patrizio Masini,447452,2732,Frosinone,25,182,72,Midfielder,2026_27
+Nuno Tavares,379790,77,Lazio,26,183,75,Defender,2026_27
+Manu Koné,369570,84,Roma,25,185,80,Midfielder,2026_27
+Anthony Oyono,431032,2732,Frosinone,25,184,0,Defender,2026_27
+Nicolò Zaniolo,332398,86,Udinese,27,190,79,Midfielder,2026_27
+Rodrigo Mora,532725,84,Roma,19,168,56,Midfielder,2026_27
+Gianluca Busio,358142,85,Venezia,24,172,65,Midfielder,2026_27
+Juan Rodríguez,478378,78,Cagliari,21,190,80,Defender,2026_27
+Strahinja Pavlovic,383864,80,AC Milan,25,194,85,Defender,2026_27
+Ilario Monterisi,389124,2732,Frosinone,24,190,0,Defender,2026_27
+Douglas Luiz,337883,87,Juventus,28,175,66,Midfielder,2026_27
+Guglielmo Vicario,147863,87,Juventus,29,194,83,Goalkeeper,2026_27
+Giorgio Cittadini,430899,2732,Frosinone,24,193,72,Defender,2026_27
+Benjamin Pavard,259648,75,Inter,30,186,76,Defender,2026_27
+Alessandro Bastoni,329665,75,Inter,27,190,75,Defender,2026_27
+Eivind Helland,486906,71,Bologna,21,196,0,Defender,2026_27
+Elia Caprile,362780,78,Cagliari,25,191,74,Goalkeeper,2026_27
+Yann Bisseck,349126,75,Inter,25,196,83,Defender,2026_27
+Jakub Piotrowski,363654,86,Udinese,28,188,79,Midfielder,2026_27
+Assane Diao,502427,1290,Como,20,185,80,Forward,2026_27
+Adam Obert,424534,78,Cagliari,24,188,84,Defender,2026_27
+Zeki Çelik,136481,87,Juventus,29,180,78,Defender,2026_27
+Jamil Siebert,400816,79,Lecce,24,193,86,Defender,2026_27
+Arijanet Muric,362426,2889,Sassuolo,27,198,81,Goalkeeper,2026_27
+Kenan Yildiz,494525,87,Juventus,21,187,77,Forward,2026_27
+Santiago Pierotti,381913,79,Lecce,25,189,69,Forward,2026_27
+Alexis Saelemaekers,365308,80,AC Milan,27,180,72,Forward,2026_27
+Leo Østigård,369971,278,Genoa,26,183,81,Defender,2026_27
+Alieu Njie,497217,72,Torino,21,171,60,Forward,2026_27
+Antonio Raimondo,415892,2732,Frosinone,22,185,73,Forward,2026_27
+Mario Gila,437646,80,AC Milan,26,185,74,Defender,2026_27
+Adrien Rabiot,116609,80,AC Milan,31,191,86,Midfielder,2026_27
+Gianluca Gaetano,369883,300,Atalanta,26,183,71,Midfielder,2026_27
+Ebenezer Akinsanmiro,482453,269,Monza,21,184,70,Midfielder,2026_27
+Nicola Zalewski,403913,300,Atalanta,24,175,68,Midfielder,2026_27
+Wladimiro Falcone,118163,79,Lecce,31,195,85,Goalkeeper,2026_27
+Ange-Yoan Bonny,447489,75,Inter,22,189,83,Forward,2026_27
+Lassana Coulibaly,288894,79,Lecce,30,183,77,Midfielder,2026_27
+Giacomo Raspadori,371497,300,Atalanta,26,172,69,Forward,2026_27
+Lazar Samardzic,393039,300,Atalanta,24,184,70,Midfielder,2026_27
+Darryl Bakola,525813,2889,Sassuolo,18,178,70,Midfielder,2026_27
+Gonçalo Ramos,395802,80,AC Milan,25,185,79,Forward,2026_27
+Kian Fitz-Jim,415781,72,Torino,23,174,70,Midfielder,2026_27
+Romano Floriani Mussolini,426905,77,Lazio,23,188,72,Defender,2026_27
+Oliver Provstgaard,484491,77,Lazio,23,194,70,Defender,2026_27
+Nicolò Rovella,369688,77,Lazio,24,179,66,Midfielder,2026_27
+Rahim Alhassane,456006,71,Bologna,24,184,75,Defender,2026_27
+Juan Miranda,361993,71,Bologna,26,185,76,Defender,2026_27
+Simone Cinquegrano,587699,2889,Sassuolo,22,192,0,Midfielder,2026_27
+Junior Messias,401098,278,Genoa,35,174,70,Forward,2026_27
+Yunus Musah,400357,80,AC Milan,23,178,71,Midfielder,2026_27
+Christian Ordóñez,444691,24341,Parma Calcio 1913,22,177,65,Midfielder,2026_27
+Mërgim Vojvoda,228854,86,Udinese,31,187,78,Defender,2026_27
+Jacobo Ramón,516374,1290,Como,21,195,80,Defender,2026_27
+Martin Baturina,407944,1290,Como,23,172,68,Midfielder,2026_27
+Morten Frendrup,424806,278,Genoa,25,178,63,Midfielder,2026_27
+Piotr Zielinski,118169,75,Inter,32,180,76,Midfielder,2026_27
+Alphadjo Cissè,475622,80,AC Milan,19,178,68,Midfielder,2026_27
+Alessio Cacciamani,558992,72,Torino,19,170,0,Midfielder,2026_27
+Nemanja Matic,38128,2889,Sassuolo,38,194,85,Midfielder,2026_27
+Pietro Comuzzo,495757,72,Torino,21,185,75,Defender,2026_27
+Scott McTominay,336915,276,Napoli,29,193,88,Midfielder,2026_27
+Oumar Solet,354072,86,Udinese,26,192,88,Defender,2026_27
+Danilho Doekhi,303076,77,Lazio,28,190,83,Defender,2026_27
+Pervis Estupiñán,298694,80,AC Milan,28,175,73,Defender,2026_27
+Lewis Ferguson,396971,71,Bologna,27,181,73,Midfielder,2026_27
+Boulaye Dia,365122,77,Lazio,29,180,75,Forward,2026_27
+Jean Butez,256536,1290,Como,31,188,70,Goalkeeper,2026_27
+Luka Modric,20874,80,AC Milan,40,172,66,Midfielder,2026_27
+Gabriele Calvani,460562,2732,Frosinone,22,188,0,Defender,2026_27
+Bartol Franjic,404275,85,Venezia,26,186,77,Defender,2026_27
+Keinan Davis,303107,86,Udinese,28,189,68,Forward,2026_27
+Amar Fatah,455539,79,Lecce,22,180,73,Forward,2026_27
+Michel Adopo,356176,78,Cagliari,26,187,76,Midfielder,2026_27
+Adrián Bernabé,363978,24341,Parma Calcio 1913,25,170,66,Midfielder,2026_27
+Lautaro Martínez,299344,75,Inter,29,174,70,Forward,2026_27
+Tiago Gabriel,515580,79,Lecce,21,196,88,Defender,2026_27
+Christ Inao Oulaï,547352,73,Fiorentina,20,173,69,Midfielder,2026_27
+Éderson,362556,300,Atalanta,27,183,83,Midfielder,2026_27
+Fedde Leysen,428122,2889,Sassuolo,23,187,70,Defender,2026_27
+Ché Adams,256419,72,Torino,30,175,70,Forward,2026_27
+Kenneth Taylor,401122,77,Lazio,24,182,75,Midfielder,2026_27
+Petar Sucic,439534,75,Inter,22,183,68,Midfielder,2026_27
+Gustavo Varela,527501,269,Monza,21,184,74,Forward,2026_27
+Rafa Marín,430301,276,Napoli,24,191,83,Defender,2026_27
+Cas Odenthal,422803,2889,Sassuolo,25,190,79,Defender,2026_27
+Davide Bartesaghi,454356,80,AC Milan,20,193,86,Defender,2026_27
+Matteo Palma,527638,86,Udinese,18,195,0,Defender,2026_27
+Giovanni Di Lorenzo,122469,276,Napoli,33,183,83,Defender,2026_27
+Álex Valle,454341,1290,Como,22,178,72,Defender,2026_27
+Kialonda Gaspar,463347,79,Lecce,28,193,90,Defender,2026_27
+Giorgio Scalvini,405133,300,Atalanta,22,194,76,Defender,2026_27
+Josep Martínez,321236,75,Inter,28,191,78,Goalkeeper,2026_27
+Niccolò Pisilli,476440,84,Roma,21,181,73,Midfielder,2026_27
+Federico Bernardeschi,122402,71,Bologna,32,185,77,Forward,2026_27
+Mike Maignan,141646,80,AC Milan,31,191,89,Goalkeeper,2026_27
+Alex Meret,241022,276,Napoli,29,190,82,Goalkeeper,2026_27
+Armand Laurienté,355994,2889,Sassuolo,27,171,59,Forward,2026_27
+Jhon Lucumí,363653,87,Juventus,28,187,84,Defender,2026_27
+Diego Mascardi,497569,72,Torino,19,198,80,Goalkeeper,2026_27
+John Stones,101374,75,Inter,32,188,80,Defender,2026_27
+Josh Doig,397024,2889,Sassuolo,24,189,71,Defender,2026_27
+Ricardo Mangas,389108,269,Monza,28,181,73,Defender,2026_27
+Vasilije Adzic,484428,2889,Sassuolo,20,185,75,Midfielder,2026_27
+Andrea Colpani,356733,269,Monza,27,184,69,Midfielder,2026_27
+Emanuele Valeri,343512,24341,Parma Calcio 1913,27,180,78,Defender,2026_27
+Davide Zappacosta,141312,300,Atalanta,34,182,70,Defender,2026_27
+Emil Holm,418579,71,Bologna,26,192,87,Defender,2026_27
+Daniel Maldini,388493,78,Cagliari,24,188,83,Forward,2026_27
+Lucas da Cunha,379615,1290,Como,25,174,66,Midfielder,2026_27
+Michael Folorunsho,333294,269,Monza,28,190,92,Midfielder,2026_27
+Rasmus Højlund,439584,276,Napoli,23,191,86,Forward,2026_27
+Nikola Krstovic,404252,300,Atalanta,26,185,83,Forward,2026_27
+Saúl Coco,431167,72,Torino,27,187,86,Defender,2026_27
+Torbjørn Heggem,364336,71,Bologna,27,192,80,Defender,2026_27
+Frank Anguissa,349561,276,Napoli,30,184,78,Midfielder,2026_27
+Rafa Obrador,396188,2889,Sassuolo,22,181,72,Defender,2026_27
+Teun Koopmeiners,343308,87,Juventus,28,185,84,Midfielder,2026_27
+Olaf Gorter,577174,79,Lecce,21,181,76,Midfielder,2026_27
+Stanislav Lobotka,111892,276,Napoli,31,168,68,Midfielder,2026_27
+Albert Gudmundsson,289252,73,Fiorentina,29,177,80,Forward,2026_27
+Matteo Politano,122683,276,Napoli,33,171,67,Forward,2026_27
+Nicolò Cambiaghi,373544,71,Bologna,25,173,66,Forward,2026_27
+Armel Bella-Kotchap,369970,85,Venezia,24,190,87,Defender,2026_27
+Eray Cömert,301034,72,Torino,28,183,80,Defender,2026_27
+Jonathan David,383855,87,Juventus,26,178,81,Forward,2026_27
+Filip Stankovic,391573,85,Venezia,24,187,78,Goalkeeper,2026_27
+David Romero,411021,24341,Parma Calcio 1913,23,179,77,Forward,2026_27
+Nahuel Molina,303728,84,Roma,28,175,70,Defender,2026_27
+John Yeboah,365389,85,Venezia,26,170,66,Forward,2026_27
+Edon Zhegrova,363181,87,Juventus,27,181,66,Forward,2026_27
+Enzo Ebosse,320243,86,Udinese,27,185,74,Defender,2026_27
+Unai Gómez,480619,86,Udinese,23,183,75,Midfielder,2026_27
+Matteo Cancellieri,404497,77,Lazio,24,180,79,Forward,2026_27
+Raphael Kofler,447561,78,Cagliari,21,193,83,Defender,2026_27
+Gennaro Borrelli,447445,78,Cagliari,26,194,0,Forward,2026_27
+Toma Basic,343982,85,Venezia,29,189,80,Midfielder,2026_27
+Kristian Thorstvedt,372407,2889,Sassuolo,27,189,84,Midfielder,2026_27
+Alieu Fadera,421983,78,Cagliari,24,182,71,Forward,2026_27
+Enrico Delprato,355856,24341,Parma Calcio 1913,26,183,76,Defender,2026_27
+James Abankwah,446988,86,Udinese,22,188,79,Defender,2026_27
+Justin Bijlow,302709,278,Genoa,28,188,76,Goalkeeper,2026_27
+Akor Adams,408616,85,Venezia,26,190,92,Forward,2026_27
+Ridgeciano Haps,122398,85,Venezia,33,175,74,Defender,2026_27
+Simone Lontani,643601,24341,Parma Calcio 1913,18,0,0,Forward,2026_27
+Alex Amorim,472895,278,Genoa,21,177,68,Midfielder,2026_27
+Mattia Liberali,533537,1290,Como,19,169,67,Midfielder,2026_27
+Niccolò Fortini,526625,72,Torino,20,185,75,Defender,2026_27
+Reda Belahyane,454985,77,Lazio,22,169,53,Midfielder,2026_27
+Albion Rrahmani,418516,85,Venezia,26,187,0,Forward,2026_27
+Charles De Ketelaere,386390,300,Atalanta,25,192,83,Forward,2026_27
+Tommaso Pobega,402123,71,Bologna,27,188,75,Midfielder,2026_27
+Mario Pasalic,129903,300,Atalanta,31,188,77,Midfielder,2026_27
+Patrick Cutrone,329681,269,Monza,28,183,75,Forward,2026_27
+Jay Idzes,422637,2889,Sassuolo,26,184,82,Defender,2026_27
+Kaiki,468000,1290,Como,23,173,73,Defender,2026_27
+Seydou Fini,449840,2732,Frosinone,20,178,62,Forward,2026_27
+Weston McKennie,338275,87,Juventus,28,185,85,Midfielder,2026_27
+Edoardo Corvi,391521,24341,Parma Calcio 1913,25,187,77,Goalkeeper,2026_27
+Ruben Loftus-Cheek,255777,80,AC Milan,30,191,88,Midfielder,2026_27
+Brooke Norton-Cuffy,431573,278,Genoa,22,181,70,Defender,2026_27
+Álex Jiménez,497295,73,Fiorentina,21,177,73,Defender,2026_27
+Harry Winks,143990,78,Cagliari,30,178,65,Midfielder,2026_27
+Tommaso Baldanzi,425056,278,Genoa,23,176,63,Midfielder,2026_27
+Adam Marusic,275698,77,Lazio,33,185,76,Defender,2026_27
+Gianluca Scamacca,302650,300,Atalanta,27,196,85,Forward,2026_27
+Yan Couto,421975,1290,Como,24,168,60,Defender,2026_27
+Mikael Ellertsson,424834,278,Genoa,24,182,74,Midfielder,2026_27
+Dominik Drobnic,605995,24341,Parma Calcio 1913,19,194,0,Defender,2026_27
+Kike Pérez,395579,85,Venezia,29,184,80,Midfielder,2026_27
+Luis Henrique,388567,75,Inter,24,181,85,Forward,2026_27
+Alessio Zerbin,338762,2732,Frosinone,27,182,80,Forward,2026_27
+Randal Kolo Muani,333542,87,Juventus,27,187,73,Forward,2026_27
+Abdoulaye Ndiaye,412864,24341,Parma Calcio 1913,24,185,75,Defender,2026_27
+Fisayo Dele-Bashiru,399426,77,Lazio,25,176,70,Midfielder,2026_27
+Jérémie Boga,280766,87,Juventus,29,172,68,Forward,2026_27
+Gvidas Gineitis,435108,72,Torino,22,187,79,Midfielder,2026_27
+Alessandro Deiola,130368,78,Cagliari,31,190,85,Midfielder,2026_27
+Idrissa Gueye,499786,86,Udinese,19,185,66,Forward,2026_27
+Gabriele Zappa,371396,78,Cagliari,26,187,78,Defender,2026_27
+Filippo Delli Carri,331063,269,Monza,27,189,77,Defender,2026_27
+Noa Lang,354283,276,Napoli,27,176,70,Forward,2026_27
+Youssef Maleh,323678,79,Lecce,28,179,70,Midfielder,2026_27
+Kerim Alajbegovic,538923,87,Juventus,18,186,76,Forward,2026_27
+Mariano Troilo,494664,24341,Parma Calcio 1913,23,191,86,Defender,2026_27
+Milutin Osmajic,422766,278,Genoa,27,186,75,Forward,2026_27
+Alfonso Pedraza,276489,77,Lazio,30,184,73,Defender,2026_27
+Ardon Jashari,435100,80,AC Milan,24,181,80,Midfielder,2026_27
+Ivan Smolcic,531127,1290,Como,26,181,78,Defender,2026_27
+Adam Bakoune,468675,269,Monza,20,192,75,Defender,2026_27
+Konstantinos Koulierakis,457282,84,Roma,22,188,78,Defender,2026_27
+Jesper Karlström,320585,86,Udinese,31,182,81,Midfielder,2026_27
+Marc Oliver Kempf,116465,1290,Como,31,186,87,Defender,2026_27
+Moise Kean,328990,73,Fiorentina,26,183,67,Forward,2026_27
+Raoul Bellanova,349184,300,Atalanta,26,188,82,Defender,2026_27
+Valde,555515,73,Fiorentina,19,188,75,Defender,2026_27
+Lorenzo Lucca,424819,276,Napoli,25,201,80,Forward,2026_27
+Omari Forson,491385,269,Monza,22,179,74,Forward,2026_27
+Aleksa Terzic,377261,2732,Frosinone,27,184,75,Defender,2026_27
+Manga Foe Ondoa,511708,269,Monza,20,183,78,Midfielder,2026_27
+Oussama El Azzouzi,443980,71,Bologna,25,189,82,Midfielder,2026_27
+Romano Schmid,383847,2732,Frosinone,26,168,69,Midfielder,2026_27
+Ardian Ismajli,366671,72,Torino,29,185,76,Defender,2026_27
+Jens Odgaard,362553,71,Bologna,27,188,83,Forward,2026_27
+Sead Kolasinac,110260,300,Atalanta,33,183,85,Defender,2026_27
+João Mário,395173,73,Fiorentina,26,178,66,Defender,2026_27
+Leonardo Spinazzola,92329,276,Napoli,33,186,75,Defender,2026_27
+Roberto Piccoli,369414,71,Bologna,25,190,78,Forward,2026_27
+Jonathan Rowe,429723,71,Bologna,23,178,74,Forward,2026_27
+Eljif Elmas,339579,300,Atalanta,26,184,78,Midfielder,2026_27
+Mandela Keita,411939,24341,Parma Calcio 1913,24,180,78,Midfielder,2026_27
+Paul Mendy,608421,78,Cagliari,19,0,0,Forward,2026_27
+Santiago Castro,421081,84,Roma,21,178,86,Forward,2026_27
+Mattia Felici,452020,78,Cagliari,25,182,75,Forward,2026_27
+Lennon Miller,454901,86,Udinese,20,182,72,Midfielder,2026_27
+Andrea Carboni,390493,269,Monza,25,187,70,Defender,2026_27
+Cesare Casadei,433219,72,Torino,23,192,77,Midfielder,2026_27
+Djibril Sow,317630,278,Genoa,29,183,76,Midfielder,2026_27
+Danilo Veiga,444938,79,Lecce,23,183,78,Defender,2026_27
+Thierry Correia,367180,85,Venezia,27,176,69,Defender,2026_27
+Cher Ndour,476109,73,Fiorentina,22,190,82,Midfielder,2026_27
+Mateo Pellegrino,409250,73,Fiorentina,24,192,80,Forward,2026_27
+El Bilal Touré,391527,24341,Parma Calcio 1913,24,185,77,Forward,2026_27
+Manuel Lazzari,287086,77,Lazio,32,174,67,Midfielder,2026_27
+Marten de Roon,85070,84,Roma,35,186,76,Midfielder,2026_27
+Neil El Aynaoui,486734,84,Roma,25,185,80,Midfielder,2026_27
+Marco Brescianini,367260,73,Fiorentina,26,188,80,Midfielder,2026_27
+Luis Hasa,450288,2732,Frosinone,22,172,60,Midfielder,2026_27
+Matteo Gabbia,337443,80,AC Milan,26,185,78,Defender,2026_27
+Eddy Kouadio,538533,269,Monza,20,191,74,Defender,2026_27
+Oumar Ngom,467299,79,Lecce,22,184,75,Midfielder,2026_27
+Konan N’Dri,399852,79,Lecce,25,174,73,Forward,2026_27
+Aleksandar Stankovic,459075,75,Inter,21,187,82,Midfielder,2026_27
+Marcus Pedersen,357133,72,Torino,26,184,76,Defender,2026_27
+Lukasz Skorupski,77397,71,Bologna,35,187,90,Goalkeeper,2026_27
+Nikola Vlasic,343975,72,Torino,28,179,79,Midfielder,2026_27
+Samuele Birindelli,328785,269,Monza,27,175,68,Defender,2026_27
+Benja Domínguez,428633,2889,Sassuolo,22,172,68,Forward,2026_27
+Nadir Zortea,423508,71,Bologna,27,187,86,Defender,2026_27
+Antoine Hainaut,447493,85,Venezia,24,187,75,Defender,2026_27
+Juan Arizala,476469,86,Udinese,20,183,74,Midfielder,2026_27
+Riccardo Ciervo,407149,78,Cagliari,24,190,70,Forward,2026_27
+Odilon Kossounou,384516,300,Atalanta,25,191,83,Defender,2026_27
+Radu Dragusin,400097,73,Fiorentina,24,191,85,Defender,2026_27
+Curtis Jones,355354,75,Inter,25,185,78,Midfielder,2026_27
+Daniel Bîrligea,443621,2732,Frosinone,26,184,80,Forward,2026_27
+Duván Zapata,41073,72,Torino,35,189,88,Forward,2026_27
+Lloyd Kelly,332419,87,Juventus,27,189,70,Defender,2026_27
+Lorenzo Lucchesi,497047,269,Monza,23,190,80,Defender,2026_27
+Marcus Thuram,296322,75,Inter,29,192,90,Forward,2026_27
+Nicolò Bertola,416238,86,Udinese,23,185,79,Defender,2026_27
+Alessandro Marcandalli,494398,278,Genoa,23,195,80,Defender,2026_27
+Jay Robinson,538255,269,Monza,19,176,65,Forward,2026_27
+Riccardo Orsolini,286828,71,Bologna,29,183,73,Forward,2026_27
+Giuseppe Aurelio,395932,78,Cagliari,26,186,80,Defender,2026_27
+Mathías Olivera,347178,276,Napoli,28,174,78,Defender,2026_27
+Matteo Cichella,536355,2732,Frosinone,20,169,59,Midfielder,2026_27
+Viery,485812,73,Fiorentina,21,187,85,Defender,2026_27
+Andrea Cambiaso,423440,87,Juventus,26,182,77,Defender,2026_27
+Lorenzo Colombo,395219,278,Genoa,24,186,74,Forward,2026_27
+Alisson Santos,557549,276,Napoli,23,177,82,Forward,2026_27
+Mathis Mout,605289,269,Monza,19,177,73,Midfielder,2026_27
+Zakaria Aboukhlal,373340,72,Torino,26,179,74,Forward,2026_27
+Dany Mota,315287,269,Monza,28,180,74,Forward,2026_27
+Andrea Pinamonti,317544,77,Lazio,27,188,72,Forward,2026_27
+Franco Mastantuono,514810,73,Fiorentina,19,178,74,Forward,2026_27
+Antonino Gallo,382637,79,Lecce,26,183,69,Defender,2026_27
+Zé Pedro,450142,78,Cagliari,29,187,84,Defender,2026_27
+Marin Pongracic,336048,73,Fiorentina,28,193,95,Defender,2026_27
+Máximo Perrone,433972,1290,Como,23,177,72,Midfielder,2026_27
+Sandro Kulenovic,377308,72,Torino,26,191,76,Forward,2026_27
+Emirhan Ilkhan,430900,72,Torino,22,175,67,Midfielder,2026_27
+Kieron Bowie,444558,2889,Sassuolo,23,190,83,Forward,2026_27
+Corrie Ndaba,373022,79,Lecce,26,188,82,Defender,2026_27
+Gustav Isaksen,403648,77,Lazio,25,181,68,Forward,2026_27
+Maxence Caqueret,368272,1290,Como,26,174,63,Midfielder,2026_27
+Benjamín Cremaschi,469660,24341,Parma Calcio 1913,21,180,75,Midfielder,2026_27
+Redouane Halhal,425471,85,Venezia,23,189,82,Defender,2026_27
+Riccardo Ciervo,407149,2889,Sassuolo,24,190,70,Forward,2026_27
+Pontus Almqvist,345600,24341,Parma Calcio 1913,27,183,67,Forward,2026_27
+David Neres,326505,276,Napoli,29,176,66,Forward,2026_27
+Gabriel Kulla,644183,2889,Sassuolo,18,0,0,Forward,2026_27
+Luca Lipani,449839,2889,Sassuolo,21,185,65,Midfielder,2026_27
+Mattia Perin,78880,87,Juventus,33,188,85,Goalkeeper,2026_27
+Omri Gandelman,424280,79,Lecce,26,188,84,Midfielder,2026_27
+Stefano Sabelli,283348,278,Genoa,33,176,70,Defender,2026_27
+Tijjani Noslin,423863,77,Lazio,27,180,75,Forward,2026_27
+Vítinha,407949,278,Genoa,26,178,74,Forward,2026_27
+Jacopo Fazzini,431359,78,Cagliari,23,178,62,Midfielder,2026_27
+Lion Lauberbach,379184,85,Venezia,28,194,85,Forward,2026_27
+Richie Sagrado,442979,85,Venezia,22,182,76,Defender,2026_27
+Ivan Ilic,401042,79,Lecce,25,186,77,Midfielder,2026_27
+Kevin Carlos,400295,78,Cagliari,25,186,98,Forward,2026_27
+Sascha Britschgi,581362,24341,Parma Calcio 1913,20,182,78,Defender,2026_27
+Giovanni Simeone,133839,72,Torino,31,180,81,Forward,2026_27
+Oier Zarraga,399989,86,Udinese,27,175,76,Midfielder,2026_27
+Nicolas Galazzi,423516,269,Monza,25,182,72,Midfielder,2026_27
+Nikola Moro,331383,71,Bologna,28,183,77,Midfielder,2026_27
+Nikola Stulic,452107,79,Lecce,24,188,80,Forward,2026_27
+Lorenzo Bernasconi,480033,300,Atalanta,22,190,72,Defender,2026_27
+Simon Sohm,367177,85,Venezia,25,188,85,Midfielder,2026_27
+Ethan Meichtry,582356,278,Genoa,21,186,73,Midfielder,2026_27
+Nicolò Fagioli,369426,73,Fiorentina,25,178,71,Midfielder,2026_27
+Johan Vásquez,425115,278,Genoa,27,184,78,Defender,2026_27
+Artem Dovbyk,296975,71,Bologna,29,189,92,Forward,2026_27
+Kingstone Mutandwa,484359,78,Cagliari,23,182,79,Forward,2026_27
+Ousmane Diallo,574054,24341,Parma Calcio 1913,19,181,76,Forward,2026_27
+Adam Zulevic,641371,278,Genoa,18,0,0,Forward,2026_27
+Florian Grillitsch,291937,2732,Frosinone,31,187,74,Midfielder,2026_27
+Sebastian Otoa,505567,278,Genoa,22,198,90,Defender,2026_27
+Luca Ranieri,355869,73,Fiorentina,27,187,73,Defender,2026_27
+Matteo Dagasso,495552,85,Venezia,22,175,0,Midfielder,2026_27
+Vakoun Bayo,383814,86,Udinese,29,184,72,Forward,2026_27
+Mikel Amondarain,490854,71,Bologna,21,185,76,Midfielder,2026_27
+Nesta Elphege,479328,24341,Parma Calcio 1913,25,196,82,Forward,2026_27
+Willem Geubbels,345987,79,Lecce,25,185,81,Forward,2026_27
+Arthur Atta,469507,73,Fiorentina,23,189,77,Midfielder,2026_27
+David de Gea,79554,73,Fiorentina,35,192,76,Goalkeeper,2026_27
+Abdou-Salam Konate,599855,24341,Parma Calcio 1913,19,189,0,Midfielder,2026_27
+Rolando Mandragora,241020,73,Fiorentina,29,183,76,Midfielder,2026_27
+Jesús Rodríguez,539559,1290,Como,20,185,68,Forward,2026_27
+Joël Schingtienne,445367,85,Venezia,24,188,80,Defender,2026_27
+Dodô,317675,73,Fiorentina,27,166,68,Defender,2026_27
+Rachid Kouda,494399,24341,Parma Calcio 1913,24,188,78,Midfielder,2026_27
+Tommaso Macchioni,602167,2889,Sassuolo,20,0,0,Defender,2026_27
+Demba Thiam,362543,269,Monza,28,202,87,Goalkeeper,2026_27
+Semuel Pizzignacco,351408,269,Monza,25,188,76,Goalkeeper,2026_27

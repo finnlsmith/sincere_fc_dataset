@@ -1,0 +1,391 @@
+name,playerId,teamId,teamName,age,height,weight,positionText,season
+Raphinha,300447,65,Barcelona,29,176,64,Forward,2026_27
+Kylian Mbappé,300713,52,Real Madrid,27,178,75,Forward,2026_27
+Jude Bellingham,379868,52,Real Madrid,23,186,75,Midfielder,2026_27
+Marc Bartra,83686,54,Real Betis,35,184,70,Defender,2026_27
+Lamine Yamal,480249,65,Barcelona,19,178,76,Forward,2026_27
+Diego Llorente,123232,54,Real Betis,33,186,75,Defender,2026_27
+Valentín Gómez,433286,54,Real Betis,23,180,76,Defender,2026_27
+Arda Güler,415181,52,Real Madrid,21,176,67,Midfielder,2026_27
+Fermín López,463838,65,Barcelona,23,176,73,Midfielder,2026_27
+Eric García,368091,65,Barcelona,25,180,77,Defender,2026_27
+Xavi Espart,591617,65,Barcelona,19,175,0,Defender,2026_27
+Vinícius Júnior,337782,52,Real Madrid,26,176,77,Forward,2026_27
+Álex Baena,395242,63,Atletico Madrid,25,175,70,Midfielder,2026_27
+Pierre-Emerick Aubameyang,44120,59,Deportivo de A Coruna,37,187,80,Forward,2026_27
+Marc Bernal,534796,65,Barcelona,19,193,87,Midfielder,2026_27
+Gerard Martín,512879,65,Barcelona,24,186,82,Defender,2026_27
+Anthony Gordon,349669,65,Barcelona,25,183,72,Forward,2026_27
+Mariano Díaz,323236,60,Deportivo Alaves,33,180,76,Forward,2026_27
+Nahuel Tenaglia,347874,60,Deportivo Alaves,30,180,73,Defender,2026_27
+Lee Kang-In,367780,63,Atletico Madrid,25,173,66,Midfielder,2026_27
+Roger Brugué,448231,832,Levante,29,173,68,Midfielder,2026_27
+Nicolas Pepe,239872,839,Villarreal,31,183,73,Forward,2026_27
+Oso,511064,67,Sevilla,23,183,70,Defender,2026_27
+Rodrigo Riquelme,382631,54,Real Betis,26,173,66,Midfielder,2026_27
+Roberto Fernández,448296,70,Espanyol,24,186,78,Forward,2026_27
+Trent Alexander-Arnold,318871,52,Real Madrid,27,175,67,Defender,2026_27
+Aitor Paredes,402663,53,Athletic Club,26,186,76,Defender,2026_27
+Mathew Ryan,81523,832,Levante,34,184,82,Goalkeeper,2026_27
+Alejandro Catena,374638,131,Osasuna,31,194,82,Defender,2026_27
+Dávid Hancko,362779,63,Atletico Madrid,28,188,82,Defender,2026_27
+Antony,364315,54,Real Betis,26,174,63,Forward,2026_27
+Marc Roca,323148,54,Real Betis,29,184,77,Midfielder,2026_27
+Federico Valverde,344644,52,Real Madrid,28,182,78,Midfielder,2026_27
+Miguel Sierra,507590,67,Sevilla,22,181,70,Forward,2026_27
+Jon Ander Olasagasti,413346,832,Levante,26,176,74,Midfielder,2026_27
+Juan Foyth,335107,839,Villarreal,28,187,83,Defender,2026_27
+Antonio Rüdiger,104010,52,Real Madrid,33,190,85,Defender,2026_27
+Antonio Sivera,141044,60,Deportivo Alaves,30,184,75,Goalkeeper,2026_27
+Pablo Ramón,413758,56,Racing Santander,25,184,80,Defender,2026_27
+Ángel Ortiz,545675,54,Real Betis,22,167,60,Defender,2026_27
+Giuliano Simeone,422918,63,Atletico Madrid,23,173,75,Forward,2026_27
+Iñigo Vicente,402137,56,Racing Santander,28,178,69,Forward,2026_27
+Andreas Christensen,130331,65,Barcelona,30,189,84,Defender,2026_27
+Unai López,236575,64,Rayo Vallecano,30,170,68,Midfielder,2026_27
+Mikel Rodríguez,546572,60,Deportivo Alaves,24,175,65,Midfielder,2026_27
+Guido Rodríguez,303876,55,Valencia,32,185,80,Midfielder,2026_27
+Pedri,402197,65,Barcelona,23,174,68,Midfielder,2026_27
+Pau Cubarsí,498386,65,Barcelona,19,183,79,Defender,2026_27
+Ángel Pérez,506205,60,Deportivo Alaves,24,183,0,Defender,2026_27
+Lorenzo Amatucci,470032,59,Deportivo de A Coruna,22,173,73,Midfielder,2026_27
+Aïssa Mandi,90115,832,Levante,34,186,81,Defender,2026_27
+Dean Huijsen,468852,52,Real Madrid,21,195,87,Defender,2026_27
+Ante Budimir,98126,131,Osasuna,35,190,75,Forward,2026_27
+Alex Berenguer,238899,53,Athletic Club,31,175,73,Forward,2026_27
+Javi Hernández,506010,70,Espanyol,22,182,72,Midfielder,2026_27
+Antonio Blanco,409467,60,Deportivo Alaves,26,176,70,Midfielder,2026_27
+Jorge Salinas,541900,56,Racing Santander,19,183,73,Defender,2026_27
+Roger Hinojo,555136,70,Espanyol,21,180,70,Defender,2026_27
+Sergio Martínez,586240,56,Racing Santander,19,185,77,Midfielder,2026_27
+Alejandro Grimaldo,107252,63,Atletico Madrid,30,171,63,Defender,2026_27
+Pablo Barrios,434138,63,Atletico Madrid,23,183,75,Midfielder,2026_27
+Yassir Zabiri,538158,56,Racing Santander,21,182,73,Forward,2026_27
+Jonny Otto,115917,60,Deportivo Alaves,32,175,70,Defender,2026_27
+Abel Bretones,461771,131,Osasuna,26,188,78,Defender,2026_27
+Ademola Lookman,299451,63,Atletico Madrid,28,174,71,Forward,2026_27
+Dani Martinez,498163,63,Atletico Madrid,22,186,0,Defender,2026_27
+Jan Oblak,76662,63,Atletico Madrid,33,188,87,Goalkeeper,2026_27
+Ville Koski,424575,60,Deportivo Alaves,24,185,0,Defender,2026_27
+Lucas Boyé,303800,60,Deportivo Alaves,30,179,81,Forward,2026_27
+Lucien Agoumé,388505,67,Sevilla,24,185,72,Midfielder,2026_27
+Marko Dmitrovic,259393,70,Espanyol,34,194,91,Goalkeeper,2026_27
+Natan,402206,54,Real Betis,25,188,92,Defender,2026_27
+Sergio Camello,372469,64,Rayo Vallecano,25,177,69,Forward,2026_27
+David Soria,243262,819,Getafe,33,192,83,Goalkeeper,2026_27
+Ibrahima Konaté,345957,52,Real Madrid,27,194,95,Defender,2026_27
+Georges Mikautadze,389020,839,Villarreal,25,176,71,Forward,2026_27
+Álvaro Valles,448208,54,Real Betis,29,190,78,Goalkeeper,2026_27
+Iñigo Arguibide,517618,131,Osasuna,21,178,70,Defender,2026_27
+Gonzalo Villar,357388,833,Elche,28,181,73,Midfielder,2026_27
+Ramón Terrats,444244,819,Getafe,25,181,71,Midfielder,2026_27
+Gerard Moreno,97659,839,Villarreal,34,174,73,Forward,2026_27
+Abde Rebbach,447835,60,Deportivo Alaves,28,176,68,Forward,2026_27
+David Larrubia,448303,69,Malaga,24,172,59,Forward,2026_27
+Pablo Ibáñez,444254,60,Deportivo Alaves,27,179,74,Midfielder,2026_27
+Marcos Llorente,254582,63,Atletico Madrid,31,183,74,Midfielder,2026_27
+Oihan Sancet,381510,53,Athletic Club,26,188,73,Midfielder,2026_27
+Manu Hernando,423973,56,Racing Santander,28,182,71,Defender,2026_27
+Adrián de la Fuente,383780,832,Levante,27,179,77,Defender,2026_27
+Marc Cucurella,363496,52,Real Madrid,28,174,66,Defender,2026_27
+Dani Lorenzo,448294,69,Malaga,23,176,68,Midfielder,2026_27
+Marc Pubill,430148,63,Atletico Madrid,23,190,86,Defender,2026_27
+Joan García,422824,65,Barcelona,25,193,85,Goalkeeper,2026_27
+Jorge Herrando,444253,131,Osasuna,25,192,78,Defender,2026_27
+Rafita,508349,69,Malaga,21,170,61,Defender,2026_27
+Toni Martínez,280060,60,Deportivo Alaves,29,187,83,Forward,2026_27
+Yeray Álvarez,279839,53,Athletic Club,31,182,78,Defender,2026_27
+Íñigo Ruiz de Galarreta,106586,53,Athletic Club,33,175,69,Midfielder,2026_27
+Marcos Alonso,84008,62,Celta Vigo,35,188,84,Defender,2026_27
+Chidera Ejuke,337022,67,Sevilla,28,176,72,Forward,2026_27
+Unai Núñez,344200,70,Espanyol,29,186,80,Defender,2026_27
+Carlos Puga,447938,69,Malaga,25,175,70,Defender,2026_27
+Omar El Hilali,449410,70,Espanyol,22,183,75,Defender,2026_27
+Zaid Romero,389191,819,Getafe,26,192,92,Defender,2026_27
+Karim Adeyemi,392646,65,Barcelona,24,180,75,Forward,2026_27
+Edu Expósito,335696,70,Espanyol,30,178,68,Midfielder,2026_27
+Julen Agirrezabala,423108,56,Racing Santander,25,190,78,Goalkeeper,2026_27
+Jon Aramburu,463961,68,Real Sociedad,24,176,71,Defender,2026_27
+Andrés Martín,422961,56,Racing Santander,27,178,63,Forward,2026_27
+Enzo Bardeli,467181,832,Levante,25,173,65,Midfielder,2026_27
+Álex Remiro,270504,68,Real Sociedad,31,192,79,Goalkeeper,2026_27
+Bil Nsongo,598590,59,Deportivo de A Coruna,21,182,70,Forward,2026_27
+Johaneko Louis-Jean,431668,53,Athletic Club,22,175,66,Defender,2026_27
+Facundo Bernal,512611,54,Real Betis,23,189,80,Midfielder,2026_27
+Youssef Enriquez,519969,60,Deportivo Alaves,20,175,68,Defender,2026_27
+Morten Hjulmand,403647,63,Atletico Madrid,27,185,77,Midfielder,2026_27
+Mario Soriano,409130,59,Deportivo de A Coruna,24,163,60,Midfielder,2026_27
+Rubén García,119189,131,Osasuna,33,171,72,Midfielder,2026_27
+Unai Simón,332823,53,Athletic Club,29,190,88,Goalkeeper,2026_27
+Asier Osambela,518928,131,Osasuna,21,186,75,Midfielder,2026_27
+Dani Olmo,261212,65,Barcelona,28,182,73,Midfielder,2026_27
+Lucas Noubi,431768,59,Deportivo de A Coruna,21,184,81,Defender,2026_27
+Juan Iglesias,408735,67,Sevilla,28,187,77,Defender,2026_27
+Renato Veiga,434077,839,Villarreal,23,188,88,Defender,2026_27
+Cala,468761,70,Espanyol,26,175,69,Midfielder,2026_27
+Manu Sánchez,374813,832,Levante,26,171,70,Defender,2026_27
+Jon Moncayola,381673,131,Osasuna,28,189,86,Midfielder,2026_27
+Ionut Radu,296723,62,Celta Vigo,29,188,70,Goalkeeper,2026_27
+Fer Niño,391082,833,Elche,25,191,78,Forward,2026_27
+Thiago Fernández,446729,832,Levante,22,175,68,Forward,2026_27
+Johan Mojica,135098,819,Getafe,34,185,80,Defender,2026_27
+Luismi Cruz,428620,59,Deportivo de A Coruna,25,166,62,Forward,2026_27
+Nacho Pérez,578266,832,Levante,18,176,66,Defender,2026_27
+Robert Navarro,400237,53,Athletic Club,24,178,65,Midfielder,2026_27
+Leo Román,423420,59,Deportivo de A Coruna,26,189,83,Goalkeeper,2026_27
+Clemens Riedel,419935,70,Espanyol,23,186,83,Defender,2026_27
+Sergio Herrera,381674,131,Osasuna,33,192,82,Goalkeeper,2026_27
+Enzo Boyomo,447842,131,Osasuna,24,180,70,Defender,2026_27
+Denzel Dumfries,322153,52,Real Madrid,30,188,80,Defender,2026_27
+Fran García,422957,54,Real Betis,27,169,63,Defender,2026_27
+Isaac Romero,492362,67,Sevilla,26,184,70,Forward,2026_27
+César Tárrega,427831,55,Valencia,24,194,78,Defender,2026_27
+Iñaki Williams,255182,53,Athletic Club,32,186,81,Forward,2026_27
+Filip Ugrinic,379684,55,Valencia,27,184,88,Midfielder,2026_27
+Luka Sucic,407080,68,Real Sociedad,23,185,78,Midfielder,2026_27
+Pape Gueye,399047,839,Villarreal,27,189,79,Midfielder,2026_27
+Augusto Batalla,303629,64,Rayo Vallecano,30,186,87,Goalkeeper,2026_27
+Iván Martín,372473,56,Racing Santander,27,178,70,Midfielder,2026_27
+Junior Firpo,351252,54,Real Betis,30,184,78,Defender,2026_27
+Nelson Deossa,432475,54,Real Betis,26,185,71,Midfielder,2026_27
+Cucho Hernández,362501,54,Real Betis,27,176,79,Forward,2026_27
+Eduardo Camavinga,369109,52,Real Madrid,23,182,68,Midfielder,2026_27
+Gabriel Suazo,286080,67,Sevilla,29,178,72,Defender,2026_27
+Santiago Mouriño,448936,839,Villarreal,24,186,76,Defender,2026_27
+José Ángel Carmona,422956,67,Sevilla,24,184,80,Defender,2026_27
+Carlos Dotor,461527,69,Malaga,25,180,68,Midfielder,2026_27
+Kike Barja,336251,131,Osasuna,29,178,69,Forward,2026_27
+Iago Aspas,91242,62,Celta Vigo,39,176,67,Forward,2026_27
+Miguel Román,462768,62,Celta Vigo,23,178,70,Midfielder,2026_27
+Thibaut Courtois,73798,52,Real Madrid,34,200,96,Goalkeeper,2026_27
+Gabriel Moscardo,478349,70,Espanyol,20,185,76,Midfielder,2026_27
+Carlos Romero,468931,839,Villarreal,24,174,73,Defender,2026_27
+Pablo Fornals,297203,54,Real Betis,30,178,67,Midfielder,2026_27
+Gustavo Puerta,472904,56,Racing Santander,23,174,70,Midfielder,2026_27
+Pablo Maffeo,294848,55,Valencia,29,172,70,Defender,2026_27
+Adrià Pedrosa,363966,64,Rayo Vallecano,28,172,69,Defender,2026_27
+Sergio Canales,44189,56,Racing Santander,35,175,66,Midfielder,2026_27
+Óscar Valentín,422958,64,Rayo Vallecano,32,177,72,Midfielder,2026_27
+Gavi,422937,65,Barcelona,22,174,69,Midfielder,2026_27
+Sergio Gómez,355110,68,Real Sociedad,25,173,71,Forward,2026_27
+Florian Lejeune,80758,64,Rayo Vallecano,35,190,89,Defender,2026_27
+Andrés Castrín,448284,67,Sevilla,23,188,83,Defender,2026_27
+Carlos Espí,516341,52,Real Madrid,21,194,90,Forward,2026_27
+Beñat Gerenabarrena,536243,53,Athletic Club,23,173,68,Midfielder,2026_27
+Álvaro Mantilla,448397,56,Racing Santander,26,184,71,Defender,2026_27
+Bernardo Silva,136741,52,Real Madrid,32,173,63,Midfielder,2026_27
+Denis Suárez,106525,60,Deportivo Alaves,32,176,69,Midfielder,2026_27
+Koke,80764,63,Atletico Madrid,34,176,77,Midfielder,2026_27
+Alberto Moleiro,448211,839,Villarreal,22,171,67,Midfielder,2026_27
+Iker Muñoz,474267,131,Osasuna,23,180,69,Midfielder,2026_27
+José Gayà,119817,55,Valencia,31,172,66,Defender,2026_27
+Igor Zubeldia,315566,68,Real Sociedad,29,181,73,Defender,2026_27
+Tyrhys Dolan,398922,70,Espanyol,24,164,63,Forward,2026_27
+Pepelu,302889,55,Valencia,28,185,73,Midfielder,2026_27
+Ximo Navarro,100881,59,Deportivo de A Coruna,36,176,75,Defender,2026_27
+Brahim Díaz,317541,52,Real Madrid,27,170,68,Midfielder,2026_27
+Álvaro García,135345,64,Rayo Vallecano,33,167,61,Midfielder,2026_27
+Álvaro Núñez,509876,62,Celta Vigo,26,174,60,Defender,2026_27
+Arouna Sangante,486031,67,Sevilla,24,189,76,Defender,2026_27
+Yoel Lago,528001,62,Celta Vigo,22,185,70,Defender,2026_27
+Carl Starfelt,378626,62,Celta Vigo,31,185,83,Defender,2026_27
+Einar Galilea,141497,69,Malaga,32,185,73,Defender,2026_27
+Isco,82989,54,Real Betis,34,176,79,Midfielder,2026_27
+Carlos Soler,313542,68,Real Sociedad,29,180,76,Midfielder,2026_27
+Raúl García,383924,131,Osasuna,25,192,70,Forward,2026_27
+Vanja Drkusic,361696,70,Espanyol,26,188,80,Defender,2026_27
+Ezequiel Ponce,137031,833,Elche,29,180,79,Forward,2026_27
+Umar Sadiq,297546,55,Valencia,29,192,85,Forward,2026_27
+Jorge de Frutos,386230,64,Rayo Vallecano,29,173,72,Forward,2026_27
+Davinchi,568737,819,Getafe,18,182,73,Defender,2026_27
+Moi Gómez,101238,131,Osasuna,32,176,71,Forward,2026_27
+Francho Serrano,424675,819,Getafe,24,180,72,Midfielder,2026_27
+Enes Ünal,134695,819,Getafe,29,187,78,Forward,2026_27
+Rodri,303139,65,Barcelona,30,190,90,Midfielder,2026_27
+Pablo García,551186,54,Real Betis,20,175,67,Forward,2026_27
+Tete Morente,402087,833,Elche,29,180,76,Forward,2026_27
+Pedro Díaz,448514,64,Rayo Vallecano,28,180,75,Midfielder,2026_27
+Johnny Cardoso,379230,63,Atletico Madrid,24,186,78,Midfielder,2026_27
+Peque Fernández,464952,67,Sevilla,23,172,66,Forward,2026_27
+Pathé Ciss,422963,64,Rayo Vallecano,32,186,71,Midfielder,2026_27
+Giacomo Quagliata,393081,59,Deportivo de A Coruna,26,180,69,Defender,2026_27
+Orri Óskarsson,428066,68,Real Sociedad,22,186,76,Forward,2026_27
+Pablo Durán,459082,62,Celta Vigo,25,176,72,Forward,2026_27
+Tajon Buchanan,371027,839,Villarreal,27,183,71,Forward,2026_27
+Aymeric Laporte,122117,53,Athletic Club,32,189,86,Defender,2026_27
+Orel Mangala,344073,819,Getafe,28,178,80,Midfielder,2026_27
+Nico Guillén,621893,67,Sevilla,18,185,75,Midfielder,2026_27
+Djené Dakonam,332990,819,Getafe,34,178,71,Defender,2026_27
+Iván Romero,407567,832,Levante,25,172,72,Forward,2026_27
+Robbie Ure,454790,67,Sevilla,22,189,70,Forward,2026_27
+Lucas Cepeda,516414,833,Elche,23,177,66,Forward,2026_27
+Oriol Rey,362623,832,Levante,28,177,71,Midfielder,2026_27
+Rafel Bauzà,531460,70,Espanyol,21,183,74,Midfielder,2026_27
+Takefusa Kubo,377285,68,Real Sociedad,25,173,67,Forward,2026_27
+Lucas Torró,249960,131,Osasuna,32,190,77,Midfielder,2026_27
+Sergio Carreira,386622,62,Celta Vigo,25,170,70,Defender,2026_27
+Chupe,541868,69,Malaga,22,185,72,Forward,2026_27
+Gonçalo Guedes,247995,68,Real Sociedad,29,179,72,Forward,2026_27
+Yuri Berchiche,56057,53,Athletic Club,36,181,79,Defender,2026_27
+Jesús Vázquez,408732,55,Valencia,23,182,76,Defender,2026_27
+Odysseas Vlachodimos,110273,67,Sevilla,32,188,78,Goalkeeper,2026_27
+Isi Palazón,422959,64,Rayo Vallecano,31,169,71,Midfielder,2026_27
+Arnau Ortiz,444251,63,Atletico Madrid,24,175,71,Forward,2026_27
+Andrés García,469329,819,Getafe,23,185,77,Defender,2026_27
+Beñat Turrientes,407138,68,Real Sociedad,24,181,70,Midfielder,2026_27
+Giorgi Kochorashvili,395346,67,Sevilla,27,172,73,Midfielder,2026_27
+Riki Rodríguez,448450,59,Deportivo de A Coruna,28,175,70,Midfielder,2026_27
+Bright Ede,631884,59,Deportivo de A Coruna,19,193,85,Defender,2026_27
+Álvaro Carreras,437583,52,Real Madrid,23,186,78,Defender,2026_27
+Carlos Maciá,603190,839,Villarreal,18,194,78,Midfielder,2026_27
+Martín Satriano,403803,819,Getafe,25,187,75,Forward,2026_27
+Hugo Sotelo,415345,832,Levante,22,180,75,Midfielder,2026_27
+Rodrigo Mendoza,463938,63,Atletico Madrid,21,182,72,Midfielder,2026_27
+Santi Comesaña,362735,839,Villarreal,29,188,75,Midfielder,2026_27
+Víctor Chust,402862,833,Elche,26,182,77,Defender,2026_27
+Peio Canales,536242,53,Athletic Club,21,175,68,Midfielder,2026_27
+Yan Diomande,557000,52,Real Madrid,19,181,76,Forward,2026_27
+Aimar Oroz,395321,131,Osasuna,24,177,72,Midfielder,2026_27
+Kike Salas,431509,67,Sevilla,24,188,80,Defender,2026_27
+Pelayo Fernández,531953,64,Rayo Vallecano,23,190,83,Defender,2026_27
+Stole Dimitrievski,141499,55,Valencia,32,188,84,Goalkeeper,2026_27
+Alfonso Herrero,261509,69,Malaga,32,183,83,Goalkeeper,2026_27
+Aitor Mañas,514695,60,Deportivo Alaves,23,185,0,Forward,2026_27
+Ayoze Pérez,135366,839,Villarreal,33,178,66,Forward,2026_27
+David Affengruber,423282,833,Elche,25,185,79,Defender,2026_27
+Javi Rodríguez,508331,62,Celta Vigo,23,178,70,Defender,2026_27
+Jon Martín,495459,68,Real Sociedad,20,186,83,Defender,2026_27
+Karl Etta Eyong,445095,832,Levante,22,181,75,Forward,2026_27
+Pedro Felipe,478316,56,Racing Santander,22,190,86,Defender,2026_27
+Javi Guerra,431507,55,Valencia,23,187,77,Midfielder,2026_27
+Mikel Oyarzabal,298839,68,Real Sociedad,29,181,79,Forward,2026_27
+Marc Aguado,448050,833,Elche,26,178,68,Midfielder,2026_27
+Jules Koundé,301019,65,Barcelona,27,181,84,Defender,2026_27
+Dani Cárdenas,386261,64,Rayo Vallecano,29,186,80,Goalkeeper,2026_27
+Dani Raba,334221,55,Valencia,30,184,76,Forward,2026_27
+Josan,273453,833,Elche,36,175,68,Midfielder,2026_27
+Manu Bueno,469547,67,Sevilla,22,178,73,Midfielder,2026_27
+Mikel Jauregizar,511120,53,Athletic Club,22,177,74,Midfielder,2026_27
+Saba Sazonov,410988,819,Getafe,24,192,82,Defender,2026_27
+David Otorbi,510999,55,Valencia,18,180,82,Forward,2026_27
+Javi Rueda,463588,62,Celta Vigo,24,177,74,Defender,2026_27
+Robin Le Normand,367008,63,Atletico Madrid,29,187,80,Defender,2026_27
+Ander Barrenetxea,367857,68,Real Sociedad,24,175,74,Forward,2026_27
+Troy Parrott,384064,54,Real Betis,24,185,78,Forward,2026_27
+Arnaut Danjuma,323625,55,Valencia,29,178,74,Forward,2026_27
+Hugo Duro,354526,55,Valencia,26,177,70,Forward,2026_27
+Nico Williams,408449,53,Athletic Club,24,181,67,Forward,2026_27
+Carlos Protesoni,362393,60,Deportivo Alaves,28,185,76,Midfielder,2026_27
+Jonathan Asp Jensen,527113,59,Deportivo de A Coruna,20,182,72,Midfielder,2026_27
+Javi Galán,369497,62,Celta Vigo,31,170,70,Defender,2026_27
+Germán Valera,390240,833,Elche,24,170,68,Forward,2026_27
+Alex Freeman,440159,839,Villarreal,22,188,78,Defender,2026_27
+Fran Pérez,444265,64,Rayo Vallecano,23,176,68,Forward,2026_27
+Randy Nteka,422960,64,Rayo Vallecano,28,189,75,Midfielder,2026_27
+Facundo Buonanotte,432384,833,Elche,21,174,66,Midfielder,2026_27
+Mario Martín,471047,819,Getafe,22,178,74,Midfielder,2026_27
+Miguel Loureiro,448273,59,Deportivo de A Coruna,29,182,70,Defender,2026_27
+Jeremy Toljan,129620,832,Levante,32,182,74,Defender,2026_27
+Carles Aleñá,303268,60,Deportivo Alaves,28,180,70,Midfielder,2026_27
+José María Giménez,135914,63,Atletico Madrid,31,185,79,Defender,2026_27
+Mouctar Diakhaby,322095,55,Valencia,29,189,78,Defender,2026_27
+Williot Swedberg,444227,62,Celta Vigo,22,187,78,Midfielder,2026_27
+Izan Merino,508035,69,Malaga,20,182,74,Midfielder,2026_27
+Nemanja Gudelj,77417,819,Getafe,34,187,79,Midfielder,2026_27
+Alex Marchal,546574,68,Real Sociedad,18,180,70,Forward,2026_27
+Joaquín Muñoz,366204,69,Malaga,27,173,60,Forward,2026_27
+Julio Díaz,605436,67,Sevilla,21,174,65,Defender,2026_27
+Diego Villares,448009,59,Deportivo de A Coruna,30,180,75,Midfielder,2026_27
+Ferran Jutglà,396158,62,Celta Vigo,27,176,75,Forward,2026_27
+Teun Gijselhart,513251,59,Deportivo de A Coruna,21,176,69,Midfielder,2026_27
+Yangel Herrera,318505,68,Real Sociedad,28,184,78,Midfielder,2026_27
+Marc Santos,644082,832,Levante,15,0,0,Defender,2026_27
+Facu González,444264,56,Racing Santander,23,193,78,Defender,2026_27
+Hamza Abdelkarim,559489,65,Barcelona,18,182,76,Forward,2026_27
+Jonathan Dubasin,447853,131,Osasuna,26,181,68,Forward,2026_27
+Maguette Gueye,485481,56,Racing Santander,23,188,75,Midfielder,2026_27
+Maroan Sannadi,541704,53,Athletic Club,25,192,78,Forward,2026_27
+Raúl Moro,396490,131,Osasuna,23,169,68,Forward,2026_27
+Rubén Vargas,381550,67,Sevilla,28,177,77,Midfielder,2026_27
+Hugo González,427117,62,Celta Vigo,23,184,0,Midfielder,2026_27
+Pol Lozano,382157,70,Espanyol,26,177,62,Midfielder,2026_27
+Jesús Areso,422820,53,Athletic Club,27,182,81,Defender,2026_27
+Jon Guridi,335041,67,Sevilla,31,179,64,Midfielder,2026_27
+Martim Neto,438351,833,Elche,23,185,82,Midfielder,2026_27
+Paco Cortés,541854,832,Levante,19,178,0,Forward,2026_27
+Urko González de Zárate,401173,70,Espanyol,25,189,83,Midfielder,2026_27
+Gnangoro,641813,64,Rayo Vallecano,22,0,0,Midfielder,2026_27
+Abdel Abqar,409740,819,Getafe,27,188,80,Defender,2026_27
+Yeremay Hernández,448011,59,Deportivo de A Coruna,23,170,61,Forward,2026_27
+Haitam Abaida,448292,69,Malaga,24,172,70,Forward,2026_27
+João Cancelo,128967,65,Barcelona,32,182,74,Defender,2026_27
+Víctor García,395708,832,Levante,28,180,79,Defender,2026_27
+Alfon González,408942,67,Sevilla,27,172,60,Forward,2026_27
+Álvaro Padilla,644193,833,Elche,20,0,0,Forward,2026_27
+Gorka Guruzeta,362602,53,Athletic Club,29,188,77,Forward,2026_27
+Hugo Rincón,481851,53,Athletic Club,23,183,75,Defender,2026_27
+José Salinas,402092,69,Malaga,25,179,69,Defender,2026_27
+Abdoulaye Faye,498812,62,Celta Vigo,21,188,0,Defender,2026_27
+Adrià Alti,448041,59,Deportivo de A Coruna,25,170,62,Defender,2026_27
+Ángel Recio,511043,69,Malaga,23,185,80,Defender,2026_27
+Jorge Domínguez,641096,63,Atletico Madrid,16,0,0,Defender,2026_27
+Justin de Haas,372634,55,Valencia,26,194,87,Defender,2026_27
+Aleix Febas,381643,62,Celta Vigo,30,171,61,Midfielder,2026_27
+Abde Ezzalzouli,427283,54,Real Betis,24,177,73,Forward,2026_27
+Adama Boiro,515307,53,Athletic Club,24,183,75,Defender,2026_27
+Marcos Fernández,464541,70,Espanyol,23,176,65,Forward,2026_27
+Zakaria Eddahchouri,429003,59,Deportivo de A Coruna,26,187,78,Forward,2026_27
+Javier Morcillo,617819,833,Elche,20,183,0,Midfielder,2026_27
+Ali Houary,508339,833,Elche,21,178,74,Forward,2026_27
+Hugo Álvarez,427001,62,Celta Vigo,23,176,72,Midfielder,2026_27
+Nicolás Valentini,414212,60,Deportivo Alaves,25,184,79,Defender,2026_27
+Rafa Rodríguez,471958,69,Malaga,23,180,79,Midfielder,2026_27
+Jozhua Vertrouwd,505924,64,Rayo Vallecano,22,187,73,Defender,2026_27
+Aihen Muñoz,367583,68,Real Sociedad,29,175,68,Defender,2026_27
+Carlos Martín,427360,63,Atletico Madrid,24,184,73,Forward,2026_27
+David Mella,507361,59,Deportivo de A Coruna,21,169,65,Forward,2026_27
+Luiz Júnior,400826,839,Villarreal,25,192,87,Goalkeeper,2026_27
+Alemão,436617,64,Rayo Vallecano,28,182,88,Forward,2026_27
+Tani Oluwaseyi,445292,839,Villarreal,26,187,80,Forward,2026_27
+Buba Sangaré,510360,833,Elche,19,183,75,Defender,2026_27
+Ilaix Moriba,409030,62,Celta Vigo,23,165,73,Midfielder,2026_27
+Pere Milla,140772,70,Espanyol,33,184,72,Midfielder,2026_27
+Aliou Dieng,431121,55,Valencia,28,185,78,Midfielder,2026_27
+Ander Guevara,344120,60,Deportivo Alaves,29,180,73,Midfielder,2026_27
+Asier Villalibre,331171,56,Racing Santander,28,182,86,Forward,2026_27
+Jon Gorrotxategi,541871,68,Real Sociedad,24,177,74,Midfielder,2026_27
+Julen Lobete,391317,69,Malaga,25,180,73,Forward,2026_27
+Pablo Martínez,388808,69,Malaga,28,182,74,Midfielder,2026_27
+Kevin Sánchez,511028,59,Deportivo de A Coruna,21,169,70,Forward,2026_27
+Ilias Akhomach,428500,839,Villarreal,22,175,70,Forward,2026_27
+Eneko Jauregi,463425,69,Malaga,30,184,81,Forward,2026_27
+Jofre Carreras,430451,70,Espanyol,25,175,68,Forward,2026_27
+Ryunosuke Sato,562981,55,Valencia,19,171,65,Midfielder,2026_27
+Borja Mayoral,278721,819,Getafe,29,182,68,Forward,2026_27
+Alberto Risco,523331,819,Getafe,21,157,42,Midfielder,2026_27
+Kiko Femenía,75919,819,Getafe,35,176,61,Defender,2026_27
+Arsen Zakharyan,400185,68,Real Sociedad,23,182,73,Midfielder,2026_27
+Juan Cruz,357786,69,Malaga,26,177,72,Midfielder,2026_27
+Juan Carlos Arana,431570,56,Racing Santander,26,182,73,Forward,2026_27
+Julián Alvarez,365409,63,Atletico Madrid,26,170,71,Forward,2026_27
+Matteo Prati,447544,56,Racing Santander,22,185,73,Midfielder,2026_27
+Iván Balliu,101613,64,Rayo Vallecano,34,172,63,Defender,2026_27
+Jones El Abdellaoui,441888,62,Celta Vigo,20,184,72,Forward,2026_27
+Carlos Álvarez,406937,832,Levante,23,167,75,Midfielder,2026_27
+Pedro Bigas,108100,833,Elche,36,181,83,Defender,2026_27
+Álvaro Djaló,444806,53,Athletic Club,27,175,73,Forward,2026_27
+Diego Díaz,545956,56,Racing Santander,21,173,68,Midfielder,2026_27
+Umaru,556141,833,Elche,22,0,0,Forward,2026_27
+Andrei Ratiu,372331,64,Rayo Vallecano,28,183,75,Defender,2026_27
+Luis Rioja,381713,55,Valencia,32,175,68,Forward,2026_27
+Ramón Enríquez,448289,69,Malaga,25,173,68,Midfielder,2026_27
+Sebastián Boselli,484251,819,Getafe,22,183,80,Defender,2026_27
+Héctor Bellerín,125211,54,Real Betis,31,178,74,Defender,2026_27
+Job Ochieng,599413,68,Real Sociedad,23,185,75,Forward,2026_27
+Federico Redondo,419616,833,Elche,23,188,78,Midfielder,2026_27
+Kareem Tunde,604365,832,Levante,21,177,0,Forward,2026_27
+Giorgi Guliashvili,460461,56,Racing Santander,24,176,66,Forward,2026_27
+Jean Valou,544767,819,Getafe,20,188,98,Defender,2026_27
+Arnau Martínez,444239,55,Valencia,23,182,72,Defender,2026_27
+Matías Dituro,422916,833,Elche,39,191,86,Goalkeeper,2026_27
+Luken Beitia,546570,68,Real Sociedad,22,191,77,Defender,2026_27

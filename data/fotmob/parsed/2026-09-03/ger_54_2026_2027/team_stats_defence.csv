@@ -1,0 +1,46 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Tackles,6,19
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Interceptions,11,12
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Blocks,4,6
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Clearances,21,25
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Keeper saves,3,5
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Tackles,11,10
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Interceptions,9,4
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Blocks,2,5
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Clearances,28,21
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Keeper saves,4,10
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Tackles,14,13
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Interceptions,13,13
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Blocks,0,4
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Clearances,18,16
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Keeper saves,3,5
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Tackles,12,13
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Interceptions,11,11
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Blocks,3,2
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Clearances,32,14
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Keeper saves,2,3
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Tackles,18,13
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Interceptions,8,8
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Blocks,4,5
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Clearances,36,29
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Keeper saves,2,3
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Tackles,8,29
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Interceptions,7,4
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Blocks,4,7
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Clearances,24,31
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Keeper saves,2,1
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Tackles,16,15
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Interceptions,12,14
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Blocks,3,6
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Clearances,28,53
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Keeper saves,0,4
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Tackles,13,20
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Interceptions,8,4
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Blocks,6,3
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Clearances,32,20
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Keeper saves,4,8
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Tackles,19,13
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Interceptions,12,10
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Blocks,4,5
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Clearances,41,50
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Keeper saves,0,8

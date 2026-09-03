@@ -1,0 +1,201 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Ball possession,61,39
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Expected goals (xG),3.07,0.35
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Total shots,17,9
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Shots on target,8,4
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Touches in opposition box,41,8
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Big chances,5,0
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Big chances missed,2,0
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Accurate passes,478 (89%),285 (83%)
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Yellow cards,2,2
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Corners,2,3
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Ball possession,56,44
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Expected goals (xG),0.88,2.70
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Total shots,14,22
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Shots on target,7,8
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Touches in opposition box,23,25
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Big chances,1,4
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Big chances missed,0,3
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Accurate passes,544 (91%),422 (91%)
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Yellow cards,0,0
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Corners,4,4
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Ball possession,59,41
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Expected goals (xG),1.78,0.63
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Total shots,14,10
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Shots on target,5,3
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Touches in opposition box,26,13
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Big chances,3,1
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Big chances missed,3,0
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Accurate passes,402 (90%),264 (84%)
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Yellow cards,4,4
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Corners,8,6
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Ball possession,37,63
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Expected goals (xG),0.41,2.18
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Total shots,11,20
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Shots on target,2,5
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Touches in opposition box,18,46
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Big chances,0,4
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Big chances missed,0,3
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Accurate passes,187 (69%),405 (85%)
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Yellow cards,2,2
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Corners,3,12
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Ball possession,46,54
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Expected goals (xG),0.67,0.77
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Total shots,11,13
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Shots on target,2,4
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Touches in opposition box,18,28
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Big chances,0,3
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Big chances missed,0,1
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Accurate passes,378 (88%),453 (89%)
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Yellow cards,2,1
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Corners,5,5
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Ball possession,70,30
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Expected goals (xG),1.05,1.23
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Total shots,13,7
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Shots on target,5,3
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Touches in opposition box,27,10
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Big chances,2,3
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Big chances missed,1,3
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Accurate passes,628 (89%),232 (79%)
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Yellow cards,2,2
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Corners,3,3
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Ball possession,47,53
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Expected goals (xG),0.75,0.94
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Total shots,13,14
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Shots on target,2,5
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Touches in opposition box,18,22
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Big chances,2,2
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Big chances missed,2,2
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Accurate passes,373 (84%),445 (90%)
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Yellow cards,0,2
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Corners,3,2
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Ball possession,41,59
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Expected goals (xG),1.29,2.15
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Total shots,8,19
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Shots on target,1,4
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Touches in opposition box,20,40
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Big chances,2,2
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Big chances missed,2,1
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Accurate passes,315 (82%),482 (88%)
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Yellow cards,0,1
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Corners,2,4
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Ball possession,41,59
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Expected goals (xG),2.14,1.50
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Total shots,17,20
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Shots on target,3,6
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Touches in opposition box,19,30
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Big chances,4,4
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Big chances missed,3,3
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Accurate passes,318 (79%),511 (88%)
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Yellow cards,3,0
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Corners,1,10
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Ball possession,71,29
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Expected goals (xG),2.05,2.70
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Total shots,19,12
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Shots on target,7,5
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Touches in opposition box,23,21
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Big chances,5,4
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Big chances missed,5,3
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Accurate passes,548 (87%),189 (73%)
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Yellow cards,1,3
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Corners,5,3
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Ball possession,58,42
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Expected goals (xG),2.21,0.80
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Total shots,16,9
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Shots on target,5,2
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Touches in opposition box,26,14
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Big chances,8,1
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Big chances missed,7,1
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Accurate passes,444 (87%),301 (83%)
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Yellow cards,1,3
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Corners,2,3
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Ball possession,42,58
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Expected goals (xG),0.15,1.05
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Total shots,6,16
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Shots on target,2,3
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Touches in opposition box,11,19
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Big chances,0,1
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Big chances missed,0,1
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Accurate passes,407 (85%),620 (91%)
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Yellow cards,1,0
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Corners,1,2
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Ball possession,35,65
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Expected goals (xG),0.48,3.67
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Total shots,10,31
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Shots on target,0,7
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Touches in opposition box,11,43
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Big chances,0,6
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Big chances missed,0,6
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Accurate passes,305 (84%),624 (91%)
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Yellow cards,2,1
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Corners,8,6
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Ball possession,60,40
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Expected goals (xG),2.13,1.11
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Total shots,25,12
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Shots on target,4,6
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Touches in opposition box,49,23
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Big chances,1,4
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Big chances missed,1,1
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Accurate passes,348 (84%),197 (72%)
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Yellow cards,3,3
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Corners,8,5
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Ball possession,58,42
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Expected goals (xG),1.58,0.25
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Total shots,21,4
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Shots on target,6,3
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Touches in opposition box,32,15
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Big chances,2,0
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Big chances missed,2,0
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Accurate passes,482 (90%),341 (84%)
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Yellow cards,2,3
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Corners,10,2
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Ball possession,46,54
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Expected goals (xG),1.62,0.42
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Total shots,15,8
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Shots on target,2,1
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Touches in opposition box,31,18
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Big chances,4,2
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Big chances missed,3,2
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Accurate passes,418 (86%),488 (86%)
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Yellow cards,1,2
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Corners,4,2
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Ball possession,36,64
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Expected goals (xG),0.80,3.27
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Total shots,7,15
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Shots on target,3,8
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Touches in opposition box,13,40
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Big chances,2,8
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Big chances missed,2,4
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Accurate passes,294 (78%),597 (88%)
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Yellow cards,1,1
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Corners,2,1
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Ball possession,51,49
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Expected goals (xG),1.70,0.98
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Total shots,15,12
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Shots on target,5,5
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Touches in opposition box,25,21
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Big chances,3,0
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Big chances missed,1,0
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Accurate passes,346 (82%),335 (80%)
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Yellow cards,1,0
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Corners,3,3
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Ball possession,42,58
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Expected goals (xG),1.39,1.05
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Total shots,13,21
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Shots on target,2,6
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Touches in opposition box,30,39
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Big chances,1,0
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Big chances missed,1,0
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Accurate passes,385 (87%),555 (91%)
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Yellow cards,1,0
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Corners,2,7
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Ball possession,46,54
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Expected goals (xG),1.85,1.26
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Total shots,19,10
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Shots on target,7,4
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Touches in opposition box,36,16
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Big chances,1,4
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Big chances missed,1,3
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Accurate passes,385 (88%),475 (90%)
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Yellow cards,3,1
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Corners,4,3

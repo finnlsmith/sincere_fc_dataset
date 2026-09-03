@@ -1,0 +1,334 @@
+name,playerId,teamId,teamName,age,height,weight,positionText,season
+Eric Dier,117973,248,Monaco,32,188,83,Defender,2026_27
+Florian Thauvin,99143,309,Lens,33,179,70,Forward,2026_27
+Gessime Yassine,513409,148,Strasbourg,20,172,56,Forward,2026_27
+Cristian Cásseres,360502,246,Toulouse,26,176,68,Midfielder,2026_27
+Lamine Camara,447689,248,Monaco,22,173,65,Midfielder,2026_27
+Samir Chergui,438655,2832,Paris FC,27,185,78,Defender,2026_27
+Kamory Doumbia,427362,2332,Brest,23,170,53,Midfielder,2026_27
+Anthony Lopes,71833,614,Angers,35,184,81,Goalkeeper,2026_27
+Louis Mafouta,431641,611,Le Mans,32,181,76,Forward,2026_27
+Rémy Labeau Lascary,455470,308,Auxerre,23,184,72,Forward,2026_27
+Vanderson,408033,248,Monaco,25,173,74,Defender,2026_27
+Estéban Lepaul,515577,313,Rennes,26,177,71,Forward,2026_27
+Pierre Lees-Melou,301243,2832,Paris FC,33,185,69,Midfielder,2026_27
+Hákon Haraldsson,424252,607,Lille,23,178,73,Midfielder,2026_27
+Lilian Raolisoa,471064,614,Angers,26,178,70,Defender,2026_27
+Flávio Nazinho,411913,248,Monaco,23,178,72,Defender,2026_27
+Vitinha,384887,304,Paris Saint-Germain,26,172,64,Midfielder,2026_27
+Ludovic Ajorque,234364,2332,Brest,32,197,92,Forward,2026_27
+Tiago Santos,447025,607,Lille,24,174,67,Defender,2026_27
+Fabián Ruiz,294193,304,Paris Saint-Germain,30,189,70,Midfielder,2026_27
+Saud Abdulhamid,457103,309,Lens,27,172,74,Defender,2026_27
+Joris Chotard,380645,2332,Brest,24,179,70,Midfielder,2026_27
+Amine El Ouazzani,511493,614,Angers,25,188,64,Forward,2026_27
+Paris Brunner,492419,248,Monaco,20,186,80,Forward,2026_27
+Valentin Rongier,231144,313,Rennes,31,172,67,Midfielder,2026_27
+Igor Paixão,436553,249,Marseille,26,168,65,Forward,2026_27
+Pierre-Emile Højbjerg,101859,249,Marseille,31,187,81,Midfielder,2026_27
+Diego Coppola,429683,2832,Paris FC,22,192,78,Defender,2026_27
+Olivier Giroud,24444,607,Lille,39,193,91,Forward,2026_27
+Loïs Openda,363618,228,Lyon,26,177,75,Forward,2026_27
+Lucas Maronnier,511490,229,Troyes,26,174,64,Defender,2026_27
+Otávio,402207,2832,Paris FC,24,187,79,Defender,2026_27
+Michal Skóras,401354,309,Lens,26,172,64,Forward,2026_27
+Lionel Mpasi,461465,217,Le Havre,32,182,73,Goalkeeper,2026_27
+Matthieu Udol,286443,309,Lens,30,178,79,Defender,2026_27
+Lassine Sinayoko,431346,2832,Paris FC,26,186,81,Forward,2026_27
+Ilan Kebbal,422186,2832,Paris FC,28,169,60,Midfielder,2026_27
+Clinton Mata,364214,228,Lyon,33,180,72,Defender,2026_27
+Amine Gouiri,348654,249,Marseille,26,181,80,Forward,2026_27
+Branco van den Boomen,139299,614,Angers,31,188,75,Midfielder,2026_27
+Ousmane Camara,438654,614,Angers,23,197,90,Defender,2026_27
+Franjo Ivanovic,499993,309,Lens,22,185,88,Forward,2026_27
+Adrien Monfray,236497,229,Troyes,35,185,76,Defender,2026_27
+Souleymane Sagnan,554952,309,Lens,21,187,77,Defender,2026_27
+Abdelhamid Aït Boudlal,539085,313,Rennes,20,190,78,Defender,2026_27
+Nathan Ngoy,414495,607,Lille,23,184,78,Defender,2026_27
+Ethan Mbappé,468859,607,Lille,19,180,70,Midfielder,2026_27
+Kevin Trapp,66424,2832,Paris FC,36,189,84,Goalkeeper,2026_27
+Abdallah Sima,404201,309,Lens,25,188,79,Forward,2026_27
+Hugo Magnetti,330614,2332,Brest,28,180,75,Midfielder,2026_27
+Rasmus Nicolaisen,402059,246,Toulouse,29,191,81,Defender,2026_27
+Dembo Sylla,476822,146,Lorient,23,175,72,Defender,2026_27
+Ismaëlo Ganiou,456795,309,Lens,21,191,80,Defender,2026_27
+Filip Jörgensen,404749,148,Strasbourg,24,192,85,Goalkeeper,2026_27
+Sadibou Sané,493103,248,Monaco,22,185,76,Defender,2026_27
+Adrien Thomasson,113747,313,Rennes,32,175,72,Midfielder,2026_27
+Djibril Ouziad,645115,217,Le Havre,19,0,0,Defender,2026_27
+Renaud Ripart,232582,229,Troyes,33,181,73,Forward,2026_27
+Denis Zakaria,252419,248,Monaco,29,191,76,Midfielder,2026_27
+Zachary Athekame,499996,228,Lyon,21,181,74,Defender,2026_27
+Adama Camara,511559,2832,Paris FC,29,195,87,Midfielder,2026_27
+Sebastian Nanasi,425234,148,Strasbourg,24,178,71,Midfielder,2026_27
+Rémy Descamps,319888,228,Lyon,30,196,74,Goalkeeper,2026_27
+Amine Sbaï,467223,614,Angers,25,175,72,Forward,2026_27
+Sebastian Szymanski,319594,313,Rennes,27,174,60,Midfielder,2026_27
+Nathaniel Adjei,515492,146,Lorient,24,191,0,Defender,2026_27
+Théo Le Bris,423962,146,Lorient,23,170,65,Midfielder,2026_27
+Romain Del Castillo,300291,2332,Brest,30,172,60,Forward,2026_27
+Anis Ouzenadji,602817,229,Troyes,19,177,0,Defender,2026_27
+Nabil Bentaleb,137521,607,Lille,31,187,76,Midfielder,2026_27
+Benjamin André,43415,607,Lille,36,180,76,Midfielder,2026_27
+Emerson,101955,249,Marseille,32,176,76,Defender,2026_27
+Rayan Mandengue,513551,308,Auxerre,20,0,0,Defender,2026_27
+Ayumu Seko,457079,217,Le Havre,26,186,81,Defender,2026_27
+Aleksandr Golovin,244560,248,Monaco,30,178,69,Midfielder,2026_27
+Dilane Bakwa,402130,607,Lille,24,180,75,Forward,2026_27
+Keyliane Abdallah,523964,249,Marseille,20,185,71,Forward,2026_27
+Corentin Tolisso,134894,228,Lyon,32,181,81,Midfielder,2026_27
+Lukás Hrádecky,64846,248,Monaco,36,192,83,Goalkeeper,2026_27
+Timothy Weah,353991,249,Marseille,26,183,66,Forward,2026_27
+Alexsandro Ribeiro,438897,607,Lille,27,191,82,Defender,2026_27
+Adil Bourabaa,607609,611,Le Mans,21,183,0,Midfielder,2026_27
+Ferran Torres,349760,304,Paris Saint-Germain,26,182,80,Forward,2026_27
+Junior Diaz,455459,229,Troyes,23,193,87,Defender,2026_27
+Nicolas Kocik,302841,611,Le Mans,28,193,0,Goalkeeper,2026_27
+Sofiane Diop,361284,613,Nice,26,175,65,Midfielder,2026_27
+Geoffrey Kondogbia,91978,249,Marseille,33,188,80,Midfielder,2026_27
+Romain Perraud,331466,607,Lille,28,173,68,Defender,2026_27
+Simon Ebonog,486033,217,Le Havre,22,180,0,Midfielder,2026_27
+Jean-Victor Makengo,300634,146,Lorient,28,177,75,Midfielder,2026_27
+Joseph Kalulu,511638,614,Angers,21,178,70,Defender,2026_27
+Dame Gueye,303292,611,Le Mans,31,176,0,Forward,2026_27
+Bradley Locko,422187,2332,Brest,24,180,74,Defender,2026_27
+Arthur Avom,468190,146,Lorient,21,173,64,Midfielder,2026_27
+Brice Samba,105198,313,Rennes,32,187,90,Goalkeeper,2026_27
+Antoine Rabillard,302333,611,Le Mans,30,180,76,Forward,2026_27
+Mohamed Ouédraogo,528204,228,Lyon,23,183,0,Defender,2026_27
+Montassar Talbi,361797,146,Lorient,28,190,80,Defender,2026_27
+Angel Gomes,338497,249,Marseille,26,168,62,Midfielder,2026_27
+Mark McKenzie,355122,246,Toulouse,27,184,84,Defender,2026_27
+Vincent Marchetti,289331,2832,Paris FC,29,181,70,Midfielder,2026_27
+Iron Gomis,371549,229,Troyes,26,182,66,Midfielder,2026_27
+Patrick Beach,599694,229,Troyes,23,190,83,Goalkeeper,2026_27
+Harouna Djibirin,591723,614,Angers,19,175,0,Forward,2026_27
+Antoine Mille,512097,229,Troyes,29,181,71,Midfielder,2026_27
+Mamadou Coulibaly,482049,248,Monaco,22,180,75,Midfielder,2026_27
+Robin Risser,444597,309,Lens,21,193,84,Goalkeeper,2026_27
+João Neves,465388,304,Paris Saint-Germain,21,174,66,Midfielder,2026_27
+Mamady Diambou,425916,2332,Brest,23,176,69,Midfielder,2026_27
+Noah Cadiou,511597,146,Lorient,27,191,84,Midfielder,2026_27
+Désiré Doué,433183,304,Paris Saint-Germain,21,181,79,Forward,2026_27
+Moustapha Mbow,416242,2832,Paris FC,26,192,74,Defender,2026_27
+Malick Fofana,438102,228,Lyon,21,169,61,Forward,2026_27
+Merwan Ifnaoui,602813,229,Troyes,27,178,63,Midfielder,2026_27
+Danny Namaso,342857,308,Auxerre,26,182,77,Forward,2026_27
+Noah Nartey,538873,228,Lyon,20,180,70,Midfielder,2026_27
+Stanis Idumbo,516051,248,Monaco,21,170,60,Midfielder,2026_27
+Dominik Greif,383094,228,Lyon,29,197,82,Goalkeeper,2026_27
+Kenny Lala,105151,2332,Brest,34,178,78,Defender,2026_27
+Yassin Belkhdim,434710,614,Angers,24,175,70,Midfielder,2026_27
+Felix Bacher,534281,228,Lyon,25,190,82,Defender,2026_27
+CJ Egan-Riley,425574,249,Marseille,23,183,70,Defender,2026_27
+Jeffrey de Lange,379703,249,Marseille,28,191,80,Goalkeeper,2026_27
+Xavier Mandza,641142,613,Nice,17,0,0,Midfielder,2026_27
+Issa Soumaré,422864,313,Rennes,25,182,78,Forward,2026_27
+Pathé Mboup,492430,2332,Brest,22,175,0,Forward,2026_27
+Mbwana Samatta,327685,217,Le Havre,33,183,77,Forward,2026_27
+Maxime Lopez,288883,2832,Paris FC,28,167,58,Midfielder,2026_27
+Everton Pereira,546936,613,Nice,19,181,64,Midfielder,2026_27
+Yacine Titraoui,457785,309,Lens,23,170,70,Midfielder,2026_27
+Yann Gboho,361815,246,Toulouse,25,178,63,Forward,2026_27
+Lucas Buadés,363569,611,Le Mans,28,181,73,Defender,2026_27
+Achraf Hakimi,320834,304,Paris Saint-Germain,27,181,73,Defender,2026_27
+Jordan Lefort,361890,614,Angers,33,184,81,Defender,2026_27
+Jacen Russell-Rowe,439236,246,Toulouse,23,183,73,Forward,2026_27
+Mika Godts,462099,304,Paris Saint-Germain,21,176,70,Forward,2026_27
+Charlie Cresswell,400646,313,Rennes,24,187,74,Defender,2026_27
+Christ Tapé,635418,246,Toulouse,20,188,0,Defender,2026_27
+Axel Witsel,25191,613,Nice,37,186,82,Midfielder,2026_27
+Lucas Calodat,429023,611,Le Mans,24,171,64,Defender,2026_27
+Aboubakar Nagida,502951,313,Rennes,21,176,74,Defender,2026_27
+Amir Richardson,455515,217,Le Havre,24,197,79,Midfielder,2026_27
+Marquinhos,101949,304,Paris Saint-Germain,32,183,75,Defender,2026_27
+Moussa Niakhaté,296319,228,Lyon,30,190,82,Defender,2026_27
+Nicolás Tagliafico,83809,228,Lyon,34,172,65,Defender,2026_27
+Pavel Sulc,412171,228,Lyon,25,177,75,Midfielder,2026_27
+Ludovic Blas,299562,313,Rennes,28,180,70,Forward,2026_27
+Lucas Tousart,300705,2332,Brest,29,185,83,Midfielder,2026_27
+Mahdi Camara,349960,313,Rennes,28,178,73,Midfielder,2026_27
+Thomas Jørgensen,482583,246,Toulouse,20,184,70,Midfielder,2026_27
+Jonathan Clauss,301869,613,Nice,33,178,69,Defender,2026_27
+Yvann Titi,602812,229,Troyes,20,188,76,Defender,2026_27
+Alexandre Lauray,372889,611,Le Mans,29,178,67,Midfielder,2026_27
+Kaïl Boudache,513547,228,Lyon,20,0,0,Forward,2026_27
+Gabin Bernardeau,547554,146,Lorient,20,181,75,Midfielder,2026_27
+Hugo Picard,511492,229,Troyes,23,168,68,Midfielder,2026_27
+Abner Vinícius,379228,228,Lyon,26,182,75,Defender,2026_27
+Mads Bidstrup,410457,228,Lyon,25,174,75,Midfielder,2026_27
+Youssouf Ndayishimiye,391542,613,Nice,27,183,79,Midfielder,2026_27
+Jim Allevinah,422188,614,Angers,31,172,67,Forward,2026_27
+Pape Diop,462111,148,Strasbourg,22,182,0,Midfielder,2026_27
+Ernest Nuamah,463147,228,Lyon,22,178,71,Forward,2026_27
+Harold Voyer,547547,611,Le Mans,29,182,66,Defender,2026_27
+Nicolas Lemaître,275036,313,Rennes,29,189,83,Goalkeeper,2026_27
+Przemyslaw Frankowski,339500,313,Rennes,31,175,70,Midfielder,2026_27
+Patrick Zabi,550549,2832,Paris FC,19,191,80,Midfielder,2026_27
+Giovanni Reyna,389087,148,Strasbourg,23,185,79,Midfielder,2026_27
+Maghnes Akliouche,426648,304,Paris Saint-Germain,24,183,72,Midfielder,2026_27
+Enzo Koffi,584098,217,Le Havre,20,183,0,Forward,2026_27
+Jacques Ekomié,430710,614,Angers,23,179,74,Defender,2026_27
+Pablo Pagis,431667,2832,Paris FC,23,181,70,Forward,2026_27
+Rassoul Ndiaye,438661,217,Le Havre,24,179,70,Midfielder,2026_27
+Elikya Legros,577894,308,Auxerre,18,177,0,Defender,2026_27
+Elye Wahi,407661,613,Nice,23,184,74,Forward,2026_27
+Félix Correia,412831,607,Lille,25,179,64,Forward,2026_27
+Kévin Danois,444755,308,Auxerre,22,183,72,Midfielder,2026_27
+Mouhamed Diop,443871,229,Troyes,25,182,0,Midfielder,2026_27
+Ngal'ayel Mukau,468938,607,Lille,21,186,79,Midfielder,2026_27
+Maik Nawrocki,423273,309,Lens,25,185,74,Defender,2026_27
+Alexis Vossah,574367,246,Toulouse,18,181,69,Midfielder,2026_27
+Timothée Pembélé,399773,217,Le Havre,23,183,80,Defender,2026_27
+Himad Abdelli,447045,249,Marseille,26,185,81,Midfielder,2026_27
+Arsène Kouassi,556058,146,Lorient,22,178,0,Defender,2026_27
+Andrija Bulatovic,538927,309,Lens,19,180,71,Midfielder,2026_27
+Lamine Sy,469372,308,Auxerre,24,171,65,Defender,2026_27
+Ahmed Touba,399608,217,Le Havre,28,190,81,Defender,2026_27
+Jean Vercruysse,547375,611,Le Mans,26,183,77,Midfielder,2026_27
+Gautier Lloris,123253,2332,Brest,31,191,87,Defender,2026_27
+Mamadou Koné,605076,146,Lorient,19,0,0,Forward,2026_27
+Alec Georgen,313693,146,Lorient,27,172,69,Defender,2026_27
+Luca Koleosho,438959,2832,Paris FC,21,175,68,Forward,2026_27
+Willian Pacho,432378,304,Paris Saint-Germain,24,188,81,Defender,2026_27
+Berke Özer,361843,607,Lille,26,191,73,Goalkeeper,2026_27
+Noa Boissé,547546,611,Le Mans,20,181,0,Defender,2026_27
+Beraldo,440085,304,Paris Saint-Germain,22,186,78,Defender,2026_27
+Dro Fernández,572375,304,Paris Saint-Germain,18,182,68,Midfielder,2026_27
+Naouirou Ahamada,409440,308,Auxerre,24,183,73,Midfielder,2026_27
+Mousa Al Tamari,383816,313,Rennes,29,178,70,Forward,2026_27
+Basar Önal,532237,607,Lille,22,173,0,Forward,2026_27
+Moses Simon,202185,2832,Paris FC,31,168,66,Forward,2026_27
+Joseph Nonge,468853,2332,Brest,21,184,70,Midfielder,2026_27
+Fodé Doucouré,399003,217,Le Havre,25,172,62,Defender,2026_27
+Julián Vignolo,578793,246,Toulouse,19,185,0,Forward,2026_27
+Romain Faivre,349368,308,Auxerre,28,180,75,Midfielder,2026_27
+Derek Cornelius,371029,249,Marseille,28,188,86,Defender,2026_27
+Ilane Touré,605151,248,Monaco,20,180,0,Midfielder,2026_27
+Jacobo Ortega,641375,148,Strasbourg,20,190,0,Forward,2026_27
+Michaël Cuisance,344198,309,Lens,27,181,74,Midfielder,2026_27
+Carlens Arcus,313385,614,Angers,30,180,75,Defender,2026_27
+Nayef Aguerd,362434,249,Marseille,30,190,83,Defender,2026_27
+Niklas Schmidt,328265,246,Toulouse,28,184,89,Midfielder,2026_27
+Junior Mwanga,437775,217,Le Havre,23,184,80,Midfielder,2026_27
+Ruben Aguilar,236546,309,Lens,33,172,70,Defender,2026_27
+Lucas Bretelle,511551,611,Le Mans,24,172,70,Midfielder,2026_27
+Mama Baldé,345396,2332,Brest,30,176,69,Forward,2026_27
+Karim Coulibaly,554472,148,Strasbourg,19,191,75,Defender,2026_27
+Lasso Coulibaly,531773,308,Auxerre,23,186,70,Midfielder,2026_27
+Tyler Morton,425568,228,Lyon,23,185,75,Midfielder,2026_27
+Andrew Omobamidele,399490,148,Strasbourg,24,188,78,Defender,2026_27
+Panos Katseris,494264,146,Lorient,25,187,0,Defender,2026_27
+Raphaël Le Guen,548299,2332,Brest,20,196,83,Defender,2026_27
+Mathys de Carvalho,558190,228,Lyon,21,183,0,Midfielder,2026_27
+Clément Akpa,511380,308,Auxerre,24,181,68,Defender,2026_27
+Guillaume Restes,468899,246,Toulouse,21,188,82,Goalkeeper,2026_27
+Eliezer Mayenda,494670,313,Rennes,21,180,75,Forward,2026_27
+Tochukwu Nnadi,566483,249,Marseille,23,176,67,Midfielder,2026_27
+Rudy Matondo,557883,2832,Paris FC,18,180,0,Midfielder,2026_27
+Anis Soubeir,642597,248,Monaco,19,0,0,Midfielder,2026_27
+Hamari Traoré,289018,2832,Paris FC,34,175,64,Defender,2026_27
+Souleymane Faye,499785,146,Lorient,23,179,70,Forward,2026_27
+Amine Harit,322668,249,Marseille,29,180,67,Midfielder,2026_27
+Melvin Bard,389064,613,Nice,25,173,65,Defender,2026_27
+Prosper Peter,559360,614,Angers,19,188,0,Forward,2026_27
+Quentin Merlin,411087,313,Rennes,24,174,68,Defender,2026_27
+Mathis Lainé,604989,2332,Brest,19,0,0,Midfielder,2026_27
+Antoine Mendy,415277,613,Nice,22,187,75,Defender,2026_27
+Gaëtan Perrin,301326,607,Lille,30,169,63,Forward,2026_27
+Isak Jensen,464921,146,Lorient,22,185,91,Forward,2026_27
+Josué Casimir,486042,308,Auxerre,24,178,69,Forward,2026_27
+Julien Duranville,438951,228,Lyon,20,173,67,Forward,2026_27
+Aristide Zossou,539650,308,Auxerre,21,178,70,Midfielder,2026_27
+Bryan Reynolds,364716,313,Rennes,25,185,77,Defender,2026_27
+Théo Eyoum,547548,611,Le Mans,24,184,0,Defender,2026_27
+Mika Biereth,430909,248,Monaco,23,187,69,Forward,2026_27
+Rémi Himbert,575110,228,Lyon,18,178,0,Forward,2026_27
+Isaac Cossier,541108,607,Lille,19,193,78,Defender,2026_27
+Mohamed Abdelmonem,431067,613,Nice,27,184,75,Defender,2026_27
+Noah Donkor,602815,229,Troyes,19,178,0,Defender,2026_27
+Rayan Bamba,520975,611,Le Mans,22,185,0,Defender,2026_27
+Sion Oppong,642119,246,Toulouse,18,180,0,Forward,2026_27
+Usman Simbakoli,408914,614,Angers,24,189,79,Forward,2026_27
+Alexandre Phliponeau,367207,229,Troyes,26,180,65,Midfielder,2026_27
+Genesis Antwi,555021,148,Strasbourg,19,189,0,Defender,2026_27
+Kaito Mizuta,422891,217,Le Havre,26,182,71,Midfielder,2026_27
+Khvicha Kvaratskhelia,370984,304,Paris Saint-Germain,25,183,76,Forward,2026_27
+Lucas Høgsberg,555179,148,Strasbourg,20,182,69,Defender,2026_27
+Yvon Mvogo,103542,146,Lorient,32,190,88,Goalkeeper,2026_27
+Warren Zaïre-Emery,444679,304,Paris Saint-Germain,20,178,68,Midfielder,2026_27
+Lucas Digne,89925,304,Paris Saint-Germain,33,178,74,Defender,2026_27
+Lucas Hernández,139186,304,Paris Saint-Germain,30,184,79,Defender,2026_27
+Mezian Mesloub,622003,309,Lens,16,0,0,Midfielder,2026_27
+Thilo Kehrer,255167,248,Monaco,29,186,76,Defender,2026_27
+Thorgan Hazard,101537,309,Lens,33,175,71,Midfielder,2026_27
+Vincent Sasso,120590,217,Le Havre,35,190,85,Defender,2026_27
+Sota Nakamura,570092,217,Le Havre,23,168,64,Forward,2026_27
+Matthis Abline,414249,248,Monaco,23,176,67,Forward,2026_27
+Omar Sissoko,511557,2832,Paris FC,20,175,70,Forward,2026_27
+Yanis Zouaoui,532224,217,Le Havre,28,183,75,Defender,2026_27
+Djibril Coulibaly,549160,613,Nice,17,190,76,Midfielder,2026_27
+Sam Amo-Ameyaw,482895,148,Strasbourg,20,174,64,Forward,2026_27
+Marius Louër,542892,614,Angers,19,181,70,Defender,2026_27
+Senny Mayulu,513665,304,Paris Saint-Germain,20,183,69,Midfielder,2026_27
+Amadou Haidara,298837,309,Lens,28,175,72,Midfielder,2026_27
+Josh Maja,325156,217,Le Havre,27,181,78,Forward,2026_27
+William Harhouz,602708,611,Le Mans,26,191,0,Forward,2026_27
+Rafik Messali,525757,246,Toulouse,23,177,74,Midfielder,2026_27
+Bané Diatta,619609,614,Angers,18,0,0,Midfielder,2026_27
+Arnaud Nordin,328288,313,Rennes,28,170,70,Forward,2026_27
+Dermane Karim,438297,229,Troyes,22,193,0,Midfielder,2026_27
+Calvin Verdonk,271086,607,Lille,29,174,69,Defender,2026_27
+Sinaly Diomandé,397366,308,Auxerre,25,184,74,Defender,2026_27
+Yéhvann Diouf,319767,613,Nice,26,188,74,Goalkeeper,2026_27
+Gauthier Hein,322671,613,Nice,30,170,65,Midfielder,2026_27
+Santiago Hidalgo,437747,246,Toulouse,21,174,71,Forward,2026_27
+Erwan Colas,470779,611,Le Mans,29,179,0,Forward,2026_27
+Noah Mbamba,414601,146,Lorient,21,187,75,Midfielder,2026_27
+Odsonne Édouard,317504,309,Lens,28,187,83,Forward,2026_27
+Osame Sahraoui,366886,607,Lille,25,171,65,Forward,2026_27
+Tanner Tessmann,393096,228,Lyon,24,188,86,Midfielder,2026_27
+Ilyas Azizi,559897,246,Toulouse,18,173,63,Forward,2026_27
+Kandet Diawara,487109,229,Troyes,26,180,75,Forward,2026_27
+Faris Moumbagna,395595,249,Marseille,26,185,77,Forward,2026_27
+Neal Maupay,119822,249,Marseille,30,173,69,Forward,2026_27
+Egil Selvik,372297,2332,Brest,29,193,90,Goalkeeper,2026_27
+Elias Jelert,443655,217,Le Havre,23,170,62,Defender,2026_27
+Mathys Detourbet,549006,248,Monaco,19,0,0,Forward,2026_27
+Ousmane Dembélé,299513,304,Paris Saint-Germain,29,178,67,Forward,2026_27
+Arthur Piedfort,485928,308,Auxerre,21,186,70,Midfielder,2026_27
+Yacouba Koné,644957,229,Troyes,19,0,0,Forward,2026_27
+Axel Camblan,423356,2332,Brest,23,168,60,Midfielder,2026_27
+Isak Jansson,407884,613,Nice,24,174,0,Forward,2026_27
+Djibril Sidibé,10454,611,Le Mans,34,182,71,Defender,2026_27
+Fabio Baldé,535020,148,Strasbourg,21,182,75,Forward,2026_27
+Sékou Mara,402855,148,Strasbourg,24,184,73,Forward,2026_27
+Seny Koumbassa,574364,246,Toulouse,19,194,0,Defender,2026_27
+Aiyegun Tosin,405227,146,Lorient,28,179,75,Forward,2026_27
+Ismaïl Diallo,547433,246,Toulouse,23,182,0,Defender,2026_27
+Diogo Sousa,497764,148,Strasbourg,20,176,70,Midfielder,2026_27
+Fredrik Oppegård,403097,308,Auxerre,24,175,67,Defender,2026_27
+Henrick Do Marcolino,550830,313,Rennes,20,179,63,Forward,2026_27
+Lamfia Dioubaté,605150,308,Auxerre,19,0,0,Midfielder,2026_27
+Florian Sotoca,274934,309,Lens,35,187,77,Forward,2026_27
+Quinten Timber,411078,249,Marseille,25,179,74,Midfielder,2026_27
+Zoumana Diallo,552235,613,Nice,21,185,0,Forward,2026_27
+Billal Brahimi,362801,611,Le Mans,26,183,75,Forward,2026_27
+Anthony Bermont,514544,614,Angers,21,180,54,Midfielder,2026_27
+Milan Robin,547569,611,Le Mans,26,186,70,Midfielder,2026_27
+Mohamed-Ali Cho,399014,613,Nice,22,182,66,Forward,2026_27
+Yasser Larouci,386971,611,Le Mans,25,176,68,Defender,2026_27
+Ewan Hatfout,388499,611,Le Mans,26,180,0,Goalkeeper,2026_27
+Jeyland Mitchell,517344,148,Strasbourg,21,187,82,Defender,2026_27
+Mathis Saka,531677,246,Toulouse,19,172,63,Midfielder,2026_27
+Djelan Morana,648498,613,Nice,18,0,0,Forward,2026_27
+Mamadou Diop,467216,308,Auxerre,26,204,95,Goalkeeper,2026_27
+Mateo del Blanco,432471,148,Strasbourg,22,170,68,Defender,2026_27
+Hamza Koutoune,575454,613,Nice,19,177,62,Defender,2026_27
+Theo Bair,374853,308,Auxerre,27,194,101,Forward,2026_27
+Oumar Konaté,642598,248,Monaco,19,0,0,Forward,2026_27
+Nathan Ngoumou,375341,613,Nice,26,185,70,Forward,2026_27
+Matvey Safonov,329019,304,Paris Saint-Germain,27,192,82,Goalkeeper,2026_27
+Guéla Doué,447449,148,Strasbourg,23,187,88,Defender,2026_27
+Samir El Mourabet,512740,148,Strasbourg,20,187,72,Midfielder,2026_27
+Christ Makosso,511679,308,Auxerre,22,192,85,Defender,2026_27

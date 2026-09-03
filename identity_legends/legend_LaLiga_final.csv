@@ -1,4 +1,6 @@
 canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
+720320,Aaron Mayol,Valencia,existing,720320.0,,1905203.0
+500745,Abde Ezzalzouli,Real Betis,existing,500745.0,427283.0,
 586866,Abde Rebbach,Alaves,existing,586866.0,447835.0,
 463001,Abdel Abqar,Getafe,existing,463001.0,409740.0,
 498594,Abel Bretones,Osasuna,existing,498594.0,461771.0,1323398.0
@@ -6,16 +8,18 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 720618,Adama Timera,Espanyol,existing,720618.0,,1876774.0
 219352,Ademola Lookman,Atletico Madrid,existing,219352.0,299451.0,690516.0
 465599,Adrià Alti,Villarreal,existing,465599.0,448041.0,
+446990,Adrià Pedrosa,Elche,existing,446990.0,363966.0,927646.0
 437808,Adrián de la Fuente,Levante,existing,437808.0,383780.0,952528.0
 472145,Aihen Muñoz,Real Sociedad,existing,472145.0,367583.0,999159.0
 484702,Aimar Oroz,Osasuna,existing,484702.0,395321.0,1054786.0
 80993,Aitor Fernández,Osasuna,existing,,,213471.0
 551482,Aitor Mañas,Alaves,existing,551482.0,514695.0,1553663.0
 440593,Aitor Paredes,Athletic Club,existing,440593.0,402663.0,1191407.0
+665522,Alassane Diatta,Villarreal,existing,665522.0,,1695966.0
 513956,Alberto Moleiro,Villarreal,existing,513956.0,448211.0,1184694.0
 654780,Alberto Risco,Getafe,existing,654780.0,523331.0,1637438.0
 199250,Aleix Febas,Elche,existing,199250.0,381643.0,671686.0
-493019,Alejandro Balde,Barcelona,existing,,,1254166.0
+493019,Alejandro Balde,Barcelona,existing,493019.0,,1254166.0
 244273,Alejandro Catena,Osasuna,existing,244273.0,374638.0,814663.0
 631986,Alejandro Rego,Athletic Club,existing,631986.0,,1425769.0
 483116,Alemão,Rayo Vallecano,existing,483116.0,436617.0,
@@ -24,20 +28,22 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 627656,Alex Lebarbier,Real Sociedad,existing,627656.0,,1426185.0
 634254,Alex Marchal,Real Sociedad,existing,634254.0,546574.0,1721611.0
 643319,Alex Panach,Valencia,existing,643319.0,,
+446814,Alfon González,Villarreal,existing,446814.0,408942.0,926643.0
 631382,Ali Houary,Elche,existing,631382.0,508339.0,1670281.0
 471138,Ander Barrenetxea,Real Sociedad,existing,471138.0,367857.0,1002618.0
 431644,Ander Guevara,Alaves,existing,431644.0,344120.0,873827.0
 135363,Andreas Christensen,Barcelona,existing,135363.0,130331.0,449232.0
 466543,Andrei Ratiu,Rayo Vallecano,existing,466543.0,372331.0,970578.0
 247636,André Almeida,Valencia,existing,247636.0,,777028.0
-672231,Andrés Antañón,Celta Vigo,existing,,,1732791.0
+672231,Andrés Antañón,Celta Vigo,existing,672231.0,,1732791.0
 562922,Andrés Castrín,Sevilla,existing,562922.0,448284.0,
 94273,Ante Budimir,Osasuna,existing,94273.0,98126.0,251269.0
 437465,Antonio Blanco,Alaves,existing,437465.0,409467.0,845998.0
-102380,Antonio Rüdiger,Real Madrid,existing,102380.0,,276738.0
+102380,Antonio Rüdiger,Real Madrid,existing,102380.0,104010.0,276738.0
 176245,Antonio Sivera,Alaves,existing,176245.0,141044.0,530468.0
 467169,Antony,Real Betis,existing,467169.0,364315.0,967622.0
 520250,Arda Güler,Real Madrid,existing,520250.0,415181.0,1253890.0
+517333,Arnau Martínez,Girona,existing,517333.0,444239.0,1194892.0
 220307,Arnaut Danjuma,Valencia,existing,220307.0,323625.0,704151.0
 475612,Arsen Zakharyan,Real Sociedad,existing,475612.0,400185.0,1175610.0
 646142,Asier Osambela,Osasuna,existing,646142.0,518928.0,1431121.0
@@ -54,10 +60,11 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 645745,Carlos Espí,Levante,existing,645745.0,516341.0,1610744.0
 710081,Carlos Maciá,Villarreal,existing,710081.0,603190.0,1841906.0
 531219,Carlos Martín,Rayo Vallecano,existing,531219.0,427360.0,1282015.0
-244707,Carlos Protesoni,Alaves,existing,244707.0,,799914.0
+244707,Carlos Protesoni,Alaves,existing,244707.0,362393.0,799914.0
 588993,Carlos Romero,Espanyol,existing,588993.0,468931.0,1395964.0
 224860,Carlos Soler,Real Sociedad,existing,224860.0,313542.0,708890.0
 494921,Carlos Álvarez,Levante,existing,494921.0,406937.0,1209980.0
+499358,Cestero,Real Madrid,existing,499358.0,,1807277.0
 250437,Chidera Ejuke,Sevilla,existing,250437.0,337022.0,837270.0
 514968,Clemens Riedel,Espanyol,existing,514968.0,419935.0,1279557.0
 709993,Cubo,Atletico Madrid,existing,709993.0,,
@@ -66,7 +73,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 491436,Dani Cárdenas,Rayo Vallecano,existing,491436.0,386261.0,1041445.0
 593193,Dani Martinez,Atletico Madrid,existing,593193.0,498163.0,
 179370,Dani Olmo,Barcelona,existing,179370.0,261212.0,614834.0
-240071,Dani Raba,Valencia,existing,240071.0,,
+240071,Dani Raba,Valencia,existing,240071.0,334221.0,
 442299,David Affengruber,Elche,existing,442299.0,423282.0,1073980.0
 576682,David Otorbi,Valencia,existing,576682.0,510999.0,1600732.0
 175204,David Soria,Getafe,existing,175204.0,243262.0,581919.0
@@ -75,12 +82,13 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 89572,Denis Suárez,Alaves,existing,89572.0,106525.0,282281.0
 149915,Diego Llorente,Real Betis,existing,149915.0,123232.0,420568.0
 171129,Diego Rico,Getafe,existing,171129.0,,488718.0
+96767,Dimitri Foulquier,Valencia,existing,96767.0,,261609.0
 149838,Djené Dakonam,Getafe,existing,149838.0,332990.0,421365.0
 235093,Dávid Hancko,Atletico Madrid,existing,235093.0,362779.0,727897.0
 592810,Edu Altozano,Sevilla,existing,592810.0,,1793858.0
 420909,Edu Expósito,Espanyol,existing,420909.0,335696.0,837089.0
 475561,Eduardo Camavinga,Real Madrid,existing,475561.0,369109.0,1015185.0
-437677,Enzo Boyomo,Osasuna,existing,437677.0,,
+437677,Enzo Boyomo,Osasuna,existing,437677.0,447842.0,
 432656,Eric García,Barcelona,existing,432656.0,368091.0,940573.0
 536884,Federico Redondo,Elche,existing,536884.0,419616.0,1277343.0
 223255,Federico Valverde,Real Madrid,existing,223255.0,344644.0,743533.0
@@ -106,7 +114,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 197024,Guido Rodríguez,Valencia,existing,197024.0,303876.0,586768.0
 657325,Hugo Burcio,Celta Vigo,existing,657325.0,,1825995.0
 439716,Hugo Duro,Valencia,existing,439716.0,354526.0,929838.0
-492900,Hugo González,Celta Vigo,existing,492900.0,,1226783.0
+492900,Hugo González,Celta Vigo,existing,492900.0,427117.0,1226783.0
 620583,Hugo Rincón,Girona,existing,620583.0,481851.0,1427819.0
 538283,Hugo Sotelo,Celta Vigo,existing,538283.0,415345.0,1254218.0
 550566,Hugo Álvarez,Celta Vigo,existing,550566.0,427001.0,1308414.0
@@ -115,7 +123,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 634238,Ibai Aguirre,Real Sociedad,existing,634238.0,,1810849.0
 216475,Igor Zubeldia,Real Sociedad,existing,216475.0,315566.0,698653.0
 490726,Iker Losada,Levante,existing,490726.0,,1082930.0
-668821,Iker Monreal,Athletic Club,existing,,,1817320.0
+668821,Iker Monreal,Athletic Club,existing,668821.0,,1817320.0
 592812,Iker Munoz,Sevilla,existing,592812.0,,1413945.0
 589577,Iker Muñoz,Osasuna,existing,589577.0,474267.0,1323863.0
 465689,Ilaix Moriba,Celta Vigo,existing,465689.0,409030.0,1109046.0
@@ -144,9 +152,10 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 612309,Job Ochieng,Real Sociedad,existing,612309.0,599413.0,1724551.0
 513950,Jofre Carreras,Espanyol,existing,513950.0,430451.0,1184777.0
 152723,Johan Mojica,Mallorca,existing,152723.0,135098.0,474673.0
-488662,Johnny Cardoso,Atletico Madrid,existing,488662.0,,1173678.0
+488662,Johnny Cardoso,Atletico Madrid,existing,488662.0,379230.0,1173678.0
 513945,Jon Ander Olasagasti,Levante,existing,513945.0,413346.0,1131957.0
 479816,Jon Aramburu,Real Sociedad,existing,479816.0,463961.0,1249284.0
+546812,Jon Gorrotxategi,Real Sociedad,existing,546812.0,541871.0,1323827.0
 201178,Jon Guridi,Alaves,existing,201178.0,335041.0,678192.0
 620617,Jon Martín,Real Sociedad,existing,620617.0,495459.0,1523234.0
 477463,Jon Moncayola,Osasuna,existing,477463.0,381673.0,921825.0
@@ -154,10 +163,10 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 566165,Jones El Abdellaoui,Celta Vigo,existing,566165.0,441888.0,1379196.0
 114128,Jonny Otto,Alaves,existing,114128.0,115917.0,360918.0
 648762,Jorge Cabello,Levante,existing,648762.0,,1617146.0
-499358,Jorge Cestero,Real Madrid,existing,499358.0,,1807277.0
 463784,Jorge Herrando,Osasuna,existing,463784.0,444253.0,1098365.0
 241153,Jorge de Frutos,Rayo Vallecano,existing,241153.0,386230.0,797901.0
-199195,Josan,Elche,existing,199195.0,,623982.0
+199195,Josan,Elche,existing,199195.0,273453.0,623982.0
+619893,Joselu Pérez,Getafe,existing,619893.0,,1559834.0
 132105,José Gayà,Valencia,existing,132105.0,119817.0,391058.0
 151883,José María Giménez,Atletico Madrid,existing,151883.0,135914.0,474589.0
 515611,José Salinas,Espanyol,existing,515611.0,,1187478.0
@@ -223,6 +232,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 432855,Nahuel Tenaglia,Alaves,existing,432855.0,347874.0,860314.0
 448085,Natan,Real Betis,existing,448085.0,402206.0,1188375.0
 544538,Nelson Deossa,Real Betis,existing,544538.0,432475.0,1315711.0
+72154,Nemanja Gudelj,Sevilla,existing,72154.0,77417.0,178753.0
 664217,Nico Guillén,Sevilla,existing,664217.0,621893.0,1783498.0
 523654,Nico Williams,Athletic Club,existing,523654.0,408449.0,1202110.0
 195735,Nicolas Pepe,Villarreal,existing,195735.0,239872.0,575735.0
@@ -239,7 +249,7 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 623696,Pablo García,Real Betis,existing,623696.0,551186.0,1662379.0
 522856,Pablo Ibáñez,Alaves,existing,522856.0,444254.0,1238154.0
 170154,Pablo Maffeo,Mallorca,existing,170154.0,294848.0,673356.0
-445998,Pablo Martínez,Levante,existing,445998.0,,923298.0
+445998,Pablo Martínez,Levante,existing,445998.0,388808.0,923298.0
 469317,Pablo Ramón,Espanyol,existing,469317.0,,982734.0
 648430,Paco Cortés,Levante,existing,648430.0,541854.0,1649293.0
 422453,Pape Gueye,Villarreal,existing,422453.0,399047.0,844544.0
@@ -318,165 +328,178 @@ canonical_id,name,team,status,opta_id,whoscored_id,fotmob_id
 634056,Álvaro Cortés,Barcelona,existing,634056.0,,1695867.0
 223761,Álvaro Fidalgo,Real Betis,existing,223761.0,,895954.0
 165682,Álvaro García,Rayo Vallecano,existing,165682.0,135345.0,474658.0
-440594,Álvaro Núñez,Celta Vigo,existing,440594.0,,1132355.0
+440594,Álvaro Núñez,Celta Vigo,existing,440594.0,509876.0,1132355.0
 472194,Álvaro Valles,Real Betis,existing,472194.0,448208.0,999171.0
 513951,Ángel Fortuno,Espanyol,existing,,,1184772.0
 588143,Ángel Ortiz,Real Betis,existing,588143.0,545675.0,1580522.0
 633295,Ángel Pérez,Alaves,existing,633295.0,506205.0,1563022.0
 96736,Íñigo Ruiz de Galarreta,Athletic Club,existing,96736.0,106586.0,282462.0
 433161,Óscar Valentín,Rayo Vallecano,existing,433161.0,422958.0,956622.0
+new_2026_23,Abdoulaye Faye,Celta de Vigo,new_linked_full,631935.0,498812.0,1555492.0
 new_2026_8,Alejandro Grimaldo,Atlético de Madrid,new_linked_full,106004.0,107252.0,288406.0
-new_2026_152,Aliou Dieng,Valencia CF,new_linked_full,449576.0,431121.0,723148.0
-new_2026_65,Andrés García,Getafe,new_linked_full,606798.0,469329.0,1430406.0
-new_2026_16,Anthony Gordon,Barcelona,new_linked_full,232826.0,349669.0,906937.0
+new_2026_163,Aliou Dieng,Valencia CF,new_linked_full,449576.0,431121.0,723148.0
+new_2026_69,Andrés García,Getafe,new_linked_full,606798.0,469329.0,1430406.0
+new_2026_17,Anthony Gordon,Barcelona,new_linked_full,232826.0,349669.0,906937.0
 new_2026_9,Arnau Ortiz,Atlético de Madrid,new_linked_full,552095.0,444251.0,1297989.0
-new_2026_146,Arouna Sangante,Sevilla,new_linked_full,509285.0,486031.0,1244272.0
-new_2026_76,Aïssa Mandi,Levante,new_linked_full,86813.0,90115.0,210683.0
-new_2026_139,Bernardo Silva,Real Madrid,new_linked_full,165809.0,136741.0,488139.0
+new_2026_157,Arouna Sangante,Sevilla,new_linked_full,509285.0,486031.0,1244272.0
+new_2026_80,Aïssa Mandi,Levante,new_linked_full,86813.0,90115.0,210683.0
+new_2026_149,Bernardo Silva,Real Madrid,new_linked_full,165809.0,136741.0,488139.0
 new_2026_4,Beñat Gerenabarrena,Athletic Club,new_linked_full,631990.0,536243.0,1425173.0
-new_2026_140,Denzel Dumfries,Real Madrid,new_linked_full,199432.0,322153.0,593118.0
-new_2026_68,Enes Ünal,Getafe,new_linked_full,168636.0,134695.0,464486.0
-new_2026_78,Enzo Bardeli,Levante,new_linked_full,492841.0,467181.0,1332540.0
-new_2026_47,Ezequiel Ponce,Elche,new_linked_full,172845.0,137031.0,493216.0
-new_2026_135,Facundo Bernal,Real Betis,new_linked_full,614242.0,512611.0,1436133.0
-new_2026_49,Fer Niño,Elche,new_linked_full,502290.0,391082.0,1127224.0
-new_2026_69,Francho Serrano,Getafe,new_linked_full,494495.0,424675.0,1183650.0
-new_2026_141,Ibrahima Konaté,Real Madrid,new_linked_full,204716.0,345957.0,820140.0
+new_2026_150,Denzel Dumfries,Real Madrid,new_linked_full,199432.0,322153.0,593118.0
+new_2026_72,Enes Ünal,Getafe,new_linked_full,168636.0,134695.0,464486.0
+new_2026_82,Enzo Bardeli,Levante,new_linked_full,492841.0,467181.0,1332540.0
+new_2026_51,Ezequiel Ponce,Elche,new_linked_full,172845.0,137031.0,493216.0
+new_2026_145,Facundo Bernal,Real Betis,new_linked_full,614242.0,512611.0,1436133.0
+new_2026_53,Fer Niño,Elche,new_linked_full,502290.0,391082.0,1127224.0
+new_2026_73,Francho Serrano,Getafe,new_linked_full,494495.0,424675.0,1183650.0
+new_2026_61,Gabriel Moscardo,Espanyol,new_linked_full,617127.0,478349.0,1503655.0
+new_2026_158,Giorgi Kochorashvili,Sevilla,new_linked_full,428798.0,395346.0,953958.0
+new_2026_19,Hamza Abdelkarim,Barcelona,new_linked_full,684337.0,559489.0,1708842.0
+new_2026_151,Ibrahima Konaté,Real Madrid,new_linked_full,204716.0,345957.0,820140.0
 new_2026_5,Johaneko Louis-Jean,Athletic Club,new_linked_full,564923.0,431668.0,1327006.0
-new_2026_105,Jonathan Dubasin,Osasuna,new_linked_full,523079.0,447853.0,1242139.0
-new_2026_11,Jorge Domínguez,Atlético de Madrid,new_linked_full,710911.0,641096.0,1842329.0
-new_2026_155,Justin de Haas,Valencia CF,new_linked_full,467622.0,372634.0,969711.0
-new_2026_20,Karim Adeyemi,Barcelona,new_linked_full,453750.0,392646.0,959594.0
-new_2026_142,Marc Cucurella,Real Madrid,new_linked_full,179268.0,363496.0,873289.0
-new_2026_81,Marc Santos,Levante,new_linked_full,719440.0,644082.0,2141146.0
-new_2026_59,Marcos Fernández,Espanyol,new_linked_full,604116.0,464541.0,1407741.0
+new_2026_111,Jonathan Dubasin,Osasuna,new_linked_full,523079.0,447853.0,1242139.0
+new_2026_12,Jorge Domínguez,Atlético de Madrid,new_linked_full,710911.0,641096.0,1842329.0
+new_2026_166,Justin de Haas,Valencia CF,new_linked_full,467622.0,372634.0,969711.0
+new_2026_21,Karim Adeyemi,Barcelona,new_linked_full,453750.0,392646.0,959594.0
+new_2026_152,Marc Cucurella,Real Madrid,new_linked_full,179268.0,363496.0,873289.0
+new_2026_85,Marc Santos,Levante,new_linked_full,719440.0,644082.0,2141146.0
+new_2026_63,Marcos Fernández,Espanyol,new_linked_full,604116.0,464541.0,1407741.0
 new_2026_1,Miguel Rodríguez,Alavés,new_linked_full,494932.0,546572.0,1184663.0
-new_2026_13,Morten Hjulmand,Atlético de Madrid,new_linked_full,454812.0,403647.0,950199.0
-new_2026_70,Orel Mangala,Getafe,new_linked_full,179519.0,344073.0,765693.0
+new_2026_14,Morten Hjulmand,Atlético de Madrid,new_linked_full,454812.0,403647.0,950199.0
+new_2026_74,Orel Mangala,Getafe,new_linked_full,179519.0,344073.0,765693.0
 new_2026_6,Peio Canales,Athletic Club,new_linked_full,632023.0,536242.0,1585726.0
-new_2026_150,Robbie Ure,Sevilla,new_linked_full,503537.0,454790.0,1399218.0
-new_2026_156,Ryunosuke Sato,Valencia CF,new_linked_full,614481.0,562981.0,1611149.0
-new_2026_71,Saba Sazonov,Getafe,new_linked_full,492977.0,410988.0,1179368.0
-new_2026_136,Troy Parrott,Real Betis,new_linked_full,447235.0,384064.0,942365.0
-new_2026_60,Vanja Drkusic,Espanyol,new_linked_full,462097.0,361696.0,955204.0
-new_2026_144,Yan Diomande,Real Madrid,new_linked_full,692871.0,557000.0,1735453.0
+new_2026_161,Robbie Ure,Sevilla,new_linked_full,503537.0,454790.0,1399218.0
+new_2026_22,Rodri,Barcelona,new_linked_full,220566.0,303139.0,675088.0
+new_2026_167,Ryunosuke Sato,Valencia CF,new_linked_full,614481.0,562981.0,1611149.0
+new_2026_75,Saba Sazonov,Getafe,new_linked_full,492977.0,410988.0,1179368.0
+new_2026_146,Troy Parrott,Real Betis,new_linked_full,447235.0,384064.0,942365.0
+new_2026_64,Vanja Drkusic,Espanyol,new_linked_full,462097.0,361696.0,955204.0
+new_2026_154,Yan Diomande,Real Madrid,new_linked_full,692871.0,557000.0,1735453.0
 new_2026_7,Álvaro Djaló,Athletic Club,new_linked_full,588171.0,444806.0,1355668.0
-new_2026_53,Álvaro Padilla,Elche,new_linked_full,748535.0,644193.0,1959218.0
-new_2026_22,Abdoulaye Faye,Celta de Vigo,new_linked_partial,631935.0,,1555492.0
-new_2026_75,Alberto Calatrava,Levante,new_linked_partial,645746.0,,2141153.0
-new_2026_138,Alexis Ciria,Real Madrid,new_linked_partial,704994.0,,1707940.0
-new_2026_90,Alfonso Herrero,Málaga,new_linked_partial,,261509.0,616538.0
-new_2026_115,Andrés Martin,Racing de Santander,new_linked_partial,,422961.0,899195.0
-new_2026_119,Asier Villalibre,Racing de Santander,new_linked_partial,,331171.0,670031.0
-new_2026_30,Bil Nsongo,Deportivo de La Coruña,new_linked_partial,,598590.0,1690831.0
-new_2026_17,Brian Fariñas,Barcelona,new_linked_partial,499314.0,,1821727.0
-new_2026_29,Bright Ede,Deportivo de La Coruña,new_linked_partial,,631884.0,1711969.0
-new_2026_56,Cala,Espanyol,new_linked_partial,568812.0,468761.0,
-new_2026_85,Carlos Dotor,Málaga,new_linked_partial,,461527.0,1209421.0
-new_2026_83,Carlos Puga,Málaga,new_linked_partial,,447938.0,1668274.0
-new_2026_89,Chupe,Málaga,new_linked_partial,,541868.0,1669622.0
-new_2026_66,Curro Burgos,Getafe,new_linked_partial,675560.0,,1691462.0
-new_2026_86,Dani Lorenzo,Málaga,new_linked_partial,,448294.0,1317624.0
-new_2026_77,Dani Requena,Levante,new_linked_partial,621306.0,,1481503.0
-new_2026_87,David Larrubia,Málaga,new_linked_partial,,448303.0,1108863.0
-new_2026_37,David Mella,Deportivo de La Coruña,new_linked_partial,,507361.0,1368655.0
-new_2026_122,Diego Díaz,Racing de Santander,new_linked_partial,,545956.0,1693550.0
-new_2026_35,Diego Villares,Deportivo de La Coruña,new_linked_partial,,448009.0,988178.0
-new_2026_67,Ebrahima Drammeh,Getafe,new_linked_partial,748228.0,,2110934.0
-new_2026_88,Einar Galilea,Málaga,new_linked_partial,,141497.0,516803.0
-new_2026_98,Eneko Jauregi,Málaga,new_linked_partial,,463425.0,722830.0
-new_2026_48,Facundo Buonanotte,Elche,new_linked_partial,536916.0,,1336566.0
-new_2026_120,Facundo González,Racing de Santander,new_linked_partial,,444264.0,1212179.0
-new_2026_57,Gabriel Moscardo,Espanyol,new_linked_partial,617127.0,,1503655.0
+new_2026_57,Álvaro Padilla,Elche,new_linked_full,748535.0,644193.0,1959218.0
+new_2026_50,Abiel Osorio,Elche,new_linked_partial,572662.0,,1343195.0
+new_2026_79,Alberto Calatrava,Levante,new_linked_partial,645746.0,,2141153.0
+new_2026_148,Alexis Ciria,Real Madrid,new_linked_partial,704994.0,,1707940.0
+new_2026_95,Alfonso Herrero,Málaga,new_linked_partial,,261509.0,616538.0
+new_2026_120,Andrés Martin,Racing de Santander,new_linked_partial,,422961.0,899195.0
+new_2026_110,Asier Bonel,Osasuna,new_linked_partial,647953.0,,1752349.0
+new_2026_127,Asier Villalibre,Racing de Santander,new_linked_partial,,331171.0,670031.0
+new_2026_29,Bil Nsongo,Deportivo de La Coruña,new_linked_partial,,598590.0,1690831.0
+new_2026_18,Brian Fariñas,Barcelona,new_linked_partial,499314.0,,1821727.0
+new_2026_36,Bright Ede,Deportivo de La Coruña,new_linked_partial,,631884.0,1711969.0
+new_2026_60,Cala,Espanyol,new_linked_partial,568812.0,468761.0,
+new_2026_92,Carlos Dotor,Málaga,new_linked_partial,,461527.0,1209421.0
+new_2026_91,Carlos Puga,Málaga,new_linked_partial,,447938.0,1668274.0
+new_2026_94,Chupe,Málaga,new_linked_partial,,541868.0,1669622.0
+new_2026_10,Cristian Romero,Atlético de Madrid,new_linked_partial,221632.0,,789066.0
+new_2026_70,Curro Burgos,Getafe,new_linked_partial,675560.0,,1691462.0
+new_2026_89,Dani Lorenzo,Málaga,new_linked_partial,,448294.0,1317624.0
+new_2026_81,Dani Requena,Levante,new_linked_partial,621306.0,,1481503.0
+new_2026_88,David Larrubia,Málaga,new_linked_partial,,448303.0,1108863.0
+new_2026_43,David Mella,Deportivo de La Coruña,new_linked_partial,,507361.0,1368655.0
+new_2026_130,Diego Díaz,Racing de Santander,new_linked_partial,,545956.0,1693550.0
+new_2026_39,Diego Villares,Deportivo de La Coruña,new_linked_partial,,448009.0,988178.0
+new_2026_71,Ebrahima Drammeh,Getafe,new_linked_partial,748228.0,,2110934.0
+new_2026_93,Einar Galilea,Málaga,new_linked_partial,,141497.0,516803.0
+new_2026_103,Eneko Jauregi,Málaga,new_linked_partial,,463425.0,722830.0
+new_2026_52,Facundo Buonanotte,Elche,new_linked_partial,536916.0,,1336566.0
+new_2026_125,Facundo González,Racing de Santander,new_linked_partial,,444264.0,1212179.0
 new_2026_34,Giacomo Quagliata,Deportivo de La Coruña,new_linked_partial,,393081.0,1077977.0
-new_2026_147,Giorgi Kochorashvili,Sevilla,new_linked_partial,428798.0,,953958.0
-new_2026_114,Gustavo Puerta,Racing de Santander,new_linked_partial,,472904.0,1331597.0
-new_2026_93,Haitam Abaida,Málaga,new_linked_partial,,448292.0,1220748.0
-new_2026_18,Hamza Abdelkarim,Barcelona,new_linked_partial,684337.0,,1708842.0
+new_2026_131,Giorgi Guliashvili,Racing de Santander,new_linked_partial,,460461.0,1065640.0
+new_2026_140,Gnangoro,Rayo Vallecano,new_linked_partial,747880.0,641813.0,
+new_2026_121,Gustavo Puerta,Racing de Santander,new_linked_partial,,472904.0,1331597.0
+new_2026_98,Haitam Abaida,Málaga,new_linked_partial,,448292.0,1220748.0
 new_2026_0,Hugo Novoa,Alavés,new_linked_partial,493055.0,,1175969.0
-new_2026_148,Ibrahima Sow,Sevilla,new_linked_partial,550797.0,,1555045.0
-new_2026_79,Ifeanyi Ndukwe,Levante,new_linked_partial,591617.0,,1780239.0
-new_2026_153,Iker Córdoba,Valencia CF,new_linked_partial,637198.0,,1637860.0
-new_2026_132,Iván Alonso,Rayo Vallecano,new_linked_partial,499356.0,,1845978.0
-new_2026_92,Izan Merino,Málaga,new_linked_partial,,508035.0,1669619.0
-new_2026_112,Iñigo Vicente,Racing de Santander,new_linked_partial,,402137.0,889229.0
-new_2026_154,Jaume Durá,Valencia CF,new_linked_partial,670115.0,,1842857.0
-new_2026_91,Joaquín Muñoz,Málaga,new_linked_partial,,366204.0,951739.0
-new_2026_19,Jordi Pesquer,Barcelona,new_linked_partial,723493.0,,1901980.0
-new_2026_10,Jorge Castillo,Atlético de Madrid,new_linked_partial,593184.0,,1692877.0
-new_2026_109,Jorge Salinas,Racing de Santander,new_linked_partial,,541900.0,1670161.0
-new_2026_58,José Ángel,Espanyol,new_linked_partial,623680.0,,1687255.0
-new_2026_121,Juan Carlos Arana,Racing de Santander,new_linked_partial,,431570.0,1225417.0
-new_2026_99,Juan Cruz,Málaga,new_linked_partial,,357786.0,940608.0
-new_2026_97,Julen Lobete,Málaga,new_linked_partial,,391317.0,1098594.0
-new_2026_38,Kevin Sánchez,Deportivo de La Coruña,new_linked_partial,,511028.0,1560023.0
-new_2026_12,Lee Kang-In,Atletico Madrid,new_linked_partial,451358.0,367780.0,
-new_2026_26,Lorenzo Amatucci,Deportivo de La Coruña,new_linked_partial,,470032.0,1425989.0
-new_2026_27,Lucas Noubi,Deportivo de La Coruña,new_linked_partial,,431768.0,1332025.0
-new_2026_25,Luismi Cruz,Deportivo de La Coruña,new_linked_partial,,428620.0,1204447.0
-new_2026_118,Maguette Gueye,Racing de Santander,new_linked_partial,,485481.0,1363232.0
-new_2026_80,Manel Usedo,Levante,new_linked_partial,749255.0,,2141152.0
-new_2026_149,Manuel Ángel Castillo,Sevilla,new_linked_partial,735727.0,,1899757.0
-new_2026_133,Marco Román,Rayo Vallecano,new_linked_partial,722839.0,,2130263.0
-new_2026_143,Mario Rivas,Real Madrid,new_linked_partial,633424.0,,1713217.0
-new_2026_31,Mario Soriano,Deportivo de La Coruña,new_linked_partial,,409130.0,1050828.0
-new_2026_50,Matia Barzic,Elche,new_linked_partial,593181.0,,1670276.0
-new_2026_33,Miguel Loureiro,Deportivo de La Coruña,new_linked_partial,,448273.0,800891.0
+new_2026_159,Ibrahima Sow,Sevilla,new_linked_partial,550797.0,,1555045.0
+new_2026_83,Ifeanyi Ndukwe,Levante,new_linked_partial,591617.0,,1780239.0
+new_2026_164,Iker Córdoba,Valencia CF,new_linked_partial,637198.0,,1637860.0
+new_2026_141,Iván Alonso,Rayo Vallecano,new_linked_partial,499356.0,,1845978.0
+new_2026_96,Izan Merino,Málaga,new_linked_partial,,508035.0,1669619.0
+new_2026_115,Iñigo Vicente,Racing de Santander,new_linked_partial,,402137.0,889229.0
+new_2026_165,Jaume Durá,Valencia CF,new_linked_partial,670115.0,,1842857.0
+new_2026_97,Joaquín Muñoz,Málaga,new_linked_partial,,366204.0,951739.0
+new_2026_20,Jordi Pesquer,Barcelona,new_linked_partial,723493.0,,1901980.0
+new_2026_11,Jorge Castillo,Atlético de Madrid,new_linked_partial,593184.0,,1692877.0
+new_2026_116,Jorge Salinas,Racing de Santander,new_linked_partial,,541900.0,1670161.0
+new_2026_62,José Ángel,Espanyol,new_linked_partial,623680.0,,1687255.0
+new_2026_128,Juan Carlos Arana,Racing de Santander,new_linked_partial,,431570.0,1225417.0
+new_2026_104,Juan Cruz,Málaga,new_linked_partial,,357786.0,940608.0
+new_2026_102,Julen Lobete,Málaga,new_linked_partial,,391317.0,1098594.0
+new_2026_44,Kevin Sánchez,Deportivo de La Coruña,new_linked_partial,,511028.0,1560023.0
+new_2026_13,Lee Kang-In,Atletico Madrid,new_linked_partial,451358.0,367780.0,
+new_2026_28,Lorenzo Amatucci,Deportivo de La Coruña,new_linked_partial,,470032.0,1425989.0
+new_2026_31,Lucas Noubi,Deportivo de La Coruña,new_linked_partial,,431768.0,1332025.0
+new_2026_32,Luismi Cruz,Deportivo de La Coruña,new_linked_partial,,428620.0,1204447.0
+new_2026_126,Maguette Gueye,Racing de Santander,new_linked_partial,,485481.0,1363232.0
+new_2026_155,Mamadou Sarr,Real Sociedad,new_linked_partial,574458.0,,1426170.0
+new_2026_84,Manel Usedo,Levante,new_linked_partial,749255.0,,2141152.0
+new_2026_160,Manuel Ángel Castillo,Sevilla,new_linked_partial,735727.0,,1899757.0
+new_2026_142,Marco Román,Rayo Vallecano,new_linked_partial,722839.0,,2130263.0
+new_2026_153,Mario Rivas,Real Madrid,new_linked_partial,633424.0,,1713217.0
+new_2026_30,Mario Soriano,Deportivo de La Coruña,new_linked_partial,,409130.0,1050828.0
+new_2026_54,Matia Barzic,Elche,new_linked_partial,593181.0,,1670276.0
+new_2026_129,Matteo Prati,Racing de Santander,new_linked_partial,,447544.0,1396089.0
+new_2026_38,Miguel Loureiro,Deportivo de La Coruña,new_linked_partial,,448273.0,800891.0
 new_2026_2,Mikel Rodríguez,Alavés,new_linked_partial,631521.0,,1426189.0
-new_2026_160,Nizar El Jmili,Villarreal,new_linked_partial,746335.0,,1897470.0
-new_2026_117,Pedro Felipe,Racing de Santander,new_linked_partial,,478316.0,1644302.0
-new_2026_24,Pierre-Emerick Aubameyang,Deportivo de La Coruña,new_linked_partial,,44120.0,150565.0
-new_2026_96,Rafa Rodríguez,Málaga,new_linked_partial,,471958.0,1434474.0
-new_2026_84,Rafita,Málaga,new_linked_partial,,508349.0,1717331.0
-new_2026_100,Ramón Enríquez,Málaga,new_linked_partial,,448289.0,1082957.0
-new_2026_21,Rodri,Barcelona,new_linked_partial,,303139.0,675088.0
-new_2026_113,Sergio Canales,Racing de Santander,new_linked_partial,,44189.0,150649.0
-new_2026_134,Sergio Lozano,Rayo Vallecano,new_linked_partial,691217.0,,1729976.0
-new_2026_110,Sergio Martínez,Racing de Santander,new_linked_partial,,586240.0,1791769.0
-new_2026_52,Umaru,Elche,new_linked_partial,691630.0,556141.0,
-new_2026_106,Unai Santos,Osasuna,new_linked_partial,672686.0,,1682298.0
-new_2026_28,Ximo Navarro,Deportivo de La Coruña,new_linked_partial,,100881.0,260659.0
-new_2026_123,Yassir Zabiri,Racing de Santander,new_linked_partial,,538158.0,1640985.0
-new_2026_39,Yeremay Hernández,Deportivo de La Coruña,new_linked_partial,,448011.0,1319204.0
-new_2026_36,Zakaria Eddahchouri,Deportivo de La Coruña,new_linked_partial,,429003.0,1029029.0
-new_2026_116,Álvaro Mantilla,Racing de Santander,new_linked_partial,,448397.0,1199649.0
-new_2026_94,Ángel Recio,Málaga,new_linked_partial,,511043.0,1260010.0
-new_2026_72,Óscar López,Getafe,new_linked_partial,679262.0,,1694764.0
+new_2026_171,Nathan Saliba,Villarreal,new_linked_partial,496694.0,,1216798.0
+new_2026_124,Pedro Felipe,Racing de Santander,new_linked_partial,,478316.0,1644302.0
+new_2026_27,Pierre-Emerick Aubameyang,Deportivo de La Coruña,new_linked_partial,,44120.0,150565.0
+new_2026_101,Rafa Rodríguez,Málaga,new_linked_partial,,471958.0,1434474.0
+new_2026_90,Rafita,Málaga,new_linked_partial,,508349.0,1717331.0
+new_2026_105,Ramón Enríquez,Málaga,new_linked_partial,,448289.0,1082957.0
+new_2026_35,Riki Rodríguez,Deportivo de La Coruña,new_linked_partial,,448450.0,970566.0
+new_2026_112,Rockson Yeboah,Osasuna,new_linked_partial,627127.0,,1603025.0
+new_2026_122,Sergio Canales,Racing de Santander,new_linked_partial,,44189.0,150649.0
+new_2026_143,Sergio Lozano,Rayo Vallecano,new_linked_partial,691217.0,,1729976.0
+new_2026_117,Sergio Martínez,Racing de Santander,new_linked_partial,,586240.0,1791769.0
+new_2026_40,Teun Gijselhart,Deportivo de La Coruña,new_linked_partial,,513251.0,1466558.0
+new_2026_56,Umaru,Elche,new_linked_partial,691630.0,556141.0,
+new_2026_113,Unai Santos,Osasuna,new_linked_partial,672686.0,,1682298.0
+new_2026_33,Ximo Navarro,Deportivo de La Coruña,new_linked_partial,,100881.0,260659.0
+new_2026_86,Yanis Musuayi,Levante,new_linked_partial,664880.0,,1836083.0
+new_2026_118,Yassir Zabiri,Racing de Santander,new_linked_partial,,538158.0,1640985.0
+new_2026_41,Yeremay Hernández,Deportivo de La Coruña,new_linked_partial,,448011.0,1319204.0
+new_2026_42,Zakaria Eddahchouri,Deportivo de La Coruña,new_linked_partial,,429003.0,1029029.0
+new_2026_123,Álvaro Mantilla,Racing de Santander,new_linked_partial,,448397.0,1199649.0
+new_2026_100,Ángel Recio,Málaga,new_linked_partial,,511043.0,1260010.0
+new_2026_76,Óscar López,Getafe,new_linked_partial,679262.0,,1694764.0
 new_2026_3,Adrián Rodriguez,Alavés,new_unverified,,,1136937.0
-new_2026_23,Altay Bayindir,Celta de Vigo,new_unverified,,,866967.0
-new_2026_137,Alvaro de Pablo,Real Betis,new_unverified,,,1928170.0
-new_2026_130,Andres Vallecillo,Racing de Santander,new_unverified,,,1938902.0
-new_2026_41,Angeliño,Deportivo de La Coruña,new_unverified,,,603537.0
-new_2026_44,Arnau Comas,Deportivo de La Coruña,new_unverified,,,1120002.0
-new_2026_107,Asier Bonel,Osasuna,new_unverified,,,1752349.0
-new_2026_102,Carlos López,Málaga,new_unverified,,,1426161.0
-new_2026_129,Carlos Sanchez,Racing de Santander,new_unverified,,,1910947.0
-new_2026_159,Cheikh Thiam,Villarreal,new_unverified,696086.0,,
-new_2026_162,Cheikh Tidiane Thiam,Villarreal,new_unverified,,,2141015.0
-new_2026_40,Germán Parreno,Deportivo de La Coruña,new_unverified,,,416409.0
-new_2026_131,Hugo Perez,Racing de Santander,new_unverified,,,2156233.0
-new_2026_124,Hugo Pérez,Racing de Santander,new_unverified,,,730982.0
-new_2026_82,Ihor Galdin,Levante,new_unverified,,,2141143.0
-new_2026_74,Jean Valou,Getafe,new_unverified,,544767.0,
-new_2026_46,Jonathan Asp,Deportivo de La Coruña,new_unverified,,,1621150.0
-new_2026_32,Jonathan Asp Jensen,Deportivo de A Coruna,new_unverified,,527113.0,
-new_2026_128,Jorge Castellanos,Racing de Santander,new_unverified,,,1553409.0
-new_2026_103,Joseph Otu,Málaga,new_unverified,,,1810991.0
-new_2026_95,José Salinas,Malaga,new_unverified,,402092.0,
-new_2026_104,Juan Fernandez,Málaga,new_unverified,,,1839193.0
-new_2026_15,Kang-In Lee,Atlético de Madrid,new_unverified,,,940976.0
-new_2026_158,Kayne van Oevelen,Valencia CF,new_unverified,,,1348497.0
-new_2026_125,Manu,Racing de Santander,new_unverified,,,863169.0
-new_2026_111,Manu Hernando,Racing Santander,new_unverified,,423973.0,
-new_2026_54,Nordin,Elche,new_unverified,,,1531888.0
-new_2026_51,Nordin Al Lal,Elche,new_unverified,631383.0,,
-new_2026_108,Pablo Ramón,Racing Santander,new_unverified,,413758.0,
-new_2026_161,Péter Gulácsi,Villarreal,new_unverified,,,151001.0
-new_2026_43,Riki Rodríguez,Deportivo de La Coruña,new_unverified,,,970566.0
-new_2026_127,Simon Eriksson,Racing de Santander,new_unverified,,,1441736.0
-new_2026_45,Teun Gijselhart,Deportivo de La Coruña,new_unverified,,,1466558.0
-new_2026_55,Umaru Konare,Elche,new_unverified,,,1859341.0
-new_2026_64,Álex Calatrava,Espanyol,new_unverified,,,1300457.0
-new_2026_101,Álex Pastor,Málaga,new_unverified,,,1256463.0
-new_2026_42,Álvaro Fernández,Deportivo de La Coruña,new_unverified,,,796781.0
-new_2026_126,Íñigo Sainz-Maza,Racing de Santander,new_unverified,,,1168852.0
+new_2026_25,Altay Bayindir,Celta de Vigo,new_unverified,,,866967.0
+new_2026_147,Alvaro de Pablo,Real Betis,new_unverified,,,1928170.0
+new_2026_138,Andres Vallecillo,Racing de Santander,new_unverified,,,1938902.0
+new_2026_46,Angeliño,Deportivo de La Coruña,new_unverified,,,603537.0
+new_2026_48,Arnau Comas,Deportivo de La Coruña,new_unverified,,,1120002.0
+new_2026_107,Carlos López,Málaga,new_unverified,,,1426161.0
+new_2026_137,Carlos Sanchez,Racing de Santander,new_unverified,,,1910947.0
+new_2026_170,Cheikh Thiam,Villarreal,new_unverified,696086.0,,
+new_2026_174,Cheikh Tidiane Thiam,Villarreal,new_unverified,,,2141015.0
+new_2026_45,Germán Parreno,Deportivo de La Coruña,new_unverified,,,416409.0
+new_2026_144,Gnangoro Bouare,Rayo Vallecano,new_unverified,,,1889232.0
+new_2026_139,Hugo Perez,Racing de Santander,new_unverified,,,2156233.0
+new_2026_132,Hugo Pérez,Racing de Santander,new_unverified,,,730982.0
+new_2026_87,Ihor Galdin,Levante,new_unverified,,,2141143.0
+new_2026_78,Jean Valou,Getafe,new_unverified,,544767.0,
+new_2026_49,Jonathan Asp,Deportivo de La Coruña,new_unverified,,,1621150.0
+new_2026_37,Jonathan Asp Jensen,Deportivo de A Coruna,new_unverified,,527113.0,
+new_2026_136,Jorge Castellanos,Racing de Santander,new_unverified,,,1553409.0
+new_2026_108,Joseph Otu,Málaga,new_unverified,,,1810991.0
+new_2026_99,José Salinas,Malaga,new_unverified,,402092.0,
+new_2026_109,Juan Fernandez,Málaga,new_unverified,,,1839193.0
+new_2026_16,Kang-In Lee,Atlético de Madrid,new_unverified,,,940976.0
+new_2026_169,Kayne van Oevelen,Valencia CF,new_unverified,,,1348497.0
+new_2026_26,Kike Ribes,Celta de Vigo,new_unverified,,,1609347.0
+new_2026_133,Manu,Racing de Santander,new_unverified,,,863169.0
+new_2026_119,Manu Hernando,Racing Santander,new_unverified,,423973.0,
+new_2026_172,Nizar,Villarreal,new_unverified,746335.0,,
+new_2026_175,Nizar El Jmili,Villarreal,new_unverified,,,1897470.0
+new_2026_58,Nordin,Elche,new_unverified,,,1531888.0
+new_2026_55,Nordin Al Lal,Elche,new_unverified,631383.0,,
+new_2026_114,Pablo Ramón,Racing Santander,new_unverified,,413758.0,
+new_2026_173,Péter Gulácsi,Villarreal,new_unverified,,,151001.0
+new_2026_24,Quique Ribes,Celta Vigo,new_unverified,567886.0,,
+new_2026_135,Simon Eriksson,Racing de Santander,new_unverified,,,1441736.0
+new_2026_59,Umaru Konare,Elche,new_unverified,,,1859341.0
+new_2026_68,Álex Calatrava,Espanyol,new_unverified,,,1300457.0
+new_2026_106,Álex Pastor,Málaga,new_unverified,,,1256463.0
+new_2026_47,Álvaro Fernández,Deportivo de La Coruña,new_unverified,,,796781.0
+new_2026_134,Íñigo Sainz-Maza,Racing de Santander,new_unverified,,,1168852.0

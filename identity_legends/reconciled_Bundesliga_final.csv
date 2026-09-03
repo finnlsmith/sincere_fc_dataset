@@ -1,0 +1,893 @@
+source,native_id,name,team_name,team_norm,team_cluster,cluster_id
+fotmob,1310103,Anton Kade,FC Augsburg,fc augsburg,augsburg,new_2026_0
+opta,513432,Anton Kade,Augsburg,augsburg,augsburg,new_2026_0
+whoscored,431281,Anton Kade,Augsburg,augsburg,augsburg,new_2026_0
+fotmob,1300329,Calvin Brackelmann,FC Augsburg,fc augsburg,augsburg,new_2026_1
+opta,585070,Calvin Brackelmann,Augsburg,augsburg,augsburg,new_2026_1
+whoscored,445983,Calvin Brackelmann,Augsburg,augsburg,augsburg,new_2026_1
+fotmob,198316,Michael Gregoritsch,FC Augsburg,fc augsburg,augsburg,new_2026_10
+opta,62480,Michael Gregoritsch,Augsburg,augsburg,augsburg,new_2026_10
+whoscored,84919,Michael Gregoritsch,Augsburg,augsburg,augsburg,new_2026_10
+fotmob,1660228,Jan Leszczynski,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_100
+opta,626569,Jan Leszczynski,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_100
+opta,427426,Joe Scally,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_101
+fotmob,566158,Kevin Diks,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_102
+opta,193228,Kevin Diks,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_102
+fotmob,276739,Kevin Stöger,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_103
+opta,93293,Kevin Stöger,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_103
+fotmob,620917,Ko Itakura,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_104
+opta,210906,Ko Itakura,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_104
+fotmob,1398483,Lukas Ullrich,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_105
+opta,513440,Lukas Ullrich,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_105
+fotmob,1975572,Mathieu Nguefack,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_106
+opta,648805,Mathieu Nguefack,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_106
+fotmob,784146,Moritz Nicolas,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_107
+opta,215651,Moritz Nicolas,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_107
+fotmob,951918,Philipp Sander,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_108
+opta,452461,Philipp Sander,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_108
+fotmob,884919,Robin Hack,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_109
+opta,428234,Robin Hack,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_109
+fotmob,1049799,Nathanaël Mbuku,FC Augsburg,fc augsburg,augsburg,new_2026_11
+opta,476892,Nathanaël Mbuku,Augsburg,augsburg,augsburg,new_2026_11
+fotmob,915111,Shuto Machino,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_110
+opta,446220,Shuto Machino,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_110
+fotmob,442728,Tim Kleindienst,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_111
+opta,160201,Tim Kleindienst,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_111
+fotmob,1793874,Wael Mohya,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_112
+opta,679296,Wael Mohya,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_112
+fotmob,212873,Daniel Batz,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_113
+fotmob,765998,Amos Pieper,SV Werder Bremen,sv werder bremen,bremen,new_2026_114
+opta,436217,Amos Pieper,Bremen,bremen,bremen,new_2026_114
+whoscored,368176,Amos Pieper,Werder Bremen,werder bremen,bremen,new_2026_114
+fotmob,726956,Cedric Itten,SV Werder Bremen,sv werder bremen,bremen,new_2026_115
+opta,198383,Cedric Itten,Bremen,bremen,bremen,new_2026_115
+whoscored,312582,Cedric Itten,Werder Bremen,werder bremen,bremen,new_2026_115
+fotmob,1315344,Chuki,SV Werder Bremen,sv werder bremen,bremen,new_2026_116
+opta,587669,Chuki,Bremen,bremen,bremen,new_2026_116
+whoscored,506115,Chuki,Werder Bremen,werder bremen,bremen,new_2026_116
+fotmob,1276988,Dariusz Stalmach,SV Werder Bremen,sv werder bremen,bremen,new_2026_117
+opta,545189,Dariusz Stalmach,Bremen,bremen,bremen,new_2026_117
+whoscored,552277,Dariusz Stalmach,Werder Bremen,werder bremen,bremen,new_2026_117
+fotmob,1146376,Eren Dinkçi,SV Werder Bremen,sv werder bremen,bremen,new_2026_118
+opta,513417,Eren Dinkçi,Bremen,bremen,bremen,new_2026_118
+whoscored,408357,Eren Dinkçi,Werder Bremen,werder bremen,bremen,new_2026_118
+fotmob,1201408,Julián Malatini,SV Werder Bremen,sv werder bremen,bremen,new_2026_119
+opta,518758,Julián Malatini,Bremen,bremen,bremen,new_2026_119
+fotmob,1641063,Noahkai Banks,FC Augsburg,fc augsburg,augsburg,new_2026_12
+opta,547187,Noahkai Banks,Augsburg,augsburg,augsburg,new_2026_12
+whoscored,532785,Noahkai Banks,Augsburg,augsburg,augsburg,new_2026_12
+fotmob,1137364,Justin Njinmah,SV Werder Bremen,sv werder bremen,bremen,new_2026_120
+opta,565380,Justin Njinmah,Bremen,bremen,bremen,new_2026_120
+whoscored,438066,Justin Njinmah,Werder Bremen,werder bremen,bremen,new_2026_120
+fotmob,982692,Karl Hein,SV Werder Bremen,sv werder bremen,bremen,new_2026_121
+opta,463748,Karl Hein,Bremen,bremen,bremen,new_2026_121
+whoscored,399501,Karl Hein,Werder Bremen,werder bremen,bremen,new_2026_121
+fotmob,869326,Ludovit Reis,SV Werder Bremen,sv werder bremen,bremen,new_2026_122
+opta,433051,Ludovit Reis,Bremen,bremen,bremen,new_2026_122
+whoscored,343436,Ludovit Reis,Werder Bremen,werder bremen,bremen,new_2026_122
+fotmob,767789,Marco Friedl,SV Werder Bremen,sv werder bremen,bremen,new_2026_123
+opta,225335,Marco Friedl,Bremen,bremen,bremen,new_2026_123
+whoscored,333227,Marco Friedl,Werder Bremen,werder bremen,bremen,new_2026_123
+fotmob,1024292,Marco Grüll,SV Werder Bremen,sv werder bremen,bremen,new_2026_124
+opta,474605,Marco Grüll,Bremen,bremen,bremen,new_2026_124
+whoscored,385080,Marco Grüll,Werder Bremen,werder bremen,bremen,new_2026_124
+fotmob,1714103,Mick Schmetgens,SV Werder Bremen,sv werder bremen,bremen,new_2026_125
+opta,627413,Mick Schmetgens,Bremen,bremen,bremen,new_2026_125
+whoscored,552363,Mick Schmetgens,Werder Bremen,werder bremen,bremen,new_2026_125
+fotmob,276791,Niclas Füllkrug,SV Werder Bremen,sv werder bremen,bremen,new_2026_126
+opta,91889,Niclas Füllkrug,Bremen,bremen,bremen,new_2026_126
+whoscored,104058,Niclas Füllkrug,Werder Bremen,werder bremen,bremen,new_2026_126
+fotmob,969856,Olivier Deman,SV Werder Bremen,sv werder bremen,bremen,new_2026_127
+opta,468523,Olivier Deman,Bremen,bremen,bremen,new_2026_127
+whoscored,407284,Olivier Deman,Werder Bremen,werder bremen,bremen,new_2026_127
+fotmob,1646943,Patrice Covic,SV Werder Bremen,sv werder bremen,bremen,new_2026_128
+opta,627846,Patrice Covic,Bremen,bremen,bremen,new_2026_128
+whoscored,549133,Patrice Covic,Werder Bremen,werder bremen,bremen,new_2026_128
+fotmob,1810868,Paul Erevbenagie,SV Werder Bremen,sv werder bremen,bremen,new_2026_129
+opta,627418,Paul Erevbenagie,Bremen,bremen,bremen,new_2026_129
+fotmob,1185609,Robin Fellhauer,FC Augsburg,fc augsburg,augsburg,new_2026_13
+opta,513033,Robin Fellhauer,Augsburg,augsburg,augsburg,new_2026_13
+whoscored,446529,Robin Fellhauer,Augsburg,augsburg,augsburg,new_2026_13
+fotmob,1646629,Salim Musah,SV Werder Bremen,sv werder bremen,bremen,new_2026_130
+opta,589863,Salim Musah,Bremen,bremen,bremen,new_2026_130
+whoscored,569759,Salim Musah,Werder Bremen,werder bremen,bremen,new_2026_130
+fotmob,1402900,Samuel Mbangula,SV Werder Bremen,sv werder bremen,bremen,new_2026_131
+opta,513536,Samuel Mbangula,Bremen,bremen,bremen,new_2026_131
+fotmob,919742,Senne Lynen,SV Werder Bremen,sv werder bremen,bremen,new_2026_132
+opta,444687,Senne Lynen,Bremen,bremen,bremen,new_2026_132
+whoscored,420405,Senne Lynen,Werder Bremen,werder bremen,bremen,new_2026_132
+fotmob,450739,Alexander Schlager,SV Werder Bremen,sv werder bremen,bremen,new_2026_133
+fotmob,1680173,Ayoube Amaimouni-Echghouyab,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_134
+opta,702409,Ayoube Amaimouni-Echghouyab,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_134
+whoscored,605380,Ayoube Amaimouni-Echghouyab,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_134
+fotmob,1367924,Can Uzun,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_135
+opta,554087,Can Uzun,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_135
+whoscored,467776,Can Uzun,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_135
+fotmob,1421821,Elias Baum,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_136
+opta,547216,Elias Baum,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_136
+whoscored,503382,Elias Baum,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_136
+fotmob,1345875,Farès Chaïbi,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_137
+opta,573379,Farès Chaïbi,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_137
+whoscored,444725,Farès Chaïbi,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_137
+fotmob,1393672,Jean-Mattéo Bahoya,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_138
+opta,587982,Jean-Mattéo Bahoya,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_138
+fotmob,1671553,Jeremiaha Maluze,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_139
+opta,700073,Jeremiaha Maluze,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_139
+whoscored,568298,Jeremiaha Maluze,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_139
+fotmob,1343749,Rodrigo Ribeiro,FC Augsburg,fc augsburg,augsburg,new_2026_14
+opta,551232,Rodrigo Ribeiro,Augsburg,augsburg,augsburg,new_2026_14
+whoscored,434076,Rodrigo Ribeiro,Augsburg,augsburg,augsburg,new_2026_14
+fotmob,947901,Jonathan Burkardt,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_140
+opta,225485,Jonathan Burkardt,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_140
+whoscored,363037,Jonathan Burkardt,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_140
+fotmob,1627706,Keita Kosugi,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_141
+opta,623214,Keita Kosugi,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_141
+whoscored,605344,Keita Kosugi,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_141
+fotmob,1717491,Love Arrhov,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_142
+opta,649816,Love Arrhov,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_142
+whoscored,605345,Love Arrhov,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_142
+fotmob,1690128,Malik Pimpong,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_143
+opta,687059,Malik Pimpong,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_143
+whoscored,606459,Malik Pimpong,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_143
+fotmob,177714,Mario Götze,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_144
+opta,69600,Mario Götze,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_144
+fotmob,1281100,Noah Atubolu,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_145
+opta,470306,Noah Atubolu,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_145
+whoscored,428308,Noah Atubolu,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_145
+fotmob,1596359,Noël Aséko,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_146
+opta,549875,Noël Aséko,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_146
+fotmob,1336529,Oscar Højlund,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_147
+opta,578611,Oscar Højlund,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_147
+whoscored,492867,Oscar Højlund,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_147
+fotmob,1738366,Otávio,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_148
+opta,694362,Otávio,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_148
+whoscored,557907,Otávio,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_148
+fotmob,1126768,Raphael Onyedika,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_149
+opta,503548,Raphael Onyedika,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_149
+whoscored,425338,Raphael Onyedika,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_149
+opta,183364,Seol Young-Woo,Augsburg,augsburg,augsburg,new_2026_15
+whoscored,477549,Seol Young-Woo,Augsburg,augsburg,augsburg,new_2026_15
+fotmob,628201,Robin Koch,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_150
+opta,193645,Robin Koch,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_150
+whoscored,276205,Robin Koch,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_150
+fotmob,158234,Timothy Chandler,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_151
+opta,57500,Timothy Chandler,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_151
+fotmob,1447050,Younes Ebnoutalib,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_152
+opta,613801,Younes Ebnoutalib,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_152
+whoscored,476035,Younes Ebnoutalib,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_152
+fotmob,1418816,Kauã,Eintracht Frankfurt,eintracht frankfurt,eintracht frankfurt,new_2026_153
+fotmob,1093782,Lukas Petkov,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_154
+whoscored,406672,Lukas Petkov,Elversberg,elversberg,elversberg,new_2026_154
+fotmob,1603681,Francis Onyeka,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_155
+whoscored,514447,Francis Onyeka,Elversberg,elversberg,elversberg,new_2026_155
+fotmob,1459758,David Mokwa,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_156
+whoscored,549132,David Mokwa,Elversberg,elversberg,elversberg,new_2026_156
+fotmob,458602,Jan Gyamerah,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_157
+whoscored,132011,Jan Gyamerah,Elversberg,elversberg,elversberg,new_2026_157
+fotmob,1280560,Lukas Pinckert,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_158
+whoscored,446537,Lukas Pinckert,Elversberg,elversberg,elversberg,new_2026_158
+fotmob,1245692,Lasse Günther,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_159
+whoscored,425057,Lasse Günther,Elversberg,elversberg,elversberg,new_2026_159
+fotmob,1875448,Tim Schnitzer,FC Augsburg,fc augsburg,augsburg,new_2026_16
+opta,627781,Tim Schnitzer,Augsburg,augsburg,augsburg,new_2026_16
+fotmob,1077911,Maximilian Rohr,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_160
+whoscored,419916,Maximilian Rohr,Elversberg,elversberg,elversberg,new_2026_160
+fotmob,962113,Lukasz Poreba,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_161
+whoscored,424465,Lukasz Poreba,Elversberg,elversberg,elversberg,new_2026_161
+fotmob,1285926,Nicolas Kristof,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_162
+whoscored,446532,Nicolas Kristof,Elversberg,elversberg,elversberg,new_2026_162
+fotmob,1366338,Felix Keidel,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_163
+whoscored,438493,Felix Keidel,Elversberg,elversberg,elversberg,new_2026_163
+fotmob,594886,Florian Le Joncour,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_164
+whoscored,294026,Florian Le Joncour,Elversberg,elversberg,elversberg,new_2026_164
+fotmob,459010,Luca Schnellbacher,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_165
+whoscored,446542,Luca Schnellbacher,Elversberg,elversberg,elversberg,new_2026_165
+fotmob,1097361,Luca Sirch,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_166
+whoscored,485040,Luca Sirch,Elversberg,elversberg,elversberg,new_2026_166
+fotmob,1479921,Noah Darvich,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_167
+whoscored,534793,Noah Darvich,Elversberg,elversberg,elversberg,new_2026_167
+fotmob,1412933,Maurice Krattenmacher,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_168
+whoscored,485137,Maurice Krattenmacher,Elversberg,elversberg,elversberg,new_2026_168
+fotmob,633721,Nicholas Mickelson,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_169
+fotmob,1718174,Uchenna Ogundu,FC Augsburg,fc augsburg,augsburg,new_2026_17
+opta,679396,Uchenna Ogundu,Augsburg,augsburg,augsburg,new_2026_17
+fotmob,659051,Tim Boss,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_170
+fotmob,763990,Amara Condé,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_171
+fotmob,1138725,Noel Futkeu,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_172
+fotmob,1288195,Cole Campbell,SV 07 Elversberg,sv 07 elversberg,elversberg,new_2026_173
+fotmob,27299,Manuel Neuer,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_174
+fotmob,194165,Harry Kane,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_175
+fotmob,460632,Joshua Kimmich,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_176
+fotmob,469700,Jonathan Tah,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_177
+fotmob,526827,Konrad Laimer,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_178
+fotmob,658554,Dayot Upamecano,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_179
+fotmob,844431,Yannik Keitel,FC Augsburg,fc augsburg,augsburg,new_2026_18
+opta,241238,Yannik Keitel,Augsburg,augsburg,augsburg,new_2026_18
+whoscored,389375,Yannik Keitel,Augsburg,augsburg,augsburg,new_2026_18
+fotmob,751202,Alphonso Davies,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_180
+fotmob,828159,Min-Jae Kim,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_181
+fotmob,851626,Hiroki Ito,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_182
+fotmob,860914,Luis Díaz,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_183
+fotmob,950824,Josip Stanisic,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_184
+fotmob,1029063,Michael Olise,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_185
+fotmob,1180288,Ismael Saibari,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_186
+fotmob,1285872,Jonas Urbig,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_187
+fotmob,1286183,Tom Bischof,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_188
+fotmob,1327150,Arijon Ibrahimovic,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_189
+fotmob,1132818,Young-Woo Seol,FC Augsburg,fc augsburg,augsburg,new_2026_19
+fotmob,1395447,Nathaniel Brown,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_190
+fotmob,1473580,Aleksandar Pavlovic,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_191
+fotmob,1737700,Lennart Karl,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_192
+fotmob,1798782,Bara Ndiaye,FC Bayern München,fc bayern munchen,fc bayern munchen,new_2026_193
+fotmob,1580371,Berkay Yilmaz,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_194
+opta,547313,Berkay Yilmaz,Freiburg,freiburg,freiburg,new_2026_194
+fotmob,355358,Christian Günter,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_195
+opta,119382,Christian Günter,Freiburg,freiburg,freiburg,new_2026_195
+fotmob,1526221,Cyriaque Irié,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_196
+opta,628884,Cyriaque Irié,Freiburg,freiburg,freiburg,new_2026_196
+whoscored,547622,Cyriaque Irié,Freiburg,freiburg,freiburg,new_2026_196
+fotmob,1302666,Derry Scherhant,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_197
+opta,587831,Derry Scherhant,Freiburg,freiburg,freiburg,new_2026_197
+whoscored,444289,Derry Scherhant,Freiburg,freiburg,freiburg,new_2026_197
+fotmob,1210893,Igor Matanovic,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_198
+opta,513431,Igor Matanovic,Freiburg,freiburg,freiburg,new_2026_198
+whoscored,407222,Igor Matanovic,Freiburg,freiburg,freiburg,new_2026_198
+fotmob,1281108,Jordy Makengo,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_199
+opta,543921,Jordy Makengo,Freiburg,freiburg,freiburg,new_2026_199
+whoscored,496922,Jordy Makengo,Freiburg,freiburg,freiburg,new_2026_199
+fotmob,1178512,Chrislain Matsima,FC Augsburg,fc augsburg,augsburg,new_2026_2
+opta,465524,Chrislain Matsima,Augsburg,augsburg,augsburg,new_2026_2
+whoscored,398372,Chrislain Matsima,Augsburg,augsburg,augsburg,new_2026_2
+fotmob,1367047,Afonso Moreira,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_20
+opta,551191,Afonso Moreira,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_20
+whoscored,478033,Afonso Moreira,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_20
+fotmob,1436730,Keisuke Goto,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_200
+opta,587165,Keisuke Goto,Freiburg,freiburg,freiburg,new_2026_200
+whoscored,550709,Keisuke Goto,Freiburg,freiburg,freiburg,new_2026_200
+fotmob,556524,Lucas Höler,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_201
+opta,192401,Lucas Höler,Freiburg,freiburg,freiburg,new_2026_201
+whoscored,227655,Lucas Höler,Freiburg,freiburg,freiburg,new_2026_201
+fotmob,307209,Lukas Kübler,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_202
+opta,112488,Lukas Kübler,Freiburg,freiburg,freiburg,new_2026_202
+whoscored,111306,Lukas Kübler,Freiburg,freiburg,freiburg,new_2026_202
+fotmob,303912,Matthias Ginter,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_203
+opta,111251,Matthias Ginter,Freiburg,freiburg,freiburg,new_2026_203
+whoscored,110182,Matthias Ginter,Freiburg,freiburg,freiburg,new_2026_203
+fotmob,1281107,Max Rosenfelder,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_204
+opta,494600,Max Rosenfelder,Freiburg,freiburg,freiburg,new_2026_204
+whoscored,496923,Max Rosenfelder,Freiburg,freiburg,freiburg,new_2026_204
+fotmob,602523,Maximilian Eggestein,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_205
+opta,200850,Maximilian Eggestein,Freiburg,freiburg,freiburg,new_2026_205
+whoscored,254557,Maximilian Eggestein,Freiburg,freiburg,freiburg,new_2026_205
+fotmob,1352996,Mio Backhaus,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_206
+opta,513441,Mio Backhaus,Freiburg,freiburg,freiburg,new_2026_206
+whoscored,436119,Mio Backhaus,Freiburg,freiburg,freiburg,new_2026_206
+fotmob,864157,Jan-Niklas Beste,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_207
+opta,219836,Niklas Beste,Freiburg,freiburg,freiburg,new_2026_207
+whoscored,353193,Niklas Beste,Freiburg,freiburg,freiburg,new_2026_207
+fotmob,643724,Philipp Lienhart,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_208
+opta,199245,Philipp Lienhart,Freiburg,freiburg,freiburg,new_2026_208
+whoscored,298446,Philipp Lienhart,Freiburg,freiburg,freiburg,new_2026_208
+fotmob,1281090,Philipp Treu,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_209
+opta,543922,Philipp Treu,Freiburg,freiburg,freiburg,new_2026_209
+whoscored,486776,Philipp Treu,Freiburg,freiburg,freiburg,new_2026_209
+fotmob,642551,Aleix García,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_21
+opta,178871,Aleix García,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_21
+whoscored,280663,Aleix García,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_21
+fotmob,400625,Vincenzo Grifo,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_210
+opta,137908,Vincenzo Grifo,Freiburg,freiburg,freiburg,new_2026_210
+fotmob,1269497,Yannik Engelhardt,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_211
+opta,492384,Yannik Engelhardt,Freiburg,freiburg,freiburg,new_2026_211
+whoscored,434179,Yannik Engelhardt,Freiburg,freiburg,freiburg,new_2026_211
+fotmob,1134467,Yuito Suzuki,Sport-Club Freiburg,sportclub freiburg,freiburg,new_2026_212
+opta,481035,Yuito Suzuki,Freiburg,freiburg,freiburg,new_2026_212
+whoscored,472403,Yuito Suzuki,Freiburg,freiburg,freiburg,new_2026_212
+fotmob,1133381,Albert Grønbæk,Hamburger SV,hamburger sv,hamburger sv,new_2026_213
+opta,494779,Albert Grønbæk,Hamburger SV,hamburger sv,hamburger sv,new_2026_213
+whoscored,424809,Albert Grønbæk,Hamburger SV,hamburger sv,hamburger sv,new_2026_213
+fotmob,1283407,Bilal Nadir,Hamburger SV,hamburger sv,hamburger sv,new_2026_214
+opta,546178,Bilal Nadir,Hamburger SV,hamburger sv,hamburger sv,new_2026_214
+whoscored,422240,Bilal Nadir,Hamburger SV,hamburger sv,hamburger sv,new_2026_214
+fotmob,1587901,Kofi Amoako,Hamburger SV,hamburger sv,hamburger sv,new_2026_215
+opta,550884,Kofi Amoako,Hamburger SV,hamburger sv,hamburger sv,new_2026_215
+fotmob,1324082,Martin Adeline,Hamburger SV,hamburger sv,hamburger sv,new_2026_216
+opta,493355,Martin Adeline,Hamburger SV,hamburger sv,hamburger sv,new_2026_216
+whoscored,430308,Martin Adeline,Hamburger SV,hamburger sv,hamburger sv,new_2026_216
+fotmob,644459,Patson Daka,Hamburger SV,hamburger sv,hamburger sv,new_2026_217
+opta,245419,Patson Daka,Hamburger SV,hamburger sv,hamburger sv,new_2026_217
+whoscored,345560,Patson Daka,Hamburger SV,hamburger sv,hamburger sv,new_2026_217
+fotmob,922892,Sebastiaan Bornauw,Hamburger SV,hamburger sv,hamburger sv,new_2026_218
+opta,437738,Sebastiaan Bornauw,Hamburger SV,hamburger sv,hamburger sv,new_2026_218
+whoscored,364235,Sebastiaan Bornauw,Hamburger SV,hamburger sv,hamburger sv,new_2026_218
+fotmob,885005,Terem Moffi,Hamburger SV,hamburger sv,hamburger sv,new_2026_219
+opta,438398,Terem Moffi,Hamburger SV,hamburger sv,hamburger sv,new_2026_219
+whoscored,400505,Terem Moffi,Hamburger SV,hamburger sv,hamburger sv,new_2026_219
+fotmob,1353457,Arthur,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_22
+opta,566438,Arthur,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_22
+whoscored,607388,Louis Lemke,Hamburger SV,hamburger sv,hamburger sv,new_2026_220
+fotmob,1353000,Adam Daghim,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_221
+opta,575415,Adam Daghim,Hoffenheim,hoffenheim,hoffenheim,new_2026_221
+whoscored,514499,Adam Daghim,Hoffenheim,hoffenheim,hoffenheim,new_2026_221
+fotmob,969870,Adam Hlozek,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_222
+opta,467008,Adam Hlozek,Hoffenheim,hoffenheim,hoffenheim,new_2026_222
+whoscored,399385,Adam Hlozek,Hoffenheim,hoffenheim,hoffenheim,new_2026_222
+fotmob,1186015,Albian Hajdari,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_223
+opta,514116,Albian Hajdari,Hoffenheim,hoffenheim,hoffenheim,new_2026_223
+whoscored,402697,Albian Hajdari,Hoffenheim,hoffenheim,hoffenheim,new_2026_223
+fotmob,173461,Andrej Kramaric,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_224
+opta,68582,Andrej Kramaric,Hoffenheim,hoffenheim,hoffenheim,new_2026_224
+whoscored,75217,Andrej Kramaric,Hoffenheim,hoffenheim,hoffenheim,new_2026_224
+fotmob,1338957,Bambasé Conté,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_225
+opta,513565,Bambasé Conté,Hoffenheim,hoffenheim,hoffenheim,new_2026_225
+whoscored,433100,Bambasé Conté,Hoffenheim,hoffenheim,hoffenheim,new_2026_225
+fotmob,637716,Bernardo,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_226
+opta,209362,Bernardo,Hoffenheim,hoffenheim,hoffenheim,new_2026_226
+whoscored,302588,Bernardo,Hoffenheim,hoffenheim,hoffenheim,new_2026_226
+fotmob,1793498,Cajetan Lenz,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_227
+opta,695474,Cajetan Lenz,Hoffenheim,hoffenheim,hoffenheim,new_2026_227
+fotmob,1478148,Leon Avdullahu,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_228
+opta,620667,Leon Avdullahu,Hoffenheim,hoffenheim,hoffenheim,new_2026_228
+whoscored,510234,Leon Avdullahu,Hoffenheim,hoffenheim,hoffenheim,new_2026_228
+fotmob,1445416,Mats Rots,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_229
+opta,576750,Mats Rots,Hoffenheim,hoffenheim,hoffenheim,new_2026_229
+whoscored,475578,Mats Rots,Hoffenheim,hoffenheim,hoffenheim,new_2026_229
+fotmob,1705081,Christian Kofane,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_23
+opta,683068,Christian Kofane,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_23
+whoscored,550465,Christian Kofane,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_23
+fotmob,1486537,Max Moerstedt,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_230
+opta,547426,Max Moerstedt,Hoffenheim,hoffenheim,hoffenheim,new_2026_230
+whoscored,517609,Max Moerstedt,Hoffenheim,hoffenheim,hoffenheim,new_2026_230
+fotmob,1664759,Nathan De Cat,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_231
+opta,646003,Nathan De Cat,Hoffenheim,hoffenheim,hoffenheim,new_2026_231
+whoscored,532302,Nathan De Cat,Hoffenheim,hoffenheim,hoffenheim,new_2026_231
+fotmob,1899713,Natnael Abraha,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_232
+opta,627549,Natnael Abraha,Hoffenheim,hoffenheim,hoffenheim,new_2026_232
+fotmob,178778,Oliver Baumann,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_233
+opta,73140,Oliver Baumann,Hoffenheim,hoffenheim,hoffenheim,new_2026_233
+whoscored,77440,Oliver Baumann,Hoffenheim,hoffenheim,hoffenheim,new_2026_233
+fotmob,845990,Ozan Kabak,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_234
+opta,438277,Ozan Kabak,Hoffenheim,hoffenheim,hoffenheim,new_2026_234
+whoscored,356743,Ozan Kabak,Hoffenheim,hoffenheim,hoffenheim,new_2026_234
+fotmob,1073498,Patrick Wimmer,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_235
+opta,486206,Patrick Wimmer,Hoffenheim,hoffenheim,hoffenheim,new_2026_235
+whoscored,418589,Patrick Wimmer,Hoffenheim,hoffenheim,hoffenheim,new_2026_235
+fotmob,1225995,Robin Hranác,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_236
+opta,465953,Robin Hranác,Hoffenheim,hoffenheim,hoffenheim,new_2026_236
+whoscored,428031,Robin Hranác,Hoffenheim,hoffenheim,hoffenheim,new_2026_236
+fotmob,1077653,Valentin Gendrey,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_237
+opta,461415,Valentin Gendrey,Hoffenheim,hoffenheim,hoffenheim,new_2026_237
+fotmob,307317,Vladimír Coufal,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_238
+opta,164555,Vladimír Coufal,Hoffenheim,hoffenheim,hoffenheim,new_2026_238
+whoscored,111372,Vladimír Coufal,Hoffenheim,hoffenheim,hoffenheim,new_2026_238
+fotmob,947884,Wouter Burger,TSG 1899 Hoffenheim,tsg 1899 hoffenheim,hoffenheim,new_2026_239
+opta,438066,Wouter Burger,Hoffenheim,hoffenheim,hoffenheim,new_2026_239
+whoscored,361878,Wouter Burger,Hoffenheim,hoffenheim,hoffenheim,new_2026_239
+fotmob,789914,Edmond Tapsoba,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_24
+opta,424969,Edmond Tapsoba,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_24
+whoscored,369446,Edmond Tapsoba,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_24
+fotmob,574642,Ellyes Skhiri,1. FC Köln,1 fc koln,koln,new_2026_240
+opta,195430,Ellyes Skhiri,Koln,koln,koln,new_2026_240
+whoscored,238903,Ellyes Skhiri,FC Koln,fc koln,koln,new_2026_240
+fotmob,771630,Gideon Mensah,1. FC Köln,1 fc koln,koln,new_2026_241
+opta,229670,Gideon Mensah,Koln,koln,koln,new_2026_241
+whoscored,402749,Gideon Mensah,FC Koln,fc koln,koln,new_2026_241
+fotmob,1829438,Jonathan Friemel,1. FC Köln,1 fc koln,koln,new_2026_242
+opta,685509,Jonathan Friemel,Koln,koln,koln,new_2026_242
+fotmob,784175,Luka Lochoshvili,1. FC Köln,1 fc koln,koln,new_2026_243
+opta,211265,Luka Lochoshvili,Koln,koln,koln,new_2026_243
+whoscored,404262,Luka Lochoshvili,FC Koln,fc koln,koln,new_2026_243
+fotmob,1527363,Paul Okon-Engstler,1. FC Köln,1 fc koln,koln,new_2026_244
+opta,550966,Paul Okon-Engstler,Koln,koln,koln,new_2026_244
+whoscored,570078,Paul Okon-Engstler,FC Koln,fc koln,koln,new_2026_244
+fotmob,1665352,Reigan Heskey,1. FC Köln,1 fc koln,koln,new_2026_245
+opta,580921,Reigan Heskey,Koln,koln,koln,new_2026_245
+fotmob,885085,Thijs Dallinga,1. FC Köln,1 fc koln,koln,new_2026_246
+opta,438590,Thijs Dallinga,Koln,koln,koln,new_2026_246
+whoscored,379687,Thijs Dallinga,FC Koln,fc koln,koln,new_2026_246
+fotmob,771401,Anthony Caci,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_247
+opta,232240,Anthony Caci,Mainz,mainz,mainz,new_2026_247
+whoscored,321145,Anthony Caci,Mainz 05,mainz 05,mainz,new_2026_247
+fotmob,240537,Danny da Costa,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_248
+opta,92295,Danny da Costa,Mainz,mainz,mainz,new_2026_248
+whoscored,94934,Danny da Costa,Mainz 05,mainz 05,mainz,new_2026_248
+fotmob,303905,Dominik Kohr,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_249
+opta,114549,Dominik Kohr,Mainz,mainz,mainz,new_2026_249
+whoscored,110165,Dominik Kohr,Mainz 05,mainz 05,mainz,new_2026_249
+fotmob,1199959,Equi Fernández,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_25
+opta,481237,Equi Fernández,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_25
+whoscored,411433,Equi Fernández,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_25
+fotmob,1362417,Fabio Gruber,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_250
+opta,515169,Fabio Gruber,Mainz,mainz,mainz,new_2026_250
+whoscored,552278,Fabio Gruber,Mainz 05,mainz 05,mainz,new_2026_250
+fotmob,1800401,Kacper Potulski,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_251
+opta,627675,Kacper Potulski,Mainz,mainz,mainz,new_2026_251
+whoscored,573881,Kacper Potulski,Mainz 05,mainz 05,mainz,new_2026_251
+fotmob,1033111,Kaishu Sano,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_252
+opta,567062,Kaishu Sano,Mainz,mainz,mainz,new_2026_252
+whoscored,509815,Kaishu Sano,Mainz 05,mainz 05,mainz,new_2026_252
+opta,205308,Lee Jae-Sung,Mainz,mainz,mainz,new_2026_253
+whoscored,142959,Lee Jae-Sung,Mainz 05,mainz 05,mainz,new_2026_253
+fotmob,921197,Lennard Maloney,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_254
+opta,433156,Lennard Maloney,Mainz,mainz,mainz,new_2026_254
+fotmob,614449,Nadiem Amiri,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_255
+opta,183309,Nadiem Amiri,Mainz,mainz,mainz,new_2026_255
+whoscored,261021,Nadiem Amiri,Mainz 05,mainz 05,mainz,new_2026_255
+fotmob,1347994,Otto Ruoppi,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_256
+opta,573117,Otto Ruoppi,Mainz,mainz,mainz,new_2026_256
+whoscored,566595,Otto Ruoppi,Mainz 05,mainz 05,mainz,new_2026_256
+fotmob,686315,Phillip Tietz,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_257
+opta,223844,Phillip Tietz,Mainz,mainz,mainz,new_2026_257
+whoscored,298145,Phillip Tietz,Mainz 05,mainz 05,mainz,new_2026_257
+fotmob,423812,Phillipp Mwene,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_258
+opta,160158,Phillipp Mwene,Mainz,mainz,mainz,new_2026_258
+whoscored,124021,Phillipp Mwene,Mainz 05,mainz 05,mainz,new_2026_258
+fotmob,2140397,Rael Nakuzola,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_259
+opta,750292,Rael Nakuzola,Mainz,mainz,mainz,new_2026_259
+fotmob,812652,Facundo Medina,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_26
+opta,224868,Facundo Medina,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_26
+whoscored,330672,Facundo Medina,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_26
+fotmob,495222,Sheraldo Becker,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_260
+opta,173547,Sheraldo Becker,Mainz,mainz,mainz,new_2026_260
+fotmob,275034,Silvan Widmer,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_261
+opta,120781,Silvan Widmer,Mainz,mainz,mainz,new_2026_261
+whoscored,103622,Silvan Widmer,Mainz 05,mainz 05,mainz,new_2026_261
+fotmob,1134759,Sota Kawasaki,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_262
+opta,565518,Sota Kawasaki,Mainz,mainz,mainz,new_2026_262
+fotmob,557325,Stefan Posch,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_263
+opta,191803,Stefan Posch,Mainz,mainz,mainz,new_2026_263
+fotmob,556505,Robin Zentner,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_264
+whoscored,245634,Robin Zentner,Mainz 05,mainz 05,mainz,new_2026_264
+fotmob,248437,Alexander Schwolow,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_265
+fotmob,523749,Jae-Sung Lee,1. FSV Mainz 05,1 fsv mainz 05,mainz,new_2026_266
+fotmob,1426060,Laurin Curda,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_267
+whoscored,486781,Laurin Curda,Paderborn,paderborn,paderborn,new_2026_267
+fotmob,1415373,Tjark Scheller,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_268
+whoscored,502544,Tjark Scheller,Paderborn,paderborn,paderborn,new_2026_268
+fotmob,1520469,Jano ter Horst,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_269
+whoscored,494154,Jano ter Horst,Paderborn,paderborn,paderborn,new_2026_269
+fotmob,1457626,Ibrahim Maza,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_27
+opta,570052,Ibrahim Maza,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_27
+whoscored,477985,Ibrahim Maza,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_27
+fotmob,1362492,Santiago Castañeda,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_270
+whoscored,531855,Santiago Castañeda,Paderborn,paderborn,paderborn,new_2026_270
+fotmob,1257826,Nahuel Noll,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_271
+whoscored,416165,Nahuel Noll,Paderborn,paderborn,paderborn,new_2026_271
+fotmob,784225,Raphael Obermair,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_272
+whoscored,336037,Raphael Obermair,Paderborn,paderborn,paderborn,new_2026_272
+fotmob,1515976,Mattes Hansen,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_273
+whoscored,487066,Mattes Hansen,Paderborn,paderborn,paderborn,new_2026_273
+fotmob,956913,Marvin Pieringer,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_274
+whoscored,408909,Marvin Pieringer,Paderborn,paderborn,paderborn,new_2026_274
+fotmob,1276453,Gabriel Vidovic,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_275
+whoscored,424368,Gabriel Vidovic,Paderborn,paderborn,paderborn,new_2026_275
+fotmob,1321553,Stefano Marino,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_276
+whoscored,429675,Stefano Marino,Paderborn,paderborn,paderborn,new_2026_276
+fotmob,706500,Steffen Tigges,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_277
+whoscored,301066,Steffen Tigges,Paderborn,paderborn,paderborn,new_2026_277
+fotmob,1520593,Jonah Sticker,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_278
+whoscored,495281,Jonah Sticker,Paderborn,paderborn,paderborn,new_2026_278
+fotmob,1367587,Laurin Ulrich,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_279
+whoscored,444292,Laurin Ulrich,Paderborn,paderborn,paderborn,new_2026_279
+fotmob,1107620,Jarell Quansah,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_28
+opta,441428,Jarell Quansah,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_28
+whoscored,430019,Jarell Quansah,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_28
+fotmob,658444,Tom Baack,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_280
+whoscored,306961,Tom Baack,Paderborn,paderborn,paderborn,new_2026_280
+fotmob,1701615,Clemens Lippmann,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_281
+whoscored,625161,Clemens Lippmann,Paderborn,paderborn,paderborn,new_2026_281
+fotmob,659046,Markus Schubert,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_282
+fotmob,950822,Oliver Batista Meier,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_283
+fotmob,1580112,Deniz Zeitler,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_284
+fotmob,1801952,Niklas Mohr,SC Paderborn 07,sc paderborn 07,paderborn,new_2026_285
+fotmob,1482209,Andrija Maksimovic,RB Leipzig,rb leipzig,rb leipzig,new_2026_286
+opta,620473,Andrija Maksimovic,RB Leipzig,rb leipzig,rb leipzig,new_2026_286
+fotmob,1248482,Antonio Nusa,RB Leipzig,rb leipzig,rb leipzig,new_2026_287
+opta,538980,Antonio Nusa,RB Leipzig,rb leipzig,rb leipzig,new_2026_287
+whoscored,416030,Antonio Nusa,RB Leipzig,rb leipzig,rb leipzig,new_2026_287
+fotmob,1387389,Arthur Vermeeren,RB Leipzig,rb leipzig,rb leipzig,new_2026_288
+opta,578612,Arthur Vermeeren,RB Leipzig,rb leipzig,rb leipzig,new_2026_288
+whoscored,445430,Arthur Vermeeren,RB Leipzig,rb leipzig,rb leipzig,new_2026_288
+fotmob,681383,Benjamin Henrichs,RB Leipzig,rb leipzig,rb leipzig,new_2026_289
+opta,180167,Benjamin Henrichs,RB Leipzig,rb leipzig,rb leipzig,new_2026_289
+whoscored,296769,Benjamin Henrichs,RB Leipzig,rb leipzig,rb leipzig,new_2026_289
+fotmob,1329406,Jeanuël Belocian,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_29
+opta,565992,Jeanuël Belocian,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_29
+fotmob,1430151,Brajan Gruda,RB Leipzig,rb leipzig,rb leipzig,new_2026_290
+opta,513433,Brajan Gruda,RB Leipzig,rb leipzig,rb leipzig,new_2026_290
+whoscored,471784,Brajan Gruda,RB Leipzig,rb leipzig,rb leipzig,new_2026_290
+fotmob,1253852,Castello Lukeba,RB Leipzig,rb leipzig,rb leipzig,new_2026_291
+opta,468657,Castello Lukeba,RB Leipzig,rb leipzig,rb leipzig,new_2026_291
+whoscored,415172,Castello Lukeba,RB Leipzig,rb leipzig,rb leipzig,new_2026_291
+fotmob,704523,Christopher Nkunku,RB Leipzig,rb leipzig,rb leipzig,new_2026_292
+opta,213198,Christopher Nkunku,RB Leipzig,rb leipzig,rb leipzig,new_2026_292
+whoscored,300945,Christopher Nkunku,RB Leipzig,rb leipzig,rb leipzig,new_2026_292
+fotmob,1482294,Conrad Harder,RB Leipzig,rb leipzig,rb leipzig,new_2026_293
+opta,621481,Conrad Harder,RB Leipzig,rb leipzig,rb leipzig,new_2026_293
+whoscored,538807,Conrad Harder,RB Leipzig,rb leipzig,rb leipzig,new_2026_293
+fotmob,806669,David Raum,RB Leipzig,rb leipzig,rb leipzig,new_2026_294
+opta,243309,David Raum,RB Leipzig,rb leipzig,rb leipzig,new_2026_294
+whoscored,330538,David Raum,RB Leipzig,rb leipzig,rb leipzig,new_2026_294
+fotmob,1310001,Ezechiel Banzuzi,RB Leipzig,rb leipzig,rb leipzig,new_2026_295
+opta,558522,Ezechiel Banzuzi,RB Leipzig,rb leipzig,rb leipzig,new_2026_295
+whoscored,485929,Ezechiel Banzuzi,RB Leipzig,rb leipzig,rb leipzig,new_2026_295
+fotmob,1203194,Johan Bakayoko,RB Leipzig,rb leipzig,rb leipzig,new_2026_296
+opta,519638,Johan Bakayoko,RB Leipzig,rb leipzig,rb leipzig,new_2026_296
+whoscored,427824,Johan Bakayoko,RB Leipzig,rb leipzig,rb leipzig,new_2026_296
+fotmob,972200,Maarten Vandevoordt,RB Leipzig,rb leipzig,rb leipzig,new_2026_297
+opta,248866,Maarten Vandevoordt,RB Leipzig,rb leipzig,rb leipzig,new_2026_297
+whoscored,365332,Maarten Vandevoordt,RB Leipzig,rb leipzig,rb leipzig,new_2026_297
+fotmob,1529161,Max Finkgräfe,RB Leipzig,rb leipzig,rb leipzig,new_2026_298
+opta,629741,Max Finkgräfe,RB Leipzig,rb leipzig,rb leipzig,new_2026_298
+fotmob,1024672,Nicolas Seiwald,RB Leipzig,rb leipzig,rb leipzig,new_2026_299
+opta,478196,Nicolas Seiwald,RB Leipzig,rb leipzig,rb leipzig,new_2026_299
+whoscored,418587,Nicolas Seiwald,RB Leipzig,rb leipzig,rb leipzig,new_2026_299
+fotmob,1161211,Fabian Rieder,FC Augsburg,fc augsburg,augsburg,new_2026_3
+opta,449787,Fabian Rieder,Augsburg,augsburg,augsburg,new_2026_3
+whoscored,404193,Fabian Rieder,Augsburg,augsburg,augsburg,new_2026_3
+fotmob,331542,Jonas Hofmann,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_30
+opta,118876,Jonas Hofmann,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_30
+whoscored,115163,Jonas Hofmann,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_30
+fotmob,883087,Ridle Baku,RB Leipzig,rb leipzig,rb leipzig,new_2026_300
+opta,428786,Ridle Baku,RB Leipzig,rb leipzig,rb leipzig,new_2026_300
+whoscored,356183,Ridle Baku,RB Leipzig,rb leipzig,rb leipzig,new_2026_300
+fotmob,1174726,Rocco Reitz,RB Leipzig,rb leipzig,rb leipzig,new_2026_301
+opta,514341,Rocco Reitz,RB Leipzig,rb leipzig,rb leipzig,new_2026_301
+whoscored,401014,Rocco Reitz,RB Leipzig,rb leipzig,rb leipzig,new_2026_301
+fotmob,1482733,Tidiam Gomis,RB Leipzig,rb leipzig,rb leipzig,new_2026_302
+opta,560261,Tidiam Gomis,RB Leipzig,rb leipzig,rb leipzig,new_2026_302
+whoscored,511411,Tidiam Gomis,RB Leipzig,rb leipzig,rb leipzig,new_2026_302
+fotmob,278856,Willi Orbán,RB Leipzig,rb leipzig,rb leipzig,new_2026_303
+opta,101601,Willi Orbán,RB Leipzig,rb leipzig,rb leipzig,new_2026_303
+whoscored,104917,Willi Orbán,RB Leipzig,rb leipzig,rb leipzig,new_2026_303
+fotmob,287894,Loris Karius,FC Schalke 04,fc schalke 04,schalke 04,new_2026_304
+whoscored,107176,Loris Karius,Schalke 04,schalke 04,schalke 04,new_2026_304
+fotmob,725655,Nikola Katic,FC Schalke 04,fc schalke 04,schalke 04,new_2026_305
+whoscored,363666,Nikola Katic,Schalke 04,schalke 04,schalke 04,new_2026_305
+fotmob,1249185,Soufian El-Faouzi,FC Schalke 04,fc schalke 04,schalke 04,new_2026_306
+whoscored,414038,Soufiane El-Faouzi,Schalke 04,schalke 04,schalke 04,new_2026_306
+fotmob,1047664,Adil Aouchiche,FC Schalke 04,fc schalke 04,schalke 04,new_2026_307
+whoscored,382491,Adil Aouchiche,Schalke 04,schalke 04,schalke 04,new_2026_307
+fotmob,794619,Hasan Kuruçay,FC Schalke 04,fc schalke 04,schalke 04,new_2026_308
+whoscored,435993,Hasan Kuruçay,Schalke 04,schalke 04,schalke 04,new_2026_308
+fotmob,1659420,Vitalie Becker,FC Schalke 04,fc schalke 04,schalke 04,new_2026_309
+whoscored,531850,Vitalie Becker,Schalke 04,schalke 04,schalke 04,new_2026_309
+fotmob,1119461,Loic Badé,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_31
+opta,500267,Loïc Badé,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_31
+whoscored,398416,Loïc Badé,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_31
+fotmob,861668,Dejan Ljubicic,FC Schalke 04,fc schalke 04,schalke 04,new_2026_310
+whoscored,363662,Dejan Ljubicic,Schalke 04,schalke 04,schalke 04,new_2026_310
+fotmob,860056,Moussa Sylla,FC Schalke 04,fc schalke 04,schalke 04,new_2026_311
+whoscored,344041,Moussa Sylla,Schalke 04,schalke 04,schalke 04,new_2026_311
+whoscored,418590,Junior Adamu,Schalke 04,schalke 04,schalke 04,new_2026_312
+fotmob,785739,Timo Becker,FC Schalke 04,fc schalke 04,schalke 04,new_2026_313
+whoscored,323169,Timo Becker,Schalke 04,schalke 04,schalke 04,new_2026_313
+fotmob,1755657,Mertcan Ayhan,FC Schalke 04,fc schalke 04,schalke 04,new_2026_314
+whoscored,560433,Mertcan Ayhan,Schalke 04,schalke 04,schalke 04,new_2026_314
+fotmob,518346,Robin Gosens,FC Schalke 04,fc schalke 04,schalke 04,new_2026_315
+whoscored,141726,Robin Gosens,Schalke 04,schalke 04,schalke 04,new_2026_315
+whoscored,372927,Junior Dina Ebimbe,Schalke 04,schalke 04,schalke 04,new_2026_316
+fotmob,15403,Edin Dzeko,FC Schalke 04,fc schalke 04,schalke 04,new_2026_317
+whoscored,24845,Edin Dzeko,Schalke 04,schalke 04,schalke 04,new_2026_317
+fotmob,820974,Ron Schallenberg,FC Schalke 04,fc schalke 04,schalke 04,new_2026_318
+whoscored,401089,Ron Schallenberg,Schalke 04,schalke 04,schalke 04,new_2026_318
+whoscored,301024,Max Wöber,Schalke 04,schalke 04,schalke 04,new_2026_319
+fotmob,359193,Lucas Vázquez,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_32
+opta,107593,Lucas Vázquez,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_32
+whoscored,144511,Lucas Vázquez,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_32
+fotmob,560976,Janik Bachmann,FC Schalke 04,fc schalke 04,schalke 04,new_2026_320
+fotmob,1155066,Satoshi Tanaka,FC Schalke 04,fc schalke 04,schalke 04,new_2026_321
+fotmob,1842512,Luca Vozar,FC Schalke 04,fc schalke 04,schalke 04,new_2026_322
+fotmob,1279764,Ameen Al Dakhil,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_323
+opta,487968,Ameen Al-Dakhil,Stuttgart,stuttgart,stuttgart,new_2026_323
+fotmob,1071186,Angelo Stiller,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_324
+opta,437922,Angelo Stiller,Stuttgart,stuttgart,stuttgart,new_2026_324
+whoscored,407476,Angelo Stiller,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_324
+fotmob,684983,Atakan Karazor,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_325
+opta,428181,Atakan Karazor,Stuttgart,stuttgart,stuttgart,new_2026_325
+fotmob,1388070,Badredine Bouanani,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_326
+opta,492949,Badredine Bouanani,Stuttgart,stuttgart,stuttgart,new_2026_326
+fotmob,1340895,Bilal El Khannouss,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_327
+opta,513527,Bilal El Khannouss,Stuttgart,stuttgart,stuttgart,new_2026_327
+whoscored,433572,Bilal El Khannouss,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_327
+fotmob,1586552,Chema Andrés,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_328
+opta,592984,Chema Andrés,Stuttgart,stuttgart,stuttgart,new_2026_328
+whoscored,539663,Chema Andrés,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_328
+fotmob,661519,Deniz Undav,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_329
+opta,450434,Deniz Undav,Stuttgart,stuttgart,stuttgart,new_2026_329
+whoscored,357091,Deniz Undav,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_329
+fotmob,1126058,Malik Tillman,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_33
+opta,466006,Malik Tillman,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_33
+whoscored,397465,Malik Tillman,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_33
+fotmob,1366602,Dzenan Pejcinovic,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_330
+opta,522019,Dzenan Pejcinovic,Stuttgart,stuttgart,stuttgart,new_2026_330
+whoscored,444298,Dzenan Pejcinovic,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_330
+fotmob,840241,Ermedin Demirovic,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_331
+opta,429256,Ermedin Demirovic,Stuttgart,stuttgart,stuttgart,new_2026_331
+whoscored,351339,Ermedin Demirovic,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_331
+opta,179612,Fabian Bredlow,Stuttgart,stuttgart,stuttgart,new_2026_332
+whoscored,142529,Fabian Bredlow,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_332
+fotmob,1487877,Finn Jeltsch,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_333
+opta,554088,Finn Jeltsch,Stuttgart,stuttgart,stuttgart,new_2026_333
+whoscored,507717,Finn Jeltsch,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_333
+fotmob,625175,Grischa Prömel,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_334
+opta,209184,Grischa Prömel,Stuttgart,stuttgart,stuttgart,new_2026_334
+whoscored,278125,Grischa Prömel,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_334
+fotmob,1074968,Jamie Leweling,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_335
+opta,488677,Jamie Leweling,Stuttgart,stuttgart,stuttgart,new_2026_335
+whoscored,379252,Jamie Leweling,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_335
+fotmob,867080,Jeff Chabot,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_336
+opta,428785,Jeff Chabot,Stuttgart,stuttgart,stuttgart,new_2026_336
+whoscored,343317,Jeff Chabot,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_336
+fotmob,928454,Josha Vagnoman,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_337
+opta,438957,Josha Vagnoman,Stuttgart,stuttgart,stuttgart,new_2026_337
+whoscored,354241,Josha Vagnoman,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_337
+fotmob,1019947,Leonidas Stergiou,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_338
+opta,476824,Leonidas Stergiou,Stuttgart,stuttgart,stuttgart,new_2026_338
+whoscored,401742,Leonidas Stergiou,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_338
+opta,204335,Maximilian Mittelstädt,Stuttgart,stuttgart,stuttgart,new_2026_339
+whoscored,261020,Maximilian Mittelstädt,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_339
+fotmob,330643,Mark Flekken,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_34
+opta,118342,Mark Flekken,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_34
+whoscored,115131,Mark Flekken,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_34
+fotmob,1125187,Ramon Hendriks,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_340
+opta,450067,Ramon Hendriks,Stuttgart,stuttgart,stuttgart,new_2026_340
+whoscored,422909,Ramon Hendriks,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_340
+fotmob,1164506,Tiago Tomás,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_341
+opta,465209,Tiago Tomás,Stuttgart,stuttgart,stuttgart,new_2026_341
+whoscored,395850,Tiago Tomás,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_341
+fotmob,659086,Marius Funk,VfB Stuttgart,vfb stuttgart,stuttgart,new_2026_342
+fotmob,1403332,Aljoscha Kemlein,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_343
+opta,575397,Aljoscha Kemlein,Union Berlin,union berlin,union berlin,new_2026_343
+whoscored,455785,Aljoscha Kemlein,Union Berlin,union berlin,union berlin,new_2026_343
+fotmob,836726,András Schäfer,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_344
+opta,457734,András Schäfer,Union Berlin,union berlin,union berlin,new_2026_344
+whoscored,369687,András Schäfer,Union Berlin,union berlin,union berlin,new_2026_344
+fotmob,166733,Christopher Trimmel,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_345
+opta,62422,Christopher Trimmel,Union Berlin,union berlin,union berlin,new_2026_345
+fotmob,860260,Derrick Köhn,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_346
+opta,429524,Derrick Köhn,Union Berlin,union berlin,union berlin,new_2026_346
+whoscored,400010,Derrick Köhn,Union Berlin,union berlin,union berlin,new_2026_346
+fotmob,783585,Emmanuel Latte Lath,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_347
+opta,233581,Emmanuel Latte Lath,Union Berlin,union berlin,union berlin,new_2026_347
+whoscored,323242,Emmanuel Latte Lath,Union Berlin,union berlin,union berlin,new_2026_347
+fotmob,767800,Felix Uduokhai,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_348
+opta,221693,Felix Uduokhai,Union Berlin,union berlin,union berlin,new_2026_348
+fotmob,304354,Janik Haberer,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_349
+opta,111453,Janik Haberer,Union Berlin,union berlin,union berlin,new_2026_349
+whoscored,110272,Janik Haberer,Union Berlin,union berlin,union berlin,new_2026_349
+fotmob,942379,Miguel Gutiérrez,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_35
+opta,248498,Miguel Gutiérrez,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_35
+whoscored,395788,Miguel Gutiérrez,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_35
+fotmob,622373,Josip Juranovic,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_350
+opta,210791,Josip Juranovic,Union Berlin,union berlin,union berlin,new_2026_350
+whoscored,271603,Josip Juranovic,Union Berlin,union berlin,union berlin,new_2026_350
+fotmob,1199947,Leopold Querfeld,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_351
+opta,518058,Leopold Querfeld,Union Berlin,union berlin,union berlin,new_2026_351
+whoscored,427502,Leopold Querfeld,Union Berlin,union berlin,union berlin,new_2026_351
+opta,696486,Linus Güther,Union Berlin,union berlin,union berlin,new_2026_352
+fotmob,1520506,Livan Burcu,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_353
+opta,519095,Livan Burcu,Union Berlin,union berlin,union berlin,new_2026_353
+whoscored,495291,Livan Burcu,Union Berlin,union berlin,union berlin,new_2026_353
+fotmob,1242198,Marin Ljubicic,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_354
+opta,523678,Marin Ljubicic,Union Berlin,union berlin,union berlin,new_2026_354
+whoscored,424374,Marin Ljubicic,Union Berlin,union berlin,union berlin,new_2026_354
+fotmob,1156148,Matheo Raab,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_355
+opta,229511,Matheo Raab,Union Berlin,union berlin,union berlin,new_2026_355
+whoscored,442501,Matheo Raab,Union Berlin,union berlin,union berlin,new_2026_355
+fotmob,304348,Rani Khedira,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_356
+opta,111450,Rani Khedira,Union Berlin,union berlin,union berlin,new_2026_356
+whoscored,110266,Rani Khedira,Union Berlin,union berlin,union berlin,new_2026_356
+fotmob,658440,Tim Skarke,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_357
+opta,212397,Tim Skarke,Union Berlin,union berlin,union berlin,new_2026_357
+whoscored,285654,Tim Skarke,Union Berlin,union berlin,union berlin,new_2026_357
+fotmob,1282582,Tom Rothe,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_358
+opta,513450,Tom Rothe,Union Berlin,union berlin,union berlin,new_2026_358
+whoscored,437020,Tom Rothe,Union Berlin,union berlin,union berlin,new_2026_358
+fotmob,949673,Woo-Yeong Jeong,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_359
+opta,446215,Woo-yeong Jeong,Union Berlin,union berlin,union berlin,new_2026_359
+whoscored,366868,Woo-yeong Jeong,Union Berlin,union berlin,union berlin,new_2026_359
+fotmob,540097,Patrik Schick,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_36
+opta,196680,Patrik Schick,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_36
+whoscored,243565,Patrik Schick,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_36
+fotmob,1231677,Zeno Van Den Bosch,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_360
+opta,531858,Zeno Van den Bosch,Union Berlin,union berlin,union berlin,new_2026_360
+whoscored,410525,Zeno Van den Bosch,Union Berlin,union berlin,union berlin,new_2026_360
+fotmob,451628,Carl Klaus,1. FC Union Berlin,1 fc union berlin,union berlin,new_2026_361
+fotmob,411851,Robert Andrich,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_37
+opta,147488,Robert Andrich,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_37
+fotmob,1035208,Victor Okoh Boniface,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_38
+opta,479052,Victor Boniface,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_38
+whoscored,384000,Victor Boniface,Bayer Leverkusen,bayer leverkusen,bayer leverkusen,new_2026_38
+fotmob,278814,Janis Blaswich,Bayer 04 Leverkusen,bayer 04 leverkusen,bayer leverkusen,new_2026_39
+fotmob,926445,Finn Dahmen,FC Augsburg,fc augsburg,augsburg,new_2026_4
+opta,218361,Finn Dahmen,Augsburg,augsburg,augsburg,new_2026_4
+whoscored,353985,Finn Dahmen,Augsburg,augsburg,augsburg,new_2026_4
+opta,515675,Aleksandar Pavlovic,Bayern Munich,bayern munich,bayern munich,new_2026_40
+whoscored,481079,Aleksandar Pavlovic,Bayern Munich,bayern munich,bayern munich,new_2026_40
+opta,225059,Alphonso Davies,Bayern Munich,bayern munich,bayern munich,new_2026_41
+whoscored,320040,Alphonso Davies,Bayern Munich,bayern munich,bayern munich,new_2026_41
+opta,505201,Arijon Ibrahimovic,Bayern Munich,bayern munich,bayern munich,new_2026_42
+opta,704138,Bara Sapoko Ndiaye,Bayern Munich,bayern munich,bayern munich,new_2026_43
+opta,199661,Dayot Upamecano,Bayern Munich,bayern munich,bayern munich,new_2026_44
+whoscored,327721,Dayot Upamecano,Bayern Munich,bayern munich,bayern munich,new_2026_44
+opta,78830,Harry Kane,Bayern Munich,bayern munich,bayern munich,new_2026_45
+whoscored,83532,Harry Kane,Bayern Munich,bayern munich,bayern munich,new_2026_45
+opta,248811,Hiroki Ito,Bayern Munich,bayern munich,bayern munich,new_2026_46
+opta,492963,Ismael Saibari,Bayern Munich,bayern munich,bayern munich,new_2026_47
+whoscored,404776,Ismael Saibari,Bayern Munich,bayern munich,bayern munich,new_2026_47
+opta,164454,Jonathan Tah,Bayern Munich,bayern munich,bayern munich,new_2026_48
+whoscored,134946,Jonathan Tah,Bayern Munich,bayern munich,bayern munich,new_2026_48
+opta,165687,Joshua Kimmich,Bayern Munich,bayern munich,bayern munich,new_2026_49
+whoscored,283323,Joshua Kimmich,Bayern Munich,bayern munich,bayern munich,new_2026_49
+fotmob,978680,Han-Noah Massengo,FC Augsburg,fc augsburg,augsburg,new_2026_5
+opta,437757,Han-Noah Massengo,Augsburg,augsburg,augsburg,new_2026_5
+whoscored,365831,Han-Noah Massengo,Augsburg,augsburg,augsburg,new_2026_5
+opta,437921,Josip Stanisic,Bayern Munich,bayern munich,bayern munich,new_2026_50
+whoscored,413272,Josip Stanisic,Bayern Munich,bayern munich,bayern munich,new_2026_50
+opta,249621,Kim Min-Jae,Bayern Munich,bayern munich,bayern munich,new_2026_51
+whoscored,370912,Kim Min-Jae,Bayern Munich,bayern munich,bayern munich,new_2026_51
+opta,109126,Konrad Laimer,Bayern Munich,bayern munich,bayern munich,new_2026_52
+whoscored,248010,Konrad Laimer,Bayern Munich,bayern munich,bayern munich,new_2026_52
+opta,648440,Lennart Karl,Bayern Munich,bayern munich,bayern munich,new_2026_53
+whoscored,557706,Lennart Karl,Bayern Munich,bayern munich,bayern munich,new_2026_53
+opta,244731,Luis Díaz,Bayern Munich,bayern munich,bayern munich,new_2026_54
+whoscored,377168,Luis Díaz,Bayern Munich,bayern munich,bayern munich,new_2026_54
+opta,20388,Manuel Neuer,Bayern Munich,bayern munich,bayern munich,new_2026_55
+whoscored,13754,Manuel Neuer,Bayern Munich,bayern munich,bayern munich,new_2026_55
+opta,443661,Michael Olise,Bayern Munich,bayern munich,bayern munich,new_2026_56
+whoscored,371281,Michael Olise,Bayern Munich,bayern munich,bayern munich,new_2026_56
+opta,515352,Nathaniel Brown,Bayern Munich,bayern munich,bayern munich,new_2026_57
+whoscored,445354,Nathaniel Brown,Bayern Munich,bayern munich,bayern munich,new_2026_57
+opta,519086,Tom Bischof,Bayern Munich,bayern munich,bayern munich,new_2026_58
+whoscored,431282,Tom Bischof,Bayern Munich,bayern munich,bayern munich,new_2026_58
+fotmob,1209228,Daniel Svensson,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_59
+opta,521052,Daniel Svensson,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_59
+whoscored,418584,Daniel Svensson,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_59
+fotmob,1678681,Hennes Behrens,FC Augsburg,fc augsburg,augsburg,new_2026_6
+opta,519073,Hennes Behrens,Augsburg,augsburg,augsburg,new_2026_6
+whoscored,551088,Hennes Behrens,Augsburg,augsburg,augsburg,new_2026_6
+fotmob,966019,Felix Nmecha,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_60
+opta,219265,Felix Nmecha,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_60
+whoscored,367783,Felix Nmecha,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_60
+fotmob,1663094,Filippo Mane,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_61
+opta,571642,Filippo Mane,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_61
+whoscored,536128,Filippo Mane,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_61
+fotmob,1050158,Fábio Silva,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_62
+opta,449988,Fábio Silva,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_62
+fotmob,1215014,Giannis Konstantelias,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_63
+opta,477510,Giannis Konstantelias,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_63
+whoscored,476927,Giannis Konstantelias,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_63
+fotmob,764018,Gregor Kobel,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_64
+opta,185513,Gregor Kobel,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_64
+whoscored,336028,Gregor Kobel,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_64
+fotmob,1479742,Joane Gadou,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_65
+opta,592891,Joane Gadou,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_65
+whoscored,513664,Joane Gadou,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_65
+fotmob,1287373,Jobe Bellingham,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_66
+opta,519322,Jobe Bellingham,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_66
+whoscored,422365,Jobe Bellingham,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_66
+fotmob,792429,Joey Veerman,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_67
+opta,231653,Joey Veerman,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_67
+whoscored,382556,Joey Veerman,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_67
+fotmob,659272,Julian Ryerson,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_68
+opta,213783,Julian Ryerson,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_68
+whoscored,320436,Julian Ryerson,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_68
+fotmob,1750565,Kauã Prates,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_69
+opta,685487,Kauã Prates,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_69
+whoscored,551822,Kauã Prates,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_69
+fotmob,245315,Jeffrey Gouweleeuw,FC Augsburg,fc augsburg,augsburg,new_2026_7
+opta,93683,Jeffrey Gouweleeuw,Augsburg,augsburg,augsburg,new_2026_7
+whoscored,97351,Jeffrey Gouweleeuw,Augsburg,augsburg,augsburg,new_2026_7
+fotmob,1536436,Konstantinos Karetsas,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_70
+opta,609068,Konstantinos Karetsas,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_70
+whoscored,471855,Konstantinos Karetsas,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_70
+fotmob,1845173,Luca Reggiani,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_71
+opta,631121,Luca Reggiani,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_71
+fotmob,215151,Marcel Sabitzer,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_72
+opta,101338,Marcel Sabitzer,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_72
+whoscored,92051,Marcel Sabitzer,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_72
+fotmob,1692797,Mathis Albert,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_73
+opta,609623,Mathis Albert,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_73
+fotmob,1047667,Maximilian Beier,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_74
+opta,465859,Maximilian Beier,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_74
+whoscored,387125,Maximilian Beier,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_74
+fotmob,1761151,Samuele Inácio,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_75
+opta,636717,Samuele Inácio,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_75
+whoscored,565461,Samuele Inácio,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_75
+fotmob,448540,Serhou Guirassy,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_76
+opta,162275,Serhou Guirassy,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_76
+whoscored,236506,Serhou Guirassy,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_76
+fotmob,664970,Waldemar Anton,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_77
+opta,212509,Waldemar Anton,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_77
+whoscored,296768,Waldemar Anton,Borussia Dortmund,borussia dortmund,borussia dortmund,new_2026_77
+whoscored,322881,Moritz Nicolas,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_78
+whoscored,137837,Franck Honorat,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_79
+fotmob,556029,Marius Wolf,FC Augsburg,fc augsburg,augsburg,new_2026_8
+opta,192849,Marius Wolf,Augsburg,augsburg,augsburg,new_2026_8
+whoscored,312666,Marius Wolf,Augsburg,augsburg,augsburg,new_2026_8
+whoscored,450295,Hugo Bolin,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_80
+whoscored,454351,David Herold,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_81
+whoscored,643385,Mathieu Nguefack,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_82
+whoscored,444285,Lukas Ullrich,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_83
+whoscored,346210,Robin Hack,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_84
+whoscored,575655,Wael Mohya,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_85
+whoscored,232262,Kevin Diks,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_86
+whoscored,363069,Joe Scally,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_87
+whoscored,369525,Ko Itakura,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_88
+whoscored,129368,Tim Kleindienst,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_89
+fotmob,1453218,Mert Kömür,FC Augsburg,fc augsburg,augsburg,new_2026_9
+opta,550661,Mert Kömür,Augsburg,augsburg,augsburg,new_2026_9
+whoscored,474412,Mert Kömür,Augsburg,augsburg,augsburg,new_2026_9
+whoscored,411101,Daiki Hashioka,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_90
+whoscored,284451,Isac Lidberg,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_91
+whoscored,104011,Kevin Stöger,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_92
+whoscored,367534,Philipp Sander,Borussia M.Gladbach,borussia mgladbach,borussia mgladbach,new_2026_93
+fotmob,878296,Daiki Hashioka,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_94
+opta,209293,Daiki Hashioka,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_94
+fotmob,1356589,David Herold,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_95
+opta,493326,David Herold,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_95
+fotmob,1301517,Enzo Leopold,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_96
+opta,543919,Enzo Leopold,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_96
+fotmob,501543,Franck Honorat,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_97
+opta,174655,Franck Honorat,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_97
+fotmob,1351569,Hugo Bolin,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_98
+opta,551048,Hugo Bolin,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_98
+fotmob,655095,Isac Lidberg,Borussia Mönchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_99
+opta,193806,Isac Lidberg,Borussia Monchengladbach,borussia monchengladbach,borussia monchengladbach,new_2026_99
+opta,465676,Adil Aouchiche,,,,
+opta,213459,Amara Condé,,,,
+opta,629188,Clemens Lippmann,,,,
+opta,549407,Cole Campbell,,,,
+opta,589018,David Mokwa,,,,
+opta,429631,Dejan Ljubicic,,,,
+opta,640659,Deniz Zeitler,,,,
+opta,42544,Edin Dzeko,,,,
+opta,524093,Felix Keidel,,,,
+opta,205823,Florian Le Joncour,,,,
+opta,593262,Francis Onyeka,,,,
+opta,508347,Gabriel Vidovic,,,,
+opta,240737,Hasan Kuruçay,,,,
+opta,164537,Jan Gyamerah,,,,
+opta,191906,Janik Bachmann,,,,
+opta,626599,Jano ter Horst,,,,
+opta,627290,Jonah Sticker,,,,
+opta,436454,Junior Adamu,,,,
+opta,438309,Junior Dina Ebimbe,,,,
+opta,493332,Lasse Günther,,,,
+opta,465852,Laurin Curda,,,,
+opta,516960,Laurin Ulrich,,,,
+opta,104542,Loris Karius,,,,
+opta,165167,Luca Schnellbacher,,,,
+opta,545635,Luca Sirch,,,,
+opta,685541,Luca Vozar,,,,
+opta,515218,Luka Djuric,,,,
+opta,520845,Lukas Petkov,,,,
+opta,543907,Lukas Pinckert,,,,
+opta,465341,Lukasz Poreba,,,,
+opta,523879,Marvin Pieringer,,,,
+opta,513442,Mattes Hansen,,,,
+opta,522089,Maurice Krattenmacher,,,,
+opta,220087,Max Wöber,,,,
+opta,487057,Maximilian Rohr,,,,
+opta,578554,Mertcan Ayhan,,,,
+opta,240149,Moussa Sylla,,,,
+opta,515210,Nahuel Noll,,,,
+opta,428442,Nicholas Mickelson,,,,
+opta,545755,Nicolas Kristof,,,,
+opta,704210,Niklas Mohr,,,,
+opta,186348,Nikola Katic,,,,
+opta,554935,Noah Darvich,,,,
+opta,513628,Noel Futkeu,,,,
+opta,439348,Oliver Batista Meier,,,,
+opta,245795,Raphael Obermair,,,,
+opta,177901,Robin Gosens,,,,
+opta,246025,Ron Schallenberg,,,,
+opta,495002,Santiago Castañeda,,,,
+opta,494868,Satoshi Tanaka,,,,
+opta,537147,Soufiane El-Faouzi,,,,
+opta,518035,Stefano Marino,,,,
+opta,220369,Steffen Tigges,,,,
+opta,228726,Timo Becker,,,,
+opta,633996,Tjark Scheller,,,,
+opta,212687,Tom Baack,,,,
+opta,632766,Vitalie Becker,,,,

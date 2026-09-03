@@ -1,0 +1,286 @@
+name,playerId,teamId,teamName,age,height,weight,positionText,season
+Igor Matanovic,407222,50,Freiburg,23,195,93,Forward,2026_27
+Yuito Suzuki,472403,50,Freiburg,24,175,71,Midfielder,2026_27
+Younes Ebnoutalib,476035,45,Eintracht Frankfurt,22,191,82,Forward,2026_27
+Joshua Kimmich,283323,37,Bayern Munich,31,177,75,Midfielder,2026_27
+Dayot Upamecano,327721,37,Bayern Munich,27,186,90,Defender,2026_27
+Antonio Nusa,416030,7614,RB Leipzig,21,183,77,Midfielder,2026_27
+Anton Kade,431281,1730,Augsburg,22,185,72,Midfielder,2026_27
+Marius Wolf,312666,1730,Augsburg,31,188,81,Defender,2026_27
+Josip Juranovic,271603,796,Union Berlin,31,173,68,Defender,2026_27
+Lukas Petkov,406672,1134,Elversberg,25,183,76,Forward,2026_27
+Konstantinos Karetsas,471855,44,Borussia Dortmund,18,173,65,Midfielder,2026_27
+Aleksandar Pavlovic,481079,37,Bayern Munich,22,188,78,Midfielder,2026_27
+Laurin Curda,486781,810,Paderborn,24,185,84,Defender,2026_27
+Thijs Dallinga,379687,282,FC Koln,26,180,75,Forward,2026_27
+Ozan Kabak,356743,1211,Hoffenheim,26,187,86,Defender,2026_27
+Jeremiaha Maluze,568298,45,Eintracht Frankfurt,21,193,0,Defender,2026_27
+Marco Grüll,385080,42,Werder Bremen,28,182,74,Forward,2026_27
+Leopold Querfeld,427502,796,Union Berlin,22,190,83,Defender,2026_27
+Michael Gregoritsch,84919,1730,Augsburg,32,193,91,Forward,2026_27
+Michael Olise,371281,37,Bayern Munich,24,180,78,Midfielder,2026_27
+Ridle Baku,356183,7614,RB Leipzig,28,176,72,Defender,2026_27
+Finn Dahmen,353985,1730,Augsburg,28,186,80,Goalkeeper,2026_27
+Fabian Rieder,404193,1730,Augsburg,24,179,74,Midfielder,2026_27
+Rocco Reitz,401014,7614,RB Leipzig,24,176,75,Midfielder,2026_27
+Willi Orbán,104917,7614,RB Leipzig,33,186,87,Defender,2026_27
+Serhou Guirassy,236506,44,Borussia Dortmund,30,187,82,Forward,2026_27
+Hennes Behrens,551088,1730,Augsburg,21,175,70,Defender,2026_27
+Brajan Gruda,471784,7614,RB Leipzig,22,178,70,Forward,2026_27
+Francis Onyeka,514447,1134,Elversberg,19,187,74,Midfielder,2026_27
+Giannis Konstantelias,476927,44,Borussia Dortmund,23,176,0,Midfielder,2026_27
+Adam Daghim,514499,1211,Hoffenheim,20,189,80,Forward,2026_27
+Chrislain Matsima,398372,1730,Augsburg,24,193,81,Defender,2026_27
+Calvin Brackelmann,445983,1730,Augsburg,27,196,86,Defender,2026_27
+Nadiem Amiri,261021,219,Mainz 05,29,180,75,Midfielder,2026_27
+Luis Díaz,377168,37,Bayern Munich,29,180,70,Forward,2026_27
+Tjark Scheller,502544,810,Paderborn,24,192,85,Defender,2026_27
+Jobe Bellingham,422365,44,Borussia Dortmund,20,188,73,Midfielder,2026_27
+Castello Lukeba,415172,7614,RB Leipzig,23,184,73,Defender,2026_27
+Dariusz Stalmach,552277,42,Werder Bremen,20,182,75,Midfielder,2026_27
+Moritz Nicolas,322881,134,Borussia M.Gladbach,28,193,87,Goalkeeper,2026_27
+Ismael Saibari,404776,37,Bayern Munich,25,185,81,Midfielder,2026_27
+Cole Campbell,513605,1134,Elversberg,20,170,68,Forward,2026_27
+Danny da Costa,94934,219,Mainz 05,33,187,87,Defender,2026_27
+Gregor Kobel,336028,44,Borussia Dortmund,28,195,88,Goalkeeper,2026_27
+Maarten Vandevoordt,365332,7614,RB Leipzig,24,192,80,Goalkeeper,2026_27
+Daniel Svensson,418584,44,Borussia Dortmund,24,183,72,Defender,2026_27
+Elias Baum,503382,45,Eintracht Frankfurt,20,180,77,Defender,2026_27
+Han-Noah Massengo,365831,1730,Augsburg,25,178,70,Midfielder,2026_27
+Ísak Jóhannesson,406062,282,FC Koln,23,180,72,Midfielder,2026_27
+Noahkai Banks,532785,1730,Augsburg,19,193,93,Defender,2026_27
+David Mokwa,549132,1134,Elversberg,22,181,81,Forward,2026_27
+Jano ter Horst,494154,810,Paderborn,24,181,79,Defender,2026_27
+Tim Skarke,285654,796,Union Berlin,29,181,78,Midfielder,2026_27
+Robin Koch,276205,45,Eintracht Frankfurt,30,192,85,Defender,2026_27
+David Raum,330538,7614,RB Leipzig,28,180,75,Defender,2026_27
+Fabio Gruber,552278,219,Mainz 05,24,188,69,Defender,2026_27
+Jan Gyamerah,132011,1134,Elversberg,31,184,79,Defender,2026_27
+Lukas Kübler,111306,50,Freiburg,34,182,78,Defender,2026_27
+Santiago Castañeda,531855,810,Paderborn,21,188,74,Midfielder,2026_27
+Noah Atubolu,428308,45,Eintracht Frankfurt,24,191,98,Goalkeeper,2026_27
+Patrik Schick,243565,36,Bayer Leverkusen,30,191,86,Forward,2026_27
+Nahuel Noll,416165,810,Paderborn,23,190,75,Goalkeeper,2026_27
+Philipp Lienhart,298446,50,Freiburg,30,189,86,Defender,2026_27
+Harry Kane,83532,37,Bayern Munich,33,188,86,Forward,2026_27
+Maximilian Beier,387125,44,Borussia Dortmund,23,183,72,Forward,2026_27
+Anthony Caci,321145,219,Mainz 05,29,184,76,Defender,2026_27
+Matthias Ginter,110182,50,Freiburg,32,191,89,Defender,2026_27
+Franck Honorat,137837,134,Borussia M.Gladbach,30,180,70,Midfielder,2026_27
+Loris Karius,107176,39,Schalke 04,33,190,90,Goalkeeper,2026_27
+Nicolas Seiwald,418587,7614,RB Leipzig,25,180,80,Midfielder,2026_27
+Bambasé Conté,433100,1211,Hoffenheim,23,182,76,Midfielder,2026_27
+Vladimír Coufal,111372,1211,Hoffenheim,34,174,76,Defender,2026_27
+Tidiam Gomis,511411,7614,RB Leipzig,20,182,71,Forward,2026_27
+Waldemar Anton,296768,44,Borussia Dortmund,30,189,86,Defender,2026_27
+Dominik Kohr,110165,219,Mainz 05,32,183,77,Defender,2026_27
+Alphonso Davies,320040,37,Bayern Munich,25,185,77,Defender,2026_27
+Konrad Laimer,248010,37,Bayern Munich,29,180,72,Midfielder,2026_27
+Luka Lochoshvili,404262,282,FC Koln,28,191,84,Defender,2026_27
+Miguel Gutiérrez,395788,36,Bayer Leverkusen,25,180,73,Defender,2026_27
+Christian Kofane,550465,36,Bayer Leverkusen,20,189,80,Forward,2026_27
+Kaishu Sano,509815,219,Mainz 05,25,176,67,Midfielder,2026_27
+Niklas Beste,353193,50,Freiburg,27,175,66,Midfielder,2026_27
+Felix Nmecha,367783,44,Borussia Dortmund,25,190,73,Midfielder,2026_27
+Lukas Pinckert,446537,1134,Elversberg,26,185,83,Defender,2026_27
+Saïd El Mala,517371,282,FC Koln,20,183,72,Midfielder,2026_27
+Bernardo,302588,1211,Hoffenheim,31,186,76,Defender,2026_27
+Derry Scherhant,444289,50,Freiburg,23,186,82,Forward,2026_27
+Patrick Wimmer,418589,1211,Hoffenheim,25,182,77,Midfielder,2026_27
+Manuel Neuer,13754,37,Bayern Munich,40,193,93,Goalkeeper,2026_27
+Rodrigo Ribeiro,434076,1730,Augsburg,21,185,72,Forward,2026_27
+Emmanuel Latte Lath,323242,796,Union Berlin,27,177,75,Forward,2026_27
+Ibrahim Maza,477985,36,Bayer Leverkusen,20,180,79,Midfielder,2026_27
+Jan Thielmann,389376,282,FC Koln,24,178,72,Midfielder,2026_27
+Ragnar Ache,335756,282,FC Koln,28,183,81,Forward,2026_27
+Nikola Katic,363666,39,Schalke 04,29,194,90,Defender,2026_27
+Christopher Nkunku,300945,7614,RB Leipzig,28,177,75,Forward,2026_27
+Jarell Quansah,430019,36,Bayer Leverkusen,23,190,83,Defender,2026_27
+Joane Gadou,513664,44,Borussia Dortmund,19,194,75,Defender,2026_27
+Julian Ryerson,320436,44,Borussia Dortmund,28,183,86,Defender,2026_27
+Linton Maina,354555,282,FC Koln,27,173,70,Midfielder,2026_27
+Marvin Schwäbe,249897,282,FC Koln,31,190,86,Goalkeeper,2026_27
+Ezechiel Banzuzi,485929,7614,RB Leipzig,21,191,80,Midfielder,2026_27
+Raphael Obermair,336037,810,Paderborn,30,182,77,Midfielder,2026_27
+Adam Hlozek,399385,1211,Hoffenheim,24,188,84,Forward,2026_27
+Phillip Tietz,298145,219,Mainz 05,29,190,90,Forward,2026_27
+Woo-yeong Jeong,366868,796,Union Berlin,26,179,71,Midfielder,2026_27
+Ayoube Amaimouni-Echghouyab,605380,45,Eintracht Frankfurt,21,179,70,Forward,2026_27
+Cyriaque Irié,547622,50,Freiburg,21,186,87,Forward,2026_27
+Daniel Heuer Fernandes,132896,38,Hamburger SV,33,188,81,Goalkeeper,2026_27
+Maximilian Mittelstädt,261020,41,VfB Stuttgart,29,180,71,Defender,2026_27
+Tom Rothe,437020,796,Union Berlin,21,193,85,Defender,2026_27
+Maximilian Eggestein,254557,50,Freiburg,29,183,83,Midfielder,2026_27
+Kim Min-Jae,370912,37,Bayern Munich,29,190,81,Defender,2026_27
+Amos Pieper,368176,42,Werder Bremen,28,192,86,Defender,2026_27
+Lasse Günther,425057,1134,Elversberg,23,181,83,Defender,2026_27
+Maximilian Rohr,419916,1134,Elversberg,31,193,85,Defender,2026_27
+Tom Krauß,367182,282,FC Koln,25,182,72,Midfielder,2026_27
+Lukasz Poreba,424465,1134,Elversberg,26,179,76,Midfielder,2026_27
+Robin Zentner,245634,219,Mainz 05,31,194,96,Goalkeeper,2026_27
+Soufiane El-Faouzi,414038,39,Schalke 04,24,177,74,Midfielder,2026_27
+Victor Boniface,384000,36,Bayer Leverkusen,25,190,91,Forward,2026_27
+Jahmai Simpson-Pusey,534072,282,FC Koln,20,187,79,Defender,2026_27
+Tiago Tomás,395850,41,VfB Stuttgart,24,180,69,Forward,2026_27
+Lee Jae-Sung,142959,219,Mainz 05,34,180,70,Midfielder,2026_27
+Rani Khedira,110266,796,Union Berlin,32,188,84,Midfielder,2026_27
+Jonathan Burkardt,363037,45,Eintracht Frankfurt,26,181,76,Forward,2026_27
+Jordy Makengo,496922,50,Freiburg,25,191,81,Defender,2026_27
+Gideon Mensah,402749,282,FC Koln,28,178,70,Defender,2026_27
+Mattes Hansen,487066,810,Paderborn,22,183,77,Midfielder,2026_27
+Robin Hranác,428031,1211,Hoffenheim,26,190,82,Defender,2026_27
+Josha Vagnoman,354241,41,VfB Stuttgart,25,190,90,Defender,2026_27
+Nathaniel Brown,445354,37,Bayern Munich,23,176,67,Defender,2026_27
+Malik Tillman,397465,36,Bayer Leverkusen,24,187,71,Midfielder,2026_27
+Marvin Pieringer,408909,810,Paderborn,26,191,81,Forward,2026_27
+Mert Kömür,474412,1730,Augsburg,21,183,77,Midfielder,2026_27
+Jonas Hofmann,115163,36,Bayer Leverkusen,34,176,73,Midfielder,2026_27
+Gabriel Vidovic,424368,810,Paderborn,22,180,75,Forward,2026_27
+Janik Haberer,110272,796,Union Berlin,32,186,78,Midfielder,2026_27
+Phillipp Mwene,124021,219,Mainz 05,32,170,66,Defender,2026_27
+Albert Grønbæk,424809,38,Hamburger SV,25,176,65,Midfielder,2026_27
+Aleix García,280663,36,Bayer Leverkusen,29,173,68,Midfielder,2026_27
+Hugo Bolin,450295,134,Borussia M.Gladbach,23,179,64,Midfielder,2026_27
+Kauã Prates,551822,44,Borussia Dortmund,18,183,77,Defender,2026_27
+Nicolas Kristof,446532,1134,Elversberg,26,185,87,Goalkeeper,2026_27
+Nicolás Capaldo,369480,38,Hamburger SV,27,177,73,Midfielder,2026_27
+Leon Avdullahu,510234,1211,Hoffenheim,22,185,79,Midfielder,2026_27
+Albert Sambi Lokonga,349102,38,Hamburger SV,26,183,67,Midfielder,2026_27
+Ellyes Skhiri,238903,282,FC Koln,31,185,74,Midfielder,2026_27
+András Schäfer,369687,796,Union Berlin,27,179,70,Midfielder,2026_27
+Farès Chaïbi,444725,45,Eintracht Frankfurt,23,183,69,Midfielder,2026_27
+Yannik Engelhardt,434179,50,Freiburg,25,184,74,Midfielder,2026_27
+Stefano Marino,429675,810,Paderborn,22,186,79,Forward,2026_27
+David Herold,454351,134,Borussia M.Gladbach,23,185,80,Defender,2026_27
+Keita Kosugi,605344,45,Eintracht Frankfurt,20,172,62,Defender,2026_27
+Sebastiaan Bornauw,364235,38,Hamburger SV,27,191,81,Defender,2026_27
+Steffen Tigges,301066,810,Paderborn,28,193,90,Forward,2026_27
+Wouter Burger,361878,1211,Hoffenheim,25,191,83,Midfielder,2026_27
+Ludovit Reis,343436,42,Werder Bremen,26,178,78,Midfielder,2026_27
+Adil Aouchiche,382491,39,Schalke 04,24,179,74,Midfielder,2026_27
+Can Uzun,467776,45,Eintracht Frankfurt,20,186,83,Midfielder,2026_27
+Oliver Baumann,77440,1211,Hoffenheim,36,187,82,Goalkeeper,2026_27
+Patson Daka,345560,38,Hamburger SV,27,183,71,Forward,2026_27
+Paul Okon-Engstler,570078,282,FC Koln,21,186,84,Midfielder,2026_27
+Alessio Castro-Montes,317306,282,FC Koln,29,175,67,Midfielder,2026_27
+Conrad Harder,538807,7614,RB Leipzig,21,185,71,Forward,2026_27
+Benjamin Henrichs,296769,7614,RB Leipzig,29,183,79,Defender,2026_27
+Derrick Köhn,400010,796,Union Berlin,27,180,73,Defender,2026_27
+Jeff Chabot,343317,41,VfB Stuttgart,28,195,95,Defender,2026_27
+Jonathan Tah,134946,37,Bayern Munich,30,195,94,Defender,2026_27
+Robin Fellhauer,446529,1730,Augsburg,28,182,75,Midfielder,2026_27
+Hasan Kuruçay,435993,39,Schalke 04,29,187,86,Defender,2026_27
+Nicolai Remberg,485118,38,Hamburger SV,26,187,88,Midfielder,2026_27
+Silvan Widmer,103622,219,Mainz 05,33,183,77,Defender,2026_27
+Facundo Medina,330672,36,Bayer Leverkusen,27,184,78,Defender,2026_27
+Loïc Badé,398416,36,Bayer Leverkusen,26,191,89,Defender,2026_27
+Marin Ljubicic,424374,796,Union Berlin,24,183,78,Forward,2026_27
+Aljoscha Kemlein,455785,796,Union Berlin,22,185,78,Midfielder,2026_27
+Felix Keidel,438493,1134,Elversberg,23,178,70,Defender,2026_27
+Mathieu Nguefack,643385,134,Borussia M.Gladbach,18,172,0,Midfielder,2026_27
+Kacper Potulski,573881,219,Mainz 05,18,195,85,Defender,2026_27
+Senne Lynen,420405,42,Werder Bremen,27,185,80,Midfielder,2026_27
+Cedric Itten,312582,42,Werder Bremen,29,190,84,Forward,2026_27
+Max Rosenfelder,496923,50,Freiburg,23,187,85,Defender,2026_27
+Raphael Onyedika,425338,45,Eintracht Frankfurt,25,184,78,Midfielder,2026_27
+Vitalie Becker,531850,39,Schalke 04,21,179,71,Defender,2026_27
+Louis Lemke,607388,38,Hamburger SV,16,0,0,Defender,2026_27
+Ransford Königsdörffer,389899,219,Mainz 05,24,182,78,Forward,2026_27
+Josip Stanisic,413272,37,Bayern Munich,26,186,77,Defender,2026_27
+Marcel Sabitzer,92051,44,Borussia Dortmund,32,178,77,Midfielder,2026_27
+Tom Bischof,431282,37,Bayern Munich,21,176,66,Midfielder,2026_27
+Bakery Jatta,329689,38,Hamburger SV,28,184,79,Midfielder,2026_27
+Lukas Ullrich,444285,134,Borussia M.Gladbach,22,178,69,Defender,2026_27
+Jonah Sticker,495281,810,Paderborn,22,180,0,Defender,2026_27
+Grischa Prömel,278125,41,VfB Stuttgart,31,180,75,Midfielder,2026_27
+Lucas Höler,227655,50,Freiburg,32,184,82,Forward,2026_27
+Dejan Ljubicic,363662,39,Schalke 04,28,187,74,Midfielder,2026_27
+Albian Hajdari,402697,1211,Hoffenheim,23,189,80,Defender,2026_27
+Equi Fernández,411433,36,Bayer Leverkusen,24,178,70,Midfielder,2026_27
+Marco Friedl,333227,42,Werder Bremen,28,187,82,Defender,2026_27
+Salim Musah,569759,42,Werder Bremen,20,198,83,Forward,2026_27
+Laurin Ulrich,444292,810,Paderborn,21,180,76,Midfielder,2026_27
+Moussa Sylla,344041,39,Schalke 04,26,181,78,Forward,2026_27
+Terem Moffi,400505,38,Hamburger SV,27,188,87,Forward,2026_27
+Yannik Keitel,389375,1730,Augsburg,26,186,84,Midfielder,2026_27
+Justin Njinmah,438066,42,Werder Bremen,25,184,75,Forward,2026_27
+Philipp Treu,486776,50,Freiburg,25,173,72,Defender,2026_27
+Tom Baack,306961,810,Paderborn,27,186,79,Midfielder,2026_27
+Livan Burcu,495291,796,Union Berlin,21,178,68,Forward,2026_27
+Otto Stange,508286,38,Hamburger SV,19,185,82,Forward,2026_27
+Rayan Philippe,380644,38,Hamburger SV,25,182,78,Forward,2026_27
+Yussuf Poulsen,132943,38,Hamburger SV,32,192,84,Forward,2026_27
+Chema Andrés,539663,41,VfB Stuttgart,21,190,82,Midfielder,2026_27
+Angelo Stiller,407476,41,VfB Stuttgart,25,183,77,Midfielder,2026_27
+Joey Veerman,382556,44,Borussia Dortmund,27,185,81,Midfielder,2026_27
+Lennart Karl,557706,37,Bayern Munich,18,168,67,Midfielder,2026_27
+Arthur Vermeeren,445430,7614,RB Leipzig,21,180,76,Midfielder,2026_27
+Jamie Leweling,379252,41,VfB Stuttgart,25,185,86,Forward,2026_27
+Malik Pimpong,606459,45,Eintracht Frankfurt,18,190,0,Forward,2026_27
+Otto Ruoppi,566595,219,Mainz 05,20,180,75,Midfielder,2026_27
+Sheraldo Becker,137227,219,Mainz 05,31,180,77,Forward,2026_27
+Martin Adeline,430308,38,Hamburger SV,22,180,63,Midfielder,2026_27
+Florian Le Joncour,294026,1134,Elversberg,31,192,83,Defender,2026_27
+Robin Hack,346210,134,Borussia M.Gladbach,28,178,68,Midfielder,2026_27
+Michel Aebischer,327702,796,Union Berlin,29,183,78,Midfielder,2026_27
+Andrej Kramaric,75217,1211,Hoffenheim,35,177,73,Forward,2026_27
+Wael Mohya,575655,134,Borussia M.Gladbach,17,174,65,Midfielder,2026_27
+Clemens Lippmann,625161,810,Paderborn,20,183,0,Midfielder,2026_27
+Eren Dinkçi,408357,42,Werder Bremen,24,188,70,Forward,2026_27
+Filippo Mane,536128,44,Borussia Dortmund,21,188,78,Defender,2026_27
+Jeffrey Gouweleeuw,97351,1730,Augsburg,35,188,83,Defender,2026_27
+Joël Schmied,550581,282,FC Koln,27,188,84,Defender,2026_27
+Marius Bülter,361419,282,FC Koln,33,188,85,Forward,2026_27
+Otávio,557907,45,Eintracht Frankfurt,20,193,85,Defender,2026_27
+Seol Young-Woo,477549,1730,Augsburg,27,183,72,Defender,2026_27
+Patrice Covic,549133,42,Werder Bremen,19,182,68,Midfielder,2026_27
+Leonidas Stergiou,401742,41,VfB Stuttgart,24,181,75,Defender,2026_27
+Zeno Van den Bosch,410525,796,Union Berlin,23,191,78,Defender,2026_27
+Chuki,506115,42,Werder Bremen,22,172,64,Midfielder,2026_27
+Junior Adamu,418590,39,Schalke 04,25,183,79,Forward,2026_27
+Mats Rots,475578,1211,Hoffenheim,20,185,70,Defender,2026_27
+Timo Becker,323169,39,Schalke 04,29,190,86,Defender,2026_27
+Bilal Nadir,422240,38,Hamburger SV,22,172,65,Midfielder,2026_27
+Kevin Diks,232262,134,Borussia M.Gladbach,29,186,73,Defender,2026_27
+Keisuke Goto,550709,50,Freiburg,21,191,70,Forward,2026_27
+Joe Scally,363069,134,Borussia M.Gladbach,23,184,80,Defender,2026_27
+Luca Schnellbacher,446542,1134,Elversberg,32,180,76,Midfielder,2026_27
+Ko Itakura,369525,134,Borussia M.Gladbach,29,188,80,Defender,2026_27
+Nathan De Cat,532302,1211,Hoffenheim,18,191,86,Midfielder,2026_27
+Ramon Hendriks,422909,41,VfB Stuttgart,25,189,83,Defender,2026_27
+Luca Sirch,485040,1134,Elversberg,27,186,80,Defender,2026_27
+Tim Kleindienst,129368,134,Borussia M.Gladbach,31,195,85,Forward,2026_27
+Daiki Hashioka,411101,134,Borussia M.Gladbach,27,184,73,Defender,2026_27
+Johan Bakayoko,427824,7614,RB Leipzig,23,179,76,Forward,2026_27
+Isac Lidberg,284451,134,Borussia M.Gladbach,27,187,84,Forward,2026_27
+Jordan Torunarigha,332120,38,Hamburger SV,29,191,80,Defender,2026_27
+Afonso Moreira,478033,36,Bayer Leverkusen,21,176,74,Forward,2026_27
+Olivier Deman,407284,42,Werder Bremen,26,181,74,Defender,2026_27
+Mertcan Ayhan,560433,39,Schalke 04,19,190,80,Defender,2026_27
+Robin Gosens,141726,39,Schalke 04,32,183,80,Defender,2026_27
+Mark Flekken,115131,36,Bayer Leverkusen,33,195,92,Goalkeeper,2026_27
+Oscar Højlund,492867,45,Eintracht Frankfurt,21,184,76,Midfielder,2026_27
+Deniz Undav,357091,41,VfB Stuttgart,30,179,86,Forward,2026_27
+Kevin Stöger,104011,134,Borussia M.Gladbach,33,176,74,Midfielder,2026_27
+Noah Darvich,534793,1134,Elversberg,19,184,73,Midfielder,2026_27
+Dzenan Pejcinovic,444298,41,VfB Stuttgart,21,188,78,Forward,2026_27
+Ermedin Demirovic,351339,41,VfB Stuttgart,28,185,84,Forward,2026_27
+Junior Dina Ebimbe,372927,39,Schalke 04,25,183,80,Midfielder,2026_27
+Maurice Krattenmacher,485137,1134,Elversberg,21,180,75,Midfielder,2026_27
+Edin Dzeko,24845,39,Schalke 04,40,193,92,Forward,2026_27
+Love Arrhov,605345,45,Eintracht Frankfurt,18,178,70,Midfielder,2026_27
+Finn Jeltsch,507717,41,VfB Stuttgart,20,187,86,Defender,2026_27
+Mick Schmetgens,552363,42,Werder Bremen,18,190,85,Defender,2026_27
+Lucas Vázquez,144511,36,Bayer Leverkusen,35,173,70,Defender,2026_27
+Fabian Bredlow,142529,41,VfB Stuttgart,31,190,87,Goalkeeper,2026_27
+Philipp Sander,367534,134,Borussia M.Gladbach,28,186,77,Midfielder,2026_27
+Max Moerstedt,517609,1211,Hoffenheim,20,194,77,Forward,2026_27
+Mio Backhaus,436119,50,Freiburg,22,194,82,Goalkeeper,2026_27
+Niclas Füllkrug,104058,42,Werder Bremen,33,189,83,Forward,2026_27
+Ron Schallenberg,401089,39,Schalke 04,27,185,78,Midfielder,2026_27
+Bilal El Khannouss,433572,41,VfB Stuttgart,22,180,70,Midfielder,2026_27
+Matheo Raab,442501,796,Union Berlin,27,186,82,Goalkeeper,2026_27
+Karl Hein,399501,42,Werder Bremen,24,193,86,Goalkeeper,2026_27
+Samuele Inácio,565461,44,Borussia Dortmund,18,180,64,Forward,2026_27
+Edmond Tapsoba,369446,36,Bayer Leverkusen,27,192,84,Defender,2026_27
+Max Wöber,301024,39,Schalke 04,28,188,86,Defender,2026_27

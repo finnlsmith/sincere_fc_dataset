@@ -1,0 +1,181 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Ball possession,57,43
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Expected goals (xG),1.99,1.24
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Total shots,20,11
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Shots on target,2,8
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Touches in opposition box,34,25
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Big chances,4,2
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Big chances missed,4,1
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Accurate passes,400 (85%),316 (82%)
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Yellow cards,2,2
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Corners,8,3
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Ball possession,50,50
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Expected goals (xG),0.64,1.59
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Total shots,14,15
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Shots on target,4,7
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Touches in opposition box,23,27
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Big chances,0,6
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Big chances missed,0,5
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Accurate passes,330 (80%),351 (81%)
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Yellow cards,3,2
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Corners,7,4
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Ball possession,50,50
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Expected goals (xG),0.67,2.72
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Total shots,8,26
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Shots on target,5,7
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Touches in opposition box,14,40
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Big chances,1,5
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Big chances missed,0,3
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Accurate passes,319 (77%),312 (78%)
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Yellow cards,1,1
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Corners,1,10
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Ball possession,53,47
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Expected goals (xG),4.41,1.84
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Total shots,12,10
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Shots on target,9,4
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Touches in opposition box,31,29
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Big chances,10,2
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Big chances missed,5,0
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Accurate passes,415 (88%),338 (81%)
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Yellow cards,1,1
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Corners,4,7
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Ball possession,67,33
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Expected goals (xG),1.86,0.18
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Total shots,14,5
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Shots on target,8,2
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Touches in opposition box,34,8
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Big chances,3,0
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Big chances missed,1,0
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Accurate passes,626 (91%),286 (85%)
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Yellow cards,1,3
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Corners,3,4
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Ball possession,60,40
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Expected goals (xG),1.05,1.28
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Total shots,14,10
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Shots on target,1,2
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Touches in opposition box,21,22
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Big chances,1,3
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Big chances missed,1,3
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Accurate passes,552 (88%),352 (84%)
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Yellow cards,1,0
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Corners,9,3
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Ball possession,48,52
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Expected goals (xG),2.77,0.70
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Total shots,17,11
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Shots on target,2,3
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Touches in opposition box,31,24
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Big chances,4,2
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Big chances missed,4,1
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Accurate passes,371 (85%),416 (87%)
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Yellow cards,1,2
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Corners,6,5
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Ball possession,42,58
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Expected goals (xG),0.42,1.80
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Total shots,9,10
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Shots on target,2,1
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Touches in opposition box,20,13
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Big chances,0,2
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Big chances missed,0,2
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Accurate passes,384 (84%),608 (89%)
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Yellow cards,2,1
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Corners,6,2
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Ball possession,60,40
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Expected goals (xG),1.81,1.55
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Total shots,20,15
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Shots on target,7,6
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Touches in opposition box,32,31
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Big chances,5,4
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Big chances missed,5,2
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Accurate passes,433 (88%),254 (80%)
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Yellow cards,3,2
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Corners,7,10
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Ball possession,51,49
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Expected goals (xG),3.04,1.14
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Total shots,27,6
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Shots on target,7,2
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Touches in opposition box,29,15
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Big chances,6,3
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Big chances missed,4,1
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Accurate passes,357 (83%),366 (82%)
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Yellow cards,2,3
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Corners,7,2
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Ball possession,67,33
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Expected goals (xG),1.15,2.12
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Total shots,15,11
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Shots on target,6,2
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Touches in opposition box,27,19
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Big chances,2,3
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Big chances missed,2,1
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Accurate passes,595 (88%),237 (75%)
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Yellow cards,0,0
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Corners,2,5
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Ball possession,57,43
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Expected goals (xG),1.75,0.69
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Total shots,15,12
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Shots on target,5,4
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Touches in opposition box,35,21
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Big chances,5,2
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Big chances missed,4,1
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Accurate passes,388 (85%),283 (82%)
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Yellow cards,0,2
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Corners,5,5
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Ball possession,36,64
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Expected goals (xG),1.72,1.40
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Total shots,11,13
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Shots on target,5,2
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Touches in opposition box,23,20
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Big chances,3,2
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Big chances missed,1,2
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Accurate passes,310 (87%),591 (91%)
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Yellow cards,4,0
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Corners,5,7
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Ball possession,45,55
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Expected goals (xG),2.38,0.75
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Total shots,15,15
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Shots on target,4,4
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Touches in opposition box,22,24
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Big chances,5,2
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Big chances missed,2,2
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Accurate passes,523 (90%),617 (89%)
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Yellow cards,0,1
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Corners,2,4
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Ball possession,64,36
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Expected goals (xG),3.12,3.06
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Total shots,22,12
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Shots on target,8,5
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Touches in opposition box,36,16
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Big chances,7,4
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Big chances missed,6,2
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Accurate passes,424 (85%),195 (69%)
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Yellow cards,3,2
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Corners,8,6
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Ball possession,52,48
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Expected goals (xG),1.83,2.91
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Total shots,16,17
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Shots on target,7,7
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Touches in opposition box,35,34
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Big chances,4,5
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Big chances missed,3,4
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Accurate passes,384 (86%),354 (85%)
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Yellow cards,2,2
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Corners,3,6
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Ball possession,27,73
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Expected goals (xG),1.27,1.44
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Total shots,9,18
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Shots on target,4,4
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Touches in opposition box,13,22
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Big chances,2,5
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Big chances missed,2,4
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Accurate passes,250 (84%),735 (91%)
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Yellow cards,2,1
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Corners,0,5
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Ball possession,31,69
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Expected goals (xG),0.87,2.16
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Total shots,9,19
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Shots on target,3,5
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Touches in opposition box,14,30
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Big chances,2,4
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Big chances missed,1,2
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Accurate passes,250 (77%),666 (90%)
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Yellow cards,2,2
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Corners,0,10

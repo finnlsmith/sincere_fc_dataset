@@ -1,0 +1,365 @@
+name,playerId,teamId,teamName,age,height,weight,positionText,season
+Jack Hinshelwood,469629,211,Brighton,21,181,76,Midfielder,2026_27
+Bruno Fernandes,123761,32,Manchester United,31,183,64,Midfielder,2026_27
+Cole Palmer,395692,15,Chelsea,24,185,76,Midfielder,2026_27
+Rayan Cherki,386153,167,Manchester City,23,180,71,Midfielder,2026_27
+João Pedro,373525,15,Chelsea,24,186,70,Forward,2026_27
+Vitaly Janelt,298689,189,Brentford,28,184,79,Midfielder,2026_27
+Bukayo Saka,367185,13,Arsenal,24,178,65,Forward,2026_27
+Konstantinos Tzolakis,397331,214,Hull,23,193,0,Goalkeeper,2026_27
+Nordi Mukiele,299077,16,Sunderland,28,187,84,Defender,2026_27
+Lewis Hall,430294,23,Newcastle,21,179,73,Defender,2026_27
+Morgan Rogers,362824,15,Chelsea,24,187,80,Midfielder,2026_27
+Kevin Schade,407260,189,Brentford,24,183,74,Midfielder,2026_27
+Georginio Rutter,362433,211,Brighton,24,182,83,Forward,2026_27
+Anton Stach,401073,19,Leeds,27,193,86,Midfielder,2026_27
+Semi Ajayi,247815,214,Hull,32,193,83,Defender,2026_27
+Erling Haaland,315227,167,Manchester City,26,195,94,Forward,2026_27
+James Tarkowski,131464,31,Everton,33,185,81,Defender,2026_27
+Mamadou Sangaré,442971,189,Brentford,24,181,72,Midfielder,2026_27
+John Egan,108632,214,Hull,33,185,75,Defender,2026_27
+Kiernan Dewsbury-Hall,391256,31,Everton,27,178,80,Midfielder,2026_27
+Marc Guéhi,374631,167,Manchester City,26,183,80,Defender,2026_27
+Keane Lewis-Potter,368512,189,Brentford,25,170,67,Forward,2026_27
+Anthony Elanga,413211,23,Newcastle,24,178,75,Forward,2026_27
+Nobel Mendy,469508,214,Hull,22,187,78,Defender,2026_27
+Phil Foden,331254,167,Manchester City,26,171,63,Midfielder,2026_27
+Ben White,322036,13,Arsenal,28,186,76,Defender,2026_27
+Kristoffer Ajer,321085,189,Brentford,28,198,92,Defender,2026_27
+Tarik Muharemovic,439533,19,Leeds,23,192,84,Defender,2026_27
+Mathias Jensen,339674,189,Brentford,30,180,72,Midfielder,2026_27
+Maxim De Cuyper,392647,211,Brighton,25,182,71,Defender,2026_27
+Martin Ødegaard,247454,13,Arsenal,27,178,68,Midfielder,2026_27
+Riccardo Calafiori,386519,13,Arsenal,24,188,86,Defender,2026_27
+Iliman Ndiaye,366116,31,Everton,26,180,78,Forward,2026_27
+Cody Gakpo,352825,26,Liverpool,27,193,78,Forward,2026_27
+Diego Gómez,446133,211,Brighton,23,185,77,Midfielder,2026_27
+Anan Khalaili,444136,162,Crystal Palace,22,183,0,Defender,2026_27
+Emiliano Martínez,102248,15,Chelsea,34,195,98,Goalkeeper,2026_27
+Pascal Groß,71824,211,Brighton,35,181,78,Midfielder,2026_27
+Michael Kayode,470031,189,Brentford,22,179,74,Defender,2026_27
+Granit Xhaka,89401,16,Sunderland,33,186,80,Midfielder,2026_27
+Jordan Pickford,110189,31,Everton,32,185,77,Goalkeeper,2026_27
+Josko Gvardiol,402664,167,Manchester City,24,185,80,Defender,2026_27
+Lukás Hornícek,415682,23,Newcastle,24,198,92,Goalkeeper,2026_27
+Alex Scott,410998,183,Bournemouth,23,178,68,Midfielder,2026_27
+James Justin,301441,19,Leeds,28,183,80,Defender,2026_27
+Amar Dedic,418203,23,Newcastle,24,180,74,Defender,2026_27
+Bryan Mbeumo,353377,32,Manchester United,27,171,64,Forward,2026_27
+Maxence Lacroix,401130,15,Chelsea,26,190,88,Defender,2026_27
+Pedro Neto,337916,15,Chelsea,26,174,78,Forward,2026_27
+Nathan Collins,372724,189,Brentford,25,193,83,Defender,2026_27
+Jack Clarke,363516,165,Ipswich,25,181,74,Forward,2026_27
+Neco Williams,386969,174,Nottingham Forest,25,183,72,Defender,2026_27
+Julio Enciso,417747,165,Ipswich,22,173,64,Midfielder,2026_27
+Reinildo Mandava,361812,16,Sunderland,32,183,73,Defender,2026_27
+Mats Wieffer,445059,211,Brighton,26,189,78,Midfielder,2026_27
+Víctor Muñoz,548106,26,Liverpool,23,173,70,Forward,2026_27
+Antoine Semenyo,357073,167,Manchester City,26,185,74,Forward,2026_27
+Kai Havertz,326413,13,Arsenal,27,193,83,Forward,2026_27
+Jaka Bijol,360941,19,Leeds,27,190,85,Defender,2026_27
+Matt Crooks,105742,214,Hull,32,191,72,Midfielder,2026_27
+Dominik Szoboszlai,369875,26,Liverpool,25,186,74,Midfielder,2026_27
+Evanilson,384430,183,Bournemouth,26,183,80,Forward,2026_27
+James Trafford,404852,19,Leeds,23,197,83,Goalkeeper,2026_27
+Adrien Truffert,398301,183,Bournemouth,24,176,72,Defender,2026_27
+Jarrad Branthwaite,381045,31,Everton,24,195,87,Defender,2026_27
+Matheus Cunha,362758,32,Manchester United,27,183,76,Forward,2026_27
+Elliot Anderson,402596,167,Manchester City,23,179,69,Midfielder,2026_27
+Rúben Dias,313171,167,Manchester City,29,187,86,Defender,2026_27
+Yoane Wissa,296240,23,Newcastle,30,176,75,Forward,2026_27
+Marcus Tavernier,344314,183,Bournemouth,27,178,70,Midfielder,2026_27
+Dango Ouattara,422183,189,Brentford,24,177,71,Forward,2026_27
+Mohamed Belloumi,457802,214,Hull,24,174,66,Forward,2026_27
+Abdul Fatawu,430985,165,Ipswich,22,177,73,Forward,2026_27
+Omar Marmoush,394749,30,Tottenham,27,180,80,Forward,2026_27
+Trai Hume,424514,16,Sunderland,24,180,75,Defender,2026_27
+Emersonn,429556,165,Ipswich,22,186,72,Forward,2026_27
+Igor Jesus,397497,174,Nottingham Forest,25,180,73,Forward,2026_27
+Declan Rice,332325,13,Arsenal,27,188,76,Midfielder,2026_27
+Malick Yalcouyé,533015,211,Brighton,20,169,0,Midfielder,2026_27
+Marcos Senesi,328330,30,Tottenham,29,185,78,Defender,2026_27
+Roméo Lavia,425319,15,Chelsea,22,181,76,Midfielder,2026_27
+Abdukodir Khusanov,493206,167,Manchester City,22,186,83,Defender,2026_27
+Lewis Miley,474264,23,Newcastle,20,185,72,Midfielder,2026_27
+Nick Woltemade,386606,23,Newcastle,24,198,90,Forward,2026_27
+Djordje Petrovic,406564,183,Bournemouth,26,194,89,Goalkeeper,2026_27
+Ethan Ampadu,322418,19,Leeds,25,182,78,Midfielder,2026_27
+Alexander Isak,299254,26,Liverpool,26,190,74,Forward,2026_27
+Joe Rodon,302312,19,Leeds,28,193,88,Defender,2026_27
+Jorrel Hato,467715,15,Chelsea,20,182,77,Defender,2026_27
+Vitalii Mykolenko,345516,31,Everton,27,180,71,Defender,2026_27
+Marcus Rashford,300299,32,Manchester United,28,188,80,Forward,2026_27
+Caoimhín Kelleher,322176,189,Brentford,27,188,74,Goalkeeper,2026_27
+Noah Sadiki,437449,16,Sunderland,21,173,74,Midfielder,2026_27
+Luke Shaw,118244,32,Manchester United,31,178,80,Defender,2026_27
+Bobby Thomas,395615,17,Coventry,25,193,77,Defender,2026_27
+Thomas Meunier,104376,16,Sunderland,34,190,88,Defender,2026_27
+Gabriel Magalhães,334087,13,Arsenal,28,190,92,Defender,2026_27
+Justin Kluivert,331579,183,Bournemouth,27,173,66,Forward,2026_27
+Olivier Boscagli,260809,211,Brighton,28,181,68,Defender,2026_27
+William Osula,416209,23,Newcastle,23,180,81,Forward,2026_27
+Harry Maguire,99487,32,Manchester United,33,194,90,Defender,2026_27
+Timothy Castagne,141169,170,Fulham,30,185,80,Defender,2026_27
+Thierno Barry,537713,31,Everton,23,195,82,Forward,2026_27
+Myles Lewis-Skelly,467918,13,Arsenal,19,178,72,Defender,2026_27
+Regan Slater,349981,214,Hull,26,173,65,Midfielder,2026_27
+Harrison Armstrong,535879,31,Everton,19,185,70,Midfielder,2026_27
+Morgan Gibbs-White,332867,174,Nottingham Forest,26,171,66,Midfielder,2026_27
+Cristhian Mosquera,425591,13,Arsenal,22,191,78,Defender,2026_27
+Kobbie Mainoo,460260,32,Manchester United,21,184,72,Midfielder,2026_27
+Virgil van Dijk,95408,26,Liverpool,35,195,92,Defender,2026_27
+Ao Tanaka,423347,19,Leeds,27,180,75,Midfielder,2026_27
+Jérémy Jacquet,468827,26,Liverpool,21,188,77,Defender,2026_27
+Nilson Angulo,443064,16,Sunderland,23,184,69,Forward,2026_27
+Oliver McBurnie,138695,214,Hull,30,188,79,Forward,2026_27
+Dan Ballard,371761,16,Sunderland,26,187,85,Defender,2026_27
+Murillo,445424,174,Nottingham Forest,24,180,75,Defender,2026_27
+Diogo Dalot,353418,32,Manchester United,27,184,82,Defender,2026_27
+Gonzalo García,498798,170,Fulham,22,182,74,Forward,2026_27
+Joe Willock,342563,23,Newcastle,27,179,71,Midfielder,2026_27
+Ryan Giles,362831,214,Hull,26,179,72,Defender,2026_27
+Ola Aina,315543,174,Nottingham Forest,29,184,82,Defender,2026_27
+Dominic Calvert-Lewin,141469,19,Leeds,29,187,71,Forward,2026_27
+Nikola Milenkovic,319785,174,Nottingham Forest,28,195,90,Defender,2026_27
+Dan Ndoye,398414,174,Nottingham Forest,25,184,72,Forward,2026_27
+Jayden Bogle,354291,19,Leeds,26,178,69,Defender,2026_27
+Florian Wirtz,394786,26,Liverpool,23,176,73,Midfielder,2026_27
+Youri Tielemans,136345,32,Manchester United,29,176,72,Midfielder,2026_27
+Josh King,515865,170,Fulham,19,187,74,Midfielder,2026_27
+Andy Robertson,115726,30,Tottenham,32,178,64,Defender,2026_27
+Luka Vuskovic,533010,211,Brighton,19,193,86,Defender,2026_27
+Daichi Kamada,344166,162,Crystal Palace,30,180,72,Midfielder,2026_27
+Kjell Scherpen,361867,165,Ipswich,26,206,98,Goalkeeper,2026_27
+Tyrique George,523597,31,Everton,20,181,75,Forward,2026_27
+David Raya,276366,13,Arsenal,30,183,80,Goalkeeper,2026_27
+James Hill,362837,183,Bournemouth,24,184,73,Defender,2026_27
+António Silva,443613,183,Bournemouth,22,187,82,Defender,2026_27
+Issa Diop,300359,165,Ipswich,29,194,88,Defender,2026_27
+Christos Tzolis,399296,13,Arsenal,24,179,70,Forward,2026_27
+James McAtee,425576,174,Nottingham Forest,23,180,72,Midfielder,2026_27
+Joachim Andersen,231135,170,Fulham,30,192,86,Defender,2026_27
+Jan Paul van Hecke,365402,30,Tottenham,26,189,79,Defender,2026_27
+Josh Acheampong,518604,15,Chelsea,20,190,75,Defender,2026_27
+Lukas Nmecha,347340,19,Leeds,27,185,80,Forward,2026_27
+Leif Davis,366211,165,Ipswich,26,182,70,Defender,2026_27
+Noah Okafor,376090,19,Leeds,26,185,85,Forward,2026_27
+Ibrahim Sangaré,328075,174,Nottingham Forest,28,191,77,Midfielder,2026_27
+Noni Madueke,389935,13,Arsenal,24,183,83,Forward,2026_27
+Mikkel Damsgaard,401168,189,Brentford,26,180,66,Midfielder,2026_27
+Harry Wilson,333044,19,Leeds,29,173,63,Forward,2026_27
+Mateus Fernandes,447231,30,Tottenham,22,178,72,Midfielder,2026_27
+Dara O'Shea,362826,165,Ipswich,27,189,75,Defender,2026_27
+Nico O'Reilly,468847,167,Manchester City,21,193,77,Defender,2026_27
+Gianluigi Donnarumma,262515,167,Manchester City,27,196,90,Goalkeeper,2026_27
+Chris Richards,395401,162,Crystal Palace,26,188,93,Defender,2026_27
+Hayden Hackney,388651,31,Everton,24,178,70,Midfielder,2026_27
+Merlin Röhl,419945,31,Everton,24,192,75,Midfielder,2026_27
+Lucas Gourna-Douath,393137,214,Hull,23,185,81,Midfielder,2026_27
+Igor Thiago,443784,189,Brentford,25,190,95,Forward,2026_27
+Jaidon Anthony,400610,189,Brentford,26,183,70,Forward,2026_27
+Lewie Coyle,301415,214,Hull,30,173,67,Defender,2026_27
+Robin Roefs,422814,16,Sunderland,23,193,72,Goalkeeper,2026_27
+Lewis Cook,136456,183,Bournemouth,29,175,71,Midfielder,2026_27
+Exequiel Palacios,299684,165,Ipswich,27,176,69,Midfielder,2026_27
+Hidemasa Morita,409279,214,Hull,31,177,69,Midfielder,2026_27
+Malo Gusto,403850,15,Chelsea,23,178,67,Defender,2026_27
+Milos Kerkez,424273,26,Liverpool,22,180,71,Defender,2026_27
+Mikel Merino,238916,13,Arsenal,30,189,83,Midfielder,2026_27
+Liam Millar,391821,214,Hull,26,181,72,Forward,2026_27
+Oscar Bobb,430709,170,Fulham,23,175,72,Midfielder,2026_27
+Ryan Sessegnon,322611,170,Fulham,26,178,70,Midfielder,2026_27
+Harvey Barnes,331382,23,Newcastle,28,174,66,Midfielder,2026_27
+Enzo Le Fée,398393,16,Sunderland,26,173,63,Midfielder,2026_27
+Rodrigo Muniz,403649,170,Fulham,25,185,79,Forward,2026_27
+Sasa Lukic,297395,165,Ipswich,30,183,76,Midfielder,2026_27
+Nico Elvedi,243534,19,Leeds,29,189,84,Defender,2026_27
+Yéremy Pino,403865,162,Crystal Palace,23,172,65,Midfielder,2026_27
+Malick Thiaw,393355,23,Newcastle,25,194,86,Defender,2026_27
+Adam Wharton,430774,162,Crystal Palace,22,182,77,Midfielder,2026_27
+Nico González,422939,23,Newcastle,24,189,88,Midfielder,2026_27
+Alex Iwobi,136824,170,Fulham,30,180,75,Forward,2026_27
+Sven Botman,379732,23,Newcastle,26,193,81,Defender,2026_27
+Elliot Stroud,614510,214,Hull,24,185,75,Midfielder,2026_27
+Nicolas Jackson,426050,24,Aston Villa,25,187,82,Forward,2026_27
+Senne Lammens,402184,32,Manchester United,24,193,88,Goalkeeper,2026_27
+Wilson Isidor,363535,16,Sunderland,26,184,72,Forward,2026_27
+Alexis Mac Allister,345319,26,Liverpool,27,176,75,Midfielder,2026_27
+Mathys Tel,422885,30,Tottenham,21,183,77,Forward,2026_27
+Ross Barkley,92547,24,Aston Villa,32,189,76,Midfielder,2026_27
+Xaver Schlager,262856,174,Nottingham Forest,28,174,78,Midfielder,2026_27
+Darnell Furlong,262401,165,Ipswich,30,183,76,Defender,2026_27
+Antonee Robinson,306581,170,Fulham,29,183,73,Defender,2026_27
+Cody Drameh,414473,214,Hull,24,175,73,Defender,2026_27
+Costinha,395954,211,Brighton,26,181,76,Defender,2026_27
+Micky van de Ven,425229,30,Tottenham,25,193,81,Defender,2026_27
+Ayyoub Bouaddi,504830,167,Manchester City,18,185,75,Midfielder,2026_27
+Ronald Araujo,384711,26,Liverpool,27,191,96,Defender,2026_27
+Brenden Aaronson,371012,19,Leeds,25,177,69,Midfielder,2026_27
+Reece James,361330,15,Chelsea,26,180,92,Defender,2026_27
+Habib Diarra,422818,16,Sunderland,22,178,74,Midfielder,2026_27
+Lucas Herrington,606532,214,Hull,18,193,80,Defender,2026_27
+Liam Delap,401254,174,Nottingham Forest,23,187,72,Forward,2026_27
+Emiliano Buendía,260592,24,Aston Villa,29,172,75,Midfielder,2026_27
+César Palacios,534901,170,Fulham,21,182,68,Midfielder,2026_27
+Jay Dasilva,318767,17,Coventry,28,170,64,Defender,2026_27
+Trey Nyoni,509423,26,Liverpool,19,180,75,Midfielder,2026_27
+Charalampos Kostoulas,533923,211,Brighton,19,185,0,Forward,2026_27
+Chuba Akpom,122294,165,Ipswich,30,183,70,Forward,2026_27
+Pedro Porro,362352,30,Tottenham,26,173,69,Defender,2026_27
+Aurèle Amenda,450271,17,Coventry,23,194,90,Defender,2026_27
+Matheus Nunes,394933,167,Manchester City,28,183,78,Midfielder,2026_27
+Matz Sels,78386,174,Nottingham Forest,34,188,75,Goalkeeper,2026_27
+Dean Henderson,304008,162,Crystal Palace,29,188,85,Goalkeeper,2026_27
+Wesley Fofana,373946,15,Chelsea,25,185,84,Defender,2026_27
+Adam Smith,69877,183,Bournemouth,35,180,78,Defender,2026_27
+Jørgen Strand Larsen,333048,162,Crystal Palace,26,193,79,Forward,2026_27
+Ryan Gravenberch,363884,26,Liverpool,24,190,83,Midfielder,2026_27
+Jack Rudoni,381107,17,Coventry,25,186,77,Midfielder,2026_27
+Jair Cunha,443545,174,Nottingham Forest,21,198,87,Defender,2026_27
+Daizen Maeda,377287,165,Ipswich,28,173,67,Forward,2026_27
+Loum Tchaouna,425118,17,Coventry,22,180,68,Forward,2026_27
+Levi Colwill,421351,15,Chelsea,23,187,83,Defender,2026_27
+Rayan,472122,183,Bournemouth,20,187,88,Forward,2026_27
+Yasin Ayari,470690,211,Brighton,22,172,69,Midfielder,2026_27
+Jacob Ramsey,369813,23,Newcastle,25,180,75,Midfielder,2026_27
+Andrey Santos,451236,32,Manchester United,22,180,75,Midfielder,2026_27
+Calvin Bassey,396976,170,Fulham,26,185,76,Defender,2026_27
+Eddie Nketiah,345845,162,Crystal Palace,27,175,72,Forward,2026_27
+Chadi Riad,454342,162,Crystal Palace,23,186,78,Defender,2026_27
+Lewis Koumas,492374,26,Liverpool,20,0,0,Forward,2026_27
+Antonín Kinsky,457006,30,Tottenham,23,190,83,Goalkeeper,2026_27
+Jack Grealish,113069,167,Manchester City,30,180,77,Midfielder,2026_27
+Jorge Cuenca,333182,170,Fulham,26,190,75,Defender,2026_27
+Lewis Dunk,86441,211,Brighton,34,192,88,Defender,2026_27
+Ryan McAidoo,584927,167,Manchester City,18,174,65,Forward,2026_27
+Kostas Tsimikas,301455,26,Liverpool,30,179,77,Defender,2026_27
+Taiwo Awoniyi,281049,17,Coventry,29,183,84,Forward,2026_27
+Matty Cash,322043,24,Aston Villa,29,185,79,Defender,2026_27
+Mateo Kovacic,93894,167,Manchester City,32,177,78,Midfielder,2026_27
+Carl Rushworth,421944,17,Coventry,25,188,86,Goalkeeper,2026_27
+Martín Zubimendi,372424,13,Arsenal,27,181,74,Midfielder,2026_27
+Aaron Wan-Bissaka,331924,24,Aston Villa,28,183,72,Defender,2026_27
+Axel Disasi,300426,162,Crystal Palace,28,190,83,Defender,2026_27
+Eberechi Eze,332403,13,Arsenal,28,178,73,Midfielder,2026_27
+Tyrick Mitchell,389579,162,Crystal Palace,27,175,68,Defender,2026_27
+Rio Ngumoha,548566,26,Liverpool,18,170,75,Forward,2026_27
+Ibrahim Osman,519755,211,Brighton,21,179,64,Forward,2026_27
+Tatsuhiro Sakamoto,431539,17,Coventry,29,170,63,Midfielder,2026_27
+Leny Yoro,437299,32,Manchester United,20,190,83,Defender,2026_27
+Marcelino Núñez,417745,165,Ipswich,26,173,73,Midfielder,2026_27
+Boubacar Kamara,331790,24,Aston Villa,26,184,68,Midfielder,2026_27
+Brian Brobbey,404568,16,Sunderland,24,181,80,Forward,2026_27
+Caleb Yirenkyi,561984,17,Coventry,20,182,77,Midfielder,2026_27
+Daniel James,302313,19,Leeds,28,171,63,Forward,2026_27
+Ellis Simms,396483,17,Coventry,25,191,73,Forward,2026_27
+Ezri Konsa,301440,13,Arsenal,28,183,76,Defender,2026_27
+Matteo Ruggeri,402046,24,Aston Villa,24,187,69,Defender,2026_27
+Noussair Mazraoui,349932,32,Manchester United,28,183,79,Defender,2026_27
+Brandon Thomas-Asante,331235,17,Coventry,27,182,72,Forward,2026_27
+Ethan Pinnock,342499,17,Coventry,33,194,79,Defender,2026_27
+Jeremie Frimpong,392644,26,Liverpool,25,171,63,Defender,2026_27
+Emile Smith Rowe,363686,170,Fulham,26,182,79,Midfielder,2026_27
+Ephron Mason-Clark,342899,17,Coventry,27,178,76,Midfielder,2026_27
+Sander Berge,321020,170,Fulham,28,195,96,Midfielder,2026_27
+Yehor Yarmoliuk,444304,189,Brentford,22,180,72,Midfielder,2026_27
+Enzo Fernández,369430,15,Chelsea,25,178,73,Midfielder,2026_27
+Kasey McAteer,429531,165,Ipswich,24,177,69,Midfielder,2026_27
+Sean Longstaff,342811,19,Leeds,28,180,65,Midfielder,2026_27
+James Garner,367781,31,Everton,25,186,78,Midfielder,2026_27
+Shea Charles,428060,170,Fulham,22,189,87,Midfielder,2026_27
+Ryan Christie,128882,183,Bournemouth,31,178,71,Midfielder,2026_27
+Tyrone Mings,123167,24,Aston Villa,33,196,77,Defender,2026_27
+Abdoul Ouattara,433937,165,Ipswich,20,180,68,Defender,2026_27
+Mikey Moore,526481,30,Tottenham,19,180,75,Forward,2026_27
+Aladji Bamba,546589,23,Newcastle,20,181,67,Midfielder,2026_27
+Jean-Philippe Mateta,328096,162,Crystal Palace,29,192,88,Forward,2026_27
+Pep Chavarría,448468,15,Chelsea,28,174,72,Defender,2026_27
+Sindre Egeli,426913,165,Ipswich,20,182,70,Forward,2026_27
+Takehiro Tomiyasu,377283,162,Crystal Palace,27,187,84,Defender,2026_27
+Brennan Johnson,379688,31,Everton,25,186,73,Forward,2026_27
+Paddy McNair,244565,214,Hull,31,183,72,Defender,2026_27
+Rodrigo Bentancur,303657,30,Tottenham,29,187,72,Midfielder,2026_27
+Matt Grimes,138584,17,Coventry,31,181,70,Midfielder,2026_27
+George Hemmings,576066,24,Aston Villa,19,0,0,Midfielder,2026_27
+Sean Steur,552573,23,Newcastle,18,183,0,Midfielder,2026_27
+Moisés Caicedo,410175,15,Chelsea,24,178,80,Midfielder,2026_27
+Promise David,532188,211,Brighton,25,195,91,Forward,2026_27
+Victor Torp,409424,17,Coventry,27,178,60,Midfielder,2026_27
+Aaron Hickey,402367,189,Brentford,24,185,72,Defender,2026_27
+Lamare Bogarde,408946,24,Aston Villa,22,185,75,Midfielder,2026_27
+Alysson,520919,24,Aston Villa,20,184,79,Forward,2026_27
+Tim Iroegbunam,416208,31,Everton,23,183,70,Midfielder,2026_27
+Zadok Yohanna,623567,211,Brighton,19,184,0,Forward,2026_27
+Tammy Abraham,317506,24,Aston Villa,28,194,80,Forward,2026_27
+Beto,380546,31,Everton,28,194,88,Forward,2026_27
+Callum Wilson,134115,189,Brentford,34,180,66,Forward,2026_27
+Ian Maatsen,384134,24,Aston Villa,24,178,57,Defender,2026_27
+James Maddison,137015,30,Tottenham,29,175,73,Midfielder,2026_27
+Matt Targett,136776,214,Hull,30,183,70,Defender,2026_27
+Dominic Solanke,136459,30,Tottenham,28,187,80,Forward,2026_27
+Kevin,429174,170,Fulham,23,176,71,Forward,2026_27
+Jaydee Canvot,531676,162,Crystal Palace,20,188,75,Defender,2026_27
+Zion Suzuki,447570,24,Aston Villa,24,190,84,Goalkeeper,2026_27
+Destiny Udogie,401044,30,Tottenham,23,186,73,Defender,2026_27
+Kaden Braithwaite,540462,167,Manchester City,18,194,75,Defender,2026_27
+Vitor Reis,478314,167,Manchester City,20,186,67,Defender,2026_27
+Archie Gray,429922,30,Tottenham,20,187,70,Midfielder,2026_27
+Geovany Quenda,509068,15,Chelsea,19,172,68,Midfielder,2026_27
+Tyler Adams,315275,183,Bournemouth,27,175,72,Midfielder,2026_27
+Benjamin Sesko,424191,32,Manchester United,23,195,85,Forward,2026_27
+Rico Lewis,444791,167,Manchester City,21,170,64,Defender,2026_27
+Shea Lacey,563779,32,Manchester United,19,167,0,Forward,2026_27
+Arnaud Kalimuendo,384005,174,Nottingham Forest,24,178,79,Forward,2026_27
+Bazoumana Touré,551965,23,Newcastle,20,178,70,Forward,2026_27
+Callum Hudson-Odoi,350088,174,Nottingham Forest,25,182,76,Forward,2026_27
+Fabian Schär,82726,23,Newcastle,34,186,84,Defender,2026_27
+Frank Onyeka,404109,17,Coventry,28,183,70,Midfielder,2026_27
+Nicolás Domínguez,334653,174,Nottingham Forest,28,179,72,Midfielder,2026_27
+Romaine Mundle,450254,16,Sunderland,23,172,61,Forward,2026_27
+Luca Netz,394888,174,Nottingham Forest,23,180,83,Defender,2026_27
+Alejandro Garnacho,437022,24,Aston Villa,22,180,73,Forward,2026_27
+Charly Alcaraz,391348,31,Everton,23,176,68,Midfielder,2026_27
+Daniel Jebbison,415163,183,Bournemouth,23,188,84,Forward,2026_27
+Evann Guessand,382587,162,Crystal Palace,25,188,82,Forward,2026_27
+Óscar Mingueza,397469,162,Crystal Palace,27,184,75,Defender,2026_27
+Piero Hincapié,404832,13,Arsenal,24,183,77,Defender,2026_27
+Álvaro Rodríguez,460772,183,Bournemouth,22,192,81,Forward,2026_27
+Mohamed-Ali Cho,399014,214,Hull,22,182,66,Forward,2026_27
+Bruno Guimarães,338780,13,Arsenal,28,182,78,Midfielder,2026_27
+Chris Wood,73380,174,Nottingham Forest,34,191,94,Forward,2026_27
+Sandro Tonali,343501,30,Tottenham,26,181,79,Midfielder,2026_27
+Rico Henry,229562,189,Brentford,29,170,67,Defender,2026_27
+Jacob Murphy,141486,23,Newcastle,31,179,74,Midfielder,2026_27
+Marco Bizot,83824,24,Aston Villa,35,193,88,Goalkeeper,2026_27
+Chris Rigg,469645,16,Sunderland,19,177,65,Midfielder,2026_27
+Gustavo Hamer,332143,17,Coventry,29,169,61,Midfielder,2026_27
+Patrick Dorgu,495260,32,Manchester United,21,185,68,Defender,2026_27
+David Brooks,295084,183,Bournemouth,29,173,62,Midfielder,2026_27
+Estêvão,510728,15,Chelsea,19,178,62,Forward,2026_27
+Mohammed Kudus,400166,30,Tottenham,26,177,70,Midfielder,2026_27
+Valentín Barco,419341,15,Chelsea,22,170,67,Midfielder,2026_27
+Alex Tóth,476166,183,Bournemouth,20,181,0,Midfielder,2026_27
+Robert Sánchez,362151,15,Chelsea,28,197,90,Goalkeeper,2026_27
+Dwight McNeil,357427,162,Crystal Palace,26,183,68,Forward,2026_27
+Jacob Greaves,381161,165,Ipswich,25,185,70,Defender,2026_27
+Ayden Heaven,517341,32,Manchester United,19,189,77,Defender,2026_27
+Ben Gannon-Doak,430350,183,Bournemouth,20,173,65,Forward,2026_27
+Zavier Gozo,505602,162,Crystal Palace,19,180,63,Forward,2026_27
+Bernd Leno,92173,170,Fulham,34,189,82,Goalkeeper,2026_27
+Richarlison,317804,30,Tottenham,29,184,83,Forward,2026_27
+Conor Gallagher,375621,30,Tottenham,26,183,77,Midfielder,2026_27
+Chemsdine Talbi,476110,16,Sunderland,21,175,70,Forward,2026_27
+Milan van Ewijk,379760,17,Coventry,25,175,70,Defender,2026_27
+Alisson Becker,114147,26,Liverpool,33,193,91,Goalkeeper,2026_27
+John McGinn,318449,24,Aston Villa,31,178,68,Midfielder,2026_27
+Bart Verbruggen,400138,211,Brighton,24,193,89,Goalkeeper,2026_27
+Victor Lindelöf,100008,24,Aston Villa,32,187,82,Defender,2026_27
+Lisandro Martínez,340105,32,Manchester United,28,175,78,Defender,2026_27
+Ferdi Kadioglu,321958,211,Brighton,26,174,68,Defender,2026_27
+Luke O'Nien,134373,16,Sunderland,31,174,74,Midfielder,2026_27
+Daniel Muñoz,400496,162,Crystal Palace,30,181,78,Defender,2026_27
+Omar Alderete,344639,16,Sunderland,29,188,77,Defender,2026_27
+Pau Torres,344259,24,Aston Villa,29,192,81,Defender,2026_27
+Lucas Bergvall,505295,30,Tottenham,20,187,75,Midfielder,2026_27
+João Gomes,403693,24,Aston Villa,25,176,73,Midfielder,2026_27

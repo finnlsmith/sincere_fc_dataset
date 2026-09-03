@@ -37,14 +37,27 @@ step 2 — the script only scrapes fixtures it hasn't already got, and step 3
 re-parses whatever's accumulated in that raw folder into a freshly-dated
 parsed folder.
 
-Repeat for each of the other three leagues (EPL = `eng_47`, Ligue1 =
-`fra_53`, SerieA = `ita_55`), substituting the league name/season string and
-the matching fixtures file.
+Repeat for each of the other four leagues (EPL = `eng_47`, Ligue1 =
+`fra_53`, SerieA = `ita_55`, Bundesliga = `ger_54`), substituting the
+league name/season string and the matching fixtures file.
+
+**Caution — Bundesliga name collision:** `master_leagues.json` has *two*
+entries named "Bundesliga" — id `54` (Germany, the one we want) and id `38`
+(Austria). Before trusting `python fotmob_fetch_fixtures.py Bundesliga
+"2026/2027"`, confirm `fotmob_fetch_fixtures.py` disambiguates by country
+and not just by name string — otherwise it could silently resolve to the
+Austrian league instead. Check the fixtures file it writes
+(`data/fixtures/ger_54_2026_2027_fixtures.json`, not `_38_`) before relying
+on it in a real run.
 
 ## WhoScored
 
 Two steps: scrape, then parse the raw event data into per-player summary
 CSVs. Uses Selenium (`webdriver.Chrome()`), not Playwright.
+
+Covers all five leagues (EPL, SerieA, Ligue1, LaLiga, Bundesliga) in one
+run — Bundesliga is already configured in the script's `LEAGUES` dict, no
+argument or edit needed.
 
 ```bash
 # 1. Scrape (no argument needed — auto-dates its own output dir)
@@ -66,6 +79,19 @@ pair. See `laliga_md1_md2_split/README.md` for that project's status.
 
 Two steps: scrape, then parse.
 
+**Bundesliga is not yet enabled.** The `LEAGUES` dict in
+`grab_data_from_opta_api_2.py` has a Bundesliga entry but it's commented
+out:
+
+```python
+# "Bundesliga": ("8h5xijv2u4mlf5028gso6kw7o", "https://theanalyst.com/competition/bundesliga/stats"),
+```
+
+Its tmcl value was reconfirmed live along with the other four (per the
+script's comments, Aug 28 2026) — uncomment that line before running to
+include Bundesliga in the scrape. Until then, Opta output covers only the
+original four leagues.
+
 ```bash
 # 1. Scrape (no argument needed — auto-dates its own output dir)
 python scripts/opta/grab_data_from_opta_api_2.py
@@ -85,6 +111,12 @@ python scripts/datamb/scrape_datamb.py
 
 **Currently paused** — DataMB hadn't rolled over to 2026/27 season data as
 of the last check. Confirm it has before relying on a fresh scrape.
+
+This script pulls pre-aggregated "top 7 leagues" position files rather
+than selecting leagues itself, so there's nothing to configure for
+Bundesliga — but whether Bundesliga is actually among those 7 isn't
+knowable from the script. Check the combined snapshot's league coverage
+once DataMB is unpaused.
 
 ## Identity pipeline (run after the above, once new player rows exist)
 
@@ -120,7 +152,7 @@ python scripts/identity/build_player_legend.py \
 ```
 
 `build_other_league_teams_reference.py` only needs to be re-run if a
-player transfers between the four tracked leagues mid-season (it rebuilds
+player transfers between the tracked leagues mid-season (it rebuilds
 `reference_data/other_league_teams_for_<League>.csv` from the current
 WhoScored + FotMob parsed data of the *other* leagues) — not part of the
 normal per-matchday cycle:
@@ -133,11 +165,25 @@ python scripts/identity/build_other_league_teams_reference.py \
   data/whoscored/parsed/<latest>/<whoscored_meta_csv_Ligue1> \
   data/fotmob/parsed/<latest>/fra_53/player_stats.csv \
   data/whoscored/parsed/<latest>/<whoscored_meta_csv_SerieA> \
-  data/fotmob/parsed/<latest>/ita_55/player_stats.csv
+  data/fotmob/parsed/<latest>/ita_55/player_stats.csv \
+  data/whoscored/parsed/<latest>/<whoscored_meta_csv_Bundesliga> \
+  data/fotmob/parsed/<latest>/ger_54/player_stats.csv
 ```
 
 (pairs of `<whoscored_meta_csv>`/`<fotmob player_stats.csv>` for every
 league *except* the one you're building the reference for.)
+
+**Bundesliga (5th league) one-time setup:** now that a 5th league is
+tracked, this needs to run twice as much as before:
+1. Build `other_league_teams_for_Bundesliga.csv`, passing in EPL,
+   LaLiga, Ligue1, and SerieA's files (not Bundesliga's own).
+2. Re-run it for each of the *existing* four leagues' reference files too,
+   adding a Bundesliga WhoScored-meta/FotMob-player_stats pair to each —
+   otherwise those four files predate Bundesliga and will wrongly flag any
+   Bundesliga-to-{EPL,LaLiga,Ligue1,SerieA} transfer as cross-league.
+
+After that one-time rebuild, Bundesliga folds into the normal per-matchday
+cycle above like any other league.
 
 ## After scraping: commit
 

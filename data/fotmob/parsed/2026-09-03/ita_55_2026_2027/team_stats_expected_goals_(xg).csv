@@ -1,0 +1,101 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Expected goals (xG),3.07,0.35
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,xG open play,2.62,0.22
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,xG set play,0.45,0.13
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,xG non-penalty,3.07,0.35
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,xG on target (xGOT),3.00,0.36
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Expected goals (xG),0.88,2.70
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,xG open play,0.84,1.41
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,xG set play,0.04,1.29
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,xG non-penalty,0.88,2.70
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,xG on target (xGOT),1.23,1.77
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Expected goals (xG),1.78,0.63
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,xG open play,0.42,0.34
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,xG set play,1.36,0.29
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,xG non-penalty,1.78,0.63
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,xG on target (xGOT),1.56,0.26
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Expected goals (xG),0.41,2.18
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,xG open play,0.29,1.19
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,xG set play,0.12,0.99
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,xG non-penalty,0.41,2.18
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,xG on target (xGOT),0.18,0.97
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Expected goals (xG),0.67,0.77
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,xG open play,0.55,0.76
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,xG set play,0.12,0.01
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,xG non-penalty,0.67,0.77
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,xG on target (xGOT),0.02,0.93
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Expected goals (xG),1.05,1.23
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,xG open play,0.68,1.23
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,xG set play,0.37,0.00
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,xG non-penalty,1.05,1.23
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,xG on target (xGOT),1.55,0.74
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Expected goals (xG),0.75,0.94
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,xG open play,0.27,0.58
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,xG set play,0.49,0.36
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,xG non-penalty,0.75,0.94
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,xG on target (xGOT),0.08,0.56
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Expected goals (xG),1.29,2.15
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,xG open play,0.67,2.00
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,xG set play,0.62,0.14
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,xG non-penalty,1.29,2.15
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,xG on target (xGOT),0.89,2.05
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Expected goals (xG),2.14,1.50
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,xG open play,2.04,0.46
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,xG set play,0.11,1.05
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,xG non-penalty,2.14,1.50
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,xG on target (xGOT),1.02,2.19
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Expected goals (xG),2.05,2.70
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,xG open play,1.22,1.68
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,xG set play,0.83,1.02
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,xG non-penalty,2.05,2.70
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,xG on target (xGOT),1.82,2.13
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Expected goals (xG),2.21,0.80
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,xG open play,1.52,0.72
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,xG set play,0.68,0.09
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,xG non-penalty,2.21,0.80
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,xG on target (xGOT),1.34,0.20
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Expected goals (xG),0.15,1.05
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,xG open play,0.14,0.99
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,xG set play,0.02,0.06
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,xG non-penalty,0.15,1.05
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,xG on target (xGOT),0.05,1.13
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Expected goals (xG),0.48,3.67
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,xG open play,0.26,2.90
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,xG set play,0.22,0.77
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,xG non-penalty,0.48,3.67
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,xG on target (xGOT),0.00,1.55
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Expected goals (xG),2.13,1.11
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,xG open play,1.61,0.79
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,xG set play,0.52,0.32
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,xG non-penalty,2.13,1.11
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,xG on target (xGOT),0.26,1.94
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Expected goals (xG),1.58,0.25
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,xG open play,0.84,0.20
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,xG set play,0.74,0.06
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,xG non-penalty,1.58,0.25
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,xG on target (xGOT),1.47,0.99
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Expected goals (xG),1.62,0.42
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,xG open play,0.75,0.37
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,xG set play,0.87,0.05
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,xG non-penalty,1.62,0.42
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,xG on target (xGOT),0.33,0.04
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Expected goals (xG),0.80,3.27
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,xG open play,0.48,3.27
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,xG set play,0.32,0.00
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,xG non-penalty,0.80,3.27
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,xG on target (xGOT),0.20,3.79
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Expected goals (xG),1.70,0.98
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,xG open play,1.57,0.81
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,xG set play,0.14,0.18
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,xG non-penalty,1.70,0.98
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,xG on target (xGOT),1.78,1.82
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Expected goals (xG),1.39,1.05
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,xG open play,1.17,0.94
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,xG set play,0.21,0.11
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,xG non-penalty,1.39,1.05
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,xG on target (xGOT),0.46,1.62
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Expected goals (xG),1.85,1.26
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,xG open play,1.63,1.00
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,xG set play,0.22,0.26
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,xG non-penalty,1.85,1.26
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,xG on target (xGOT),0.96,1.38

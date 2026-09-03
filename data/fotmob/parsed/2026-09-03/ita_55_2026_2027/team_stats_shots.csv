@@ -1,0 +1,141 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Total shots,17,9
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Shots off target,6,5
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Shots on target,8,4
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Blocked shots,3,0
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Hit woodwork,0,0
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Shots inside box,13,3
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Shots outside box,4,6
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Total shots,14,22
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Shots off target,4,9
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Shots on target,7,8
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Blocked shots,3,5
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Hit woodwork,1,0
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Shots inside box,8,12
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Shots outside box,6,10
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Total shots,14,10
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Shots off target,6,5
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Shots on target,5,3
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Blocked shots,3,2
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Hit woodwork,1,0
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Shots inside box,11,5
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Shots outside box,3,5
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Total shots,11,20
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Shots off target,7,9
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Shots on target,2,5
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Blocked shots,2,6
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Hit woodwork,1,1
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Shots inside box,7,13
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Shots outside box,4,7
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Total shots,11,13
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Shots off target,4,4
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Shots on target,2,4
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Blocked shots,5,5
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Hit woodwork,0,0
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Shots inside box,7,4
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Shots outside box,4,9
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Total shots,13,7
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Shots off target,5,3
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Shots on target,5,3
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Blocked shots,3,1
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Hit woodwork,1,0
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Shots inside box,10,6
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Shots outside box,3,1
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Total shots,13,14
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Shots off target,10,6
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Shots on target,2,5
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Blocked shots,1,3
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Hit woodwork,0,2
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Shots inside box,7,9
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Shots outside box,6,5
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Total shots,8,19
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Shots off target,5,9
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Shots on target,1,4
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Blocked shots,2,6
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Hit woodwork,1,0
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Shots inside box,7,19
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Shots outside box,1,0
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Total shots,17,20
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Shots off target,12,7
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Shots on target,3,6
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Blocked shots,2,7
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Hit woodwork,0,1
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Shots inside box,11,13
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Shots outside box,6,7
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Total shots,19,12
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Shots off target,10,6
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Shots on target,7,5
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Blocked shots,2,1
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Hit woodwork,2,1
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Shots inside box,12,7
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Shots outside box,7,5
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Total shots,16,9
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Shots off target,9,3
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Shots on target,5,2
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Blocked shots,2,4
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Hit woodwork,1,0
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Shots inside box,11,7
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Shots outside box,5,2
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Total shots,6,16
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Shots off target,2,10
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Shots on target,2,3
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Blocked shots,2,3
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Hit woodwork,0,1
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Shots inside box,3,10
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Shots outside box,3,6
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Total shots,10,31
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Shots off target,8,17
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Shots on target,0,7
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Blocked shots,2,7
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Hit woodwork,0,0
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Shots inside box,5,25
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Shots outside box,5,6
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Total shots,25,12
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Shots off target,13,3
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Shots on target,4,6
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Blocked shots,8,3
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Hit woodwork,2,0
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Shots inside box,14,10
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Shots outside box,11,2
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Total shots,21,4
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Shots off target,12,1
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Shots on target,6,3
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Blocked shots,3,0
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Hit woodwork,2,0
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Shots inside box,10,3
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Shots outside box,11,1
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Total shots,15,8
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Shots off target,8,4
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Shots on target,2,1
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Blocked shots,5,3
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Hit woodwork,1,0
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Shots inside box,9,5
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Shots outside box,6,3
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Total shots,7,15
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Shots off target,4,7
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Shots on target,3,8
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Blocked shots,0,0
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Hit woodwork,0,1
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Shots inside box,3,10
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Shots outside box,4,5
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Total shots,15,12
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Shots off target,6,3
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Shots on target,5,5
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Blocked shots,4,4
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Hit woodwork,0,0
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Shots inside box,11,10
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Shots outside box,4,2
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Total shots,13,21
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Shots off target,7,10
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Shots on target,2,6
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Blocked shots,4,5
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Hit woodwork,0,0
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Shots inside box,9,13
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Shots outside box,4,8
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Total shots,19,10
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Shots off target,6,3
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Shots on target,7,4
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Blocked shots,6,3
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Hit woodwork,1,0
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Shots inside box,11,8
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Shots outside box,8,2

@@ -1,0 +1,201 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Ball possession,64,36
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Expected goals (xG),1.88,0.20
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Total shots,20,4
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Shots on target,6,1
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Touches in opposition box,36,3
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Big chances,1,1
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Big chances missed,0,1
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Accurate passes,565 (92%),271 (78%)
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Yellow cards,1,1
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Corners,8,2
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Ball possession,28,72
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Expected goals (xG),1.01,1.83
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Total shots,8,21
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Shots on target,4,5
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Touches in opposition box,11,41
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Big chances,3,2
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Big chances missed,1,2
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Accurate passes,180 (70%),588 (88%)
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Yellow cards,2,1
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Corners,1,6
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Ball possession,42,58
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Expected goals (xG),1.12,1.96
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Total shots,16,11
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Shots on target,5,4
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Touches in opposition box,35,14
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Big chances,1,4
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Big chances missed,0,4
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Accurate passes,343 (82%),505 (87%)
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Yellow cards,0,1
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Corners,4,0
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Ball possession,38,62
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Expected goals (xG),1.80,0.66
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Total shots,10,11
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Shots on target,3,4
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Touches in opposition box,21,18
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Big chances,2,2
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Big chances missed,1,2
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Accurate passes,262 (79%),489 (88%)
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Yellow cards,0,3
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Corners,3,5
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Ball possession,56,44
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Expected goals (xG),0.66,0.47
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Total shots,12,11
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Shots on target,2,3
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Touches in opposition box,22,15
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Big chances,0,0
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Big chances missed,0,0
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Accurate passes,321 (78%),232 (71%)
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Yellow cards,2,1
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Corners,3,2
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Ball possession,40,60
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Expected goals (xG),3.87,0.57
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Total shots,26,9
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Shots on target,8,4
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Touches in opposition box,39,17
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Big chances,6,2
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Big chances missed,3,2
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Accurate passes,296 (82%),482 (88%)
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Yellow cards,1,1
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Corners,7,3
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Ball possession,73,27
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Expected goals (xG),3.77,0.29
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Total shots,21,6
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Shots on target,6,0
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Touches in opposition box,38,5
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Big chances,6,0
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Big chances missed,3,0
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Accurate passes,601 (93%),185 (76%)
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Yellow cards,2,3
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Corners,5,2
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Ball possession,66,34
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Expected goals (xG),2.25,0.65
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Total shots,13,5
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Shots on target,6,4
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Touches in opposition box,37,6
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Big chances,4,1
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Big chances missed,3,0
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Accurate passes,584 (89%),270 (78%)
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Yellow cards,1,2
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Corners,8,3
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Ball possession,39,61
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Expected goals (xG),1.58,2.98
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Total shots,13,27
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Shots on target,4,7
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Touches in opposition box,16,36
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Big chances,3,3
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Big chances missed,2,2
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Accurate passes,224 (76%),375 (84%)
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Yellow cards,5,3
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Corners,2,6
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Ball possession,62,38
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Expected goals (xG),1.33,2.24
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Total shots,14,18
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Shots on target,6,6
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Touches in opposition box,25,38
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Big chances,2,4
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Big chances missed,1,1
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Accurate passes,553 (87%),322 (82%)
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Yellow cards,2,3
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Corners,6,4
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Ball possession,59,41
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Expected goals (xG),2.16,1.84
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Total shots,17,13
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Shots on target,5,7
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Touches in opposition box,28,20
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Big chances,6,3
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Big chances missed,6,3
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Accurate passes,374 (83%),242 (77%)
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Yellow cards,3,2
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Corners,10,7
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Ball possession,39,61
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Expected goals (xG),0.33,1.04
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Total shots,7,7
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Shots on target,0,2
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Touches in opposition box,16,21
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Big chances,0,2
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Big chances missed,0,1
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Accurate passes,273 (81%),465 (88%)
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Yellow cards,3,1
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Corners,2,4
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Ball possession,26,74
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Expected goals (xG),2.93,1.41
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Total shots,17,15
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Shots on target,6,6
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Touches in opposition box,29,27
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Big chances,6,5
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Big chances missed,3,4
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Accurate passes,155 (68%),567 (88%)
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Yellow cards,1,3
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Corners,4,7
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Ball possession,68,32
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Expected goals (xG),1.29,0.72
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Total shots,11,6
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Shots on target,3,2
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Touches in opposition box,20,13
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Big chances,1,1
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Big chances missed,1,0
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Accurate passes,501 (86%),182 (67%)
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Yellow cards,1,4
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Corners,6,2
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Ball possession,28,72
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Expected goals (xG),0.66,2.21
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Total shots,9,18
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Shots on target,1,9
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Touches in opposition box,14,35
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Big chances,3,5
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Big chances missed,3,2
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Accurate passes,236 (81%),731 (93%)
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Yellow cards,1,2
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Corners,2,6
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Ball possession,47,53
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Expected goals (xG),1.46,1.67
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Total shots,12,22
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Shots on target,2,5
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Touches in opposition box,19,40
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Big chances,1,2
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Big chances missed,0,2
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Accurate passes,282 (76%),333 (78%)
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Yellow cards,0,4
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Corners,5,6
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Ball possession,69,31
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Expected goals (xG),1.75,2.30
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Total shots,13,12
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Shots on target,4,3
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Touches in opposition box,21,23
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Big chances,1,5
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Big chances missed,0,3
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Accurate passes,562 (89%),193 (67%)
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Yellow cards,4,2
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Corners,3,5
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Ball possession,60,40
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Expected goals (xG),4.77,2.06
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Total shots,33,9
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Shots on target,11,5
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Touches in opposition box,44,13
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Big chances,9,4
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Big chances missed,5,2
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Accurate passes,502 (89%),305 (83%)
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Yellow cards,1,3
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Corners,8,4
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Ball possession,41,59
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Expected goals (xG),2.02,0.95
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Total shots,12,11
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Shots on target,4,0
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Touches in opposition box,19,26
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Big chances,4,2
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Big chances missed,3,2
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Accurate passes,326 (84%),473 (84%)
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Yellow cards,0,2
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Corners,3,4
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Ball possession,58,42
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Expected goals (xG),1.12,0.72
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Total shots,17,11
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Shots on target,6,2
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Touches in opposition box,33,21
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Big chances,2,1
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Big chances missed,2,0
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Accurate passes,442 (89%),314 (84%)
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Yellow cards,1,2
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Corners,9,7

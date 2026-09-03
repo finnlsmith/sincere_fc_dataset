@@ -20,7 +20,7 @@ URL = "https://theanalyst.com/wp-json/sdapi/v1/soccerdata/tournamentstats"
 # of the 401s (simpler than the context-sharing/fingerprint theory).
 LEAGUES = {
     "EPL":        ("6pdwluctev9iebv00r4qqukno", "https://theanalyst.com/competition/premier-league/stats"),
-    # "Bundesliga": ("8h5xijv2u4mlf5028gso6kw7o", "https://theanalyst.com/competition/bundesliga/stats"),
+    "Bundesliga": ("8h5xijv2u4mlf5028gso6kw7o", "https://theanalyst.com/competition/bundesliga/stats"),
     "LaLiga":     ("830epggffy1nfkfyrtpqdwhlg", "https://theanalyst.com/competition/la-liga/stats"),
     "Ligue1":     ("bqnc4ccgnrp6pb3bktqet0yz8", "https://theanalyst.com/competition/ligue-1/stats"),
     "SerieA":     ("60cryos85i4bp5ul34tt0brx0", "https://theanalyst.com/competition/serie-a/stats"),

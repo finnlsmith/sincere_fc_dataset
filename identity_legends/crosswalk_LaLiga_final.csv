@@ -1,21 +1,27 @@
 source,source_native_id,source_name,canonical_player_id,matched_to_master
+opta,720320,Aaron Mayol,720320,True
+opta,500745,Abde Ezzalzouli,500745,True
 opta,586866,Abde Rebbach,586866,True
 opta,463001,Abdel Abqar,463001,True
 opta,631935,Abdoulaye Faye,opta_new_631935,False
 opta,498594,Abel Bretones,498594,True
+opta,572662,Abiel Osorio,opta_new_572662,False
 opta,629738,Adama Boiro,629738,True
 opta,720618,Adama Timera,720618,True
 opta,219352,Ademola Lookman,219352,True
 opta,465599,Adrià Alti,465599,True
+opta,446990,Adrià Pedrosa,446990,True
 opta,437808,Adrián de la Fuente,437808,True
 opta,472145,Aihen Muñoz,472145,True
 opta,484702,Aimar Oroz,484702,True
 opta,551482,Aitor Mañas,551482,True
 opta,440593,Aitor Paredes,440593,True
+opta,665522,Alassane Diatta,665522,True
 opta,645746,Alberto Calatrava,opta_new_645746,False
 opta,513956,Alberto Moleiro,513956,True
 opta,654780,Alberto Risco,654780,True
 opta,199250,Aleix Febas,199250,True
+opta,493019,Alejandro Balde,493019,True
 opta,244273,Alejandro Catena,244273,True
 opta,106004,Alejandro Grimaldo,opta_new_106004,False
 opta,631986,Alejandro Rego,631986,True
@@ -26,6 +32,7 @@ opta,627656,Alex Lebarbier,627656,True
 opta,634254,Alex Marchal,634254,True
 opta,643319,Alex Panach,643319,True
 opta,704994,Alexis Ciria,opta_new_704994,False
+opta,446814,Alfon González,446814,True
 opta,165795,Alfonso Herrero,opta_new_165795,False
 opta,631382,Ali Houary,631382,True
 opta,449576,Aliou Dieng,opta_new_449576,False
@@ -34,6 +41,7 @@ opta,431644,Ander Guevara,431644,True
 opta,135363,Andreas Christensen,135363,True
 opta,466543,Andrei Ratiu,466543,True
 opta,247636,André Almeida,247636,True
+opta,672231,Andrés Antañón,672231,True
 opta,562922,Andrés Castrín,562922,True
 opta,606798,Andrés García,opta_new_606798,False
 opta,444284,Andrés Martín,opta_new_444284,False
@@ -47,10 +55,12 @@ opta,176245,Antonio Sivera,176245,True
 opta,467169,Antony,467169,True
 opta,520250,Arda Güler,520250,True
 opta,437774,Arnau Comas,opta_new_437774,False
+opta,517333,Arnau Martínez,517333,True
 opta,552095,Arnau Ortiz,opta_new_552095,False
 opta,220307,Arnaut Danjuma,220307,True
 opta,509285,Arouna Sangante,opta_new_509285,False
 opta,475612,Arsen Zakharyan,475612,True
+opta,647953,Asier Bonel,opta_new_647953,False
 opta,646142,Asier Osambela,646142,True
 opta,212770,Asier Villalibre,opta_new_212770,False
 opta,173209,Augusto Batalla,173209,True
@@ -80,10 +90,12 @@ opta,588993,Carlos Romero,588993,True
 opta,224860,Carlos Soler,224860,True
 opta,720621,Carlos Sánchez,opta_new_720621,False
 opta,494921,Carlos Álvarez,494921,True
+opta,499358,Cestero,499358,True
 opta,696086,Cheikh Thiam,opta_new_696086,False
 opta,250437,Chidera Ejuke,250437,True
 opta,620045,Chupe,opta_new_620045,False
 opta,514968,Clemens Riedel,514968,True
+opta,221632,Cristian Romero,opta_new_221632,False
 opta,709993,Cubo,709993,True
 opta,244716,Cucho Hernández,244716,True
 opta,675560,Curro Burgos,opta_new_675560,False
@@ -107,6 +119,7 @@ opta,664923,Diego Díaz,opta_new_664923,False
 opta,149915,Diego Llorente,149915,True
 opta,171129,Diego Rico,171129,True
 opta,562005,Diego Villares,opta_new_562005,False
+opta,96767,Dimitri Foulquier,96767,True
 opta,149838,Djené Dakonam,149838,True
 opta,235093,Dávid Hancko,235093,True
 opta,748228,Ebrahima Drammeh,opta_new_748228,False
@@ -141,9 +154,11 @@ opta,523234,Gerard Martín,523234,True
 opta,93721,Gerard Moreno,93721,True
 opta,467020,Germán Valera,467020,True
 opta,456504,Giacomo Quagliata,opta_new_456504,False
+opta,486783,Giorgi Guliashvili,opta_new_486783,False
 opta,428798,Giorgi Kochorashvili,opta_new_428798,False
 opta,451017,Giorgi Tsitaishvili,451017,True
 opta,482652,Giuliano Simeone,482652,True
+opta,747880,Gnangoro,opta_new_747880,False
 opta,450782,Gonzalo Villar,450782,True
 opta,181284,Gonçalo Guedes,181284,True
 opta,632509,Gorka Carrera,632509,True
@@ -170,6 +185,7 @@ opta,591617,Ifeanyi Ndukwe,opta_new_591617,False
 opta,216475,Igor Zubeldia,216475,True
 opta,637198,Iker Córdoba,opta_new_637198,False
 opta,490726,Iker Losada,490726,True
+opta,668821,Iker Monreal,668821,True
 opta,592812,Iker Munoz,592812,True
 opta,589577,Iker Muñoz,589577,True
 opta,465689,Ilaix Moriba,465689,True
@@ -207,6 +223,7 @@ opta,564923,Johaneko Louis-Jean,opta_new_564923,False
 opta,488662,Johnny Cardoso,488662,True
 opta,513945,Jon Ander Olasagasti,513945,True
 opta,479816,Jon Aramburu,479816,True
+opta,546812,Jon Gorrotxategi,546812,True
 opta,201178,Jon Guridi,201178,True
 opta,620617,Jon Martín,620617,True
 opta,477463,Jon Moncayola,477463,True
@@ -219,12 +236,12 @@ opta,723493,Jordi Pesquer,opta_new_723493,False
 opta,648762,Jorge Cabello,648762,True
 opta,621929,Jorge Castellanos,opta_new_621929,False
 opta,593184,Jorge Castillo,opta_new_593184,False
-opta,499358,Jorge Cestero,499358,True
 opta,710911,Jorge Domínguez,opta_new_710911,False
 opta,463784,Jorge Herrando,463784,True
 opta,658061,Jorge Salinas,opta_new_658061,False
 opta,241153,Jorge de Frutos,241153,True
 opta,199195,Josan,199195,True
+opta,619893,Joselu Pérez,619893,True
 opta,746342,Joseph Otu,opta_new_746342,False
 opta,132105,José Gayà,132105,True
 opta,151883,José María Giménez,151883,True
@@ -271,6 +288,7 @@ opta,514664,Luiz Júnior,514664,True
 opta,464166,Luka Sucic,464166,True
 opta,612301,Luken Beitia,612301,True
 opta,572069,Maguette Gueye,opta_new_572069,False
+opta,574458,Mamadou Sarr,opta_new_574458,False
 opta,749255,Manel Usedo,opta_new_749255,False
 opta,550781,Manu Bueno,550781,True
 opta,179372,Manu Hernando,opta_new_179372,False
@@ -299,6 +317,7 @@ opta,483083,Martim Neto,483083,True
 opta,474843,Martín Satriano,474843,True
 opta,131897,Mathew Ryan,131897,True
 opta,593181,Matia Barzic,opta_new_593181,False
+opta,588222,Matteo Prati,opta_new_588222,False
 opta,98448,Matías Dituro,98448,True
 opta,646145,Mauro Echegoyen,646145,True
 opta,429213,Miguel Loureiro,opta_new_429213,False
@@ -316,12 +335,14 @@ opta,485098,Moussa Diarra,485098,True
 opta,704770,Nacho Pérez,704770,True
 opta,432855,Nahuel Tenaglia,432855,True
 opta,448085,Natan,448085,True
+opta,496694,Nathan Saliba,opta_new_496694,False
 opta,544538,Nelson Deossa,544538,True
+opta,72154,Nemanja Gudelj,72154,True
 opta,664217,Nico Guillén,664217,True
 opta,523654,Nico Williams,523654,True
 opta,195735,Nicolas Pepe,195735,True
 opta,536665,Nicolás Valentini,536665,True
-opta,746335,Nizar El Jmili,opta_new_746335,False
+opta,746335,Nizar,opta_new_746335,False
 opta,631383,Nordin Al Lal,opta_new_631383,False
 opta,111452,Odysseas Vlachodimos,111452,True
 opta,439772,Oihan Sancet,439772,True
@@ -355,6 +376,7 @@ opta,175090,Pere Milla,175090,True
 opta,54694,Pierre-Emerick Aubameyang,opta_new_54694,False
 opta,227172,Pol Lozano,227172,True
 opta,494960,Quilindschy Hartman,494960,True
+opta,567886,Quique Ribes,opta_new_567886,False
 opta,608484,Rafa Rodríguez,opta_new_608484,False
 opta,654680,Rafel Bauzà,654680,True
 opta,640504,Rafita,opta_new_640504,False
@@ -370,6 +392,8 @@ opta,503537,Robbie Ure,opta_new_503537,False
 opta,460265,Robert Navarro,460265,True
 opta,537940,Roberto Fernández,537940,True
 opta,224919,Robin Le Normand,224919,True
+opta,627127,Rockson Yeboah,opta_new_627127,False
+opta,220566,Rodri,opta_new_220566,False
 opta,578538,Rodrigo Mendoza,578538,True
 opta,437834,Rodrigo Riquelme,437834,True
 opta,439878,Roger Brugué,439878,True
@@ -421,6 +445,7 @@ opta,634630,Xavi Espart,634630,True
 opta,90728,Ximo Navarro,opta_new_90728,False
 opta,692871,Yan Diomande,opta_new_692871,False
 opta,226541,Yangel Herrera,226541,True
+opta,664880,Yanis Musuayi,opta_new_664880,False
 opta,652987,Yassir Zabiri,opta_new_652987,False
 opta,197319,Yeray Álvarez,197319,True
 opta,523890,Yeremay Hernández,opta_new_523890,False
@@ -449,371 +474,395 @@ opta,464168,Íñigo Sainz-Maza,opta_new_464168,False
 opta,679262,Óscar López,opta_new_679262,False
 opta,433161,Óscar Valentín,433161,True
 whoscored,300447,Raphinha,219961,True
-whoscored,379868,Jude Bellingham,244855,True
 whoscored,300713,Kylian Mbappé,220160,True
-whoscored,463838,Fermín López,551086,True
-whoscored,323236,Mariano Díaz,178347,True
-whoscored,415181,Arda Güler,520250,True
+whoscored,379868,Jude Bellingham,244855,True
+whoscored,83686,Marc Bartra,81138,True
+whoscored,480249,Lamine Yamal,593109,True
 whoscored,123232,Diego Llorente,149915,True
 whoscored,433286,Valentín Gómez,570931,True
-whoscored,591617,Xavi Espart,634630,True
-whoscored,83686,Marc Bartra,81138,True
+whoscored,415181,Arda Güler,520250,True
+whoscored,463838,Fermín López,551086,True
 whoscored,368091,Eric García,432656,True
-whoscored,323148,Marc Roca,234370,True
-whoscored,347874,Nahuel Tenaglia,432855,True
-whoscored,107252,Alejandro Grimaldo,whoscored_new_107252,False
-whoscored,130331,Andreas Christensen,135363,True
-whoscored,512879,Gerard Martín,523234,True
-whoscored,239872,Nicolas Pepe,195735,True
-whoscored,448296,Roberto Fernández,537940,True
-whoscored,344644,Federico Valverde,223255,True
-whoscored,402197,Pedri,490541,True
+whoscored,591617,Xavi Espart,634630,True
 whoscored,337782,Vinícius Júnior,246333,True
+whoscored,395242,Álex Baena,248501,True
 whoscored,44120,Pierre-Emerick Aubameyang,whoscored_new_44120,False
-whoscored,243262,David Soria,175204,True
-whoscored,511064,Oso,637705,True
-whoscored,364315,Antony,467169,True
-whoscored,431668,Johaneko Louis-Jean,whoscored_new_431668,False
-whoscored,389020,Georges Mikautadze,499209,True
-whoscored,448208,Álvaro Valles,472194,True
-whoscored,349669,Anthony Gordon,whoscored_new_349669,False
-whoscored,388505,Lucien Agoumé,468426,True
-whoscored,402206,Natan,448085,True
-whoscored,480249,Lamine Yamal,593109,True
-whoscored,402663,Aitor Paredes,440593,True
-whoscored,367780,Lee Kang-In,whoscored_new_367780,False
-whoscored,506010,Javi Hernández,whoscored_new_506010,False
-whoscored,546572,Mikel Rodríguez,whoscored_new_546572,False
 whoscored,534796,Marc Bernal,637126,True
-whoscored,81523,Mathew Ryan,131897,True
-whoscored,236575,Unai López,183462,True
-whoscored,362779,Dávid Hancko,235093,True
-whoscored,374638,Alejandro Catena,244273,True
+whoscored,512879,Gerard Martín,523234,True
+whoscored,349669,Anthony Gordon,whoscored_new_349669,False
+whoscored,323236,Mariano Díaz,178347,True
+whoscored,347874,Nahuel Tenaglia,432855,True
+whoscored,367780,Lee Kang-In,whoscored_new_367780,False
+whoscored,448231,Roger Brugué,439878,True
+whoscored,239872,Nicolas Pepe,195735,True
+whoscored,511064,Oso,637705,True
 whoscored,382631,Rodrigo Riquelme,437834,True
-whoscored,422918,Giuliano Simeone,482652,True
-whoscored,498386,Pau Cubarsí,593110,True
-whoscored,427831,César Tárrega,492898,True
+whoscored,448296,Roberto Fernández,537940,True
+whoscored,318871,Trent Alexander-Arnold,169187,True
+whoscored,402663,Aitor Paredes,440593,True
+whoscored,81523,Mathew Ryan,131897,True
+whoscored,374638,Alejandro Catena,244273,True
+whoscored,362779,Dávid Hancko,235093,True
+whoscored,364315,Antony,467169,True
+whoscored,323148,Marc Roca,234370,True
+whoscored,344644,Federico Valverde,223255,True
+whoscored,507590,Miguel Sierra,639309,True
+whoscored,413346,Jon Ander Olasagasti,513945,True
+whoscored,335107,Juan Foyth,234908,True
+whoscored,104010,Antonio Rüdiger,102380,True
+whoscored,141044,Antonio Sivera,176245,True
 whoscored,413758,Pablo Ramón,whoscored_new_413758,False
 whoscored,545675,Ángel Ortiz,588143,True
-whoscored,468761,Cala,whoscored_new_468761,False
-whoscored,430148,Marc Pubill,562720,True
-whoscored,541900,Jorge Salinas,whoscored_new_541900,False
-whoscored,98126,Ante Budimir,94273,True
-whoscored,303876,Guido Rodríguez,197024,True
-whoscored,468852,Dean Huijsen,554605,True
-whoscored,135098,Johan Mojica,152723,True
-whoscored,408735,Juan Iglesias,464283,True
-whoscored,422824,Joan García,449928,True
-whoscored,492362,Isaac Romero,610206,True
-whoscored,280060,Toni Martínez,178867,True
-whoscored,90115,Aïssa Mandi,whoscored_new_90115,False
-whoscored,444254,Pablo Ibáñez,522856,True
-whoscored,447835,Abde Rebbach,586866,True
-whoscored,422957,Fran García,227166,True
-whoscored,381510,Oihan Sancet,439772,True
-whoscored,444244,Ramón Terrats,519373,True
-whoscored,586240,Sergio Martínez,whoscored_new_586240,False
-whoscored,447938,Carlos Puga,whoscored_new_447938,False
-whoscored,498163,Dani Martinez,whoscored_new_498163,False
-whoscored,335696,Edu Expósito,420909,True
-whoscored,508349,Rafita,whoscored_new_508349,False
-whoscored,512611,Facundo Bernal,whoscored_new_512611,False
-whoscored,444253,Jorge Herrando,463784,True
-whoscored,119189,Rubén García,130026,True
-whoscored,270504,Álex Remiro,197316,True
-whoscored,345957,Ibrahima Konaté,whoscored_new_345957,False
-whoscored,395242,Álex Baena,248501,True
-whoscored,434138,Pablo Barrios,503523,True
-whoscored,461771,Abel Bretones,498594,True
-whoscored,434077,Renato Veiga,551230,True
-whoscored,335107,Juan Foyth,234908,True
-whoscored,362501,Cucho Hernández,244716,True
-whoscored,110273,Odysseas Vlachodimos,111452,True
-whoscored,461527,Carlos Dotor,whoscored_new_461527,False
-whoscored,507590,Miguel Sierra,639309,True
-whoscored,578266,Nacho Pérez,704770,True
-whoscored,80758,Florian Lejeune,77359,True
-whoscored,97659,Gerard Moreno,93721,True
-whoscored,141044,Antonio Sivera,176245,True
-whoscored,448284,Andrés Castrín,562922,True
-whoscored,399047,Pape Gueye,422453,True
-whoscored,517618,Iñigo Arguibide,646149,True
-whoscored,344200,Unai Núñez,242830,True
-whoscored,297203,Pablo Fornals,217593,True
-whoscored,392646,Karim Adeyemi,whoscored_new_392646,False
-whoscored,259393,Marko Dmitrovic,94618,True
-whoscored,448294,Dani Lorenzo,whoscored_new_448294,False
-whoscored,80764,Koke,77390,True
-whoscored,357388,Gonzalo Villar,450782,True
-whoscored,279839,Yeray Álvarez,197319,True
-whoscored,381643,Aleix Febas,199250,True
-whoscored,423973,Manu Hernando,whoscored_new_423973,False
-whoscored,424675,Francho Serrano,whoscored_new_424675,False
-whoscored,286080,Gabriel Suazo,213102,True
-whoscored,551186,Pablo García,623696,True
-whoscored,409467,Antonio Blanco,437465,True
-whoscored,448303,David Larrubia,whoscored_new_448303,False
-whoscored,423108,Julen Agirrezabala,470508,True
-whoscored,423420,Leo Román,500755,True
-whoscored,141497,Einar Galilea,whoscored_new_141497,False
-whoscored,115917,Jonny Otto,114128,True
-whoscored,91242,Iago Aspas,40270,True
+whoscored,422918,Giuliano Simeone,482652,True
 whoscored,402137,Iñigo Vicente,whoscored_new_402137,False
-whoscored,424575,Ville Koski,519810,True
-whoscored,389191,Zaid Romero,500021,True
-whoscored,84008,Marcos Alonso,82263,True
-whoscored,448231,Roger Brugué,439878,True
-whoscored,386230,Jorge de Frutos,241153,True
-whoscored,428620,Luismi Cruz,whoscored_new_428620,False
+whoscored,130331,Andreas Christensen,135363,True
+whoscored,236575,Unai López,183462,True
+whoscored,546572,Mikel Rodríguez,whoscored_new_546572,False
+whoscored,303876,Guido Rodríguez,197024,True
+whoscored,402197,Pedri,490541,True
+whoscored,498386,Pau Cubarsí,593110,True
 whoscored,506205,Ángel Pérez,633295,True
-whoscored,332990,Djené Dakonam,149838,True
 whoscored,470032,Lorenzo Amatucci,whoscored_new_470032,False
-whoscored,136741,Bernardo Silva,whoscored_new_136741,False
-whoscored,302889,Pepelu,220191,True
-whoscored,76662,Jan Oblak,81352,True
-whoscored,374813,Manu Sánchez,465494,True
-whoscored,383924,Raúl García,490859,True
-whoscored,336251,Kike Barja,178870,True
-whoscored,44189,Sergio Canales,whoscored_new_44189,False
-whoscored,519969,Youssef Enriquez,554656,True
-whoscored,432475,Nelson Deossa,544538,True
-whoscored,468931,Carlos Romero,588993,True
-whoscored,419935,Clemens Riedel,514968,True
-whoscored,555136,Roger Hinojo,whoscored_new_555136,False
-whoscored,322153,Denzel Dumfries,whoscored_new_322153,False
-whoscored,386622,Sergio Carreira,439871,True
-whoscored,303629,Augusto Batalla,173209,True
-whoscored,422958,Óscar Valentín,433161,True
-whoscored,351252,Junior Firpo,443967,True
-whoscored,446729,Thiago Fernández,575889,True
-whoscored,337022,Chidera Ejuke,250437,True
-whoscored,444251,Arnau Ortiz,whoscored_new_444251,False
-whoscored,422956,José Ángel Carmona,545998,True
-whoscored,134695,Enes Ünal,whoscored_new_134695,False
-whoscored,448050,Marc Aguado,484741,True
-whoscored,372473,Iván Martín,224467,True
-whoscored,296723,Ionut Radu,215531,True
-whoscored,422963,Pathé Ciss,441175,True
-whoscored,448211,Alberto Moleiro,513956,True
-whoscored,363496,Marc Cucurella,whoscored_new_363496,False
-whoscored,106525,Denis Suárez,89572,True
-whoscored,541868,Chupe,whoscored_new_541868,False
-whoscored,398922,Tyrhys Dolan,420926,True
-whoscored,261212,Dani Olmo,179370,True
-whoscored,82989,Isco,80209,True
-whoscored,294848,Pablo Maffeo,170154,True
-whoscored,344073,Orel Mangala,whoscored_new_344073,False
-whoscored,449410,Omar El Hilali,517929,True
-whoscored,422937,Gavi,500046,True
-whoscored,431768,Lucas Noubi,whoscored_new_431768,False
-whoscored,528001,Yoel Lago,643133,True
-whoscored,518928,Asier Osambela,646142,True
-whoscored,407080,Luka Sucic,464166,True
-whoscored,516341,Carlos Espí,645745,True
-whoscored,381673,Jon Moncayola,477463,True
-whoscored,463938,Rodrigo Mendoza,578538,True
-whoscored,355110,Sergio Gómez,437468,True
-whoscored,462768,Miguel Román,602479,True
-whoscored,403647,Morten Hjulmand,whoscored_new_403647,False
-whoscored,255182,Iñaki Williams,197334,True
-whoscored,508331,Javi Rodríguez,638238,True
-whoscored,377285,Takefusa Kubo,219271,True
-whoscored,119817,José Gayà,132105,True
-whoscored,413346,Jon Ander Olasagasti,513945,True
-whoscored,431507,Javi Guerra,546540,True
-whoscored,403803,Martín Satriano,474843,True
-whoscored,531460,Rafel Bauzà,whoscored_new_531460,False
-whoscored,454790,Robbie Ure,whoscored_new_454790,False
-whoscored,372469,Sergio Camello,248507,True
-whoscored,448041,Adrià Alti,465599,True
-whoscored,100881,Ximo Navarro,whoscored_new_100881,False
-whoscored,448936,Santiago Mouriño,536642,True
-whoscored,486031,Arouna Sangante,whoscored_new_486031,False
-whoscored,379684,Filip Ugrinic,242169,True
-whoscored,249960,Lucas Torró,111232,True
-whoscored,299451,Ademola Lookman,219352,True
-whoscored,474267,Iker Muñoz,589577,True
-whoscored,137031,Ezequiel Ponce,whoscored_new_137031,False
+whoscored,90115,Aïssa Mandi,whoscored_new_90115,False
+whoscored,468852,Dean Huijsen,554605,True
+whoscored,98126,Ante Budimir,94273,True
 whoscored,238899,Alex Berenguer,195385,True
-whoscored,73798,Thibaut Courtois,60772,True
-whoscored,141499,Stole Dimitrievski,94878,True
-whoscored,568737,Davinchi,700202,True
-whoscored,261509,Alfonso Herrero,whoscored_new_261509,False
-whoscored,135345,Álvaro García,165682,True
-whoscored,408732,Jesús Vázquez,466044,True
-whoscored,631884,Bright Ede,whoscored_new_631884,False
-whoscored,463961,Jon Aramburu,479816,True
-whoscored,464952,Peque Fernández,493086,True
-whoscored,459082,Pablo Durán,597355,True
-whoscored,401173,Urko González de Zárate,514204,True
-whoscored,101238,Moi Gómez,109243,True
-whoscored,598590,Bil Nsongo,whoscored_new_598590,False
-whoscored,621893,Nico Guillén,whoscored_new_621893,False
-whoscored,536242,Peio Canales,whoscored_new_536242,False
-whoscored,472904,Gustavo Puerta,whoscored_new_472904,False
+whoscored,506010,Javi Hernández,whoscored_new_506010,False
+whoscored,409467,Antonio Blanco,437465,True
+whoscored,541900,Jorge Salinas,whoscored_new_541900,False
+whoscored,555136,Roger Hinojo,whoscored_new_555136,False
+whoscored,586240,Sergio Martínez,whoscored_new_586240,False
+whoscored,107252,Alejandro Grimaldo,whoscored_new_107252,False
+whoscored,434138,Pablo Barrios,503523,True
+whoscored,538158,Yassir Zabiri,whoscored_new_538158,False
+whoscored,115917,Jonny Otto,114128,True
+whoscored,461771,Abel Bretones,498594,True
+whoscored,299451,Ademola Lookman,219352,True
+whoscored,498163,Dani Martinez,whoscored_new_498163,False
+whoscored,76662,Jan Oblak,81352,True
+whoscored,424575,Ville Koski,519810,True
+whoscored,303800,Lucas Boyé,193774,True
+whoscored,388505,Lucien Agoumé,468426,True
+whoscored,259393,Marko Dmitrovic,94618,True
+whoscored,402206,Natan,448085,True
+whoscored,372469,Sergio Camello,248507,True
+whoscored,243262,David Soria,175204,True
+whoscored,345957,Ibrahima Konaté,whoscored_new_345957,False
+whoscored,389020,Georges Mikautadze,499209,True
+whoscored,448208,Álvaro Valles,472194,True
+whoscored,517618,Iñigo Arguibide,646149,True
+whoscored,357388,Gonzalo Villar,450782,True
+whoscored,444244,Ramón Terrats,519373,True
+whoscored,97659,Gerard Moreno,93721,True
+whoscored,447835,Abde Rebbach,586866,True
+whoscored,448303,David Larrubia,whoscored_new_448303,False
+whoscored,444254,Pablo Ibáñez,522856,True
 whoscored,254582,Marcos Llorente,192364,True
+whoscored,381510,Oihan Sancet,439772,True
+whoscored,423973,Manu Hernando,whoscored_new_423973,False
 whoscored,383780,Adrián de la Fuente,437808,True
-whoscored,366204,Joaquín Muñoz,whoscored_new_366204,False
-whoscored,409130,Mario Soriano,whoscored_new_409130,False
+whoscored,363496,Marc Cucurella,whoscored_new_363496,False
+whoscored,448294,Dani Lorenzo,whoscored_new_448294,False
+whoscored,430148,Marc Pubill,562720,True
+whoscored,422824,Joan García,449928,True
+whoscored,444253,Jorge Herrando,463784,True
+whoscored,508349,Rafita,whoscored_new_508349,False
+whoscored,280060,Toni Martínez,178867,True
+whoscored,279839,Yeray Álvarez,197319,True
+whoscored,106586,Íñigo Ruiz de Galarreta,96736,True
+whoscored,84008,Marcos Alonso,82263,True
+whoscored,337022,Chidera Ejuke,250437,True
+whoscored,344200,Unai Núñez,242830,True
+whoscored,447938,Carlos Puga,whoscored_new_447938,False
+whoscored,449410,Omar El Hilali,517929,True
+whoscored,389191,Zaid Romero,500021,True
+whoscored,392646,Karim Adeyemi,whoscored_new_392646,False
+whoscored,335696,Edu Expósito,420909,True
+whoscored,423108,Julen Agirrezabala,470508,True
+whoscored,463961,Jon Aramburu,479816,True
 whoscored,422961,Andrés Martín,whoscored_new_422961,False
+whoscored,467181,Enzo Bardeli,whoscored_new_467181,False
+whoscored,270504,Álex Remiro,197316,True
+whoscored,598590,Bil Nsongo,whoscored_new_598590,False
+whoscored,431668,Johaneko Louis-Jean,whoscored_new_431668,False
+whoscored,512611,Facundo Bernal,whoscored_new_512611,False
+whoscored,519969,Youssef Enriquez,554656,True
+whoscored,403647,Morten Hjulmand,whoscored_new_403647,False
+whoscored,409130,Mario Soriano,whoscored_new_409130,False
+whoscored,119189,Rubén García,130026,True
 whoscored,332823,Unai Simón,212769,True
+whoscored,518928,Asier Osambela,646142,True
+whoscored,261212,Dani Olmo,179370,True
+whoscored,431768,Lucas Noubi,whoscored_new_431768,False
+whoscored,408735,Juan Iglesias,464283,True
+whoscored,434077,Renato Veiga,551230,True
+whoscored,468761,Cala,whoscored_new_468761,False
+whoscored,374813,Manu Sánchez,465494,True
+whoscored,381673,Jon Moncayola,477463,True
+whoscored,296723,Ionut Radu,215531,True
+whoscored,391082,Fer Niño,whoscored_new_391082,False
+whoscored,446729,Thiago Fernández,575889,True
+whoscored,135098,Johan Mojica,152723,True
+whoscored,428620,Luismi Cruz,whoscored_new_428620,False
+whoscored,578266,Nacho Pérez,704770,True
+whoscored,400237,Robert Navarro,460265,True
+whoscored,423420,Leo Román,500755,True
+whoscored,419935,Clemens Riedel,514968,True
+whoscored,381674,Sergio Herrera,138039,True
+whoscored,447842,Enzo Boyomo,437677,True
+whoscored,322153,Denzel Dumfries,whoscored_new_322153,False
+whoscored,422957,Fran García,227166,True
+whoscored,492362,Isaac Romero,610206,True
+whoscored,427831,César Tárrega,492898,True
+whoscored,255182,Iñaki Williams,197334,True
+whoscored,379684,Filip Ugrinic,242169,True
+whoscored,407080,Luka Sucic,464166,True
+whoscored,399047,Pape Gueye,422453,True
+whoscored,303629,Augusto Batalla,173209,True
+whoscored,372473,Iván Martín,224467,True
+whoscored,351252,Junior Firpo,443967,True
+whoscored,432475,Nelson Deossa,544538,True
+whoscored,362501,Cucho Hernández,244716,True
+whoscored,369109,Eduardo Camavinga,475561,True
+whoscored,286080,Gabriel Suazo,213102,True
+whoscored,448936,Santiago Mouriño,536642,True
+whoscored,422956,José Ángel Carmona,545998,True
+whoscored,461527,Carlos Dotor,whoscored_new_461527,False
+whoscored,336251,Kike Barja,178870,True
+whoscored,91242,Iago Aspas,40270,True
+whoscored,462768,Miguel Román,602479,True
+whoscored,73798,Thibaut Courtois,60772,True
+whoscored,478349,Gabriel Moscardo,whoscored_new_478349,False
+whoscored,468931,Carlos Romero,588993,True
+whoscored,297203,Pablo Fornals,217593,True
+whoscored,472904,Gustavo Puerta,whoscored_new_472904,False
+whoscored,294848,Pablo Maffeo,170154,True
+whoscored,363966,Adrià Pedrosa,446990,True
+whoscored,44189,Sergio Canales,whoscored_new_44189,False
+whoscored,422958,Óscar Valentín,433161,True
+whoscored,422937,Gavi,500046,True
+whoscored,355110,Sergio Gómez,437468,True
+whoscored,80758,Florian Lejeune,77359,True
+whoscored,448284,Andrés Castrín,562922,True
+whoscored,516341,Carlos Espí,645745,True
+whoscored,536243,Beñat Gerenabarrena,whoscored_new_536243,False
+whoscored,448397,Álvaro Mantilla,whoscored_new_448397,False
+whoscored,136741,Bernardo Silva,whoscored_new_136741,False
+whoscored,106525,Denis Suárez,89572,True
+whoscored,80764,Koke,77390,True
+whoscored,448211,Alberto Moleiro,513956,True
+whoscored,474267,Iker Muñoz,589577,True
+whoscored,119817,José Gayà,132105,True
+whoscored,315566,Igor Zubeldia,216475,True
+whoscored,398922,Tyrhys Dolan,420926,True
+whoscored,302889,Pepelu,220191,True
+whoscored,100881,Ximo Navarro,whoscored_new_100881,False
+whoscored,317541,Brahim Díaz,216183,True
+whoscored,135345,Álvaro García,165682,True
+whoscored,509876,Álvaro Núñez,440594,True
+whoscored,486031,Arouna Sangante,whoscored_new_486031,False
+whoscored,528001,Yoel Lago,643133,True
 whoscored,378626,Carl Starfelt,174249,True
-whoscored,469329,Andrés García,whoscored_new_469329,False
-whoscored,135366,Ayoze Pérez,168580,True
-whoscored,422959,Isi Palazón,434078,True
+whoscored,141497,Einar Galilea,whoscored_new_141497,False
+whoscored,82989,Isco,80209,True
+whoscored,313542,Carlos Soler,224860,True
+whoscored,383924,Raúl García,490859,True
+whoscored,361696,Vanja Drkusic,whoscored_new_361696,False
+whoscored,137031,Ezequiel Ponce,whoscored_new_137031,False
+whoscored,297546,Umar Sadiq,196878,True
+whoscored,386230,Jorge de Frutos,241153,True
+whoscored,568737,Davinchi,700202,True
+whoscored,101238,Moi Gómez,109243,True
+whoscored,424675,Francho Serrano,whoscored_new_424675,False
+whoscored,134695,Enes Ünal,whoscored_new_134695,False
+whoscored,303139,Rodri,whoscored_new_303139,False
+whoscored,551186,Pablo García,623696,True
+whoscored,402087,Tete Morente,429644,True
+whoscored,448514,Pedro Díaz,435065,True
+whoscored,379230,Johnny Cardoso,488662,True
+whoscored,464952,Peque Fernández,493086,True
+whoscored,422963,Pathé Ciss,441175,True
+whoscored,393081,Giacomo Quagliata,whoscored_new_393081,False
+whoscored,428066,Orri Óskarsson,507438,True
+whoscored,459082,Pablo Durán,597355,True
 whoscored,371027,Tajon Buchanan,424622,True
-whoscored,318871,Trent Alexander-Arnold,169187,True
+whoscored,122117,Aymeric Laporte,146941,True
+whoscored,344073,Orel Mangala,whoscored_new_344073,False
+whoscored,621893,Nico Guillén,whoscored_new_621893,False
+whoscored,332990,Djené Dakonam,149838,True
+whoscored,407567,Iván Romero,521508,True
+whoscored,454790,Robbie Ure,whoscored_new_454790,False
+whoscored,516414,Lucas Cepeda,541759,True
+whoscored,362623,Oriol Rey,242310,True
+whoscored,531460,Rafel Bauzà,whoscored_new_531460,False
+whoscored,377285,Takefusa Kubo,219271,True
+whoscored,249960,Lucas Torró,111232,True
+whoscored,386622,Sergio Carreira,439871,True
+whoscored,541868,Chupe,whoscored_new_541868,False
+whoscored,247995,Gonçalo Guedes,181284,True
+whoscored,56057,Yuri Berchiche,42670,True
+whoscored,408732,Jesús Vázquez,466044,True
+whoscored,110273,Odysseas Vlachodimos,111452,True
+whoscored,422959,Isi Palazón,434078,True
+whoscored,444251,Arnau Ortiz,whoscored_new_444251,False
+whoscored,469329,Andrés García,whoscored_new_469329,False
+whoscored,407138,Beñat Turrientes,488026,True
+whoscored,395346,Giorgi Kochorashvili,whoscored_new_395346,False
+whoscored,448450,Riki Rodríguez,whoscored_new_448450,False
+whoscored,631884,Bright Ede,whoscored_new_631884,False
 whoscored,437583,Álvaro Carreras,515501,True
 whoscored,603190,Carlos Maciá,710081,True
-whoscored,322095,Mouctar Diakhaby,208135,True
-whoscored,335041,Jon Guridi,201178,True
-whoscored,444227,Williot Swedberg,543932,True
-whoscored,514695,Aitor Mañas,551482,True
-whoscored,510999,David Otorbi,whoscored_new_510999,False
-whoscored,354526,Hugo Duro,439716,True
-whoscored,303800,Lucas Boyé,193774,True
-whoscored,448514,Pedro Díaz,435065,True
-whoscored,448397,Álvaro Mantilla,whoscored_new_448397,False
-whoscored,313542,Carlos Soler,224860,True
-whoscored,422960,Randy Nteka,449300,True
-whoscored,408449,Nico Williams,523654,True
-whoscored,317541,Brahim Díaz,216183,True
-whoscored,361696,Vanja Drkusic,whoscored_new_361696,False
+whoscored,403803,Martín Satriano,474843,True
+whoscored,415345,Hugo Sotelo,538283,True
+whoscored,463938,Rodrigo Mendoza,578538,True
 whoscored,362735,Santi Comesaña,230071,True
-whoscored,395321,Aimar Oroz,484702,True
-whoscored,407138,Beñat Turrientes,488026,True
-whoscored,447853,Jonathan Dubasin,whoscored_new_447853,False
-whoscored,531953,Pelayo Fernández,493085,True
-whoscored,303139,Rodri,whoscored_new_303139,False
-whoscored,381674,Sergio Herrera,138039,True
-whoscored,362623,Oriol Rey,242310,True
-whoscored,478316,Pedro Felipe,whoscored_new_478316,False
+whoscored,402862,Víctor Chust,437463,True
+whoscored,536242,Peio Canales,whoscored_new_536242,False
 whoscored,557000,Yan Diomande,whoscored_new_557000,False
-whoscored,315566,Igor Zubeldia,216475,True
-whoscored,527113,Jonathan Asp Jensen,whoscored_new_527113,False
-whoscored,469547,Manu Bueno,550781,True
-whoscored,410988,Saba Sazonov,whoscored_new_410988,False
-whoscored,384064,Troy Parrott,whoscored_new_384064,False
-whoscored,367008,Robin Le Normand,224919,True
-whoscored,536243,Beñat Gerenabarrena,whoscored_new_536243,False
-whoscored,508035,Izan Merino,whoscored_new_508035,False
-whoscored,448273,Miguel Loureiro,whoscored_new_448273,False
-whoscored,617819,Javier Morcillo,714598,True
-whoscored,511120,Mikel Jauregizar,632021,True
-whoscored,369497,Javi Galán,219717,True
-whoscored,448292,Haitam Abaida,whoscored_new_448292,False
-whoscored,463588,Javi Rueda,493333,True
-whoscored,471047,Mario Martín,561243,True
-whoscored,303268,Carles Aleñá,179271,True
-whoscored,562981,Ryunosuke Sato,whoscored_new_562981,False
-whoscored,369109,Eduardo Camavinga,475561,True
-whoscored,393081,Giacomo Quagliata,whoscored_new_393081,False
-whoscored,386261,Dani Cárdenas,491436,True
-whoscored,448009,Diego Villares,whoscored_new_448009,False
-whoscored,467181,Enzo Bardeli,whoscored_new_467181,False
-whoscored,444265,Fran Pérez,466057,True
+whoscored,395321,Aimar Oroz,484702,True
 whoscored,431509,Kike Salas,550816,True
-whoscored,644082,Marc Santos,whoscored_new_644082,False
-whoscored,323625,Arnaut Danjuma,220307,True
-whoscored,485481,Maguette Gueye,whoscored_new_485481,False
+whoscored,531953,Pelayo Fernández,493085,True
+whoscored,141499,Stole Dimitrievski,94878,True
+whoscored,261509,Alfonso Herrero,whoscored_new_261509,False
+whoscored,514695,Aitor Mañas,551482,True
+whoscored,135366,Ayoze Pérez,168580,True
+whoscored,423282,David Affengruber,442299,True
+whoscored,508331,Javi Rodríguez,638238,True
+whoscored,495459,Jon Martín,620617,True
+whoscored,445095,Karl Etta Eyong,588010,True
+whoscored,478316,Pedro Felipe,whoscored_new_478316,False
+whoscored,431507,Javi Guerra,546540,True
+whoscored,298839,Mikel Oyarzabal,219000,True
+whoscored,448050,Marc Aguado,484741,True
 whoscored,301019,Jules Koundé,220325,True
+whoscored,386261,Dani Cárdenas,491436,True
+whoscored,334221,Dani Raba,240071,True
+whoscored,273453,Josan,199195,True
+whoscored,469547,Manu Bueno,550781,True
+whoscored,511120,Mikel Jauregizar,632021,True
+whoscored,410988,Saba Sazonov,whoscored_new_410988,False
+whoscored,510999,David Otorbi,whoscored_new_510999,False
+whoscored,463588,Javi Rueda,493333,True
+whoscored,367008,Robin Le Normand,224919,True
+whoscored,367857,Ander Barrenetxea,471138,True
+whoscored,384064,Troy Parrott,whoscored_new_384064,False
+whoscored,323625,Arnaut Danjuma,220307,True
+whoscored,354526,Hugo Duro,439716,True
+whoscored,408449,Nico Williams,523654,True
+whoscored,362393,Carlos Protesoni,244707,True
+whoscored,527113,Jonathan Asp Jensen,whoscored_new_527113,False
+whoscored,369497,Javi Galán,219717,True
+whoscored,390240,Germán Valera,467020,True
+whoscored,440159,Alex Freeman,484917,True
+whoscored,444265,Fran Pérez,466057,True
+whoscored,422960,Randy Nteka,449300,True
+whoscored,432384,Facundo Buonanotte,whoscored_new_432384,False
+whoscored,471047,Mario Martín,561243,True
+whoscored,448273,Miguel Loureiro,whoscored_new_448273,False
+whoscored,129620,Jeremy Toljan,160540,True
+whoscored,303268,Carles Aleñá,179271,True
+whoscored,135914,José María Giménez,151883,True
+whoscored,322095,Mouctar Diakhaby,208135,True
+whoscored,444227,Williot Swedberg,543932,True
+whoscored,508035,Izan Merino,whoscored_new_508035,False
+whoscored,77417,Nemanja Gudelj,72154,True
+whoscored,546574,Alex Marchal,whoscored_new_546574,False
+whoscored,366204,Joaquín Muñoz,whoscored_new_366204,False
+whoscored,605436,Julio Díaz,551311,True
+whoscored,448009,Diego Villares,whoscored_new_448009,False
+whoscored,396158,Ferran Jutglà,464575,True
+whoscored,513251,Teun Gijselhart,whoscored_new_513251,False
+whoscored,318505,Yangel Herrera,226541,True
+whoscored,644082,Marc Santos,whoscored_new_644082,False
+whoscored,444264,Facu González,whoscored_new_444264,False
+whoscored,559489,Hamza Abdelkarim,whoscored_new_559489,False
+whoscored,447853,Jonathan Dubasin,whoscored_new_447853,False
+whoscored,485481,Maguette Gueye,whoscored_new_485481,False
 whoscored,541704,Maroan Sannadi,611626,True
 whoscored,396490,Raúl Moro,465701,True
 whoscored,381550,Rubén Vargas,429534,True
-whoscored,511043,Ángel Recio,whoscored_new_511043,False
+whoscored,427117,Hugo González,492900,True
 whoscored,382157,Pol Lozano,227172,True
-whoscored,318505,Yangel Herrera,226541,True
-whoscored,390240,Germán Valera,467020,True
-whoscored,125211,Héctor Bellerín,98745,True
+whoscored,422820,Jesús Areso,437549,True
+whoscored,335041,Jon Guridi,201178,True
 whoscored,438351,Martim Neto,483083,True
+whoscored,541854,Paco Cortés,648430,True
+whoscored,401173,Urko González de Zárate,514204,True
+whoscored,641813,Gnangoro,whoscored_new_641813,False
 whoscored,409740,Abdel Abqar,463001,True
-whoscored,122117,Aymeric Laporte,146941,True
-whoscored,432384,Facundo Buonanotte,whoscored_new_432384,False
-whoscored,391082,Fer Niño,whoscored_new_391082,False
-whoscored,402862,Víctor Chust,437463,True
-whoscored,516414,Lucas Cepeda,541759,True
+whoscored,448011,Yeremay Hernández,whoscored_new_448011,False
+whoscored,448292,Haitam Abaida,whoscored_new_448292,False
 whoscored,128967,João Cancelo,121145,True
-whoscored,508339,Ali Houary,631382,True
+whoscored,395708,Víctor García,465278,True
+whoscored,408942,Alfon González,446814,True
 whoscored,644193,Álvaro Padilla,whoscored_new_644193,False
-whoscored,481851,Hugo Rincón,620583,True
-whoscored,427001,Hugo Álvarez,550566,True
-whoscored,641096,Jorge Domínguez,whoscored_new_641096,False
-whoscored,331171,Asier Villalibre,whoscored_new_331171,False
-whoscored,605436,Julio Díaz,551311,True
-whoscored,409030,Ilaix Moriba,465689,True
-whoscored,423282,David Affengruber,442299,True
-whoscored,396158,Ferran Jutglà,464575,True
 whoscored,362602,Gorka Guruzeta,220182,True
-whoscored,372634,Justin de Haas,whoscored_new_372634,False
-whoscored,444264,Facu González,whoscored_new_444264,False
-whoscored,546574,Alex Marchal,whoscored_new_546574,False
-whoscored,381713,Luis Rioja,434941,True
-whoscored,445292,Tani Oluwaseyi,565686,True
-whoscored,140772,Pere Milla,175090,True
-whoscored,515307,Adama Boiro,629738,True
-whoscored,247995,Gonçalo Guedes,181284,True
-whoscored,101613,Iván Balliu,97624,True
-whoscored,135914,José María Giménez,151883,True
-whoscored,429003,Zakaria Eddahchouri,whoscored_new_429003,False
+whoscored,481851,Hugo Rincón,620583,True
 whoscored,402092,José Salinas,whoscored_new_402092,False
-whoscored,505924,Jozhua Vertrouwd,538671,True
+whoscored,498812,Abdoulaye Faye,whoscored_new_498812,False
+whoscored,448041,Adrià Alti,465599,True
+whoscored,511043,Ángel Recio,whoscored_new_511043,False
+whoscored,641096,Jorge Domínguez,whoscored_new_641096,False
+whoscored,372634,Justin de Haas,whoscored_new_372634,False
+whoscored,381643,Aleix Febas,199250,True
+whoscored,427283,Abde Ezzalzouli,500745,True
+whoscored,515307,Adama Boiro,629738,True
+whoscored,464541,Marcos Fernández,whoscored_new_464541,False
+whoscored,429003,Zakaria Eddahchouri,whoscored_new_429003,False
+whoscored,617819,Javier Morcillo,714598,True
+whoscored,508339,Ali Houary,631382,True
+whoscored,427001,Hugo Álvarez,550566,True
 whoscored,414212,Nicolás Valentini,536665,True
+whoscored,471958,Rafa Rodríguez,whoscored_new_471958,False
+whoscored,505924,Jozhua Vertrouwd,538671,True
 whoscored,367583,Aihen Muñoz,472145,True
 whoscored,427360,Carlos Martín,531219,True
 whoscored,507361,David Mella,whoscored_new_507361,False
-whoscored,407567,Iván Romero,521508,True
-whoscored,471958,Rafa Rodríguez,whoscored_new_471958,False
-whoscored,440159,Alex Freeman,484917,True
-whoscored,344120,Ander Guevara,431644,True
-whoscored,278721,Borja Mayoral,199248,True
-whoscored,415345,Hugo Sotelo,538283,True
-whoscored,391317,Julen Lobete,whoscored_new_391317,False
-whoscored,464541,Marcos Fernández,whoscored_new_464541,False
-whoscored,541854,Paco Cortés,648430,True
-whoscored,428500,Ilias Akhomach,500043,True
-whoscored,402087,Tete Morente,429644,True
-whoscored,511028,Kevin Sánchez,whoscored_new_511028,False
-whoscored,108100,Pedro Bigas,91393,True
+whoscored,400826,Luiz Júnior,514664,True
 whoscored,436617,Alemão,483116,True
-whoscored,463425,Eneko Jauregi,whoscored_new_463425,False
-whoscored,357786,Juan Cruz,whoscored_new_357786,False
-whoscored,298839,Mikel Oyarzabal,219000,True
-whoscored,129620,Jeremy Toljan,160540,True
-whoscored,367857,Ander Barrenetxea,471138,True
-whoscored,297546,Umar Sadiq,196878,True
-whoscored,400185,Arsen Zakharyan,475612,True
-whoscored,395708,Víctor García,465278,True
+whoscored,445292,Tani Oluwaseyi,565686,True
+whoscored,510360,Buba Sangaré,633425,True
+whoscored,409030,Ilaix Moriba,465689,True
+whoscored,140772,Pere Milla,175090,True
 whoscored,431121,Aliou Dieng,whoscored_new_431121,False
-whoscored,495459,Jon Martín,620617,True
+whoscored,344120,Ander Guevara,431644,True
+whoscored,331171,Asier Villalibre,whoscored_new_331171,False
+whoscored,541871,Jon Gorrotxategi,546812,True
+whoscored,391317,Julen Lobete,whoscored_new_391317,False
+whoscored,388808,Pablo Martínez,445998,True
+whoscored,511028,Kevin Sánchez,whoscored_new_511028,False
+whoscored,428500,Ilias Akhomach,500043,True
+whoscored,463425,Eneko Jauregi,whoscored_new_463425,False
+whoscored,430451,Jofre Carreras,513950,True
+whoscored,562981,Ryunosuke Sato,whoscored_new_562981,False
+whoscored,278721,Borja Mayoral,199248,True
+whoscored,523331,Alberto Risco,whoscored_new_523331,False
+whoscored,75919,Kiko Femenía,54484,True
+whoscored,400185,Arsen Zakharyan,475612,True
+whoscored,357786,Juan Cruz,whoscored_new_357786,False
 whoscored,431570,Juan Carlos Arana,whoscored_new_431570,False
 whoscored,365409,Julián Alvarez,461358,True
-whoscored,448011,Yeremay Hernández,whoscored_new_448011,False
+whoscored,447544,Matteo Prati,whoscored_new_447544,False
+whoscored,101613,Iván Balliu,97624,True
 whoscored,441888,Jones El Abdellaoui,566165,True
-whoscored,400237,Robert Navarro,460265,True
-whoscored,523331,Alberto Risco,whoscored_new_523331,False
-whoscored,428066,Orri Óskarsson,507438,True
-whoscored,448289,Ramón Enríquez,whoscored_new_448289,False
 whoscored,406937,Carlos Álvarez,494921,True
-whoscored,430451,Jofre Carreras,513950,True
+whoscored,108100,Pedro Bigas,91393,True
 whoscored,444806,Álvaro Djaló,whoscored_new_444806,False
 whoscored,545956,Diego Díaz,whoscored_new_545956,False
 whoscored,556141,Umaru,whoscored_new_556141,False
 whoscored,372331,Andrei Ratiu,466543,True
+whoscored,381713,Luis Rioja,434941,True
+whoscored,448289,Ramón Enríquez,whoscored_new_448289,False
 whoscored,484251,Sebastián Boselli,609050,True
-whoscored,445095,Karl Etta Eyong,588010,True
+whoscored,125211,Héctor Bellerín,98745,True
 whoscored,599413,Job Ochieng,612309,True
 whoscored,419616,Federico Redondo,536884,True
-whoscored,538158,Yassir Zabiri,whoscored_new_538158,False
 whoscored,604365,Kareem Tunde,645755,True
-whoscored,510360,Buba Sangaré,633425,True
-whoscored,106586,Íñigo Ruiz de Galarreta,96736,True
-whoscored,400826,Luiz Júnior,514664,True
+whoscored,460461,Giorgi Guliashvili,whoscored_new_460461,False
 whoscored,544767,Jean Valou,whoscored_new_544767,False
+whoscored,444239,Arnau Martínez,517333,True
 whoscored,422916,Matías Dituro,98448,True
-whoscored,56057,Yuri Berchiche,42670,True
-whoscored,422820,Jesús Areso,437549,True
 whoscored,546570,Luken Beitia,612301,True
-whoscored,75919,Kiko Femenía,54484,True
 fotmob,175311,Kiko,54484,True
 fotmob,282281,Denis Suárez,89572,True
 fotmob,360918,Jonny Otto,114128,True
@@ -1303,3 +1352,25 @@ fotmob,609505,Borja Iglesias,202044,True
 fotmob,913464,Cristian Rivero,fotmob_new_913464,False
 fotmob,969711,Justin De Haas,fotmob_new_969711,False
 fotmob,1469787,Marcos Navarro,619748,True
+fotmob,1216798,Nathan Saliba,fotmob_new_1216798,False
+fotmob,1695966,Alassane Diatta,665522,True
+fotmob,1609347,Kike Ribes,fotmob_new_1609347,False
+fotmob,261609,Dimitri Foulquier,96767,True
+fotmob,1194892,Arnau Martínez,517333,True
+fotmob,1905203,Aaron Mayol,720320,True
+fotmob,927646,Adrià Pedrosa,446990,True
+fotmob,1803292,Adrián Molina,fotmob_new_1803292,False
+fotmob,1889232,Gnangoro Bouare,fotmob_new_1889232,False
+fotmob,1209399,Abdessamad Ezzalzouli,fotmob_new_1209399,False
+fotmob,1836083,Yanis Musuayi,fotmob_new_1836083,False
+fotmob,178753,Nemanja Gudelj,72154,True
+fotmob,1559834,Joselu Pérez,619893,True
+fotmob,1603025,Rockson Yeboah,fotmob_new_1603025,False
+fotmob,1065640,Giorgi Guliashvili,fotmob_new_1065640,False
+fotmob,1343195,Abiel Osorio,fotmob_new_1343195,False
+fotmob,1396089,Matteo Prati,fotmob_new_1396089,False
+fotmob,1820340,Javi Navarro,fotmob_new_1820340,False
+fotmob,1323827,Jon Gorrotxategi,546812,True
+fotmob,1426170,Mamadou Sarr,fotmob_new_1426170,False
+fotmob,789066,Cristian Romero,fotmob_new_789066,False
+fotmob,926643,Alfon González,446814,True

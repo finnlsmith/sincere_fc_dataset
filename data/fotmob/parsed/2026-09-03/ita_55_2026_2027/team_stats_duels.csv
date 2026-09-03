@@ -1,0 +1,81 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Duels won,59,37
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Ground duels won,42 (58%),30 (42%)
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Aerial duels won,17 (71%),7 (29%)
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Successful dribbles,9 (64%),5 (28%)
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Duels won,31,38
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Ground duels won,29 (48%),31 (52%)
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Aerial duels won,2 (22%),7 (78%)
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Successful dribbles,3 (43%),8 (44%)
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Duels won,44,43
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Ground duels won,38 (49%),40 (51%)
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Aerial duels won,6 (67%),3 (33%)
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Successful dribbles,6 (50%),8 (62%)
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Duels won,57,41
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Ground duels won,39 (54%),33 (46%)
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Aerial duels won,18 (69%),8 (31%)
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Successful dribbles,3 (38%),10 (48%)
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Duels won,36,46
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Ground duels won,31 (49%),32 (51%)
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Aerial duels won,5 (26%),14 (74%)
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Successful dribbles,8 (40%),2 (25%)
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Duels won,35,23
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Ground duels won,26 (59%),18 (41%)
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Aerial duels won,9 (64%),5 (36%)
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Successful dribbles,3 (50%),3 (38%)
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Duels won,59,41
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Ground duels won,52 (65%),28 (35%)
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Aerial duels won,7 (35%),13 (65%)
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Successful dribbles,9 (60%),11 (50%)
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Duels won,37,45
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Ground duels won,26 (48%),28 (52%)
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Aerial duels won,11 (39%),17 (61%)
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Successful dribbles,6 (67%),4 (27%)
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Duels won,50,45
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Ground duels won,37 (50%),37 (50%)
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Aerial duels won,13 (62%),8 (38%)
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Successful dribbles,7 (44%),7 (37%)
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Duels won,54,44
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Ground duels won,37 (53%),33 (47%)
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Aerial duels won,17 (61%),11 (39%)
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Successful dribbles,13 (57%),5 (33%)
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Duels won,51,53
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Ground duels won,37 (51%),36 (49%)
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Aerial duels won,14 (45%),17 (55%)
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Successful dribbles,6 (40%),4 (27%)
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Duels won,30,40
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Ground duels won,26 (43%),34 (57%)
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Aerial duels won,4 (40%),6 (60%)
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Successful dribbles,5 (45%),6 (75%)
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Duels won,29,47
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Ground duels won,22 (40%),33 (60%)
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Aerial duels won,7 (33%),14 (67%)
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Successful dribbles,4 (31%),8 (80%)
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Duels won,63,65
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Ground duels won,49 (46%),57 (54%)
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Aerial duels won,14 (64%),8 (36%)
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Successful dribbles,14 (58%),15 (58%)
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Duels won,46,41
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Ground duels won,34 (52%),31 (48%)
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Aerial duels won,12 (55%),10 (45%)
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Successful dribbles,6 (55%),3 (25%)
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Duels won,35,54
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Ground duels won,26 (38%),43 (62%)
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Aerial duels won,9 (45%),11 (55%)
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Successful dribbles,6 (46%),9 (75%)
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Duels won,37,61
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Ground duels won,33 (38%),53 (62%)
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Aerial duels won,4 (33%),8 (67%)
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Successful dribbles,10 (42%),11 (50%)
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Duels won,40,40
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Ground duels won,26 (51%),25 (49%)
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Aerial duels won,14 (48%),15 (52%)
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Successful dribbles,3 (33%),5 (56%)
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Duels won,35,45
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Ground duels won,23 (41%),33 (59%)
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Aerial duels won,12 (50%),12 (50%)
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Successful dribbles,6 (35%),9 (60%)
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Duels won,36,49
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Ground duels won,24 (36%),43 (64%)
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Aerial duels won,12 (67%),6 (33%)
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Successful dribbles,7 (44%),14 (70%)

@@ -1,0 +1,55 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Yellow cards,2,2
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Red cards,0,0
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Fouls committed,11,13
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Yellow cards,3,2
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Red cards,0,0
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Fouls committed,13,12
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Yellow cards,1,1
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Red cards,0,0
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Fouls committed,14,12
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Yellow cards,1,1
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Red cards,0,1
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Fouls committed,6,21
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Yellow cards,1,3
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Red cards,0,1
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Fouls committed,6,12
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Yellow cards,1,0
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Red cards,0,0
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Fouls committed,15,8
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Yellow cards,1,2
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Red cards,0,0
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Fouls committed,15,15
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Yellow cards,2,1
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Red cards,0,0
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Fouls committed,8,14
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Yellow cards,3,2
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Red cards,0,0
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Fouls committed,16,6
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Yellow cards,2,3
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Red cards,0,0
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Fouls committed,19,18
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Yellow cards,0,0
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Red cards,0,0
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Fouls committed,9,11
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Yellow cards,0,2
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Red cards,0,0
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Fouls committed,7,16
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Yellow cards,4,0
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Red cards,0,0
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Fouls committed,9,10
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Yellow cards,0,1
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Red cards,0,0
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Fouls committed,7,7
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Yellow cards,3,2
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Red cards,0,1
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Fouls committed,15,15
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Yellow cards,2,2
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Red cards,0,0
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Fouls committed,10,11
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Yellow cards,2,1
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Red cards,0,0
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Fouls committed,11,7
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Yellow cards,2,2
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Red cards,0,0
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Fouls committed,7,6

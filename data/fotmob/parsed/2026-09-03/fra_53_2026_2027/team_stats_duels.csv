@@ -1,0 +1,73 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Duels won,49,43
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Ground duels won,34 (49%),36 (51%)
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Aerial duels won,15 (68%),7 (32%)
+5802901,2026-08-23T13:00:00.000Z,1,Ligue 1,Angers,8121,Lille,8639,Successful dribbles,7 (58%),9 (64%)
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Duels won,44,60
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Ground duels won,35 (41%),51 (59%)
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Aerial duels won,9 (50%),9 (50%)
+5802902,2026-08-23T15:15:00.000Z,1,Ligue 1,Le Havre,9746,Monaco,9829,Successful dribbles,5 (36%),8 (50%)
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Duels won,50,70
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Ground duels won,31 (40%),46 (60%)
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Aerial duels won,19 (44%),24 (56%)
+5802903,2026-08-22T18:45:00.000Z,1,Ligue 1,Le Mans,8682,Brest,8521,Successful dribbles,4 (31%),15 (75%)
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Duels won,55,41
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Ground duels won,46 (60%),31 (40%)
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Aerial duels won,9 (47%),10 (53%)
+5802904,2026-08-22T15:15:00.000Z,1,Ligue 1,Lens,8588,Auxerre,8583,Successful dribbles,6 (43%),12 (46%)
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Duels won,43,40
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Ground duels won,35 (51%),34 (49%)
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Aerial duels won,8 (57%),6 (43%)
+5802905,2026-08-21T18:45:00.000Z,1,Ligue 1,Marseille,8592,Strasbourg,9848,Successful dribbles,7 (64%),9 (50%)
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Duels won,35,44
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Ground duels won,23 (43%),30 (57%)
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Aerial duels won,12 (46%),14 (54%)
+5802906,2026-08-22T18:45:00.000Z,1,Ligue 1,Nice,9831,Lorient,8689,Successful dribbles,4 (57%),4 (36%)
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Duels won,48,42
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Ground duels won,37 (49%),38 (51%)
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Aerial duels won,11 (73%),4 (27%)
+5802908,2026-08-22T18:45:00.000Z,1,Ligue 1,Toulouse,9941,Lyon,9748,Successful dribbles,8 (47%),8 (50%)
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Duels won,45,46
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Ground duels won,27 (42%),38 (58%)
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Aerial duels won,18 (69%),8 (31%)
+5802909,2026-08-22T18:45:00.000Z,1,Ligue 1,Troyes,10242,Paris FC,6379,Successful dribbles,3 (21%),9 (75%)
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Duels won,47,59
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Ground duels won,32 (42%),45 (58%)
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Aerial duels won,15 (52%),14 (48%)
+5802910,2026-08-29T18:45:00.000Z,2,Ligue 1,Auxerre,8583,Angers,8121,Successful dribbles,9 (47%),8 (57%)
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Duels won,61,71
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Ground duels won,43 (48%),47 (52%)
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Aerial duels won,18 (43%),24 (57%)
+5802911,2026-08-29T18:45:00.000Z,2,Ligue 1,Brest,8521,Toulouse,9941,Successful dribbles,6 (43%),10 (53%)
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Duels won,60,50
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Ground duels won,43 (57%),32 (43%)
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Aerial duels won,17 (49%),18 (51%)
+5802912,2026-08-29T18:45:00.000Z,2,Ligue 1,Lorient,8689,Troyes,10242,Successful dribbles,11 (46%),2 (14%)
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Duels won,40,45
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Ground duels won,28 (47%),32 (53%)
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Aerial duels won,12 (48%),13 (52%)
+5802913,2026-08-29T18:45:00.000Z,2,Ligue 1,Lyon,9748,Le Havre,9746,Successful dribbles,7 (35%),7 (50%)
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Duels won,45,39
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Ground duels won,33 (49%),34 (51%)
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Aerial duels won,12 (71%),5 (29%)
+5802914,2026-08-30T18:45:00.000Z,2,Ligue 1,Monaco,9829,Marseille,8592,Successful dribbles,5 (42%),8 (62%)
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Duels won,33,39
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Ground duels won,29 (48%),31 (52%)
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Aerial duels won,4 (33%),8 (67%)
+5802915,2026-08-30T13:00:00.000Z,2,Ligue 1,Paris FC,6379,Nice,9831,Successful dribbles,8 (53%),8 (50%)
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Duels won,47,45
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Ground duels won,23 (43%),30 (57%)
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Aerial duels won,24 (62%),15 (38%)
+5802916,2026-08-30T15:15:00.000Z,2,Ligue 1,Rennes,9851,Le Mans,8682,Successful dribbles,5 (83%),9 (75%)
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Duels won,44,47
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Ground duels won,33 (47%),37 (53%)
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Aerial duels won,11 (52%),10 (48%)
+5802917,2026-08-29T15:15:00.000Z,2,Ligue 1,Strasbourg,9848,Lens,8588,Successful dribbles,10 (50%),8 (50%)
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Duels won,37,37
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Ground duels won,27 (49%),28 (51%)
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Aerial duels won,10 (53%),9 (47%)
+5802918,2026-08-28T19:00:00.000Z,2,Ligue 1,Lille,8639,Paris Saint-Germain,9847,Successful dribbles,6 (40%),4 (44%)
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Duels won,50,44
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Ground duels won,40 (52%),37 (48%)
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Aerial duels won,10 (59%),7 (41%)
+5803105,2026-08-23T18:45:00.000Z,1,Ligue 1,Rennes,9851,Paris Saint-Germain,9847,Successful dribbles,9 (50%),16 (53%)

@@ -1,0 +1,46 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Expected goals (xG),4.06,0.79
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,xG open play,3.55,0.65
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,xG set play,0.51,0.14
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,xG non-penalty,4.06,0.79
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,xG on target (xGOT),4.44,1.13
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Expected goals (xG),3.72,2.10
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,xG open play,3.14,1.69
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,xG set play,0.58,0.41
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,xG non-penalty,3.72,2.10
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,xG on target (xGOT),3.54,0.85
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Expected goals (xG),1.51,0.91
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,xG open play,1.40,0.91
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,xG set play,0.11,0.01
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,xG non-penalty,1.51,0.91
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,xG on target (xGOT),2.35,0.17
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Expected goals (xG),1.27,1.88
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,xG open play,1.20,1.16
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,xG set play,0.07,0.72
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,xG non-penalty,1.27,1.88
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,xG on target (xGOT),2.18,2.01
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Expected goals (xG),1.95,1.88
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,xG open play,1.37,0.85
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,xG set play,0.58,0.24
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,xG non-penalty,1.95,1.09
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,xG on target (xGOT),2.84,1.99
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Expected goals (xG),2.37,0.54
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,xG open play,1.39,0.31
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,xG set play,0.98,0.23
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,xG non-penalty,2.37,0.54
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,xG on target (xGOT),3.07,0.26
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Expected goals (xG),1.23,0.73
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,xG open play,0.91,0.65
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,xG set play,0.32,0.08
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,xG non-penalty,1.23,0.73
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,xG on target (xGOT),0.70,0.00
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Expected goals (xG),3.96,1.09
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,xG open play,2.69,0.80
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,xG set play,1.27,0.29
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,xG non-penalty,3.96,1.09
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,xG on target (xGOT),3.83,0.66
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Expected goals (xG),1.84,1.47
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,xG open play,0.55,1.19
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,xG set play,1.29,0.27
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,xG non-penalty,1.84,1.47
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,xG on target (xGOT),3.46,1.75

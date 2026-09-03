@@ -1,0 +1,181 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Passes,539,343
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Accurate passes,478 (89%),285 (83%)
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Own half,230,153
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Opposition half,248,132
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Accurate long balls,19 (50%),17 (38%)
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Accurate crosses,3 (21%),2 (18%)
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Throws,15,21
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Touches in opposition box,41,8
+5749640,2026-08-24T18:45:00.000Z,1,Serie A,Roma,8686,Fiorentina,8535,Offsides,1,1
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Passes,596,466
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Accurate passes,544 (91%),422 (91%)
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Own half,328,245
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Opposition half,216,177
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Accurate long balls,19 (45%),17 (68%)
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Accurate crosses,1 (10%),4 (25%)
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Throws,17,15
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Touches in opposition box,23,25
+5749641,2026-08-23T18:45:00.000Z,1,Serie A,Atalanta,8524,Sassuolo,7943,Offsides,0,1
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Passes,447,315
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Accurate passes,402 (90%),264 (84%)
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Own half,254,126
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Opposition half,148,138
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Accurate long balls,21 (62%),15 (43%)
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Accurate crosses,8 (38%),3 (21%)
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Throws,19,13
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Touches in opposition box,26,13
+5749642,2026-08-24T16:30:00.000Z,1,Serie A,Bologna,9857,Lazio,8543,Offsides,2,3
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Passes,272,478
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Accurate passes,187 (69%),405 (85%)
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Own half,109,199
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Opposition half,78,206
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Accurate long balls,11 (24%),21 (43%)
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Accurate crosses,4 (33%),6 (35%)
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Throws,17,20
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Touches in opposition box,18,46
+5749643,2026-08-23T16:30:00.000Z,1,Serie A,Frosinone,9891,Juventus,9885,Offsides,4,1
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Passes,431,507
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Accurate passes,378 (88%),453 (89%)
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Own half,211,182
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Opposition half,167,271
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Accurate long balls,17 (39%),27 (61%)
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Accurate crosses,2 (11%),2 (9%)
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Throws,16,20
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Touches in opposition box,18,28
+5749644,2026-08-22T18:45:00.000Z,1,Serie A,Genoa,10233,Napoli,9875,Offsides,1,2
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Passes,709,292
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Accurate passes,628 (89%),232 (79%)
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Own half,390,144
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Opposition half,238,88
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Accurate long balls,28 (72%),14 (33%)
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Accurate crosses,3 (21%),3 (38%)
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Throws,16,18
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Touches in opposition box,27,10
+5749645,2026-08-22T16:30:00.000Z,1,Serie A,Inter,8636,Monza,6504,Offsides,0,8
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Passes,443,497
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Accurate passes,373 (84%),445 (90%)
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Own half,249,202
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Opposition half,124,243
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Accurate long balls,16 (41%),12 (44%)
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Accurate crosses,4 (25%),5 (31%)
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Throws,18,15
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Touches in opposition box,18,22
+5749646,2026-08-22T18:45:00.000Z,1,Serie A,Parma,10167,Cagliari,8529,Offsides,1,0
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Passes,384,547
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Accurate passes,315 (82%),482 (88%)
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Own half,195,289
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Opposition half,120,193
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Accurate long balls,13 (32%),28 (55%)
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Accurate crosses,2 (14%),11 (50%)
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Throws,15,21
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Touches in opposition box,20,40
+5749647,2026-08-23T18:45:00.000Z,1,Serie A,Torino,9804,Milan,8564,Offsides,2,0
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Passes,403,583
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Accurate passes,318 (79%),511 (88%)
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Own half,184,279
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Opposition half,134,232
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Accurate long balls,21 (39%),13 (36%)
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Accurate crosses,5 (42%),4 (22%)
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Throws,15,10
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Touches in opposition box,19,30
+5749648,2026-08-22T16:30:00.000Z,1,Serie A,Udinese,8600,Como,10171,Offsides,0,0
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Passes,632,260
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Accurate passes,548 (87%),189 (73%)
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Own half,299,84
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Opposition half,249,105
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Accurate long balls,31 (62%),13 (27%)
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Accurate crosses,5 (18%),2 (17%)
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Throws,31,16
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Touches in opposition box,23,21
+5749649,2026-08-23T16:30:00.000Z,1,Serie A,Venezia,7881,Lecce,9888,Offsides,2,2
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Passes,508,363
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Accurate passes,444 (87%),301 (83%)
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Own half,247,138
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Opposition half,197,163
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Accurate long balls,22 (49%),18 (47%)
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Accurate crosses,6 (43%),4 (25%)
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Throws,19,16
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Touches in opposition box,26,14
+5749650,2026-08-28T18:45:00.000Z,2,Serie A,Milan,8564,Venezia,7881,Offsides,1,4
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Passes,478,683
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Accurate passes,407 (85%),620 (91%)
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Own half,240,406
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Opposition half,167,214
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Accurate long balls,19 (49%),25 (57%)
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Accurate crosses,2 (40%),0 (0%)
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Throws,21,15
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Touches in opposition box,11,19
+5749651,2026-08-31T18:45:00.000Z,2,Serie A,Atalanta,8524,Bologna,9857,Offsides,0,4
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Passes,362,683
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Accurate passes,305 (84%),624 (91%)
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Own half,186,334
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Opposition half,119,290
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Accurate long balls,24 (53%),39 (74%)
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Accurate crosses,3 (16%),11 (65%)
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Throws,12,10
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Touches in opposition box,11,43
+5749652,2026-08-30T18:45:00.000Z,2,Serie A,Cagliari,8529,Inter,8636,Offsides,4,1
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Passes,416,274
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Accurate passes,348 (84%),197 (72%)
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Own half,163,95
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Opposition half,185,102
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Accurate long balls,19 (40%),21 (36%)
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Accurate crosses,3 (18%),5 (31%)
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Throws,34,17
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Touches in opposition box,49,23
+5749653,2026-08-29T16:30:00.000Z,2,Serie A,Fiorentina,8535,Frosinone,9891,Offsides,1,1
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Passes,533,404
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Accurate passes,482 (90%),341 (84%)
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Own half,129,234
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Opposition half,353,107
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Accurate long balls,12 (44%),20 (48%)
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Accurate crosses,7 (24%),2 (25%)
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Throws,22,12
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Touches in opposition box,32,15
+5749654,2026-08-29T18:45:00.000Z,2,Serie A,Juventus,9885,Parma,10167,Offsides,1,1
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Passes,488,565
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Accurate passes,418 (86%),488 (86%)
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Own half,179,335
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Opposition half,239,153
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Accurate long balls,28 (61%),17 (40%)
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Accurate crosses,1 (13%),4 (40%)
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Throws,22,22
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Touches in opposition box,31,18
+5749655,2026-08-30T18:45:00.000Z,2,Serie A,Lazio,8543,Genoa,10233,Offsides,0,2
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Passes,375,677
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Accurate passes,294 (78%),597 (88%)
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Own half,181,321
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Opposition half,113,276
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Accurate long balls,7 (16%),20 (51%)
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Accurate crosses,2 (29%),0 (0%)
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Throws,18,8
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Touches in opposition box,13,40
+5749656,2026-08-31T16:30:00.000Z,2,Serie A,Lecce,9888,Roma,8686,Offsides,0,9
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Passes,420,418
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Accurate passes,346 (82%),335 (80%)
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Own half,170,165
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Opposition half,176,170
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Accurate long balls,18 (33%),29 (44%)
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Accurate crosses,7 (26%),1 (9%)
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Throws,26,19
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Touches in opposition box,25,21
+5749657,2026-08-29T16:30:00.000Z,2,Serie A,Monza,6504,Udinese,8600,Offsides,4,1
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Passes,442,609
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Accurate passes,385 (87%),555 (91%)
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Own half,158,259
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Opposition half,227,296
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Accurate long balls,19 (54%),20 (45%)
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Accurate crosses,5 (31%),6 (32%)
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Throws,16,12
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Touches in opposition box,30,39
+5749658,2026-08-30T16:30:00.000Z,2,Serie A,Napoli,9875,Como,10171,Offsides,9,0
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Passes,436,527
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Accurate passes,385 (88%),475 (90%)
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Own half,138,302
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Opposition half,247,173
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Accurate long balls,26 (60%),25 (61%)
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Accurate crosses,6 (32%),4 (29%)
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Throws,26,10
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Touches in opposition box,36,16
+5749659,2026-08-29T16:30:00.000Z,2,Serie A,Sassuolo,7943,Torino,9804,Offsides,5,0
