@@ -34,16 +34,12 @@ from pathlib import Path
 
 import pandas as pd
 
-# Bundesliga hasn't started yet, so we have no live scrape to derive its
-# current club list from — same stopgap as match_players_to_master.py.
-# Keep these two lists in sync.
-BUNDESLIGA_STOPGAP_TEAMS = {
-    "Bayern Munich", "Borussia Dortmund", "RB Leipzig", "Bayer Leverkusen",
-    "Eintracht Frankfurt", "VfB Stuttgart", "SC Freiburg", "Borussia Monchengladbach",
-    "VfL Wolfsburg", "Werder Bremen", "Union Berlin", "TSG Hoffenheim",
-    "FC Augsburg", "1. FC Heidenheim", "Mainz 05", "FC St. Pauli",
-    "Holstein Kiel", "VfL Bochum",
-}
+# NOTE: the Bundesliga stopgap list (previously kept in sync with
+# match_players_to_master.py) has been removed now that real Bundesliga
+# data and reference_data/other_league_teams_for_Bundesliga.csv exist. It
+# was being merged in unconditionally regardless of which league was being
+# processed, so a Bundesliga run would incorrectly treat Bundesliga's own
+# clubs as "other league" and wrongly reject/reclassify correct matches.
 
 NAME_MATCH_THRESHOLD = 0.82  # fuzzy ratio, conservative to avoid false links
 
@@ -178,14 +174,13 @@ def reconcile_new_players(
     # correctly appearing as a new/unverified entry. (Found via a real
     # case: Rodri, Péter Gulácsi, and Altay Bayindir all went missing
     # entirely until this fix.)
-    other_league_teams = set(BUNDESLIGA_STOPGAP_TEAMS)
+    other_league_teams = set()
     if other_league_teams_csv is not None:
         ref = pd.read_csv(other_league_teams_csv)
         other_league_teams |= set(ref.iloc[:, 0].dropna().unique())
         print(f"Cross-league safeguard active: {len(other_league_teams)} known other-league teams")
     else:
-        print(f"Cross-league safeguard active with Bundesliga stopgap list only "
-              f"({len(other_league_teams)} teams) — pass other_league_teams_csv for full coverage")
+        print("Cross-league safeguard skipped — no other_league_teams_csv passed in")
 
     # ─── Opta unmatched ─────────────────────────────────────────────────────
     print("Finding unmatched Opta players ...")

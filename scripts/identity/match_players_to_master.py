@@ -41,9 +41,10 @@ merely whether it's absent from this round's specific club list.
 So the check instead uses `other_league_teams_csv` (optional) — a simple
 one-column CSV of team names known to belong to OTHER leagues, built from
 each league's own live scrape data (see build_other_league_teams_reference
-below). A match is only rejected if the master row's team is confidently
+below), and built PER TARGET LEAGUE so it never includes that league's own
+clubs. A match is only rejected if the master row's team is confidently
 one of THOSE clubs. Without this file, the safeguard is skipped entirely
-(old behavior) rather than guessing.
+rather than guessing.
 
 Usage:
     python match_players_to_master.py <master_table_csv> <opta_csv> <whoscored_meta_csv> <fotmob_player_stats_csv> <output_csv> [other_league_teams_csv]
@@ -66,19 +67,16 @@ import pandas as pd
 
 TEAM_NAME_STOPWORDS = {"de", "la", "el", "a", "fc", "cf"}
 
-# Bundesliga hasn't started yet, so we have no live scrape to derive its
-# current club list from — this stopgap list exists purely so the
-# cross-league check can still catch a Bundesliga-originated stale ID
-# (like Gulácsi/RB Leipzig) in the meantime. Safe to keep even after
-# Bundesliga has live data (it'll just be redundant with
-# other_league_teams_csv at that point) — remove once no longer needed.
-BUNDESLIGA_STOPGAP_TEAMS = {
-    "Bayern Munich", "Borussia Dortmund", "RB Leipzig", "Bayer Leverkusen",
-    "Eintracht Frankfurt", "VfB Stuttgart", "SC Freiburg", "Borussia Monchengladbach",
-    "VfL Wolfsburg", "Werder Bremen", "Union Berlin", "TSG Hoffenheim",
-    "FC Augsburg", "1. FC Heidenheim", "Mainz 05", "FC St. Pauli",
-    "Holstein Kiel", "VfL Bochum",
-}
+# NOTE: the Bundesliga stopgap list (hardcoded club names used before
+# Bundesliga had any live scrape to build a real other_league_teams CSV
+# from) has been removed now that data/whoscored + data/fotmob have real
+# Bundesliga data and reference_data/other_league_teams_for_Bundesliga.csv
+# exists. That list was merged in unconditionally regardless of which
+# league was being processed, so on a Bundesliga run it would incorrectly
+# treat Bundesliga's own clubs as "other league" and wrongly reject
+# correct matches. other_league_teams_csv (built per-league, correctly
+# excluding the target league's own clubs) is now the only source for
+# this safeguard.
 
 
 def normalize(s) -> str:
@@ -143,16 +141,15 @@ def build_crosswalk(
     rows = []
     cross_league_rejections = []
 
-    other_league_teams = set(BUNDESLIGA_STOPGAP_TEAMS)
+    other_league_teams = set()
     if other_league_teams_csv is not None:
         ref = pd.read_csv(other_league_teams_csv)
         other_league_teams |= set(ref.iloc[:, 0].dropna().unique())
         print(f"Cross-league safeguard active: {len(other_league_teams)} known other-league teams "
-              f"({other_league_teams_csv} + Bundesliga stopgap list)")
+              f"({other_league_teams_csv})")
     else:
-        print(f"Cross-league safeguard active with Bundesliga stopgap list only "
-              f"({len(other_league_teams)} teams) — pass other_league_teams_csv for full coverage "
-              f"of the other 3 currently-live leagues")
+        print("Cross-league safeguard skipped — no other_league_teams_csv passed in "
+              "(matches from other leagues' stale IDs will not be caught)")
 
     # ─── Opta ────────────────────────────────────────────────────────────────
     print("Matching Opta ...")
