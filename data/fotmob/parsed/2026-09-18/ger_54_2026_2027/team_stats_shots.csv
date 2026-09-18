@@ -1,0 +1,190 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Total shots,21,11
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Shots off target,6,3
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Shots on target,9,4
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Blocked shots,6,4
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Hit woodwork,1,1
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Shots inside box,14,7
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Shots outside box,7,4
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Total shots,24,11
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Shots off target,6,5
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Shots on target,13,5
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Blocked shots,5,1
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Hit woodwork,0,0
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Shots inside box,18,7
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Shots outside box,6,4
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Total shots,20,8
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Shots off target,9,5
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Shots on target,7,3
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Blocked shots,4,0
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Hit woodwork,0,1
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Shots inside box,12,4
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Shots outside box,8,4
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Total shots,11,21
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Shots off target,3,13
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Shots on target,6,4
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Blocked shots,2,4
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Hit woodwork,0,2
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Shots inside box,8,13
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Shots outside box,3,8
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Total shots,18,15
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Shots off target,7,7
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Shots on target,6,4
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Blocked shots,5,4
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Hit woodwork,0,0
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Shots inside box,13,8
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Shots outside box,5,7
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Total shots,19,9
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Shots off target,7,1
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Shots on target,5,3
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Blocked shots,7,5
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Hit woodwork,1,0
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Shots inside box,8,6
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Shots outside box,11,3
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Total shots,21,10
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Shots off target,11,6
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Shots on target,4,0
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Blocked shots,6,4
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Hit woodwork,1,0
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Shots inside box,14,6
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Shots outside box,7,4
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Total shots,25,15
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Shots off target,10,5
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Shots on target,11,4
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Blocked shots,4,6
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Hit woodwork,1,1
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Shots inside box,19,10
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Shots outside box,6,5
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Total shots,19,12
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Shots off target,3,4
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Shots on target,10,3
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Blocked shots,6,5
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Hit woodwork,0,0
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Shots inside box,15,7
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Shots outside box,4,5
+5881152,2026-09-05T13:30:00.000Z,2,Bundesliga,Bayer Leverkusen,8178,Union Berlin,8149,Total shots,21,5
+5881152,2026-09-05T13:30:00.000Z,2,Bundesliga,Bayer Leverkusen,8178,Union Berlin,8149,Shots off target,5,3
+5881152,2026-09-05T13:30:00.000Z,2,Bundesliga,Bayer Leverkusen,8178,Union Berlin,8149,Shots on target,10,0
+5881152,2026-09-05T13:30:00.000Z,2,Bundesliga,Bayer Leverkusen,8178,Union Berlin,8149,Blocked shots,6,2
+5881152,2026-09-05T13:30:00.000Z,2,Bundesliga,Bayer Leverkusen,8178,Union Berlin,8149,Hit woodwork,1,0
+5881152,2026-09-05T13:30:00.000Z,2,Bundesliga,Bayer Leverkusen,8178,Union Berlin,8149,Shots inside box,16,2
+5881152,2026-09-05T13:30:00.000Z,2,Bundesliga,Bayer Leverkusen,8178,Union Berlin,8149,Shots outside box,5,3
+5881153,2026-09-05T13:30:00.000Z,2,Bundesliga,Borussia Mönchengladbach,9788,Elversberg,8232,Total shots,25,14
+5881153,2026-09-05T13:30:00.000Z,2,Bundesliga,Borussia Mönchengladbach,9788,Elversberg,8232,Shots off target,7,4
+5881153,2026-09-05T13:30:00.000Z,2,Bundesliga,Borussia Mönchengladbach,9788,Elversberg,8232,Shots on target,6,10
+5881153,2026-09-05T13:30:00.000Z,2,Bundesliga,Borussia Mönchengladbach,9788,Elversberg,8232,Blocked shots,12,0
+5881153,2026-09-05T13:30:00.000Z,2,Bundesliga,Borussia Mönchengladbach,9788,Elversberg,8232,Hit woodwork,0,2
+5881153,2026-09-05T13:30:00.000Z,2,Bundesliga,Borussia Mönchengladbach,9788,Elversberg,8232,Shots inside box,19,10
+5881153,2026-09-05T13:30:00.000Z,2,Bundesliga,Borussia Mönchengladbach,9788,Elversberg,8232,Shots outside box,6,4
+5881154,2026-09-06T15:30:00.000Z,2,Bundesliga,Eintracht Frankfurt,9810,Augsburg,8406,Total shots,22,17
+5881154,2026-09-06T15:30:00.000Z,2,Bundesliga,Eintracht Frankfurt,9810,Augsburg,8406,Shots off target,8,5
+5881154,2026-09-06T15:30:00.000Z,2,Bundesliga,Eintracht Frankfurt,9810,Augsburg,8406,Shots on target,8,7
+5881154,2026-09-06T15:30:00.000Z,2,Bundesliga,Eintracht Frankfurt,9810,Augsburg,8406,Blocked shots,6,5
+5881154,2026-09-06T15:30:00.000Z,2,Bundesliga,Eintracht Frankfurt,9810,Augsburg,8406,Hit woodwork,0,0
+5881154,2026-09-06T15:30:00.000Z,2,Bundesliga,Eintracht Frankfurt,9810,Augsburg,8406,Shots inside box,17,9
+5881154,2026-09-06T15:30:00.000Z,2,Bundesliga,Eintracht Frankfurt,9810,Augsburg,8406,Shots outside box,5,8
+5881155,2026-09-06T13:30:00.000Z,2,Bundesliga,Hamburger SV,9790,Mainz 05,9905,Total shots,8,17
+5881155,2026-09-06T13:30:00.000Z,2,Bundesliga,Hamburger SV,9790,Mainz 05,9905,Shots off target,2,7
+5881155,2026-09-06T13:30:00.000Z,2,Bundesliga,Hamburger SV,9790,Mainz 05,9905,Shots on target,1,8
+5881155,2026-09-06T13:30:00.000Z,2,Bundesliga,Hamburger SV,9790,Mainz 05,9905,Blocked shots,5,2
+5881155,2026-09-06T13:30:00.000Z,2,Bundesliga,Hamburger SV,9790,Mainz 05,9905,Hit woodwork,0,0
+5881155,2026-09-06T13:30:00.000Z,2,Bundesliga,Hamburger SV,9790,Mainz 05,9905,Shots inside box,3,14
+5881155,2026-09-06T13:30:00.000Z,2,Bundesliga,Hamburger SV,9790,Mainz 05,9905,Shots outside box,5,3
+5881156,2026-09-05T13:30:00.000Z,2,Bundesliga,Hoffenheim,8226,Borussia Dortmund,9789,Total shots,18,11
+5881156,2026-09-05T13:30:00.000Z,2,Bundesliga,Hoffenheim,8226,Borussia Dortmund,9789,Shots off target,7,2
+5881156,2026-09-05T13:30:00.000Z,2,Bundesliga,Hoffenheim,8226,Borussia Dortmund,9789,Shots on target,6,4
+5881156,2026-09-05T13:30:00.000Z,2,Bundesliga,Hoffenheim,8226,Borussia Dortmund,9789,Blocked shots,5,5
+5881156,2026-09-05T13:30:00.000Z,2,Bundesliga,Hoffenheim,8226,Borussia Dortmund,9789,Hit woodwork,0,0
+5881156,2026-09-05T13:30:00.000Z,2,Bundesliga,Hoffenheim,8226,Borussia Dortmund,9789,Shots inside box,11,10
+5881156,2026-09-05T13:30:00.000Z,2,Bundesliga,Hoffenheim,8226,Borussia Dortmund,9789,Shots outside box,7,1
+5881157,2026-09-05T13:30:00.000Z,2,Bundesliga,Paderborn,8460,Freiburg,8358,Total shots,14,16
+5881157,2026-09-05T13:30:00.000Z,2,Bundesliga,Paderborn,8460,Freiburg,8358,Shots off target,6,3
+5881157,2026-09-05T13:30:00.000Z,2,Bundesliga,Paderborn,8460,Freiburg,8358,Shots on target,3,5
+5881157,2026-09-05T13:30:00.000Z,2,Bundesliga,Paderborn,8460,Freiburg,8358,Blocked shots,5,8
+5881157,2026-09-05T13:30:00.000Z,2,Bundesliga,Paderborn,8460,Freiburg,8358,Hit woodwork,0,0
+5881157,2026-09-05T13:30:00.000Z,2,Bundesliga,Paderborn,8460,Freiburg,8358,Shots inside box,6,9
+5881157,2026-09-05T13:30:00.000Z,2,Bundesliga,Paderborn,8460,Freiburg,8358,Shots outside box,8,7
+5881158,2026-09-05T16:30:00.000Z,2,Bundesliga,Schalke 04,10189,Bayern München,9823,Total shots,4,15
+5881158,2026-09-05T16:30:00.000Z,2,Bundesliga,Schalke 04,10189,Bayern München,9823,Shots off target,3,6
+5881158,2026-09-05T16:30:00.000Z,2,Bundesliga,Schalke 04,10189,Bayern München,9823,Shots on target,1,5
+5881158,2026-09-05T16:30:00.000Z,2,Bundesliga,Schalke 04,10189,Bayern München,9823,Blocked shots,0,4
+5881158,2026-09-05T16:30:00.000Z,2,Bundesliga,Schalke 04,10189,Bayern München,9823,Hit woodwork,0,0
+5881158,2026-09-05T16:30:00.000Z,2,Bundesliga,Schalke 04,10189,Bayern München,9823,Shots inside box,3,10
+5881158,2026-09-05T16:30:00.000Z,2,Bundesliga,Schalke 04,10189,Bayern München,9823,Shots outside box,1,5
+5881159,2026-09-04T18:30:00.000Z,2,Bundesliga,VfB Stuttgart,10269,1. FC Köln,8722,Total shots,22,17
+5881159,2026-09-04T18:30:00.000Z,2,Bundesliga,VfB Stuttgart,10269,1. FC Köln,8722,Shots off target,8,10
+5881159,2026-09-04T18:30:00.000Z,2,Bundesliga,VfB Stuttgart,10269,1. FC Köln,8722,Shots on target,8,3
+5881159,2026-09-04T18:30:00.000Z,2,Bundesliga,VfB Stuttgart,10269,1. FC Köln,8722,Blocked shots,6,4
+5881159,2026-09-04T18:30:00.000Z,2,Bundesliga,VfB Stuttgart,10269,1. FC Köln,8722,Hit woodwork,2,0
+5881159,2026-09-04T18:30:00.000Z,2,Bundesliga,VfB Stuttgart,10269,1. FC Köln,8722,Shots inside box,15,13
+5881159,2026-09-04T18:30:00.000Z,2,Bundesliga,VfB Stuttgart,10269,1. FC Köln,8722,Shots outside box,7,4
+5881160,2026-09-05T13:30:00.000Z,2,Bundesliga,Werder Bremen,8697,RB Leipzig,178475,Total shots,12,19
+5881160,2026-09-05T13:30:00.000Z,2,Bundesliga,Werder Bremen,8697,RB Leipzig,178475,Shots off target,3,7
+5881160,2026-09-05T13:30:00.000Z,2,Bundesliga,Werder Bremen,8697,RB Leipzig,178475,Shots on target,7,5
+5881160,2026-09-05T13:30:00.000Z,2,Bundesliga,Werder Bremen,8697,RB Leipzig,178475,Blocked shots,2,7
+5881160,2026-09-05T13:30:00.000Z,2,Bundesliga,Werder Bremen,8697,RB Leipzig,178475,Hit woodwork,1,1
+5881160,2026-09-05T13:30:00.000Z,2,Bundesliga,Werder Bremen,8697,RB Leipzig,178475,Shots inside box,5,14
+5881160,2026-09-05T13:30:00.000Z,2,Bundesliga,Werder Bremen,8697,RB Leipzig,178475,Shots outside box,7,5
+5881161,2026-09-12T13:30:00.000Z,3,Bundesliga,Augsburg,8406,Bayer Leverkusen,8178,Total shots,8,30
+5881161,2026-09-12T13:30:00.000Z,3,Bundesliga,Augsburg,8406,Bayer Leverkusen,8178,Shots off target,2,13
+5881161,2026-09-12T13:30:00.000Z,3,Bundesliga,Augsburg,8406,Bayer Leverkusen,8178,Shots on target,5,5
+5881161,2026-09-12T13:30:00.000Z,3,Bundesliga,Augsburg,8406,Bayer Leverkusen,8178,Blocked shots,1,12
+5881161,2026-09-12T13:30:00.000Z,3,Bundesliga,Augsburg,8406,Bayer Leverkusen,8178,Hit woodwork,0,0
+5881161,2026-09-12T13:30:00.000Z,3,Bundesliga,Augsburg,8406,Bayer Leverkusen,8178,Shots inside box,5,21
+5881161,2026-09-12T13:30:00.000Z,3,Bundesliga,Augsburg,8406,Bayer Leverkusen,8178,Shots outside box,3,9
+5881162,2026-09-12T13:30:00.000Z,3,Bundesliga,Borussia Dortmund,9789,Paderborn,8460,Total shots,14,10
+5881162,2026-09-12T13:30:00.000Z,3,Bundesliga,Borussia Dortmund,9789,Paderborn,8460,Shots off target,3,8
+5881162,2026-09-12T13:30:00.000Z,3,Bundesliga,Borussia Dortmund,9789,Paderborn,8460,Shots on target,8,0
+5881162,2026-09-12T13:30:00.000Z,3,Bundesliga,Borussia Dortmund,9789,Paderborn,8460,Blocked shots,3,2
+5881162,2026-09-12T13:30:00.000Z,3,Bundesliga,Borussia Dortmund,9789,Paderborn,8460,Hit woodwork,1,0
+5881162,2026-09-12T13:30:00.000Z,3,Bundesliga,Borussia Dortmund,9789,Paderborn,8460,Shots inside box,10,5
+5881162,2026-09-12T13:30:00.000Z,3,Bundesliga,Borussia Dortmund,9789,Paderborn,8460,Shots outside box,4,5
+5881163,2026-09-13T15:30:00.000Z,3,Bundesliga,Elversberg,8232,Bayern München,9823,Total shots,5,28
+5881163,2026-09-13T15:30:00.000Z,3,Bundesliga,Elversberg,8232,Bayern München,9823,Shots off target,3,10
+5881163,2026-09-13T15:30:00.000Z,3,Bundesliga,Elversberg,8232,Bayern München,9823,Shots on target,1,6
+5881163,2026-09-13T15:30:00.000Z,3,Bundesliga,Elversberg,8232,Bayern München,9823,Blocked shots,1,12
+5881163,2026-09-13T15:30:00.000Z,3,Bundesliga,Elversberg,8232,Bayern München,9823,Hit woodwork,0,1
+5881163,2026-09-13T15:30:00.000Z,3,Bundesliga,Elversberg,8232,Bayern München,9823,Shots inside box,3,16
+5881163,2026-09-13T15:30:00.000Z,3,Bundesliga,Elversberg,8232,Bayern München,9823,Shots outside box,2,12
+5881164,2026-09-12T16:30:00.000Z,3,Bundesliga,1. FC Köln,8722,Werder Bremen,8697,Total shots,15,14
+5881164,2026-09-12T16:30:00.000Z,3,Bundesliga,1. FC Köln,8722,Werder Bremen,8697,Shots off target,3,6
+5881164,2026-09-12T16:30:00.000Z,3,Bundesliga,1. FC Köln,8722,Werder Bremen,8697,Shots on target,6,5
+5881164,2026-09-12T16:30:00.000Z,3,Bundesliga,1. FC Köln,8722,Werder Bremen,8697,Blocked shots,6,3
+5881164,2026-09-12T16:30:00.000Z,3,Bundesliga,1. FC Köln,8722,Werder Bremen,8697,Hit woodwork,0,1
+5881164,2026-09-12T16:30:00.000Z,3,Bundesliga,1. FC Köln,8722,Werder Bremen,8697,Shots inside box,9,11
+5881164,2026-09-12T16:30:00.000Z,3,Bundesliga,1. FC Köln,8722,Werder Bremen,8697,Shots outside box,6,3
+5881165,2026-09-12T13:30:00.000Z,3,Bundesliga,Freiburg,8358,Borussia Mönchengladbach,9788,Total shots,19,5
+5881165,2026-09-12T13:30:00.000Z,3,Bundesliga,Freiburg,8358,Borussia Mönchengladbach,9788,Shots off target,5,2
+5881165,2026-09-12T13:30:00.000Z,3,Bundesliga,Freiburg,8358,Borussia Mönchengladbach,9788,Shots on target,9,0
+5881165,2026-09-12T13:30:00.000Z,3,Bundesliga,Freiburg,8358,Borussia Mönchengladbach,9788,Blocked shots,5,3
+5881165,2026-09-12T13:30:00.000Z,3,Bundesliga,Freiburg,8358,Borussia Mönchengladbach,9788,Hit woodwork,0,0
+5881165,2026-09-12T13:30:00.000Z,3,Bundesliga,Freiburg,8358,Borussia Mönchengladbach,9788,Shots inside box,12,4
+5881165,2026-09-12T13:30:00.000Z,3,Bundesliga,Freiburg,8358,Borussia Mönchengladbach,9788,Shots outside box,7,1
+5881166,2026-09-12T13:30:00.000Z,3,Bundesliga,Hoffenheim,8226,VfB Stuttgart,10269,Total shots,20,16
+5881166,2026-09-12T13:30:00.000Z,3,Bundesliga,Hoffenheim,8226,VfB Stuttgart,10269,Shots off target,7,7
+5881166,2026-09-12T13:30:00.000Z,3,Bundesliga,Hoffenheim,8226,VfB Stuttgart,10269,Shots on target,8,5
+5881166,2026-09-12T13:30:00.000Z,3,Bundesliga,Hoffenheim,8226,VfB Stuttgart,10269,Blocked shots,5,4
+5881166,2026-09-12T13:30:00.000Z,3,Bundesliga,Hoffenheim,8226,VfB Stuttgart,10269,Hit woodwork,0,0
+5881166,2026-09-12T13:30:00.000Z,3,Bundesliga,Hoffenheim,8226,VfB Stuttgart,10269,Shots inside box,12,13
+5881166,2026-09-12T13:30:00.000Z,3,Bundesliga,Hoffenheim,8226,VfB Stuttgart,10269,Shots outside box,8,3
+5881167,2026-09-12T13:30:00.000Z,3,Bundesliga,Mainz 05,9905,Eintracht Frankfurt,9810,Total shots,18,11
+5881167,2026-09-12T13:30:00.000Z,3,Bundesliga,Mainz 05,9905,Eintracht Frankfurt,9810,Shots off target,6,4
+5881167,2026-09-12T13:30:00.000Z,3,Bundesliga,Mainz 05,9905,Eintracht Frankfurt,9810,Shots on target,5,5
+5881167,2026-09-12T13:30:00.000Z,3,Bundesliga,Mainz 05,9905,Eintracht Frankfurt,9810,Blocked shots,7,2
+5881167,2026-09-12T13:30:00.000Z,3,Bundesliga,Mainz 05,9905,Eintracht Frankfurt,9810,Hit woodwork,0,1
+5881167,2026-09-12T13:30:00.000Z,3,Bundesliga,Mainz 05,9905,Eintracht Frankfurt,9810,Shots inside box,11,9
+5881167,2026-09-12T13:30:00.000Z,3,Bundesliga,Mainz 05,9905,Eintracht Frankfurt,9810,Shots outside box,7,2
+5881168,2026-09-13T13:30:00.000Z,3,Bundesliga,RB Leipzig,178475,Hamburger SV,9790,Total shots,19,10
+5881168,2026-09-13T13:30:00.000Z,3,Bundesliga,RB Leipzig,178475,Hamburger SV,9790,Shots off target,9,4
+5881168,2026-09-13T13:30:00.000Z,3,Bundesliga,RB Leipzig,178475,Hamburger SV,9790,Shots on target,6,4
+5881168,2026-09-13T13:30:00.000Z,3,Bundesliga,RB Leipzig,178475,Hamburger SV,9790,Blocked shots,4,2
+5881168,2026-09-13T13:30:00.000Z,3,Bundesliga,RB Leipzig,178475,Hamburger SV,9790,Hit woodwork,0,0
+5881168,2026-09-13T13:30:00.000Z,3,Bundesliga,RB Leipzig,178475,Hamburger SV,9790,Shots inside box,12,7
+5881168,2026-09-13T13:30:00.000Z,3,Bundesliga,RB Leipzig,178475,Hamburger SV,9790,Shots outside box,7,3
+5881169,2026-09-11T18:30:00.000Z,3,Bundesliga,Union Berlin,8149,Schalke 04,10189,Total shots,20,19
+5881169,2026-09-11T18:30:00.000Z,3,Bundesliga,Union Berlin,8149,Schalke 04,10189,Shots off target,5,6
+5881169,2026-09-11T18:30:00.000Z,3,Bundesliga,Union Berlin,8149,Schalke 04,10189,Shots on target,8,10
+5881169,2026-09-11T18:30:00.000Z,3,Bundesliga,Union Berlin,8149,Schalke 04,10189,Blocked shots,7,3
+5881169,2026-09-11T18:30:00.000Z,3,Bundesliga,Union Berlin,8149,Schalke 04,10189,Hit woodwork,1,0
+5881169,2026-09-11T18:30:00.000Z,3,Bundesliga,Union Berlin,8149,Schalke 04,10189,Shots inside box,17,12
+5881169,2026-09-11T18:30:00.000Z,3,Bundesliga,Union Berlin,8149,Schalke 04,10189,Shots outside box,3,7

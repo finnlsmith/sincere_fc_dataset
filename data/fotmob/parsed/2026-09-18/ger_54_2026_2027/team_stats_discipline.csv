@@ -1,0 +1,82 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Yellow cards,1,3
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Red cards,0,0
+5881143,2026-08-28T18:30:00.000Z,1,Bundesliga,Bayern München,9823,VfB Stuttgart,10269,Fouls committed,10,17
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Yellow cards,1,0
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Red cards,0,1
+5881144,2026-08-30T15:30:00.000Z,1,Bundesliga,Augsburg,8406,Schalke 04,10189,Fouls committed,5,6
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Yellow cards,2,1
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Red cards,1,0
+5881145,2026-08-29T16:30:00.000Z,1,Bundesliga,Borussia Dortmund,9789,Hamburger SV,9790,Fouls committed,13,19
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Yellow cards,3,2
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Red cards,0,0
+5881146,2026-08-29T13:30:00.000Z,1,Bundesliga,Elversberg,8232,Bayer Leverkusen,8178,Fouls committed,18,15
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Yellow cards,0,2
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Red cards,0,0
+5881147,2026-08-29T13:30:00.000Z,1,Bundesliga,1. FC Köln,8722,Hoffenheim,8226,Fouls committed,11,14
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Yellow cards,1,1
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Red cards,0,0
+5881148,2026-08-30T13:30:00.000Z,1,Bundesliga,Freiburg,8358,Werder Bremen,8697,Fouls committed,13,16
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Yellow cards,1,2
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Red cards,0,0
+5881149,2026-08-29T13:30:00.000Z,1,Bundesliga,Mainz 05,9905,Paderborn,8460,Fouls committed,8,10
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Yellow cards,1,0
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Red cards,0,0
+5881150,2026-08-29T13:30:00.000Z,1,Bundesliga,RB Leipzig,178475,Borussia Mönchengladbach,9788,Fouls committed,10,13
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Yellow cards,2,4
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Red cards,0,0
+5881151,2026-08-29T13:30:00.000Z,1,Bundesliga,Union Berlin,8149,Eintracht Frankfurt,9810,Fouls committed,11,10
+5881152,2026-09-05T13:30:00.000Z,2,Bundesliga,Bayer Leverkusen,8178,Union Berlin,8149,Yellow cards,2,2
+5881152,2026-09-05T13:30:00.000Z,2,Bundesliga,Bayer Leverkusen,8178,Union Berlin,8149,Red cards,0,0
+5881152,2026-09-05T13:30:00.000Z,2,Bundesliga,Bayer Leverkusen,8178,Union Berlin,8149,Fouls committed,11,12
+5881153,2026-09-05T13:30:00.000Z,2,Bundesliga,Borussia Mönchengladbach,9788,Elversberg,8232,Yellow cards,3,1
+5881153,2026-09-05T13:30:00.000Z,2,Bundesliga,Borussia Mönchengladbach,9788,Elversberg,8232,Red cards,0,0
+5881153,2026-09-05T13:30:00.000Z,2,Bundesliga,Borussia Mönchengladbach,9788,Elversberg,8232,Fouls committed,18,9
+5881154,2026-09-06T15:30:00.000Z,2,Bundesliga,Eintracht Frankfurt,9810,Augsburg,8406,Yellow cards,1,1
+5881154,2026-09-06T15:30:00.000Z,2,Bundesliga,Eintracht Frankfurt,9810,Augsburg,8406,Red cards,0,0
+5881154,2026-09-06T15:30:00.000Z,2,Bundesliga,Eintracht Frankfurt,9810,Augsburg,8406,Fouls committed,10,13
+5881155,2026-09-06T13:30:00.000Z,2,Bundesliga,Hamburger SV,9790,Mainz 05,9905,Yellow cards,1,3
+5881155,2026-09-06T13:30:00.000Z,2,Bundesliga,Hamburger SV,9790,Mainz 05,9905,Red cards,0,0
+5881155,2026-09-06T13:30:00.000Z,2,Bundesliga,Hamburger SV,9790,Mainz 05,9905,Fouls committed,14,19
+5881156,2026-09-05T13:30:00.000Z,2,Bundesliga,Hoffenheim,8226,Borussia Dortmund,9789,Yellow cards,4,2
+5881156,2026-09-05T13:30:00.000Z,2,Bundesliga,Hoffenheim,8226,Borussia Dortmund,9789,Red cards,0,0
+5881156,2026-09-05T13:30:00.000Z,2,Bundesliga,Hoffenheim,8226,Borussia Dortmund,9789,Fouls committed,13,7
+5881157,2026-09-05T13:30:00.000Z,2,Bundesliga,Paderborn,8460,Freiburg,8358,Yellow cards,3,3
+5881157,2026-09-05T13:30:00.000Z,2,Bundesliga,Paderborn,8460,Freiburg,8358,Red cards,0,0
+5881157,2026-09-05T13:30:00.000Z,2,Bundesliga,Paderborn,8460,Freiburg,8358,Fouls committed,16,10
+5881158,2026-09-05T16:30:00.000Z,2,Bundesliga,Schalke 04,10189,Bayern München,9823,Yellow cards,2,2
+5881158,2026-09-05T16:30:00.000Z,2,Bundesliga,Schalke 04,10189,Bayern München,9823,Red cards,0,0
+5881158,2026-09-05T16:30:00.000Z,2,Bundesliga,Schalke 04,10189,Bayern München,9823,Fouls committed,5,12
+5881159,2026-09-04T18:30:00.000Z,2,Bundesliga,VfB Stuttgart,10269,1. FC Köln,8722,Yellow cards,1,3
+5881159,2026-09-04T18:30:00.000Z,2,Bundesliga,VfB Stuttgart,10269,1. FC Köln,8722,Red cards,0,0
+5881159,2026-09-04T18:30:00.000Z,2,Bundesliga,VfB Stuttgart,10269,1. FC Köln,8722,Fouls committed,5,6
+5881160,2026-09-05T13:30:00.000Z,2,Bundesliga,Werder Bremen,8697,RB Leipzig,178475,Yellow cards,1,0
+5881160,2026-09-05T13:30:00.000Z,2,Bundesliga,Werder Bremen,8697,RB Leipzig,178475,Red cards,0,0
+5881160,2026-09-05T13:30:00.000Z,2,Bundesliga,Werder Bremen,8697,RB Leipzig,178475,Fouls committed,13,8
+5881161,2026-09-12T13:30:00.000Z,3,Bundesliga,Augsburg,8406,Bayer Leverkusen,8178,Yellow cards,1,1
+5881161,2026-09-12T13:30:00.000Z,3,Bundesliga,Augsburg,8406,Bayer Leverkusen,8178,Red cards,0,0
+5881161,2026-09-12T13:30:00.000Z,3,Bundesliga,Augsburg,8406,Bayer Leverkusen,8178,Fouls committed,6,12
+5881162,2026-09-12T13:30:00.000Z,3,Bundesliga,Borussia Dortmund,9789,Paderborn,8460,Yellow cards,1,1
+5881162,2026-09-12T13:30:00.000Z,3,Bundesliga,Borussia Dortmund,9789,Paderborn,8460,Red cards,0,0
+5881162,2026-09-12T13:30:00.000Z,3,Bundesliga,Borussia Dortmund,9789,Paderborn,8460,Fouls committed,11,7
+5881163,2026-09-13T15:30:00.000Z,3,Bundesliga,Elversberg,8232,Bayern München,9823,Yellow cards,2,0
+5881163,2026-09-13T15:30:00.000Z,3,Bundesliga,Elversberg,8232,Bayern München,9823,Red cards,0,0
+5881163,2026-09-13T15:30:00.000Z,3,Bundesliga,Elversberg,8232,Bayern München,9823,Fouls committed,9,8
+5881164,2026-09-12T16:30:00.000Z,3,Bundesliga,1. FC Köln,8722,Werder Bremen,8697,Yellow cards,2,1
+5881164,2026-09-12T16:30:00.000Z,3,Bundesliga,1. FC Köln,8722,Werder Bremen,8697,Red cards,0,0
+5881164,2026-09-12T16:30:00.000Z,3,Bundesliga,1. FC Köln,8722,Werder Bremen,8697,Fouls committed,11,12
+5881165,2026-09-12T13:30:00.000Z,3,Bundesliga,Freiburg,8358,Borussia Mönchengladbach,9788,Yellow cards,1,2
+5881165,2026-09-12T13:30:00.000Z,3,Bundesliga,Freiburg,8358,Borussia Mönchengladbach,9788,Red cards,0,1
+5881165,2026-09-12T13:30:00.000Z,3,Bundesliga,Freiburg,8358,Borussia Mönchengladbach,9788,Fouls committed,7,16
+5881166,2026-09-12T13:30:00.000Z,3,Bundesliga,Hoffenheim,8226,VfB Stuttgart,10269,Yellow cards,1,0
+5881166,2026-09-12T13:30:00.000Z,3,Bundesliga,Hoffenheim,8226,VfB Stuttgart,10269,Red cards,0,0
+5881166,2026-09-12T13:30:00.000Z,3,Bundesliga,Hoffenheim,8226,VfB Stuttgart,10269,Fouls committed,15,8
+5881167,2026-09-12T13:30:00.000Z,3,Bundesliga,Mainz 05,9905,Eintracht Frankfurt,9810,Yellow cards,0,2
+5881167,2026-09-12T13:30:00.000Z,3,Bundesliga,Mainz 05,9905,Eintracht Frankfurt,9810,Red cards,0,0
+5881167,2026-09-12T13:30:00.000Z,3,Bundesliga,Mainz 05,9905,Eintracht Frankfurt,9810,Fouls committed,11,9
+5881168,2026-09-13T13:30:00.000Z,3,Bundesliga,RB Leipzig,178475,Hamburger SV,9790,Yellow cards,1,2
+5881168,2026-09-13T13:30:00.000Z,3,Bundesliga,RB Leipzig,178475,Hamburger SV,9790,Red cards,0,0
+5881168,2026-09-13T13:30:00.000Z,3,Bundesliga,RB Leipzig,178475,Hamburger SV,9790,Fouls committed,11,13
+5881169,2026-09-11T18:30:00.000Z,3,Bundesliga,Union Berlin,8149,Schalke 04,10189,Yellow cards,3,1
+5881169,2026-09-11T18:30:00.000Z,3,Bundesliga,Union Berlin,8149,Schalke 04,10189,Red cards,0,0
+5881169,2026-09-11T18:30:00.000Z,3,Bundesliga,Union Berlin,8149,Schalke 04,10189,Fouls committed,11,10

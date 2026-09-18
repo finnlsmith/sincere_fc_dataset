@@ -1,0 +1,201 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Tackles,9,4
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Interceptions,5,9
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Blocks,1,9
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Clearances,24,30
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Keeper saves,1,2
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Tackles,17,6
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Interceptions,6,3
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Blocks,7,1
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Clearances,53,16
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Keeper saves,5,2
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Tackles,18,25
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Interceptions,8,10
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Blocks,3,7
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Clearances,19,34
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Keeper saves,4,3
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Tackles,22,16
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Interceptions,9,9
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Blocks,5,1
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Clearances,33,13
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Keeper saves,2,1
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Tackles,8,19
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Interceptions,2,15
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Blocks,6,1
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Clearances,32,31
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Keeper saves,2,3
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Tackles,19,18
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Interceptions,16,4
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Blocks,2,6
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Clearances,16,26
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Keeper saves,4,5
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Tackles,21,19
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Interceptions,10,8
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Blocks,0,3
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Clearances,12,23
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Keeper saves,0,3
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Tackles,15,16
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Interceptions,8,13
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Blocks,0,3
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Clearances,12,28
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Keeper saves,3,4
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Tackles,19,17
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Interceptions,4,8
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Blocks,16,4
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Clearances,39,18
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Keeper saves,5,3
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Tackles,19,23
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Interceptions,8,7
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Blocks,6,5
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Clearances,17,22
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Keeper saves,3,4
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Tackles,18,18
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Interceptions,9,11
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Blocks,1,7
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Clearances,27,32
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Keeper saves,5,4
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Tackles,20,13
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Interceptions,3,9
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Blocks,1,2
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Clearances,19,20
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Keeper saves,1,0
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Tackles,12,9
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Interceptions,9,5
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Blocks,1,7
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Clearances,38,14
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Keeper saves,4,1
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Tackles,7,15
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Interceptions,2,7
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Blocks,0,5
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Clearances,26,32
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Keeper saves,1,3
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Tackles,34,14
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Interceptions,11,9
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Blocks,3,1
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Clearances,20,14
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Keeper saves,4,1
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Tackles,19,19
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Interceptions,11,10
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Blocks,10,6
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Clearances,46,38
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Keeper saves,4,1
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Tackles,21,23
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Interceptions,11,6
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Blocks,6,4
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Clearances,23,34
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Keeper saves,1,2
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Tackles,22,10
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Interceptions,13,8
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Blocks,1,13
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Clearances,9,29
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Keeper saves,3,6
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Tackles,13,11
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Interceptions,7,7
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Blocks,8,2
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Clearances,39,17
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Keeper saves,0,3
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Tackles,13,12
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Interceptions,4,3
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Blocks,1,5
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Clearances,20,29
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Keeper saves,0,4
+5795435,2026-09-06T15:30:00.000Z,3,Premier League,Arsenal,9825,Chelsea,8455,Tackles,10,12
+5795435,2026-09-06T15:30:00.000Z,3,Premier League,Arsenal,9825,Chelsea,8455,Interceptions,9,7
+5795435,2026-09-06T15:30:00.000Z,3,Premier League,Arsenal,9825,Chelsea,8455,Blocks,2,6
+5795435,2026-09-06T15:30:00.000Z,3,Premier League,Arsenal,9825,Chelsea,8455,Clearances,24,23
+5795435,2026-09-06T15:30:00.000Z,3,Premier League,Arsenal,9825,Chelsea,8455,Keeper saves,4,8
+5795436,2026-09-05T14:00:00.000Z,3,Premier League,Brentford,9937,Sunderland,8472,Tackles,10,19
+5795436,2026-09-05T14:00:00.000Z,3,Premier League,Brentford,9937,Sunderland,8472,Interceptions,8,5
+5795436,2026-09-05T14:00:00.000Z,3,Premier League,Brentford,9937,Sunderland,8472,Blocks,4,4
+5795436,2026-09-05T14:00:00.000Z,3,Premier League,Brentford,9937,Sunderland,8472,Clearances,32,28
+5795436,2026-09-05T14:00:00.000Z,3,Premier League,Brentford,9937,Sunderland,8472,Keeper saves,2,1
+5795437,2026-09-05T14:00:00.000Z,3,Premier League,Brighton & Hove Albion,10204,Leeds United,8463,Tackles,8,17
+5795437,2026-09-05T14:00:00.000Z,3,Premier League,Brighton & Hove Albion,10204,Leeds United,8463,Interceptions,5,8
+5795437,2026-09-05T14:00:00.000Z,3,Premier League,Brighton & Hove Albion,10204,Leeds United,8463,Blocks,2,6
+5795437,2026-09-05T14:00:00.000Z,3,Premier League,Brighton & Hove Albion,10204,Leeds United,8463,Clearances,33,35
+5795437,2026-09-05T14:00:00.000Z,3,Premier League,Brighton & Hove Albion,10204,Leeds United,8463,Keeper saves,3,4
+5795438,2026-09-06T13:00:00.000Z,3,Premier League,Everton,8668,Manchester United,10260,Tackles,16,11
+5795438,2026-09-06T13:00:00.000Z,3,Premier League,Everton,8668,Manchester United,10260,Interceptions,12,9
+5795438,2026-09-06T13:00:00.000Z,3,Premier League,Everton,8668,Manchester United,10260,Blocks,5,7
+5795438,2026-09-06T13:00:00.000Z,3,Premier League,Everton,8668,Manchester United,10260,Clearances,18,31
+5795438,2026-09-06T13:00:00.000Z,3,Premier League,Everton,8668,Manchester United,10260,Keeper saves,1,4
+5795439,2026-09-05T14:00:00.000Z,3,Premier League,Fulham,9879,Crystal Palace,9826,Tackles,11,18
+5795439,2026-09-05T14:00:00.000Z,3,Premier League,Fulham,9879,Crystal Palace,9826,Interceptions,9,12
+5795439,2026-09-05T14:00:00.000Z,3,Premier League,Fulham,9879,Crystal Palace,9826,Blocks,1,8
+5795439,2026-09-05T14:00:00.000Z,3,Premier League,Fulham,9879,Crystal Palace,9826,Clearances,12,29
+5795439,2026-09-05T14:00:00.000Z,3,Premier League,Fulham,9879,Crystal Palace,9826,Keeper saves,2,5
+5795440,2026-09-05T16:30:00.000Z,3,Premier League,Hull City,8667,Aston Villa,10252,Tackles,16,7
+5795440,2026-09-05T16:30:00.000Z,3,Premier League,Hull City,8667,Aston Villa,10252,Interceptions,16,4
+5795440,2026-09-05T16:30:00.000Z,3,Premier League,Hull City,8667,Aston Villa,10252,Blocks,5,0
+5795440,2026-09-05T16:30:00.000Z,3,Premier League,Hull City,8667,Aston Villa,10252,Clearances,16,18
+5795440,2026-09-05T16:30:00.000Z,3,Premier League,Hull City,8667,Aston Villa,10252,Keeper saves,1,4
+5795441,2026-09-04T19:00:00.000Z,3,Premier League,Ipswich Town,9902,Liverpool,8650,Tackles,18,15
+5795441,2026-09-04T19:00:00.000Z,3,Premier League,Ipswich Town,9902,Liverpool,8650,Interceptions,9,5
+5795441,2026-09-04T19:00:00.000Z,3,Premier League,Ipswich Town,9902,Liverpool,8650,Blocks,2,3
+5795441,2026-09-04T19:00:00.000Z,3,Premier League,Ipswich Town,9902,Liverpool,8650,Clearances,28,26
+5795441,2026-09-04T19:00:00.000Z,3,Premier League,Ipswich Town,9902,Liverpool,8650,Keeper saves,5,5
+5795442,2026-09-05T14:00:00.000Z,3,Premier League,Manchester City,8456,Coventry City,8669,Tackles,13,16
+5795442,2026-09-05T14:00:00.000Z,3,Premier League,Manchester City,8456,Coventry City,8669,Interceptions,5,18
+5795442,2026-09-05T14:00:00.000Z,3,Premier League,Manchester City,8456,Coventry City,8669,Blocks,3,7
+5795442,2026-09-05T14:00:00.000Z,3,Premier League,Manchester City,8456,Coventry City,8669,Clearances,26,26
+5795442,2026-09-05T14:00:00.000Z,3,Premier League,Manchester City,8456,Coventry City,8669,Keeper saves,3,2
+5795443,2026-09-05T11:30:00.000Z,3,Premier League,Newcastle United,10261,AFC Bournemouth,8678,Tackles,5,12
+5795443,2026-09-05T11:30:00.000Z,3,Premier League,Newcastle United,10261,AFC Bournemouth,8678,Interceptions,6,8
+5795443,2026-09-05T11:30:00.000Z,3,Premier League,Newcastle United,10261,AFC Bournemouth,8678,Blocks,5,2
+5795443,2026-09-05T11:30:00.000Z,3,Premier League,Newcastle United,10261,AFC Bournemouth,8678,Clearances,13,22
+5795443,2026-09-05T11:30:00.000Z,3,Premier League,Newcastle United,10261,AFC Bournemouth,8678,Keeper saves,4,0
+5795444,2026-09-05T14:00:00.000Z,3,Premier League,Nottingham Forest,10203,Tottenham Hotspur,8586,Tackles,28,14
+5795444,2026-09-05T14:00:00.000Z,3,Premier League,Nottingham Forest,10203,Tottenham Hotspur,8586,Interceptions,6,6
+5795444,2026-09-05T14:00:00.000Z,3,Premier League,Nottingham Forest,10203,Tottenham Hotspur,8586,Blocks,4,4
+5795444,2026-09-05T14:00:00.000Z,3,Premier League,Nottingham Forest,10203,Tottenham Hotspur,8586,Clearances,26,25
+5795444,2026-09-05T14:00:00.000Z,3,Premier League,Nottingham Forest,10203,Tottenham Hotspur,8586,Keeper saves,0,1
+5795445,2026-09-12T14:00:00.000Z,4,Premier League,AFC Bournemouth,8678,Brentford,9937,Tackles,17,19
+5795445,2026-09-12T14:00:00.000Z,4,Premier League,AFC Bournemouth,8678,Brentford,9937,Interceptions,21,10
+5795445,2026-09-12T14:00:00.000Z,4,Premier League,AFC Bournemouth,8678,Brentford,9937,Blocks,1,2
+5795445,2026-09-12T14:00:00.000Z,4,Premier League,AFC Bournemouth,8678,Brentford,9937,Clearances,33,35
+5795445,2026-09-12T14:00:00.000Z,4,Premier League,AFC Bournemouth,8678,Brentford,9937,Keeper saves,0,8
+5795446,2026-09-12T14:00:00.000Z,4,Premier League,Aston Villa,10252,Nottingham Forest,10203,Tackles,17,23
+5795446,2026-09-12T14:00:00.000Z,4,Premier League,Aston Villa,10252,Nottingham Forest,10203,Interceptions,7,8
+5795446,2026-09-12T14:00:00.000Z,4,Premier League,Aston Villa,10252,Nottingham Forest,10203,Blocks,3,1
+5795446,2026-09-12T14:00:00.000Z,4,Premier League,Aston Villa,10252,Nottingham Forest,10203,Clearances,13,35
+5795446,2026-09-12T14:00:00.000Z,4,Premier League,Aston Villa,10252,Nottingham Forest,10203,Keeper saves,5,5
+5795447,2026-09-12T14:00:00.000Z,4,Premier League,Chelsea,8455,Hull City,8667,Tackles,11,17
+5795447,2026-09-12T14:00:00.000Z,4,Premier League,Chelsea,8455,Hull City,8667,Interceptions,13,8
+5795447,2026-09-12T14:00:00.000Z,4,Premier League,Chelsea,8455,Hull City,8667,Blocks,4,1
+5795447,2026-09-12T14:00:00.000Z,4,Premier League,Chelsea,8455,Hull City,8667,Clearances,15,33
+5795447,2026-09-12T14:00:00.000Z,4,Premier League,Chelsea,8455,Hull City,8667,Keeper saves,3,5
+5795448,2026-09-13T13:00:00.000Z,4,Premier League,Coventry City,8669,Brighton & Hove Albion,10204,Tackles,6,10
+5795448,2026-09-13T13:00:00.000Z,4,Premier League,Coventry City,8669,Brighton & Hove Albion,10204,Interceptions,5,3
+5795448,2026-09-13T13:00:00.000Z,4,Premier League,Coventry City,8669,Brighton & Hove Albion,10204,Blocks,5,2
+5795448,2026-09-13T13:00:00.000Z,4,Premier League,Coventry City,8669,Brighton & Hove Albion,10204,Clearances,32,36
+5795448,2026-09-13T13:00:00.000Z,4,Premier League,Coventry City,8669,Brighton & Hove Albion,10204,Keeper saves,2,6
+5795449,2026-09-12T14:00:00.000Z,4,Premier League,Crystal Palace,9826,Ipswich Town,9902,Tackles,18,12
+5795449,2026-09-12T14:00:00.000Z,4,Premier League,Crystal Palace,9826,Ipswich Town,9902,Interceptions,7,12
+5795449,2026-09-12T14:00:00.000Z,4,Premier League,Crystal Palace,9826,Ipswich Town,9902,Blocks,0,1
+5795449,2026-09-12T14:00:00.000Z,4,Premier League,Crystal Palace,9826,Ipswich Town,9902,Clearances,35,26
+5795449,2026-09-12T14:00:00.000Z,4,Premier League,Crystal Palace,9826,Ipswich Town,9902,Keeper saves,3,2
+5795450,2026-09-14T19:00:00.000Z,4,Premier League,Leeds United,8463,Newcastle United,10261,Tackles,18,19
+5795450,2026-09-14T19:00:00.000Z,4,Premier League,Leeds United,8463,Newcastle United,10261,Interceptions,9,5
+5795450,2026-09-14T19:00:00.000Z,4,Premier League,Leeds United,8463,Newcastle United,10261,Blocks,0,3
+5795450,2026-09-14T19:00:00.000Z,4,Premier League,Leeds United,8463,Newcastle United,10261,Clearances,28,39
+5795450,2026-09-14T19:00:00.000Z,4,Premier League,Leeds United,8463,Newcastle United,10261,Keeper saves,4,3
+5795451,2026-09-12T14:00:00.000Z,4,Premier League,Liverpool,8650,Fulham,9879,Tackles,12,15
+5795451,2026-09-12T14:00:00.000Z,4,Premier League,Liverpool,8650,Fulham,9879,Interceptions,11,11
+5795451,2026-09-12T14:00:00.000Z,4,Premier League,Liverpool,8650,Fulham,9879,Blocks,4,5
+5795451,2026-09-12T14:00:00.000Z,4,Premier League,Liverpool,8650,Fulham,9879,Clearances,24,33
+5795451,2026-09-12T14:00:00.000Z,4,Premier League,Liverpool,8650,Fulham,9879,Keeper saves,3,3
+5795452,2026-09-13T15:30:00.000Z,4,Premier League,Manchester United,10260,Manchester City,8456,Tackles,18,13
+5795452,2026-09-13T15:30:00.000Z,4,Premier League,Manchester United,10260,Manchester City,8456,Interceptions,8,10
+5795452,2026-09-13T15:30:00.000Z,4,Premier League,Manchester United,10260,Manchester City,8456,Blocks,3,4
+5795452,2026-09-13T15:30:00.000Z,4,Premier League,Manchester United,10260,Manchester City,8456,Clearances,14,25
+5795452,2026-09-13T15:30:00.000Z,4,Premier League,Manchester United,10260,Manchester City,8456,Keeper saves,1,3
+5795453,2026-09-12T19:00:00.000Z,4,Premier League,Sunderland,8472,Arsenal,9825,Tackles,12,13
+5795453,2026-09-12T19:00:00.000Z,4,Premier League,Sunderland,8472,Arsenal,9825,Interceptions,5,8
+5795453,2026-09-12T19:00:00.000Z,4,Premier League,Sunderland,8472,Arsenal,9825,Blocks,2,5
+5795453,2026-09-12T19:00:00.000Z,4,Premier League,Sunderland,8472,Arsenal,9825,Clearances,20,24
+5795453,2026-09-12T19:00:00.000Z,4,Premier League,Sunderland,8472,Arsenal,9825,Keeper saves,3,2
+5795454,2026-09-12T16:30:00.000Z,4,Premier League,Tottenham Hotspur,8586,Everton,8668,Tackles,13,24
+5795454,2026-09-12T16:30:00.000Z,4,Premier League,Tottenham Hotspur,8586,Everton,8668,Interceptions,7,8
+5795454,2026-09-12T16:30:00.000Z,4,Premier League,Tottenham Hotspur,8586,Everton,8668,Blocks,6,8
+5795454,2026-09-12T16:30:00.000Z,4,Premier League,Tottenham Hotspur,8586,Everton,8668,Clearances,30,20
+5795454,2026-09-12T16:30:00.000Z,4,Premier League,Tottenham Hotspur,8586,Everton,8668,Keeper saves,3,2

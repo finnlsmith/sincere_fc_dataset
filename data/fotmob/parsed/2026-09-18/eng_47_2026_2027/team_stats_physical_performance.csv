@@ -1,0 +1,131 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Distance covered,119758,113045
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Sprinting distance,2263,1949
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Number of sprints,100,87
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Distance covered,118485,116595
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Sprinting distance,2296,2130
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Number of sprints,114,106
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Distance covered,116871,117617
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Sprinting distance,1849,1369
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Number of sprints,100,70
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Distance covered,115600,114706
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Sprinting distance,2621,2651
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Number of sprints,115,119
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Distance covered,109598,113130
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Sprinting distance,2066,1941
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Number of sprints,97,96
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Distance covered,116985,113903
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Sprinting distance,2438,2079
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Number of sprints,109,101
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Distance covered,116054,105259
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Sprinting distance,2481,2034
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Number of sprints,112,96
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Distance covered,114606,117947
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Sprinting distance,2568,2500
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Number of sprints,111,106
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Distance covered,112802,107228
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Sprinting distance,3152,2897
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Number of sprints,138,133
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Distance covered,121075,120066
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Sprinting distance,2770,2566
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Number of sprints,127,126
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Distance covered,113462,110517
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Sprinting distance,3561,2819
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Number of sprints,144,117
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Distance covered,117773,123243
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Sprinting distance,2412,2664
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Number of sprints,104,127
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Distance covered,115000,113893
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Sprinting distance,2539,2289
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Number of sprints,116,100
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Distance covered,113606,114031
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Sprinting distance,2420,2285
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Number of sprints,118,94
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Distance covered,116013,116136
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Sprinting distance,1920,2052
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Number of sprints,104,100
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Distance covered,113467,114428
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Sprinting distance,2788,3120
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Number of sprints,123,144
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Distance covered,111565,116854
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Sprinting distance,2752,2245
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Number of sprints,133,99
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Distance covered,112071,112820
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Sprinting distance,2371,2616
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Number of sprints,108,121
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Distance covered,119224,117991
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Sprinting distance,2371,2283
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Number of sprints,115,107
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Distance covered,111545,114111
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Sprinting distance,2413,2210
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Number of sprints,109,101
+5795435,2026-09-06T15:30:00.000Z,3,Premier League,Arsenal,9825,Chelsea,8455,Distance covered,116576,111186
+5795435,2026-09-06T15:30:00.000Z,3,Premier League,Arsenal,9825,Chelsea,8455,Sprinting distance,2490,2387
+5795435,2026-09-06T15:30:00.000Z,3,Premier League,Arsenal,9825,Chelsea,8455,Number of sprints,105,107
+5795436,2026-09-05T14:00:00.000Z,3,Premier League,Brentford,9937,Sunderland,8472,Distance covered,117440,115515
+5795436,2026-09-05T14:00:00.000Z,3,Premier League,Brentford,9937,Sunderland,8472,Sprinting distance,2277,2233
+5795436,2026-09-05T14:00:00.000Z,3,Premier League,Brentford,9937,Sunderland,8472,Number of sprints,113,112
+5795437,2026-09-05T14:00:00.000Z,3,Premier League,Brighton & Hove Albion,10204,Leeds United,8463,Distance covered,113820,114112
+5795437,2026-09-05T14:00:00.000Z,3,Premier League,Brighton & Hove Albion,10204,Leeds United,8463,Sprinting distance,2081,2177
+5795437,2026-09-05T14:00:00.000Z,3,Premier League,Brighton & Hove Albion,10204,Leeds United,8463,Number of sprints,101,105
+5795438,2026-09-06T13:00:00.000Z,3,Premier League,Everton,8668,Manchester United,10260,Distance covered,112473,110010
+5795438,2026-09-06T13:00:00.000Z,3,Premier League,Everton,8668,Manchester United,10260,Sprinting distance,1955,1920
+5795438,2026-09-06T13:00:00.000Z,3,Premier League,Everton,8668,Manchester United,10260,Number of sprints,97,87
+5795439,2026-09-05T14:00:00.000Z,3,Premier League,Fulham,9879,Crystal Palace,9826,Distance covered,120907,120171
+5795439,2026-09-05T14:00:00.000Z,3,Premier League,Fulham,9879,Crystal Palace,9826,Sprinting distance,2138,1851
+5795439,2026-09-05T14:00:00.000Z,3,Premier League,Fulham,9879,Crystal Palace,9826,Number of sprints,105,99
+5795440,2026-09-05T16:30:00.000Z,3,Premier League,Hull City,8667,Aston Villa,10252,Distance covered,113269,111227
+5795440,2026-09-05T16:30:00.000Z,3,Premier League,Hull City,8667,Aston Villa,10252,Sprinting distance,2169,2196
+5795440,2026-09-05T16:30:00.000Z,3,Premier League,Hull City,8667,Aston Villa,10252,Number of sprints,112,105
+5795441,2026-09-04T19:00:00.000Z,3,Premier League,Ipswich Town,9902,Liverpool,8650,Distance covered,116566,113932
+5795441,2026-09-04T19:00:00.000Z,3,Premier League,Ipswich Town,9902,Liverpool,8650,Sprinting distance,3259,2799
+5795441,2026-09-04T19:00:00.000Z,3,Premier League,Ipswich Town,9902,Liverpool,8650,Number of sprints,153,136
+5795442,2026-09-05T14:00:00.000Z,3,Premier League,Manchester City,8456,Coventry City,8669,Distance covered,109413,110872
+5795442,2026-09-05T14:00:00.000Z,3,Premier League,Manchester City,8456,Coventry City,8669,Sprinting distance,1954,1678
+5795442,2026-09-05T14:00:00.000Z,3,Premier League,Manchester City,8456,Coventry City,8669,Number of sprints,99,88
+5795443,2026-09-05T11:30:00.000Z,3,Premier League,Newcastle United,10261,AFC Bournemouth,8678,Distance covered,114127,115022
+5795443,2026-09-05T11:30:00.000Z,3,Premier League,Newcastle United,10261,AFC Bournemouth,8678,Sprinting distance,2429,2212
+5795443,2026-09-05T11:30:00.000Z,3,Premier League,Newcastle United,10261,AFC Bournemouth,8678,Number of sprints,108,111
+5795444,2026-09-05T14:00:00.000Z,3,Premier League,Nottingham Forest,10203,Tottenham Hotspur,8586,Distance covered,108668,107327
+5795444,2026-09-05T14:00:00.000Z,3,Premier League,Nottingham Forest,10203,Tottenham Hotspur,8586,Sprinting distance,1980,2045
+5795444,2026-09-05T14:00:00.000Z,3,Premier League,Nottingham Forest,10203,Tottenham Hotspur,8586,Number of sprints,103,102
+5795445,2026-09-12T14:00:00.000Z,4,Premier League,AFC Bournemouth,8678,Brentford,9937,Distance covered,117616,121813
+5795445,2026-09-12T14:00:00.000Z,4,Premier League,AFC Bournemouth,8678,Brentford,9937,Running distance,24237,25882
+5795445,2026-09-12T14:00:00.000Z,4,Premier League,AFC Bournemouth,8678,Brentford,9937,Sprinting distance,2297,2411
+5795445,2026-09-12T14:00:00.000Z,4,Premier League,AFC Bournemouth,8678,Brentford,9937,Number of sprints,110,119
+5795446,2026-09-12T14:00:00.000Z,4,Premier League,Aston Villa,10252,Nottingham Forest,10203,Distance covered,107127,112048
+5795446,2026-09-12T14:00:00.000Z,4,Premier League,Aston Villa,10252,Nottingham Forest,10203,Running distance,20330,21662
+5795446,2026-09-12T14:00:00.000Z,4,Premier League,Aston Villa,10252,Nottingham Forest,10203,Sprinting distance,2076,2362
+5795446,2026-09-12T14:00:00.000Z,4,Premier League,Aston Villa,10252,Nottingham Forest,10203,Number of sprints,95,113
+5795447,2026-09-12T14:00:00.000Z,4,Premier League,Chelsea,8455,Hull City,8667,Distance covered,109007,108472
+5795447,2026-09-12T14:00:00.000Z,4,Premier League,Chelsea,8455,Hull City,8667,Running distance,18288,17472
+5795447,2026-09-12T14:00:00.000Z,4,Premier League,Chelsea,8455,Hull City,8667,Sprinting distance,1956,2028
+5795447,2026-09-12T14:00:00.000Z,4,Premier League,Chelsea,8455,Hull City,8667,Number of sprints,95,97
+5795448,2026-09-13T13:00:00.000Z,4,Premier League,Coventry City,8669,Brighton & Hove Albion,10204,Distance covered,99637,109083
+5795448,2026-09-13T13:00:00.000Z,4,Premier League,Coventry City,8669,Brighton & Hove Albion,10204,Running distance,17378,20571
+5795448,2026-09-13T13:00:00.000Z,4,Premier League,Coventry City,8669,Brighton & Hove Albion,10204,Sprinting distance,1120,1597
+5795448,2026-09-13T13:00:00.000Z,4,Premier League,Coventry City,8669,Brighton & Hove Albion,10204,Number of sprints,56,77
+5795449,2026-09-12T14:00:00.000Z,4,Premier League,Crystal Palace,9826,Ipswich Town,9902,Distance covered,109131,113256
+5795449,2026-09-12T14:00:00.000Z,4,Premier League,Crystal Palace,9826,Ipswich Town,9902,Running distance,20316,19715
+5795449,2026-09-12T14:00:00.000Z,4,Premier League,Crystal Palace,9826,Ipswich Town,9902,Sprinting distance,1936,1942
+5795449,2026-09-12T14:00:00.000Z,4,Premier League,Crystal Palace,9826,Ipswich Town,9902,Number of sprints,86,98
+5795450,2026-09-14T19:00:00.000Z,4,Premier League,Leeds United,8463,Newcastle United,10261,Distance covered,117847,115624
+5795450,2026-09-14T19:00:00.000Z,4,Premier League,Leeds United,8463,Newcastle United,10261,Running distance,22727,23439
+5795450,2026-09-14T19:00:00.000Z,4,Premier League,Leeds United,8463,Newcastle United,10261,Sprinting distance,2569,2405
+5795450,2026-09-14T19:00:00.000Z,4,Premier League,Leeds United,8463,Newcastle United,10261,Number of sprints,126,120
+5795451,2026-09-12T14:00:00.000Z,4,Premier League,Liverpool,8650,Fulham,9879,Distance covered,110269,115674
+5795451,2026-09-12T14:00:00.000Z,4,Premier League,Liverpool,8650,Fulham,9879,Running distance,19881,21213
+5795451,2026-09-12T14:00:00.000Z,4,Premier League,Liverpool,8650,Fulham,9879,Sprinting distance,2286,2030
+5795451,2026-09-12T14:00:00.000Z,4,Premier League,Liverpool,8650,Fulham,9879,Number of sprints,124,102
+5795452,2026-09-13T15:30:00.000Z,4,Premier League,Manchester United,10260,Manchester City,8456,Distance covered,110448,104732
+5795452,2026-09-13T15:30:00.000Z,4,Premier League,Manchester United,10260,Manchester City,8456,Running distance,18960,17898
+5795452,2026-09-13T15:30:00.000Z,4,Premier League,Manchester United,10260,Manchester City,8456,Sprinting distance,1630,1495
+5795452,2026-09-13T15:30:00.000Z,4,Premier League,Manchester United,10260,Manchester City,8456,Number of sprints,78,73
+5795453,2026-09-12T19:00:00.000Z,4,Premier League,Sunderland,8472,Arsenal,9825,Distance covered,110610,114568
+5795453,2026-09-12T19:00:00.000Z,4,Premier League,Sunderland,8472,Arsenal,9825,Running distance,21474,24627
+5795453,2026-09-12T19:00:00.000Z,4,Premier League,Sunderland,8472,Arsenal,9825,Sprinting distance,2134,2086
+5795453,2026-09-12T19:00:00.000Z,4,Premier League,Sunderland,8472,Arsenal,9825,Number of sprints,105,105
+5795454,2026-09-12T16:30:00.000Z,4,Premier League,Tottenham Hotspur,8586,Everton,8668,Distance covered,110297,110103
+5795454,2026-09-12T16:30:00.000Z,4,Premier League,Tottenham Hotspur,8586,Everton,8668,Running distance,20399,17909
+5795454,2026-09-12T16:30:00.000Z,4,Premier League,Tottenham Hotspur,8586,Everton,8668,Sprinting distance,2044,1818
+5795454,2026-09-12T16:30:00.000Z,4,Premier League,Tottenham Hotspur,8586,Everton,8668,Number of sprints,99,86

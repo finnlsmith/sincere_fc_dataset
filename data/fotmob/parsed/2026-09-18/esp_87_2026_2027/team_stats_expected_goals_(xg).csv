@@ -1,0 +1,296 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,Expected goals (xG),1.93,0.24
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,xG open play,1.70,0.07
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,xG set play,0.24,0.17
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,xG non-penalty,1.93,0.24
+5868011,2026-08-15T17:30:00.000Z,1,LaLiga,Deportivo Alavés,9866,Getafe,8305,xG on target (xGOT),2.35,0.09
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,Expected goals (xG),0.92,0.15
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,xG open play,0.56,0.15
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,xG set play,0.36,0.00
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,xG non-penalty,0.92,0.15
+5868012,2026-08-19T19:05:00.000Z,1,LaLiga,Atletico Madrid,9906,Malaga,9864,xG on target (xGOT),2.64,0.02
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,Expected goals (xG),0.13,2.68
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,xG open play,0.12,1.72
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,xG set play,0.01,0.17
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,xG non-penalty,0.13,1.89
+5868013,2026-08-27T18:30:00.000Z,1,LaLiga,Celta Vigo,9910,Osasuna,8371,xG on target (xGOT),0.30,1.10
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,Expected goals (xG),0.34,1.23
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,xG open play,0.27,0.70
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,xG set play,0.07,0.53
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,xG non-penalty,0.34,1.23
+5868014,2026-08-17T19:00:00.000Z,1,LaLiga,Deportivo A Coruña,9783,Elche,10268,xG on target (xGOT),0.28,1.54
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,Expected goals (xG),1.47,0.19
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,xG open play,1.24,0.08
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,xG set play,0.23,0.10
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,xG non-penalty,1.47,0.19
+5868015,2026-08-16T17:00:00.000Z,1,LaLiga,Espanyol,8558,Levante,8581,xG on target (xGOT),2.27,0.00
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,Expected goals (xG),4.23,0.25
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,xG open play,3.52,0.20
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,xG set play,0.71,0.05
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,xG non-penalty,4.23,0.25
+5868016,2026-08-27T19:00:00.000Z,1,LaLiga,Barcelona,8634,Athletic Club,8315,xG on target (xGOT),3.85,0.00
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,Expected goals (xG),1.87,0.67
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,xG open play,0.67,0.62
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,xG set play,0.41,0.04
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,xG non-penalty,1.08,0.67
+5868017,2026-08-16T15:00:00.000Z,1,LaLiga,Racing Santander,8696,Villarreal,10205,xG on target (xGOT),1.39,1.42
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,Expected goals (xG),3.18,0.65
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,xG open play,2.85,0.62
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,xG set play,0.34,0.04
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,xG non-penalty,3.18,0.65
+5868018,2026-08-26T19:00:00.000Z,1,LaLiga,Real Madrid,8633,Real Sociedad,8560,xG on target (xGOT),4.27,0.87
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,Expected goals (xG),2.19,1.89
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,xG open play,0.39,1.59
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,xG set play,0.22,0.30
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,xG non-penalty,0.61,1.89
+5868019,2026-08-15T19:30:00.000Z,1,LaLiga,Sevilla,8302,Rayo Vallecano,8370,xG on target (xGOT),1.80,1.77
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,Expected goals (xG),1.12,0.71
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,xG open play,0.88,0.69
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,xG set play,0.24,0.02
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,xG non-penalty,1.12,0.71
+5868020,2026-08-25T19:00:00.000Z,1,LaLiga,Valencia,10267,Real Betis,8603,xG on target (xGOT),1.13,0.55
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,Expected goals (xG),1.37,1.26
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,xG open play,0.80,1.11
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,xG set play,0.57,0.15
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,xG non-penalty,1.37,1.26
+5868021,2026-08-22T15:00:00.000Z,2,LaLiga,Athletic Club,8315,Sevilla,8302,xG on target (xGOT),1.30,1.65
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,Expected goals (xG),0.78,3.60
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,xG open play,0.74,2.02
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,xG set play,0.04,0.00
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,xG non-penalty,0.78,2.02
+5868022,2026-08-23T15:00:00.000Z,2,LaLiga,Atlético Madrid,9906,Villarreal,10205,xG on target (xGOT),0.87,2.91
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,Expected goals (xG),1.24,1.36
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,xG open play,1.15,1.36
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,xG set play,0.09,0.00
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,xG non-penalty,1.24,1.36
+5868023,2026-08-21T19:00:00.000Z,2,LaLiga,Real Betis,8603,Real Sociedad,8560,xG on target (xGOT),2.53,0.52
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,Expected goals (xG),0.70,4.38
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,xG open play,0.63,3.15
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,xG set play,0.08,0.44
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,xG non-penalty,0.70,3.59
+5868024,2026-08-23T19:30:00.000Z,2,LaLiga,Elche,10268,Barcelona,8634,xG on target (xGOT),0.26,4.32
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,Expected goals (xG),1.05,2.71
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,xG open play,1.05,1.56
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,xG set play,0.00,1.15
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,xG non-penalty,1.05,2.71
+5868025,2026-08-22T19:30:00.000Z,2,LaLiga,Espanyol,8558,Real Madrid,8633,xG on target (xGOT),0.47,1.98
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,Expected goals (xG),1.24,1.31
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,xG open play,1.13,0.51
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,xG set play,0.11,0.01
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,xG non-penalty,1.24,0.52
+5868026,2026-08-23T17:30:00.000Z,2,LaLiga,Getafe,8305,Racing Santander,8696,xG on target (xGOT),0.99,1.20
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,Expected goals (xG),1.95,1.12
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,xG open play,1.00,1.05
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,xG set play,0.16,0.07
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,xG non-penalty,1.16,1.12
+5868027,2026-08-24T19:30:00.000Z,2,LaLiga,Málaga,9864,Deportivo A Coruña,9783,xG on target (xGOT),1.32,1.17
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,Expected goals (xG),0.70,1.28
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,xG open play,0.34,0.86
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,xG set play,0.36,0.42
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,xG non-penalty,0.70,1.28
+5868028,2026-08-24T17:30:00.000Z,2,LaLiga,Osasuna,8371,Levante,8581,xG on target (xGOT),0.98,0.17
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,Expected goals (xG),0.42,2.00
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,xG open play,0.16,1.82
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,xG set play,0.26,0.17
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,xG non-penalty,0.42,2.00
+5868029,2026-08-20T19:00:00.000Z,2,LaLiga,Rayo Vallecano,8370,Deportivo Alaves,9866,xG on target (xGOT),1.01,1.33
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,Expected goals (xG),0.70,0.62
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,xG open play,0.66,0.45
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,xG set play,0.04,0.17
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,xG non-penalty,0.70,0.62
+5868030,2026-08-22T17:30:00.000Z,2,LaLiga,Valencia,10267,Celta Vigo,9910,xG on target (xGOT),0.14,0.06
+5868031,2026-08-28T19:30:00.000Z,3,LaLiga,Deportivo Alavés,9866,Villarreal,10205,Expected goals (xG),0.73,1.74
+5868031,2026-08-28T19:30:00.000Z,3,LaLiga,Deportivo Alavés,9866,Villarreal,10205,xG open play,0.55,1.15
+5868031,2026-08-28T19:30:00.000Z,3,LaLiga,Deportivo Alavés,9866,Villarreal,10205,xG set play,0.18,0.60
+5868031,2026-08-28T19:30:00.000Z,3,LaLiga,Deportivo Alavés,9866,Villarreal,10205,xG non-penalty,0.73,1.74
+5868031,2026-08-28T19:30:00.000Z,3,LaLiga,Deportivo Alavés,9866,Villarreal,10205,xG on target (xGOT),0.77,0.66
+5868032,2026-08-30T19:30:00.000Z,3,LaLiga,Celta Vigo,9910,Athletic Club,8315,Expected goals (xG),0.75,2.78
+5868032,2026-08-30T19:30:00.000Z,3,LaLiga,Celta Vigo,9910,Athletic Club,8315,xG open play,0.54,2.05
+5868032,2026-08-30T19:30:00.000Z,3,LaLiga,Celta Vigo,9910,Athletic Club,8315,xG set play,0.21,0.74
+5868032,2026-08-30T19:30:00.000Z,3,LaLiga,Celta Vigo,9910,Athletic Club,8315,xG non-penalty,0.75,2.78
+5868032,2026-08-30T19:30:00.000Z,3,LaLiga,Celta Vigo,9910,Athletic Club,8315,xG on target (xGOT),0.32,2.83
+5868033,2026-08-30T17:30:00.000Z,3,LaLiga,Deportivo A Coruña,9783,Valencia,10267,Expected goals (xG),1.42,1.40
+5868033,2026-08-30T17:30:00.000Z,3,LaLiga,Deportivo A Coruña,9783,Valencia,10267,xG open play,1.35,1.23
+5868033,2026-08-30T17:30:00.000Z,3,LaLiga,Deportivo A Coruña,9783,Valencia,10267,xG set play,0.07,0.17
+5868033,2026-08-30T17:30:00.000Z,3,LaLiga,Deportivo A Coruña,9783,Valencia,10267,xG non-penalty,1.42,1.40
+5868033,2026-08-30T17:30:00.000Z,3,LaLiga,Deportivo A Coruña,9783,Valencia,10267,xG on target (xGOT),0.70,1.53
+5868034,2026-08-31T19:30:00.000Z,3,LaLiga,Barcelona,8634,Rayo Vallecano,8370,Expected goals (xG),3.04,1.21
+5868034,2026-08-31T19:30:00.000Z,3,LaLiga,Barcelona,8634,Rayo Vallecano,8370,xG open play,2.67,1.02
+5868034,2026-08-31T19:30:00.000Z,3,LaLiga,Barcelona,8634,Rayo Vallecano,8370,xG set play,0.37,0.18
+5868034,2026-08-31T19:30:00.000Z,3,LaLiga,Barcelona,8634,Rayo Vallecano,8370,xG non-penalty,3.04,1.21
+5868034,2026-08-31T19:30:00.000Z,3,LaLiga,Barcelona,8634,Rayo Vallecano,8370,xG on target (xGOT),3.07,2.24
+5868035,2026-08-29T15:00:00.000Z,3,LaLiga,Levante,8581,Real Betis,8603,Expected goals (xG),2.76,1.92
+5868035,2026-08-29T15:00:00.000Z,3,LaLiga,Levante,8581,Real Betis,8603,xG open play,2.39,1.01
+5868035,2026-08-29T15:00:00.000Z,3,LaLiga,Levante,8581,Real Betis,8603,xG set play,0.36,0.91
+5868035,2026-08-29T15:00:00.000Z,3,LaLiga,Levante,8581,Real Betis,8603,xG non-penalty,2.76,1.92
+5868035,2026-08-29T15:00:00.000Z,3,LaLiga,Levante,8581,Real Betis,8603,xG on target (xGOT),4.42,1.50
+5868036,2026-08-31T17:30:00.000Z,3,LaLiga,Osasuna,8371,Getafe,8305,Expected goals (xG),1.68,0.68
+5868036,2026-08-31T17:30:00.000Z,3,LaLiga,Osasuna,8371,Getafe,8305,xG open play,0.66,0.56
+5868036,2026-08-31T17:30:00.000Z,3,LaLiga,Osasuna,8371,Getafe,8305,xG set play,0.23,0.13
+5868036,2026-08-31T17:30:00.000Z,3,LaLiga,Osasuna,8371,Getafe,8305,xG non-penalty,0.89,0.68
+5868036,2026-08-31T17:30:00.000Z,3,LaLiga,Osasuna,8371,Getafe,8305,xG on target (xGOT),1.01,0.22
+5868037,2026-08-28T17:00:00.000Z,3,LaLiga,Racing Santander,8696,Elche,10268,Expected goals (xG),1.72,1.03
+5868037,2026-08-28T17:00:00.000Z,3,LaLiga,Racing Santander,8696,Elche,10268,xG open play,1.51,0.57
+5868037,2026-08-28T17:00:00.000Z,3,LaLiga,Racing Santander,8696,Elche,10268,xG set play,0.21,0.47
+5868037,2026-08-28T17:00:00.000Z,3,LaLiga,Racing Santander,8696,Elche,10268,xG non-penalty,1.72,1.03
+5868037,2026-08-28T17:00:00.000Z,3,LaLiga,Racing Santander,8696,Elche,10268,xG on target (xGOT),2.18,1.90
+5868038,2026-08-30T15:00:00.000Z,3,LaLiga,Real Madrid,8633,Málaga,9864,Expected goals (xG),2.62,0.71
+5868038,2026-08-30T15:00:00.000Z,3,LaLiga,Real Madrid,8633,Málaga,9864,xG open play,2.06,0.42
+5868038,2026-08-30T15:00:00.000Z,3,LaLiga,Real Madrid,8633,Málaga,9864,xG set play,0.56,0.29
+5868038,2026-08-30T15:00:00.000Z,3,LaLiga,Real Madrid,8633,Málaga,9864,xG non-penalty,2.62,0.71
+5868038,2026-08-30T15:00:00.000Z,3,LaLiga,Real Madrid,8633,Málaga,9864,xG on target (xGOT),3.26,0.05
+5868039,2026-08-29T17:00:00.000Z,3,LaLiga,Real Sociedad,8560,Espanyol,8558,Expected goals (xG),1.94,0.77
+5868039,2026-08-29T17:00:00.000Z,3,LaLiga,Real Sociedad,8560,Espanyol,8558,xG open play,1.62,0.50
+5868039,2026-08-29T17:00:00.000Z,3,LaLiga,Real Sociedad,8560,Espanyol,8558,xG set play,0.32,0.27
+5868039,2026-08-29T17:00:00.000Z,3,LaLiga,Real Sociedad,8560,Espanyol,8558,xG non-penalty,1.94,0.77
+5868039,2026-08-29T17:00:00.000Z,3,LaLiga,Real Sociedad,8560,Espanyol,8558,xG on target (xGOT),3.07,0.77
+5868040,2026-08-29T19:30:00.000Z,3,LaLiga,Sevilla,8302,Atlético Madrid,9906,Expected goals (xG),0.90,0.93
+5868040,2026-08-29T19:30:00.000Z,3,LaLiga,Sevilla,8302,Atlético Madrid,9906,xG open play,0.77,0.58
+5868040,2026-08-29T19:30:00.000Z,3,LaLiga,Sevilla,8302,Atlético Madrid,9906,xG set play,0.12,0.34
+5868040,2026-08-29T19:30:00.000Z,3,LaLiga,Sevilla,8302,Atlético Madrid,9906,xG non-penalty,0.90,0.93
+5868040,2026-08-29T19:30:00.000Z,3,LaLiga,Sevilla,8302,Atlético Madrid,9906,xG on target (xGOT),0.68,1.24
+5868041,2026-09-06T16:30:00.000Z,4,LaLiga,Deportivo Alavés,9866,Osasuna,8371,Expected goals (xG),1.20,1.64
+5868041,2026-09-06T16:30:00.000Z,4,LaLiga,Deportivo Alavés,9866,Osasuna,8371,xG open play,1.06,0.80
+5868041,2026-09-06T16:30:00.000Z,4,LaLiga,Deportivo Alavés,9866,Osasuna,8371,xG set play,0.13,0.05
+5868041,2026-09-06T16:30:00.000Z,4,LaLiga,Deportivo Alavés,9866,Osasuna,8371,xG non-penalty,1.20,0.85
+5868041,2026-09-06T16:30:00.000Z,4,LaLiga,Deportivo Alavés,9866,Osasuna,8371,xG on target (xGOT),3.37,1.88
+5868042,2026-09-05T14:15:00.000Z,4,LaLiga,Athletic Club,8315,Atlético Madrid,9906,Expected goals (xG),1.41,1.02
+5868042,2026-09-05T14:15:00.000Z,4,LaLiga,Athletic Club,8315,Atlético Madrid,9906,xG open play,1.31,0.83
+5868042,2026-09-05T14:15:00.000Z,4,LaLiga,Athletic Club,8315,Atlético Madrid,9906,xG set play,0.10,0.20
+5868042,2026-09-05T14:15:00.000Z,4,LaLiga,Athletic Club,8315,Atlético Madrid,9906,xG non-penalty,1.41,1.02
+5868042,2026-09-05T14:15:00.000Z,4,LaLiga,Athletic Club,8315,Atlético Madrid,9906,xG on target (xGOT),1.23,1.24
+5868043,2026-09-04T19:00:00.000Z,4,LaLiga,Real Betis,8603,Real Madrid,8633,Expected goals (xG),0.93,3.46
+5868043,2026-09-04T19:00:00.000Z,4,LaLiga,Real Betis,8603,Real Madrid,8633,xG open play,0.15,2.03
+5868043,2026-09-04T19:00:00.000Z,4,LaLiga,Real Betis,8603,Real Madrid,8633,xG set play,0.78,0.65
+5868043,2026-09-04T19:00:00.000Z,4,LaLiga,Real Betis,8603,Real Madrid,8633,xG non-penalty,0.93,2.68
+5868043,2026-09-04T19:00:00.000Z,4,LaLiga,Real Betis,8603,Real Madrid,8633,xG on target (xGOT),0.92,2.98
+5868044,2026-09-07T19:30:00.000Z,4,LaLiga,Elche,10268,Real Sociedad,8560,Expected goals (xG),2.37,0.57
+5868044,2026-09-07T19:30:00.000Z,4,LaLiga,Elche,10268,Real Sociedad,8560,xG open play,2.29,0.41
+5868044,2026-09-07T19:30:00.000Z,4,LaLiga,Elche,10268,Real Sociedad,8560,xG set play,0.08,0.16
+5868044,2026-09-07T19:30:00.000Z,4,LaLiga,Elche,10268,Real Sociedad,8560,xG non-penalty,2.37,0.57
+5868044,2026-09-07T19:30:00.000Z,4,LaLiga,Elche,10268,Real Sociedad,8560,xG on target (xGOT),1.96,1.52
+5868045,2026-09-06T19:00:00.000Z,4,LaLiga,Espanyol,8558,Sevilla,8302,Expected goals (xG),1.23,0.53
+5868045,2026-09-06T19:00:00.000Z,4,LaLiga,Espanyol,8558,Sevilla,8302,xG open play,0.88,0.18
+5868045,2026-09-06T19:00:00.000Z,4,LaLiga,Espanyol,8558,Sevilla,8302,xG set play,0.35,0.35
+5868045,2026-09-06T19:00:00.000Z,4,LaLiga,Espanyol,8558,Sevilla,8302,xG non-penalty,1.23,0.53
+5868045,2026-09-06T19:00:00.000Z,4,LaLiga,Espanyol,8558,Sevilla,8302,xG on target (xGOT),1.38,0.90
+5868046,2026-09-07T17:00:00.000Z,4,LaLiga,Getafe,8305,Celta Vigo,9910,Expected goals (xG),0.65,1.03
+5868046,2026-09-07T17:00:00.000Z,4,LaLiga,Getafe,8305,Celta Vigo,9910,xG open play,0.41,0.83
+5868046,2026-09-07T17:00:00.000Z,4,LaLiga,Getafe,8305,Celta Vigo,9910,xG set play,0.23,0.19
+5868046,2026-09-07T17:00:00.000Z,4,LaLiga,Getafe,8305,Celta Vigo,9910,xG non-penalty,0.65,1.03
+5868046,2026-09-07T17:00:00.000Z,4,LaLiga,Getafe,8305,Celta Vigo,9910,xG on target (xGOT),0.92,1.21
+5868047,2026-09-06T16:30:00.000Z,4,LaLiga,Málaga,9864,Levante,8581,Expected goals (xG),1.59,0.98
+5868047,2026-09-06T16:30:00.000Z,4,LaLiga,Málaga,9864,Levante,8581,xG open play,0.61,0.67
+5868047,2026-09-06T16:30:00.000Z,4,LaLiga,Málaga,9864,Levante,8581,xG set play,0.19,0.31
+5868047,2026-09-06T16:30:00.000Z,4,LaLiga,Málaga,9864,Levante,8581,xG non-penalty,0.80,0.98
+5868047,2026-09-06T16:30:00.000Z,4,LaLiga,Málaga,9864,Levante,8581,xG on target (xGOT),1.06,0.94
+5868048,2026-09-05T16:30:00.000Z,4,LaLiga,Rayo Vallecano,8370,Racing Santander,8696,Expected goals (xG),1.61,0.48
+5868048,2026-09-05T16:30:00.000Z,4,LaLiga,Rayo Vallecano,8370,Racing Santander,8696,xG open play,1.25,0.28
+5868048,2026-09-05T16:30:00.000Z,4,LaLiga,Rayo Vallecano,8370,Racing Santander,8696,xG set play,0.35,0.20
+5868048,2026-09-05T16:30:00.000Z,4,LaLiga,Rayo Vallecano,8370,Racing Santander,8696,xG non-penalty,1.61,0.48
+5868048,2026-09-05T16:30:00.000Z,4,LaLiga,Rayo Vallecano,8370,Racing Santander,8696,xG on target (xGOT),2.13,1.29
+5868049,2026-09-06T14:15:00.000Z,4,LaLiga,Valencia,10267,Barcelona,8634,Expected goals (xG),0.66,4.08
+5868049,2026-09-06T14:15:00.000Z,4,LaLiga,Valencia,10267,Barcelona,8634,xG open play,0.46,3.70
+5868049,2026-09-06T14:15:00.000Z,4,LaLiga,Valencia,10267,Barcelona,8634,xG set play,0.20,0.39
+5868049,2026-09-06T14:15:00.000Z,4,LaLiga,Valencia,10267,Barcelona,8634,xG non-penalty,0.66,4.08
+5868049,2026-09-06T14:15:00.000Z,4,LaLiga,Valencia,10267,Barcelona,8634,xG on target (xGOT),0.56,5.08
+5868050,2026-09-05T19:00:00.000Z,4,LaLiga,Villarreal,10205,Deportivo A Coruña,9783,Expected goals (xG),1.20,0.83
+5868050,2026-09-05T19:00:00.000Z,4,LaLiga,Villarreal,10205,Deportivo A Coruña,9783,xG open play,0.95,0.83
+5868050,2026-09-05T19:00:00.000Z,4,LaLiga,Villarreal,10205,Deportivo A Coruña,9783,xG set play,0.25,0.00
+5868050,2026-09-05T19:00:00.000Z,4,LaLiga,Villarreal,10205,Deportivo A Coruña,9783,xG non-penalty,1.20,0.83
+5868050,2026-09-05T19:00:00.000Z,4,LaLiga,Villarreal,10205,Deportivo A Coruña,9783,xG on target (xGOT),1.48,1.23
+5868051,2026-09-12T16:30:00.000Z,5,LaLiga,Athletic Club,8315,Elche,10268,Expected goals (xG),1.61,0.84
+5868051,2026-09-12T16:30:00.000Z,5,LaLiga,Athletic Club,8315,Elche,10268,xG open play,1.35,0.01
+5868051,2026-09-12T16:30:00.000Z,5,LaLiga,Athletic Club,8315,Elche,10268,xG set play,0.26,0.04
+5868051,2026-09-12T16:30:00.000Z,5,LaLiga,Athletic Club,8315,Elche,10268,xG non-penalty,1.61,0.05
+5868051,2026-09-12T16:30:00.000Z,5,LaLiga,Athletic Club,8315,Elche,10268,xG on target (xGOT),0.60,0.87
+5868052,2026-09-13T12:00:00.000Z,5,LaLiga,Celta Vigo,9910,Málaga,9864,Expected goals (xG),1.90,0.43
+5868052,2026-09-13T12:00:00.000Z,5,LaLiga,Celta Vigo,9910,Málaga,9864,xG open play,1.90,0.27
+5868052,2026-09-13T12:00:00.000Z,5,LaLiga,Celta Vigo,9910,Málaga,9864,xG set play,0.00,0.16
+5868052,2026-09-13T12:00:00.000Z,5,LaLiga,Celta Vigo,9910,Málaga,9864,xG non-penalty,1.90,0.43
+5868052,2026-09-13T12:00:00.000Z,5,LaLiga,Celta Vigo,9910,Málaga,9864,xG on target (xGOT),1.36,0.67
+5868053,2026-09-13T16:30:00.000Z,5,LaLiga,Getafe,8305,Deportivo A Coruña,9783,Expected goals (xG),0.78,0.87
+5868053,2026-09-13T16:30:00.000Z,5,LaLiga,Getafe,8305,Deportivo A Coruña,9783,xG open play,0.55,0.72
+5868053,2026-09-13T16:30:00.000Z,5,LaLiga,Getafe,8305,Deportivo A Coruña,9783,xG set play,0.23,0.14
+5868053,2026-09-13T16:30:00.000Z,5,LaLiga,Getafe,8305,Deportivo A Coruña,9783,xG non-penalty,0.78,0.87
+5868053,2026-09-13T16:30:00.000Z,5,LaLiga,Getafe,8305,Deportivo A Coruña,9783,xG on target (xGOT),0.94,0.67
+5868054,2026-09-13T14:15:00.000Z,5,LaLiga,Levante,8581,Barcelona,8634,Expected goals (xG),2.42,2.58
+5868054,2026-09-13T14:15:00.000Z,5,LaLiga,Levante,8581,Barcelona,8634,xG open play,2.16,1.63
+5868054,2026-09-13T14:15:00.000Z,5,LaLiga,Levante,8581,Barcelona,8634,xG set play,0.26,0.16
+5868054,2026-09-13T14:15:00.000Z,5,LaLiga,Levante,8581,Barcelona,8634,xG non-penalty,2.42,1.79
+5868054,2026-09-13T14:15:00.000Z,5,LaLiga,Levante,8581,Barcelona,8634,xG on target (xGOT),2.46,3.67
+5868055,2026-09-12T14:15:00.000Z,5,LaLiga,Osasuna,8371,Espanyol,8558,Expected goals (xG),1.05,1.43
+5868055,2026-09-12T14:15:00.000Z,5,LaLiga,Osasuna,8371,Espanyol,8558,xG open play,0.28,1.37
+5868055,2026-09-12T14:15:00.000Z,5,LaLiga,Osasuna,8371,Espanyol,8558,xG set play,0.76,0.07
+5868055,2026-09-12T14:15:00.000Z,5,LaLiga,Osasuna,8371,Espanyol,8558,xG non-penalty,1.05,1.43
+5868055,2026-09-12T14:15:00.000Z,5,LaLiga,Osasuna,8371,Espanyol,8558,xG on target (xGOT),0.53,1.66
+5868056,2026-09-12T12:00:00.000Z,5,LaLiga,Racing Santander,8696,Deportivo Alavés,9866,Expected goals (xG),2.01,1.98
+5868056,2026-09-12T12:00:00.000Z,5,LaLiga,Racing Santander,8696,Deportivo Alavés,9866,xG open play,1.53,0.88
+5868056,2026-09-12T12:00:00.000Z,5,LaLiga,Racing Santander,8696,Deportivo Alavés,9866,xG set play,0.48,1.10
+5868056,2026-09-12T12:00:00.000Z,5,LaLiga,Racing Santander,8696,Deportivo Alavés,9866,xG non-penalty,2.01,1.98
+5868056,2026-09-12T12:00:00.000Z,5,LaLiga,Racing Santander,8696,Deportivo Alavés,9866,xG on target (xGOT),2.13,2.11
+5868057,2026-09-12T19:00:00.000Z,5,LaLiga,Real Madrid,8633,Rayo Vallecano,8370,Expected goals (xG),2.62,1.21
+5868057,2026-09-12T19:00:00.000Z,5,LaLiga,Real Madrid,8633,Rayo Vallecano,8370,xG open play,1.36,0.86
+5868057,2026-09-12T19:00:00.000Z,5,LaLiga,Real Madrid,8633,Rayo Vallecano,8370,xG set play,0.47,0.35
+5868057,2026-09-12T19:00:00.000Z,5,LaLiga,Real Madrid,8633,Rayo Vallecano,8370,xG non-penalty,1.83,1.21
+5868057,2026-09-12T19:00:00.000Z,5,LaLiga,Real Madrid,8633,Rayo Vallecano,8370,xG on target (xGOT),2.95,1.35
+5868058,2026-09-13T19:00:00.000Z,5,LaLiga,Real Sociedad,8560,Atlético Madrid,9906,Expected goals (xG),0.27,2.05
+5868058,2026-09-13T19:00:00.000Z,5,LaLiga,Real Sociedad,8560,Atlético Madrid,9906,xG open play,0.08,1.05
+5868058,2026-09-13T19:00:00.000Z,5,LaLiga,Real Sociedad,8560,Atlético Madrid,9906,xG set play,0.19,0.22
+5868058,2026-09-13T19:00:00.000Z,5,LaLiga,Real Sociedad,8560,Atlético Madrid,9906,xG non-penalty,0.27,1.26
+5868058,2026-09-13T19:00:00.000Z,5,LaLiga,Real Sociedad,8560,Atlético Madrid,9906,xG on target (xGOT),0.49,1.95
+5868059,2026-09-11T19:00:00.000Z,5,LaLiga,Sevilla,8302,Valencia,10267,Expected goals (xG),0.93,0.10
+5868059,2026-09-11T19:00:00.000Z,5,LaLiga,Sevilla,8302,Valencia,10267,xG open play,0.20,0.10
+5868059,2026-09-11T19:00:00.000Z,5,LaLiga,Sevilla,8302,Valencia,10267,xG set play,0.73,0.00
+5868059,2026-09-11T19:00:00.000Z,5,LaLiga,Sevilla,8302,Valencia,10267,xG non-penalty,0.93,0.10
+5868059,2026-09-11T19:00:00.000Z,5,LaLiga,Sevilla,8302,Valencia,10267,xG on target (xGOT),0.75,0.00
+5868060,2026-09-14T19:00:00.000Z,5,LaLiga,Villarreal,10205,Real Betis,8603,Expected goals (xG),1.88,3.75
+5868060,2026-09-14T19:00:00.000Z,5,LaLiga,Villarreal,10205,Real Betis,8603,xG open play,1.00,3.43
+5868060,2026-09-14T19:00:00.000Z,5,LaLiga,Villarreal,10205,Real Betis,8603,xG set play,0.88,0.32
+5868060,2026-09-14T19:00:00.000Z,5,LaLiga,Villarreal,10205,Real Betis,8603,xG non-penalty,1.88,3.75
+5868060,2026-09-14T19:00:00.000Z,5,LaLiga,Villarreal,10205,Real Betis,8603,xG on target (xGOT),2.84,3.96
+5868061,2026-09-15T18:00:00.000Z,6,LaLiga,Deportivo Alavés,9866,Valencia,10267,Expected goals (xG),1.04,0.79
+5868061,2026-09-15T18:00:00.000Z,6,LaLiga,Deportivo Alavés,9866,Valencia,10267,xG open play,0.90,0.71
+5868061,2026-09-15T18:00:00.000Z,6,LaLiga,Deportivo Alavés,9866,Valencia,10267,xG set play,0.14,0.08
+5868061,2026-09-15T18:00:00.000Z,6,LaLiga,Deportivo Alavés,9866,Valencia,10267,xG non-penalty,1.04,0.79
+5868061,2026-09-15T18:00:00.000Z,6,LaLiga,Deportivo Alavés,9866,Valencia,10267,xG on target (xGOT),0.35,0.82
+5868062,2026-09-16T17:00:00.000Z,6,LaLiga,Atlético Madrid,9906,Osasuna,8371,Expected goals (xG),3.97,0.48
+5868062,2026-09-16T17:00:00.000Z,6,LaLiga,Atlético Madrid,9906,Osasuna,8371,xG open play,3.93,0.44
+5868062,2026-09-16T17:00:00.000Z,6,LaLiga,Atlético Madrid,9906,Osasuna,8371,xG set play,0.04,0.04
+5868062,2026-09-16T17:00:00.000Z,6,LaLiga,Atlético Madrid,9906,Osasuna,8371,xG non-penalty,3.97,0.48
+5868062,2026-09-16T17:00:00.000Z,6,LaLiga,Atlético Madrid,9906,Osasuna,8371,xG on target (xGOT),3.91,0.31
+5868063,2026-09-17T17:00:00.000Z,6,LaLiga,Real Betis,8603,Getafe,8305,Expected goals (xG),1.89,0.29
+5868063,2026-09-17T17:00:00.000Z,6,LaLiga,Real Betis,8603,Getafe,8305,xG open play,1.81,0.25
+5868063,2026-09-17T17:00:00.000Z,6,LaLiga,Real Betis,8603,Getafe,8305,xG set play,0.09,0.04
+5868063,2026-09-17T17:00:00.000Z,6,LaLiga,Real Betis,8603,Getafe,8305,xG non-penalty,1.89,0.29
+5868063,2026-09-17T17:00:00.000Z,6,LaLiga,Real Betis,8603,Getafe,8305,xG on target (xGOT),2.02,0.33
+5868064,2026-09-16T17:00:00.000Z,6,LaLiga,Deportivo A Coruña,9783,Sevilla,8302,Expected goals (xG),0.14,0.73
+5868064,2026-09-16T17:00:00.000Z,6,LaLiga,Deportivo A Coruña,9783,Sevilla,8302,xG open play,0.13,0.68
+5868064,2026-09-16T17:00:00.000Z,6,LaLiga,Deportivo A Coruña,9783,Sevilla,8302,xG set play,0.01,0.05
+5868064,2026-09-16T17:00:00.000Z,6,LaLiga,Deportivo A Coruña,9783,Sevilla,8302,xG non-penalty,0.14,0.73
+5868064,2026-09-16T17:00:00.000Z,6,LaLiga,Deportivo A Coruña,9783,Sevilla,8302,xG on target (xGOT),0.95,0.92
+5868065,2026-09-15T19:30:00.000Z,6,LaLiga,Elche,10268,Real Madrid,8633,Expected goals (xG),0.78,3.61
+5868065,2026-09-15T19:30:00.000Z,6,LaLiga,Elche,10268,Real Madrid,8633,xG open play,0.78,3.37
+5868065,2026-09-15T19:30:00.000Z,6,LaLiga,Elche,10268,Real Madrid,8633,xG set play,0.00,0.24
+5868065,2026-09-15T19:30:00.000Z,6,LaLiga,Elche,10268,Real Madrid,8633,xG non-penalty,0.78,3.61
+5868065,2026-09-15T19:30:00.000Z,6,LaLiga,Elche,10268,Real Madrid,8633,xG on target (xGOT),1.32,2.09
+5868066,2026-09-16T19:30:00.000Z,6,LaLiga,Barcelona,8634,Racing Santander,8696,Expected goals (xG),6.74,1.98
+5868066,2026-09-16T19:30:00.000Z,6,LaLiga,Barcelona,8634,Racing Santander,8696,xG open play,2.92,1.96
+5868066,2026-09-16T19:30:00.000Z,6,LaLiga,Barcelona,8634,Racing Santander,8696,xG set play,1.46,0.02
+5868066,2026-09-16T19:30:00.000Z,6,LaLiga,Barcelona,8634,Racing Santander,8696,xG non-penalty,4.38,1.98
+5868066,2026-09-16T19:30:00.000Z,6,LaLiga,Barcelona,8634,Racing Santander,8696,xG on target (xGOT),4.41,1.38
+5868068,2026-09-17T19:30:00.000Z,6,LaLiga,Málaga,9864,Villarreal,10205,Expected goals (xG),0.57,3.20
+5868068,2026-09-17T19:30:00.000Z,6,LaLiga,Málaga,9864,Villarreal,10205,xG open play,0.24,2.07
+5868068,2026-09-17T19:30:00.000Z,6,LaLiga,Málaga,9864,Villarreal,10205,xG set play,0.33,0.34
+5868068,2026-09-17T19:30:00.000Z,6,LaLiga,Málaga,9864,Villarreal,10205,xG non-penalty,0.57,2.41
+5868068,2026-09-17T19:30:00.000Z,6,LaLiga,Málaga,9864,Villarreal,10205,xG on target (xGOT),0.88,2.65
+5868069,2026-09-15T17:00:00.000Z,6,LaLiga,Rayo Vallecano,8370,Espanyol,8558,Expected goals (xG),1.71,1.65
+5868069,2026-09-15T17:00:00.000Z,6,LaLiga,Rayo Vallecano,8370,Espanyol,8558,xG open play,1.46,1.34
+5868069,2026-09-15T17:00:00.000Z,6,LaLiga,Rayo Vallecano,8370,Espanyol,8558,xG set play,0.25,0.31
+5868069,2026-09-15T17:00:00.000Z,6,LaLiga,Rayo Vallecano,8370,Espanyol,8558,xG non-penalty,1.71,1.65
+5868069,2026-09-15T17:00:00.000Z,6,LaLiga,Rayo Vallecano,8370,Espanyol,8558,xG on target (xGOT),0.93,1.15
+5868070,2026-09-03T19:00:00.000Z,6,LaLiga,Real Sociedad,8560,Celta Vigo,9910,Expected goals (xG),1.05,0.43
+5868070,2026-09-03T19:00:00.000Z,6,LaLiga,Real Sociedad,8560,Celta Vigo,9910,xG open play,0.86,0.42
+5868070,2026-09-03T19:00:00.000Z,6,LaLiga,Real Sociedad,8560,Celta Vigo,9910,xG set play,0.19,0.01
+5868070,2026-09-03T19:00:00.000Z,6,LaLiga,Real Sociedad,8560,Celta Vigo,9910,xG non-penalty,1.05,0.43
+5868070,2026-09-03T19:00:00.000Z,6,LaLiga,Real Sociedad,8560,Celta Vigo,9910,xG on target (xGOT),1.04,0.11
