@@ -162,6 +162,17 @@ def empty_like(source: str, cup_key: str, date: str) -> Path | None:
     return out
 
 
+def has_rows(path: Path) -> bool:
+    """True if the CSV has a header and at least one data row. A source that
+    produced an empty file (e.g. FotMob had no player data for any match yet)
+    counts as missing."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            return bool(f.readline().strip()) and bool(f.readline().strip())
+    except OSError:
+        return False
+
+
 def find_sources(cup_key: str, date: str) -> dict:
     p = paths(date)
     cup = CUPS[cup_key]
@@ -170,15 +181,15 @@ def find_sources(cup_key: str, date: str) -> dict:
     mapping_path = p["opta_parsed"] / "cup_files.json"
     if mapping_path.exists():
         name = json.loads(mapping_path.read_text()).get(cup_key)
-        if name and (p["opta_parsed"] / name).exists():
+        if name and has_rows(p["opta_parsed"] / name):
             found["opta"] = p["opta_parsed"] / name
 
     ws = sorted(p["ws_parsed"].glob(f"{cup_key}_*_player_meta.csv"))
-    if ws:
+    if ws and has_rows(ws[-1]):
         found["whoscored"] = ws[-1]
 
     fm = p["fm_parsed"] / f"{cup['fotmob_key']}_{season_slug()}" / "player_stats.csv"
-    if fm.exists():
+    if has_rows(fm):
         found["fotmob"] = fm
     return found
 
@@ -191,8 +202,8 @@ def step_identity(cups, date, dry):
         print(f"\n-- {k}")
         found = find_sources(k, date)
         if not found and not dry:
-            print("  ✗ no source data found for this date, skipped")
-            summary[k] = "skipped (no data)"
+            print("  – no player data from any source for this date (e.g. only amateur rounds played so far), skipped")
+            summary[k] = "skipped (no player data yet)"
             continue
 
         files, missing = {}, []
