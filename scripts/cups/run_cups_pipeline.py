@@ -224,7 +224,8 @@ def step_identity(cups, date, dry):
                            *id_map_args], dry)
                   and run([PY, "scripts/identity/build_player_legend.py", crosswalk, reconciled, legend, MASTER],
                           dry))
-            summary[k] = ("ok" if ok else "failed") + (f" (no {', '.join(missing)})" if missing else "")
+            status = "planned (dry run)" if dry else ("ok" if ok else "failed")
+            summary[k] = status + (f" (no {', '.join(missing)})" if missing else "")
 
     if summary:
         print("\nIdentity summary:")
