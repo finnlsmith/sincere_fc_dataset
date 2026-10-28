@@ -5,13 +5,24 @@ one wide table: one row per real player, with each source's native ID
 sitting alongside a single canonical_id. This is the join key to use for
 every future weekly scrape this season.
 
-Two kinds of canonical_id appear in the output:
-  - A numeric ID (Opta's own player_id) for anyone who matched an existing
-    identity in master_player_table.csv.
-  - A "new_2026_<n>" ID for anyone new this season, assigned during
-    reconciliation (linked across sources where possible, kept as a
-    single-source entry — never dropped — where it couldn't be verified
-    against another source yet).
+canonical_id is STABLE across weeks (changed 2026-10-27 — it used to be a
+"new_2026_<n>" counter for new players, re-numbered every run, so new
+players couldn't be joined from one week to the next):
+  - Opta's numeric player_id whenever the player has an Opta sighting —
+    the same ID system master_player_table.csv uses, so master players and
+    new players share one key space.
+  - "ws_<whoscored_id>" / "fm_<fotmob_id>" for players first seen without
+    an Opta sighting. Once written to player_id_map.csv this stays the
+    player's ID even if an Opta ID turns up later.
+
+status:
+  - existing             in master_player_table.csv (2025/26)
+  - new_linked_full      new this season, IDs from all 3 sources
+  - new_linked_partial   new this season, IDs from 2 sources
+  - new_unverified       new this season, only 1 source so far
+known_via says how a row was recognised this week: master, master_transfer
+(moved between top-5 leagues), id_map (worked out in an earlier week), or
+blank for players reconciled for the first time this week.
 
 Two safeguards added after bugs found while cross-referencing LaLiga
 round-1 splits against this legend:
@@ -60,6 +71,8 @@ from pathlib import Path
 
 import pandas as pd
 
+from known_identities import teams_match
+
 NAME_MATCH_THRESHOLD = 0.82
 TEAM_NAME_STOPWORDS = {"de", "la", "el", "a", "fc", "cf"}
 ID_COLS = ["opta_id", "whoscored_id", "fotmob_id"]
@@ -79,29 +92,8 @@ def name_similarity(a, b) -> float:
     return SequenceMatcher(None, normalize(a), normalize(b)).ratio()
 
 
-def team_core_tokens(name: str) -> frozenset:
-    return frozenset(t for t in normalize(name).split() if t not in TEAM_NAME_STOPWORDS)
-
-
-def teams_match(team_a, team_b) -> bool:
-    """
-    True if two team names plausibly refer to the same club. Same logic as
-    reconcile_new_players.py's team clustering: substring containment
-    (e.g. "Tottenham" / "Tottenham Hotspur") OR token-set equality/subset
-    after stripping small connector words (e.g. "Atletico Madrid" /
-    "Atletico de Madrid"). Deliberately strict — this is the safeguard
-    against merging two different real people who share a name but not a
-    team (e.g. the two distinct "Fran García"s).
-    """
-    na, nb = normalize(team_a), normalize(team_b)
-    if not na or not nb:
-        return False
-    if na == nb or na in nb or nb in na:
-        return True
-    ca, cb = team_core_tokens(team_a), team_core_tokens(team_b)
-    if ca and cb and (ca == cb or ca.issubset(cb) or cb.issubset(ca)):
-        return True
-    return False
+# team_core_tokens / teams_match live in known_identities.py (single copy,
+# shared with the other identity scripts, including the club alias table).
 
 
 def build_player_legend(
@@ -117,6 +109,11 @@ def build_player_legend(
     reconciled = pd.read_csv(reconciled_csv)
 
     matched = crosswalk[crosswalk["matched_to_master"] == True].copy()
+    matched["canonical_player_id"] = matched["canonical_player_id"].astype(str)
+    if "team" not in matched.columns:      # crosswalks from before 2026-10-27
+        matched["team"] = None
+    if "match_via" not in matched.columns:
+        matched["match_via"] = "master"
     print(f"  {len(matched)} matched rows across all sources")
 
     conflicts = []
@@ -125,9 +122,12 @@ def build_player_legend(
     legend_rows = []
 
     for canonical_id, group in matched.groupby("canonical_player_id"):
-        row = {"canonical_id": canonical_id, "status": "existing"}
+        row = {"canonical_id": canonical_id, "status": "existing", "_known": True}
         name = None
+        team = None
+        vias = set()
         for _, r in group.iterrows():
+            vias.add(r["match_via"])
             col = f"{r['source']}_id"
             new_val = r["source_native_id"]
             if col in row and pd.notna(row.get(col)) and row[col] != new_val:
@@ -143,8 +143,14 @@ def build_player_legend(
             row[col] = new_val
             if name is None or r["source"] == "opta":
                 name = r["source_name"]
+            # this season's team as the source reports it (not master's
+            # 2025/26 team, which is stale for anyone who moved)
+            if pd.notna(r["team"]) and (team is None or r["source"] == "opta"):
+                team = r["team"]
         row["name"] = name
-        row["team"] = None  # backfilled below if master_table_csv is given
+        row["team"] = team  # master backfill below only fills gaps
+        row["known_via"] = ("master_transfer" if "master_transfer" in vias
+                            else "id_map" if "id_map" in vias else "master")
         legend_rows.append(row)
 
     # ─── Pivot reconciled (new) rows: group by cluster_id ────────────────────
@@ -157,7 +163,15 @@ def build_player_legend(
         else:
             status = "new_unverified"
 
-        row = {"canonical_id": cluster_id, "status": status}
+        ids = {s: group.loc[group["source"] == s, "native_id"].iloc[0]
+               for s in ("opta", "whoscored", "fotmob") if (group["source"] == s).any()}
+        if "opta" in ids:
+            stable_id = str(int(ids["opta"]))
+        elif "whoscored" in ids:
+            stable_id = f"ws_{int(ids['whoscored'])}"
+        else:
+            stable_id = f"fm_{int(ids['fotmob'])}"
+        row = {"canonical_id": stable_id, "status": status, "_known": False, "known_via": None}
         name = None
         team = None
         for _, r in group.iterrows():
@@ -165,7 +179,7 @@ def build_player_legend(
             new_val = r["native_id"]
             if col in row and pd.notna(row.get(col)) and row[col] != new_val:
                 conflicts.append({
-                    "canonical_id": cluster_id,
+                    "canonical_id": stable_id,
                     "name": r["name"],
                     "source": r["source"],
                     "kept_value": row[col],
@@ -176,8 +190,8 @@ def build_player_legend(
             row[col] = new_val
             if name is None or r["source"] == "opta":
                 name = r["name"]
-            if team is None:
-                team = r["team_name"]
+            if pd.notna(r["team_name"]) and (team is None or r["source"] == "opta"):
+                team = r["team_name"]  # prefer Opta's naming, same as known rows
         row["name"] = name
         row["team"] = team
         legend_rows.append(row)
@@ -197,7 +211,7 @@ def build_player_legend(
         def fill_team(r):
             if pd.notna(r["team"]):
                 return r["team"]
-            if r["status"] == "existing":
+            if r["_known"]:
                 cid = pd.to_numeric(r["canonical_id"], errors="coerce")
                 if pd.notna(cid) and cid in team_by_id.index:
                     return team_by_id.loc[cid]
@@ -209,8 +223,8 @@ def build_player_legend(
 
         # ─── Cross-pool merge: existing <-> new, gated on name+team match ────
         print("\nAttempting cross-pool merge (existing <-> new) by name+team ...")
-        existing_idx = legend[legend["status"] == "existing"].index
-        new_idx = legend[legend["status"] != "existing"].index
+        existing_idx = legend[legend["_known"]].index
+        new_idx = legend[~legend["_known"]].index
 
         merged_new_indices = set()
         n_merged = 0
@@ -258,7 +272,22 @@ def build_player_legend(
         print("\n(No master_table_csv given — skipping cross-pool merge, since it needs "
               "'existing' rows to already have a team to match against.)")
 
-    legend = legend[["canonical_id", "name", "team", "status"] + ID_COLS]
+    # Status: "existing" = in the 2025/26 master; everyone else is graded
+    # by how many sources we now hold an ID for. Recomputed here so a
+    # player first seen in one source moves up to partial/full as their
+    # other sightings get linked in later weeks (or by the merge above).
+    master_ids = set()
+    if master_table_csv is not None:
+        master_ids = set(master["player_id"].dropna().astype(int).astype(str))
+    def grade(r):
+        if str(r["canonical_id"]) in master_ids:
+            return "existing"
+        n = sum(pd.notna(r[c]) for c in ID_COLS)
+        return {3: "new_linked_full", 2: "new_linked_partial"}.get(n, "new_unverified")
+    if master_ids:
+        legend["status"] = legend.apply(grade, axis=1)
+
+    legend = legend[["canonical_id", "name", "team", "status"] + ID_COLS + ["known_via"]]
     legend = legend.sort_values(["status", "name"])
 
     out_path = Path(output_legend_csv)

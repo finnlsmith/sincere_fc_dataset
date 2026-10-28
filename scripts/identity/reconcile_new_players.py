@@ -15,7 +15,7 @@ requires both a team match and a high name-similarity score — to avoid
 false-positive links.
 
 Usage:
-    python reconcile_new_players.py <master_table_csv> <opta_csv> <whoscored_meta_csv> <fotmob_player_stats_csv> <output_csv> [other_league_teams_csv]
+    python reconcile_new_players.py <master_table_csv> <opta_csv> <whoscored_meta_csv> <fotmob_player_stats_csv> <output_csv> [other_league_teams_csv] [--id-map <player_id_map_csv>]
 
 Example:
     python reconcile_new_players.py master_player_table.csv \\
@@ -33,6 +33,8 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 import pandas as pd
+
+from known_identities import KnownIdentities, normalize_team, one_row_per_id, opta_team_names
 
 # NOTE: the Bundesliga stopgap list (previously kept in sync with
 # match_players_to_master.py) has been removed now that real Bundesliga
@@ -145,131 +147,60 @@ def reconcile_new_players(
     fotmob_player_stats_csv: str,
     output_csv: str,
     other_league_teams_csv: str | None = None,
+    id_map_csv: str | None = None,
 ) -> Path:
-    print("Loading master_player_table.csv ...")
-    master = pd.read_csv(
-        master_table_csv,
-        usecols=["player_id", "team_id", "canon_team", "fotmob_player_id", "whoscored_playerId"],
-        low_memory=False,
-    )
-    for c in ["player_id", "team_id", "fotmob_player_id", "whoscored_playerId"]:
-        master[c] = pd.to_numeric(master[c], errors="coerce").astype("Int64")
+    known = KnownIdentities(master_table_csv, other_league_teams_csv, id_map_csv)
 
-    master_by_opta_id = master.dropna(subset=["player_id"]).drop_duplicates("player_id").set_index("player_id")
-    master_by_fotmob_id = master.dropna(subset=["fotmob_player_id"]).drop_duplicates("fotmob_player_id").set_index("fotmob_player_id")
-    master_by_ws_id = master.dropna(subset=["whoscored_playerId"]).drop_duplicates("whoscored_playerId").set_index("whoscored_playerId")
-    master_team_by_opta_id = master.dropna(subset=["player_id"]).drop_duplicates("player_id").set_index("player_id")["canon_team"]
-    master_team_by_fotmob_id = master.dropna(subset=["fotmob_player_id"]).drop_duplicates("fotmob_player_id").set_index("fotmob_player_id")["canon_team"]
-    master_team_by_ws_id = master.dropna(subset=["whoscored_playerId"]).drop_duplicates("whoscored_playerId").set_index("whoscored_playerId")["canon_team"]
-
-    team_map = master.dropna(subset=["team_id"]).drop_duplicates("team_id").set_index("team_id")["canon_team"]
-
-    # Same cross-league safeguard as match_players_to_master.py — MUST be
-    # kept consistent between the two scripts. Without this, a player whose
-    # raw ID happens to be present in master's index gets treated as
-    # "already matched" here even when match_players_to_master.py correctly
-    # rejected that same match as cross-league-implausible — meaning the
-    # player would vanish from BOTH the matched pool AND this unmatched
-    # pool entirely, disappearing from the final legend rather than
-    # correctly appearing as a new/unverified entry. (Found via a real
-    # case: Rodri, Péter Gulácsi, and Altay Bayindir all went missing
-    # entirely until this fix.)
-    other_league_teams = set()
-    if other_league_teams_csv is not None:
-        ref = pd.read_csv(other_league_teams_csv)
-        other_league_teams |= set(ref.iloc[:, 0].dropna().unique())
-        print(f"Cross-league safeguard active: {len(other_league_teams)} known other-league teams")
-    else:
-        print("Cross-league safeguard skipped — no other_league_teams_csv passed in")
+    # A player is "unmatched" here exactly when match_players_to_master.py
+    # did NOT know them — both scripts call the same KnownIdentities.lookup,
+    # so they can no longer drift apart (the cause of past bugs where
+    # players vanished from both pools: Rodri/Gulácsi/Bayindir, Lunin).
+    def unmatched(source, frame, id_col, name_col):
+        frame = frame.copy()
+        frame[id_col] = pd.to_numeric(frame[id_col], errors="coerce").astype("Int64")
+        keep = frame.apply(
+            lambda r: pd.notna(r[id_col]) and known.lookup(source, r[id_col], r[name_col])[0] is None,
+            axis=1,
+        )
+        out = frame[keep].copy()
+        out["source"] = source
+        return out
 
     # ─── Opta unmatched ─────────────────────────────────────────────────────
     print("Finding unmatched Opta players ...")
     opta = pd.read_csv(opta_csv, low_memory=False)
     id_col = "opta_player_id" if "opta_player_id" in opta.columns else "attack_player_id"
-    # Same coalesce-vs-fallback pattern as the player ID: attack_team_id is
-    # null for anyone absent from Opta's "attack" category (goalkeepers,
-    # confirmed — possibly others), which silently orphaned them from
-    # name+team matching entirely. Prefer the coalesced opta_team_id
-    # (covers every player) when the parser producing it is in use.
+    # attack_team_id is null for anyone absent from Opta's "attack" category
+    # (goalkeepers), so prefer the coalesced opta_team_id when present.
     team_id_col = "opta_team_id" if "opta_team_id" in opta.columns else "attack_team_id"
     if team_id_col == "attack_team_id":
         print("  ⚠️  Using attack_team_id (older parser output) — players missing from "
-              "Opta's 'attack' category (e.g. goalkeepers) will have no team and won't "
-              "be matchable here. Re-run opta_json_to_csv.py to fix this properly.")
-    opta_sub = opta[["player", id_col, team_id_col]].drop_duplicates()
-    opta_sub[id_col] = pd.to_numeric(opta_sub[id_col], errors="coerce").astype("Int64")
-    opta_sub["team_name"] = opta_sub[team_id_col].map(team_map)
-
-    def opta_is_unmatched(pid):
-        if pd.isna(pid):
-            return False
-        if pid not in master_by_opta_id.index:
-            return True
-        return team_is_other_league(master_team_by_opta_id.get(pid), other_league_teams)
-
-    opta_unmatched = opta_sub[opta_sub[id_col].apply(opta_is_unmatched)].copy()
-    opta_unmatched["source"] = "opta"
-    opta_unmatched = opta_unmatched.rename(columns={"player": "name", id_col: "native_id"})[
-        ["source", "native_id", "name", "team_name"]
-    ]
+              "Opta's 'attack' category (e.g. goalkeepers) may have no team. "
+              "Re-run opta_json_to_csv.py to fix this properly.")
+    opta["team_name"] = opta_team_names(opta, team_id_col, known.team_map)
+    opta_sub = one_row_per_id(opta[["player", id_col, "team_name"]], id_col, "player", "team_name")
+    opta_unmatched = unmatched("opta", opta_sub, id_col, "player").rename(
+        columns={"player": "name", id_col: "native_id"})[["source", "native_id", "name", "team_name"]]
     print(f"  {len(opta_unmatched)} unmatched")
 
     # ─── WhoScored unmatched ────────────────────────────────────────────────
     print("Finding unmatched WhoScored players ...")
     ws = pd.read_csv(whoscored_meta_csv)
-    ws_sub = ws[["name", "playerId", "teamName"]].drop_duplicates()
-    ws_sub["playerId"] = pd.to_numeric(ws_sub["playerId"], errors="coerce").astype("Int64")
-
-    def ws_is_unmatched(pid):
-        if pd.isna(pid):
-            return False
-        if pid not in master_by_ws_id.index:
-            return True
-        # A player can be present in master_by_ws_id but with no valid Opta
-        # anchor (confidence_tier="whoscored_only") — match_players_to_master.py
-        # correctly treats this as unmatched too (no valid canonical_id to
-        # assign); this script previously didn't check for it, so those
-        # players were wrongly treated as "already matched elsewhere" and
-        # silently excluded from reconciliation entirely.
-        if pd.isna(master_by_ws_id.loc[pid, "player_id"]):
-            return True
-        return team_is_other_league(master_team_by_ws_id.get(pid), other_league_teams)
-
-    ws_unmatched = ws_sub[ws_sub["playerId"].apply(ws_is_unmatched)].copy()
-    ws_unmatched["source"] = "whoscored"
-    ws_unmatched = ws_unmatched.rename(columns={"playerId": "native_id", "teamName": "team_name"})[
-        ["source", "native_id", "name", "team_name"]
-    ]
+    ws_sub = one_row_per_id(ws[["name", "playerId", "teamName"]], "playerId", "name", "teamName")
+    ws_unmatched = unmatched("whoscored", ws_sub, "playerId", "name").rename(
+        columns={"playerId": "native_id", "teamName": "team_name"})[["source", "native_id", "name", "team_name"]]
     print(f"  {len(ws_unmatched)} unmatched")
 
     # ─── FotMob unmatched ───────────────────────────────────────────────────
     print("Finding unmatched FotMob players ...")
     fm = pd.read_csv(fotmob_player_stats_csv)
-    fm_sub = fm[["player_name", "player_id", "team_name"]].drop_duplicates()
-    fm_sub["player_id"] = pd.to_numeric(fm_sub["player_id"], errors="coerce").astype("Int64")
-
-    def fm_is_unmatched(pid):
-        if pd.isna(pid):
-            return False
-        if pid not in master_by_fotmob_id.index:
-            return True
-        # Same fotmob_only-tier issue as the WhoScored branch above — see
-        # that comment for the full explanation. Confirmed real case:
-        # Andriy Lunin, fotmob_id=800882, master row has fotmob_player_id
-        # set but player_id (Opta anchor) is null, confidence_tier=fotmob_only.
-        if pd.isna(master_by_fotmob_id.loc[pid, "player_id"]):
-            return True
-        return team_is_other_league(master_team_by_fotmob_id.get(pid), other_league_teams)
-
-    fm_unmatched = fm_sub[fm_sub["player_id"].apply(fm_is_unmatched)].copy()
-    fm_unmatched["source"] = "fotmob"
-    fm_unmatched = fm_unmatched.rename(columns={"player_id": "native_id", "player_name": "name"})[
-        ["source", "native_id", "name", "team_name"]
-    ]
+    fm_sub = one_row_per_id(fm[["player_name", "player_id", "team_name"]], "player_id", "player_name", "team_name")
+    fm_unmatched = unmatched("fotmob", fm_sub, "player_id", "player_name").rename(
+        columns={"player_id": "native_id", "player_name": "name"})[["source", "native_id", "name", "team_name"]]
     print(f"  {len(fm_unmatched)} unmatched")
 
     all_unmatched = pd.concat([opta_unmatched, ws_unmatched, fm_unmatched], ignore_index=True)
-    all_unmatched["team_norm"] = all_unmatched["team_name"].apply(normalize)
+    all_unmatched["team_norm"] = all_unmatched["team_name"].apply(normalize_team)
 
     team_cluster_map = build_team_clusters(set(all_unmatched["team_norm"]))
     all_unmatched["team_cluster"] = all_unmatched["team_norm"].map(team_cluster_map)
@@ -350,14 +281,21 @@ def reconcile_new_players(
 
 
 if __name__ == "__main__":
-    if len(sys.argv) not in (6, 7):
-        print("Usage: python reconcile_new_players.py <master_table_csv> <opta_csv> <whoscored_meta_csv> <fotmob_player_stats_csv> <output_csv> [other_league_teams_csv]")
+    args = sys.argv[1:]
+    id_map_csv = None
+    if "--id-map" in args:
+        i = args.index("--id-map")
+        id_map_csv = args[i + 1]
+        del args[i:i + 2]
+    if len(args) not in (5, 6):
+        print("Usage: python reconcile_new_players.py <master_table_csv> <opta_csv> <whoscored_meta_csv> "
+              "<fotmob_player_stats_csv> <output_csv> [other_league_teams_csv] [--id-map <player_id_map_csv>]")
         sys.exit(1)
 
-    other_league_teams_csv = sys.argv[6] if len(sys.argv) == 7 else None
+    other_league_teams_csv = args[5] if len(args) == 6 else None
 
     try:
-        reconcile_new_players(*sys.argv[1:6], other_league_teams_csv)
+        reconcile_new_players(*args[:5], other_league_teams_csv, id_map_csv)
     except Exception as e:
         print(f"✗ {e}")
         sys.exit(1)
