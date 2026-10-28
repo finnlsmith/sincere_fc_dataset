@@ -158,6 +158,13 @@ def reconcile_new_players(
     def unmatched(source, frame, id_col, name_col):
         frame = frame.copy()
         frame[id_col] = pd.to_numeric(frame[id_col], errors="coerce").astype("Int64")
+        if frame.empty:
+            # An empty source (e.g. a cup with no Opta page) has no one to
+            # reconcile. Without this, DataFrame.apply(axis=1) on an empty
+            # frame returns a DataFrame rather than a boolean Series and
+            # the filter below breaks.
+            frame["source"] = source
+            return frame
         keep = frame.apply(
             lambda r: pd.notna(r[id_col]) and known.lookup(source, r[id_col], r[name_col])[0] is None,
             axis=1,
