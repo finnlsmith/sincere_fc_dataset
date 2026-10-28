@@ -1,0 +1,214 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Yellow cards,1,1
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Red cards,0,0
+5795363,2026-08-21T19:00:00.000Z,1,Premier League,Arsenal,9825,Coventry City,8669,Fouls committed,10,13
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Yellow cards,2,1
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Red cards,0,0
+5795364,2026-08-22T11:30:00.000Z,1,Premier League,Hull City,8667,Manchester United,10260,Fouls committed,10,9
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Yellow cards,0,1
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Red cards,0,0
+5795365,2026-08-22T14:00:00.000Z,1,Premier League,Everton,8668,Crystal Palace,9826,Fouls committed,5,15
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Yellow cards,0,3
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Red cards,0,0
+5795366,2026-08-22T14:00:00.000Z,1,Premier League,Ipswich Town,9902,Sunderland,8472,Fouls committed,12,14
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Yellow cards,2,1
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Red cards,0,0
+5795367,2026-08-22T14:00:00.000Z,1,Premier League,Nottingham Forest,10203,Leeds United,8463,Fouls committed,15,14
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Yellow cards,1,1
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Red cards,0,0
+5795368,2026-08-22T16:30:00.000Z,1,Premier League,Brentford,9937,Tottenham Hotspur,8586,Fouls committed,17,14
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Yellow cards,2,3
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Red cards,0,1
+5795369,2026-08-23T13:00:00.000Z,1,Premier League,Brighton & Hove Albion,10204,Aston Villa,10252,Fouls committed,12,11
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Yellow cards,1,2
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Red cards,0,0
+5795370,2026-08-23T13:00:00.000Z,1,Premier League,Manchester City,8456,AFC Bournemouth,8678,Fouls committed,11,11
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Yellow cards,5,3
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Red cards,0,0
+5795371,2026-08-23T15:30:00.000Z,1,Premier League,Newcastle United,10261,Liverpool,8650,Fouls committed,16,15
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Yellow cards,2,3
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Red cards,0,0
+5795372,2026-08-24T19:00:00.000Z,1,Premier League,Fulham,9879,Chelsea,8455,Fouls committed,12,7
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Yellow cards,3,2
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Red cards,0,0
+5795425,2026-08-29T14:00:00.000Z,2,Premier League,AFC Bournemouth,8678,Everton,8668,Fouls committed,11,14
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Yellow cards,3,1
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Red cards,0,0
+5795426,2026-08-31T19:00:00.000Z,2,Premier League,Aston Villa,10252,Arsenal,9825,Fouls committed,17,6
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Yellow cards,1,3
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Red cards,0,0
+5795427,2026-08-30T13:00:00.000Z,2,Premier League,Chelsea,8455,Brighton & Hove Albion,10204,Fouls committed,6,12
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Yellow cards,1,4
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Red cards,0,0
+5795428,2026-08-29T14:00:00.000Z,2,Premier League,Coventry City,8669,Hull City,8667,Fouls committed,11,8
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Yellow cards,1,2
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Red cards,0,0
+5795429,2026-08-28T19:00:00.000Z,2,Premier League,Crystal Palace,9826,Manchester City,8456,Fouls committed,8,11
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Yellow cards,0,4
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Red cards,0,0
+5795430,2026-08-30T13:00:00.000Z,2,Premier League,Leeds United,8463,Brentford,9937,Fouls committed,5,13
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Yellow cards,4,2
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Red cards,0,0
+5795431,2026-08-29T11:30:00.000Z,2,Premier League,Liverpool,8650,Nottingham Forest,10203,Fouls committed,13,10
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Yellow cards,1,3
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Red cards,0,0
+5795432,2026-08-30T15:30:00.000Z,2,Premier League,Manchester United,10260,Ipswich Town,9902,Fouls committed,7,12
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Yellow cards,0,2
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Red cards,0,0
+5795433,2026-08-30T13:00:00.000Z,2,Premier League,Sunderland,8472,Fulham,9879,Fouls committed,10,15
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Yellow cards,1,2
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Red cards,0,0
+5795434,2026-08-29T16:30:00.000Z,2,Premier League,Tottenham Hotspur,8586,Newcastle United,10261,Fouls committed,15,9
+5795435,2026-09-06T15:30:00.000Z,3,Premier League,Arsenal,9825,Chelsea,8455,Yellow cards,2,4
+5795435,2026-09-06T15:30:00.000Z,3,Premier League,Arsenal,9825,Chelsea,8455,Red cards,0,0
+5795435,2026-09-06T15:30:00.000Z,3,Premier League,Arsenal,9825,Chelsea,8455,Fouls committed,13,16
+5795436,2026-09-05T14:00:00.000Z,3,Premier League,Brentford,9937,Sunderland,8472,Yellow cards,3,2
+5795436,2026-09-05T14:00:00.000Z,3,Premier League,Brentford,9937,Sunderland,8472,Red cards,0,0
+5795436,2026-09-05T14:00:00.000Z,3,Premier League,Brentford,9937,Sunderland,8472,Fouls committed,19,9
+5795437,2026-09-05T14:00:00.000Z,3,Premier League,Brighton & Hove Albion,10204,Leeds United,8463,Yellow cards,3,3
+5795437,2026-09-05T14:00:00.000Z,3,Premier League,Brighton & Hove Albion,10204,Leeds United,8463,Red cards,0,0
+5795437,2026-09-05T14:00:00.000Z,3,Premier League,Brighton & Hove Albion,10204,Leeds United,8463,Fouls committed,13,16
+5795438,2026-09-06T13:00:00.000Z,3,Premier League,Everton,8668,Manchester United,10260,Yellow cards,3,3
+5795438,2026-09-06T13:00:00.000Z,3,Premier League,Everton,8668,Manchester United,10260,Red cards,0,0
+5795438,2026-09-06T13:00:00.000Z,3,Premier League,Everton,8668,Manchester United,10260,Fouls committed,7,11
+5795439,2026-09-05T14:00:00.000Z,3,Premier League,Fulham,9879,Crystal Palace,9826,Yellow cards,0,0
+5795439,2026-09-05T14:00:00.000Z,3,Premier League,Fulham,9879,Crystal Palace,9826,Red cards,0,0
+5795439,2026-09-05T14:00:00.000Z,3,Premier League,Fulham,9879,Crystal Palace,9826,Fouls committed,6,7
+5795440,2026-09-05T16:30:00.000Z,3,Premier League,Hull City,8667,Aston Villa,10252,Yellow cards,2,0
+5795440,2026-09-05T16:30:00.000Z,3,Premier League,Hull City,8667,Aston Villa,10252,Red cards,0,0
+5795440,2026-09-05T16:30:00.000Z,3,Premier League,Hull City,8667,Aston Villa,10252,Fouls committed,10,5
+5795441,2026-09-04T19:00:00.000Z,3,Premier League,Ipswich Town,9902,Liverpool,8650,Yellow cards,1,3
+5795441,2026-09-04T19:00:00.000Z,3,Premier League,Ipswich Town,9902,Liverpool,8650,Red cards,0,0
+5795441,2026-09-04T19:00:00.000Z,3,Premier League,Ipswich Town,9902,Liverpool,8650,Fouls committed,6,13
+5795442,2026-09-05T14:00:00.000Z,3,Premier League,Manchester City,8456,Coventry City,8669,Yellow cards,1,2
+5795442,2026-09-05T14:00:00.000Z,3,Premier League,Manchester City,8456,Coventry City,8669,Red cards,0,0
+5795442,2026-09-05T14:00:00.000Z,3,Premier League,Manchester City,8456,Coventry City,8669,Fouls committed,7,17
+5795443,2026-09-05T11:30:00.000Z,3,Premier League,Newcastle United,10261,AFC Bournemouth,8678,Yellow cards,2,3
+5795443,2026-09-05T11:30:00.000Z,3,Premier League,Newcastle United,10261,AFC Bournemouth,8678,Red cards,0,0
+5795443,2026-09-05T11:30:00.000Z,3,Premier League,Newcastle United,10261,AFC Bournemouth,8678,Fouls committed,19,17
+5795444,2026-09-05T14:00:00.000Z,3,Premier League,Nottingham Forest,10203,Tottenham Hotspur,8586,Yellow cards,2,2
+5795444,2026-09-05T14:00:00.000Z,3,Premier League,Nottingham Forest,10203,Tottenham Hotspur,8586,Red cards,0,0
+5795444,2026-09-05T14:00:00.000Z,3,Premier League,Nottingham Forest,10203,Tottenham Hotspur,8586,Fouls committed,22,14
+5795445,2026-09-12T14:00:00.000Z,4,Premier League,AFC Bournemouth,8678,Brentford,9937,Yellow cards,5,1
+5795445,2026-09-12T14:00:00.000Z,4,Premier League,AFC Bournemouth,8678,Brentford,9937,Red cards,0,0
+5795445,2026-09-12T14:00:00.000Z,4,Premier League,AFC Bournemouth,8678,Brentford,9937,Fouls committed,10,13
+5795446,2026-09-12T14:00:00.000Z,4,Premier League,Aston Villa,10252,Nottingham Forest,10203,Yellow cards,2,5
+5795446,2026-09-12T14:00:00.000Z,4,Premier League,Aston Villa,10252,Nottingham Forest,10203,Red cards,0,0
+5795446,2026-09-12T14:00:00.000Z,4,Premier League,Aston Villa,10252,Nottingham Forest,10203,Fouls committed,11,16
+5795447,2026-09-12T14:00:00.000Z,4,Premier League,Chelsea,8455,Hull City,8667,Yellow cards,1,5
+5795447,2026-09-12T14:00:00.000Z,4,Premier League,Chelsea,8455,Hull City,8667,Red cards,0,0
+5795447,2026-09-12T14:00:00.000Z,4,Premier League,Chelsea,8455,Hull City,8667,Fouls committed,7,12
+5795448,2026-09-13T13:00:00.000Z,4,Premier League,Coventry City,8669,Brighton & Hove Albion,10204,Yellow cards,0,0
+5795448,2026-09-13T13:00:00.000Z,4,Premier League,Coventry City,8669,Brighton & Hove Albion,10204,Red cards,1,0
+5795448,2026-09-13T13:00:00.000Z,4,Premier League,Coventry City,8669,Brighton & Hove Albion,10204,Fouls committed,9,15
+5795449,2026-09-12T14:00:00.000Z,4,Premier League,Crystal Palace,9826,Ipswich Town,9902,Yellow cards,1,4
+5795449,2026-09-12T14:00:00.000Z,4,Premier League,Crystal Palace,9826,Ipswich Town,9902,Red cards,1,0
+5795449,2026-09-12T14:00:00.000Z,4,Premier League,Crystal Palace,9826,Ipswich Town,9902,Fouls committed,6,16
+5795450,2026-09-14T19:00:00.000Z,4,Premier League,Leeds United,8463,Newcastle United,10261,Yellow cards,1,2
+5795450,2026-09-14T19:00:00.000Z,4,Premier League,Leeds United,8463,Newcastle United,10261,Red cards,0,0
+5795450,2026-09-14T19:00:00.000Z,4,Premier League,Leeds United,8463,Newcastle United,10261,Fouls committed,8,13
+5795451,2026-09-12T14:00:00.000Z,4,Premier League,Liverpool,8650,Fulham,9879,Yellow cards,0,1
+5795451,2026-09-12T14:00:00.000Z,4,Premier League,Liverpool,8650,Fulham,9879,Red cards,0,0
+5795451,2026-09-12T14:00:00.000Z,4,Premier League,Liverpool,8650,Fulham,9879,Fouls committed,11,8
+5795452,2026-09-13T15:30:00.000Z,4,Premier League,Manchester United,10260,Manchester City,8456,Yellow cards,1,2
+5795452,2026-09-13T15:30:00.000Z,4,Premier League,Manchester United,10260,Manchester City,8456,Red cards,0,1
+5795452,2026-09-13T15:30:00.000Z,4,Premier League,Manchester United,10260,Manchester City,8456,Fouls committed,17,10
+5795453,2026-09-12T19:00:00.000Z,4,Premier League,Sunderland,8472,Arsenal,9825,Yellow cards,4,2
+5795453,2026-09-12T19:00:00.000Z,4,Premier League,Sunderland,8472,Arsenal,9825,Red cards,1,0
+5795453,2026-09-12T19:00:00.000Z,4,Premier League,Sunderland,8472,Arsenal,9825,Fouls committed,18,11
+5795454,2026-09-12T16:30:00.000Z,4,Premier League,Tottenham Hotspur,8586,Everton,8668,Yellow cards,0,2
+5795454,2026-09-12T16:30:00.000Z,4,Premier League,Tottenham Hotspur,8586,Everton,8668,Red cards,0,0
+5795454,2026-09-12T16:30:00.000Z,4,Premier League,Tottenham Hotspur,8586,Everton,8668,Fouls committed,14,8
+5795455,2026-09-20T13:00:00.000Z,5,Premier League,AFC Bournemouth,8678,Liverpool,8650,Yellow cards,1,2
+5795455,2026-09-20T13:00:00.000Z,5,Premier League,AFC Bournemouth,8678,Liverpool,8650,Red cards,0,0
+5795455,2026-09-20T13:00:00.000Z,5,Premier League,AFC Bournemouth,8678,Liverpool,8650,Fouls committed,11,13
+5795456,2026-09-18T19:00:00.000Z,5,Premier League,Brentford,9937,Chelsea,8455,Yellow cards,2,0
+5795456,2026-09-18T19:00:00.000Z,5,Premier League,Brentford,9937,Chelsea,8455,Red cards,0,0
+5795456,2026-09-18T19:00:00.000Z,5,Premier League,Brentford,9937,Chelsea,8455,Fouls committed,10,7
+5795457,2026-09-19T14:00:00.000Z,5,Premier League,Brighton & Hove Albion,10204,Arsenal,9825,Yellow cards,4,1
+5795457,2026-09-19T14:00:00.000Z,5,Premier League,Brighton & Hove Albion,10204,Arsenal,9825,Red cards,0,0
+5795457,2026-09-19T14:00:00.000Z,5,Premier League,Brighton & Hove Albion,10204,Arsenal,9825,Fouls committed,13,11
+5795458,2026-09-19T14:00:00.000Z,5,Premier League,Everton,8668,Ipswich Town,9902,Yellow cards,2,1
+5795458,2026-09-19T14:00:00.000Z,5,Premier League,Everton,8668,Ipswich Town,9902,Red cards,0,1
+5795458,2026-09-19T14:00:00.000Z,5,Premier League,Everton,8668,Ipswich Town,9902,Fouls committed,6,12
+5795459,2026-09-20T15:30:00.000Z,5,Premier League,Fulham,9879,Manchester United,10260,Yellow cards,3,0
+5795459,2026-09-20T15:30:00.000Z,5,Premier League,Fulham,9879,Manchester United,10260,Red cards,0,0
+5795459,2026-09-20T15:30:00.000Z,5,Premier League,Fulham,9879,Manchester United,10260,Fouls committed,9,5
+5795460,2026-09-20T13:00:00.000Z,5,Premier League,Leeds United,8463,Crystal Palace,9826,Yellow cards,2,3
+5795460,2026-09-20T13:00:00.000Z,5,Premier League,Leeds United,8463,Crystal Palace,9826,Red cards,0,0
+5795460,2026-09-20T13:00:00.000Z,5,Premier League,Leeds United,8463,Crystal Palace,9826,Fouls committed,10,12
+5795461,2026-09-20T13:00:00.000Z,5,Premier League,Manchester City,8456,Sunderland,8472,Yellow cards,0,1
+5795461,2026-09-20T13:00:00.000Z,5,Premier League,Manchester City,8456,Sunderland,8472,Red cards,0,0
+5795461,2026-09-20T13:00:00.000Z,5,Premier League,Manchester City,8456,Sunderland,8472,Fouls committed,14,14
+5795462,2026-09-19T14:00:00.000Z,5,Premier League,Newcastle United,10261,Hull City,8667,Yellow cards,1,5
+5795462,2026-09-19T14:00:00.000Z,5,Premier League,Newcastle United,10261,Hull City,8667,Red cards,0,0
+5795462,2026-09-19T14:00:00.000Z,5,Premier League,Newcastle United,10261,Hull City,8667,Fouls committed,4,10
+5795463,2026-09-19T16:30:00.000Z,5,Premier League,Nottingham Forest,10203,Coventry City,8669,Yellow cards,2,0
+5795463,2026-09-19T16:30:00.000Z,5,Premier League,Nottingham Forest,10203,Coventry City,8669,Red cards,0,0
+5795463,2026-09-19T16:30:00.000Z,5,Premier League,Nottingham Forest,10203,Coventry City,8669,Fouls committed,12,10
+5795464,2026-09-19T11:30:00.000Z,5,Premier League,Tottenham Hotspur,8586,Aston Villa,10252,Yellow cards,1,2
+5795464,2026-09-19T11:30:00.000Z,5,Premier League,Tottenham Hotspur,8586,Aston Villa,10252,Red cards,0,0
+5795464,2026-09-19T11:30:00.000Z,5,Premier League,Tottenham Hotspur,8586,Aston Villa,10252,Fouls committed,9,13
+5795465,2026-10-10T11:30:00.000Z,6,Premier League,Arsenal,9825,Leeds United,8463,Yellow cards,1,4
+5795465,2026-10-10T11:30:00.000Z,6,Premier League,Arsenal,9825,Leeds United,8463,Red cards,0,0
+5795465,2026-10-10T11:30:00.000Z,6,Premier League,Arsenal,9825,Leeds United,8463,Fouls committed,12,20
+5795466,2026-10-10T14:00:00.000Z,6,Premier League,Aston Villa,10252,Brentford,9937,Yellow cards,2,5
+5795466,2026-10-10T14:00:00.000Z,6,Premier League,Aston Villa,10252,Brentford,9937,Red cards,0,0
+5795466,2026-10-10T14:00:00.000Z,6,Premier League,Aston Villa,10252,Brentford,9937,Fouls committed,7,24
+5795467,2026-10-10T14:00:00.000Z,6,Premier League,Chelsea,8455,AFC Bournemouth,8678,Yellow cards,0,4
+5795467,2026-10-10T14:00:00.000Z,6,Premier League,Chelsea,8455,AFC Bournemouth,8678,Red cards,0,0
+5795467,2026-10-10T14:00:00.000Z,6,Premier League,Chelsea,8455,AFC Bournemouth,8678,Fouls committed,7,15
+5795468,2026-10-12T19:00:00.000Z,6,Premier League,Coventry City,8669,Newcastle United,10261,Yellow cards,1,1
+5795468,2026-10-12T19:00:00.000Z,6,Premier League,Coventry City,8669,Newcastle United,10261,Red cards,0,0
+5795468,2026-10-12T19:00:00.000Z,6,Premier League,Coventry City,8669,Newcastle United,10261,Fouls committed,3,10
+5795469,2026-10-11T13:00:00.000Z,6,Premier League,Crystal Palace,9826,Nottingham Forest,10203,Yellow cards,2,2
+5795469,2026-10-11T13:00:00.000Z,6,Premier League,Crystal Palace,9826,Nottingham Forest,10203,Red cards,0,0
+5795469,2026-10-11T13:00:00.000Z,6,Premier League,Crystal Palace,9826,Nottingham Forest,10203,Fouls committed,11,10
+5795470,2026-10-11T13:00:00.000Z,6,Premier League,Hull City,8667,Everton,8668,Yellow cards,2,0
+5795470,2026-10-11T13:00:00.000Z,6,Premier League,Hull City,8667,Everton,8668,Red cards,0,0
+5795470,2026-10-11T13:00:00.000Z,6,Premier League,Hull City,8667,Everton,8668,Fouls committed,15,4
+5795471,2026-10-10T14:00:00.000Z,6,Premier League,Ipswich Town,9902,Fulham,9879,Yellow cards,2,4
+5795471,2026-10-10T14:00:00.000Z,6,Premier League,Ipswich Town,9902,Fulham,9879,Red cards,0,0
+5795471,2026-10-10T14:00:00.000Z,6,Premier League,Ipswich Town,9902,Fulham,9879,Fouls committed,8,10
+5795472,2026-10-11T15:30:00.000Z,6,Premier League,Liverpool,8650,Manchester City,8456,Yellow cards,2,2
+5795472,2026-10-11T15:30:00.000Z,6,Premier League,Liverpool,8650,Manchester City,8456,Red cards,1,0
+5795472,2026-10-11T15:30:00.000Z,6,Premier League,Liverpool,8650,Manchester City,8456,Fouls committed,19,14
+5795473,2026-10-10T16:30:00.000Z,6,Premier League,Manchester United,10260,Tottenham Hotspur,8586,Yellow cards,4,3
+5795473,2026-10-10T16:30:00.000Z,6,Premier League,Manchester United,10260,Tottenham Hotspur,8586,Red cards,0,1
+5795473,2026-10-10T16:30:00.000Z,6,Premier League,Manchester United,10260,Tottenham Hotspur,8586,Fouls committed,13,16
+5795474,2026-10-10T14:00:00.000Z,6,Premier League,Sunderland,8472,Brighton & Hove Albion,10204,Yellow cards,0,1
+5795474,2026-10-10T14:00:00.000Z,6,Premier League,Sunderland,8472,Brighton & Hove Albion,10204,Red cards,0,1
+5795474,2026-10-10T14:00:00.000Z,6,Premier League,Sunderland,8472,Brighton & Hove Albion,10204,Fouls committed,8,12
+5795475,2026-10-18T13:00:00.000Z,7,Premier League,AFC Bournemouth,8678,Sunderland,8472,Yellow cards,3,2
+5795475,2026-10-18T13:00:00.000Z,7,Premier League,AFC Bournemouth,8678,Sunderland,8472,Red cards,0,1
+5795475,2026-10-18T13:00:00.000Z,7,Premier League,AFC Bournemouth,8678,Sunderland,8472,Fouls committed,16,7
+5795476,2026-10-17T14:00:00.000Z,7,Premier League,Brentford,9937,Liverpool,8650,Yellow cards,2,3
+5795476,2026-10-17T14:00:00.000Z,7,Premier League,Brentford,9937,Liverpool,8650,Red cards,2,0
+5795476,2026-10-17T14:00:00.000Z,7,Premier League,Brentford,9937,Liverpool,8650,Fouls committed,7,13
+5795477,2026-10-18T13:00:00.000Z,7,Premier League,Brighton & Hove Albion,10204,Crystal Palace,9826,Yellow cards,2,1
+5795477,2026-10-18T13:00:00.000Z,7,Premier League,Brighton & Hove Albion,10204,Crystal Palace,9826,Red cards,0,0
+5795477,2026-10-18T13:00:00.000Z,7,Premier League,Brighton & Hove Albion,10204,Crystal Palace,9826,Fouls committed,13,11
+5795478,2026-10-17T11:30:00.000Z,7,Premier League,Everton,8668,Chelsea,8455,Yellow cards,3,4
+5795478,2026-10-17T11:30:00.000Z,7,Premier League,Everton,8668,Chelsea,8455,Red cards,0,0
+5795478,2026-10-17T11:30:00.000Z,7,Premier League,Everton,8668,Chelsea,8455,Fouls committed,8,15
+5795479,2026-10-17T14:00:00.000Z,7,Premier League,Fulham,9879,Hull City,8667,Yellow cards,2,2
+5795479,2026-10-17T14:00:00.000Z,7,Premier League,Fulham,9879,Hull City,8667,Red cards,1,0
+5795479,2026-10-17T14:00:00.000Z,7,Premier League,Fulham,9879,Hull City,8667,Fouls committed,13,11
+5795480,2026-10-18T13:00:00.000Z,7,Premier League,Leeds United,8463,Manchester United,10260,Yellow cards,2,2
+5795480,2026-10-18T13:00:00.000Z,7,Premier League,Leeds United,8463,Manchester United,10260,Red cards,0,0
+5795480,2026-10-18T13:00:00.000Z,7,Premier League,Leeds United,8463,Manchester United,10260,Fouls committed,16,5
+5795481,2026-10-17T14:00:00.000Z,7,Premier League,Manchester City,8456,Ipswich Town,9902,Yellow cards,1,2
+5795481,2026-10-17T14:00:00.000Z,7,Premier League,Manchester City,8456,Ipswich Town,9902,Red cards,0,0
+5795481,2026-10-17T14:00:00.000Z,7,Premier League,Manchester City,8456,Ipswich Town,9902,Fouls committed,8,16
+5795482,2026-10-17T16:30:00.000Z,7,Premier League,Newcastle United,10261,Aston Villa,10252,Yellow cards,6,2
+5795482,2026-10-17T16:30:00.000Z,7,Premier League,Newcastle United,10261,Aston Villa,10252,Red cards,0,0
+5795482,2026-10-17T16:30:00.000Z,7,Premier League,Newcastle United,10261,Aston Villa,10252,Fouls committed,14,11
+5795483,2026-10-18T15:30:00.000Z,7,Premier League,Nottingham Forest,10203,Arsenal,9825,Yellow cards,1,1
+5795483,2026-10-18T15:30:00.000Z,7,Premier League,Nottingham Forest,10203,Arsenal,9825,Red cards,0,0
+5795483,2026-10-18T15:30:00.000Z,7,Premier League,Nottingham Forest,10203,Arsenal,9825,Fouls committed,14,8
+5795484,2026-10-19T19:00:00.000Z,7,Premier League,Tottenham Hotspur,8586,Coventry City,8669,Yellow cards,1,3
+5795484,2026-10-19T19:00:00.000Z,7,Premier League,Tottenham Hotspur,8586,Coventry City,8669,Red cards,0,0
+5795484,2026-10-19T19:00:00.000Z,7,Premier League,Tottenham Hotspur,8586,Coventry City,8669,Fouls committed,15,14
+5795491,2026-10-23T19:00:00.000Z,8,Premier League,Ipswich Town,9902,Nottingham Forest,10203,Yellow cards,1,1
+5795491,2026-10-23T19:00:00.000Z,8,Premier League,Ipswich Town,9902,Nottingham Forest,10203,Red cards,0,0
+5795491,2026-10-23T19:00:00.000Z,8,Premier League,Ipswich Town,9902,Nottingham Forest,10203,Fouls committed,9,11
