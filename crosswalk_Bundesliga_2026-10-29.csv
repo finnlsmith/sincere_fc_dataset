@@ -1,0 +1,1312 @@
+source,source_native_id,source_name,team,canonical_player_id,matched_to_master,match_via
+opta,657512,Abdoul Koné,RB Leipzig,657512,True,id_map
+opta,575415,Adam Daghim,Hoffenheim,575415,True,id_map
+opta,467008,Adam Hlozek,Hoffenheim,467008,True,id_map
+opta,465676,Adil Aouchiche,Schalke 04,465676,True,id_map
+opta,549985,Adrian Gantenbein,Schalke 04,549985,True,id_map
+opta,551191,Afonso Moreira,Bayer Leverkusen,551191,True,id_map
+opta,494779,Albert Grønbæk,Hamburger SV,494779,True,id_map
+opta,437742,Albert Sambi Lokonga,Hamburger SV,437742,True,id_map
+opta,514116,Albian Hajdari,Hoffenheim,514116,True,id_map
+opta,178871,Aleix García,Bayer Leverkusen,178871,True,id_map
+opta,515675,Aleksandar Pavlovic,Bayern Munich,515675,True,id_map
+opta,226858,Alessio Castro-Montes,Koln,226858,True,id_map
+opta,442305,Alexander Prass,Hoffenheim,442305,True,id_map
+opta,657978,Alexander Røssing-Lelesiit,Hamburger SV,657978,True,id_map
+opta,94196,Alexander Schwolow,Mainz,94196,True,id_map
+opta,218357,Alexis Claude-Maurice,Augsburg,218357,True,id_map
+opta,575397,Aljoscha Kemlein,Union Berlin,575397,True,id_map
+opta,225059,Alphonso Davies,Bayern Munich,225059,True,id_map
+opta,213459,Amara Condé,Elversberg,213459,True,id_map
+opta,487968,Ameen Al-Dakhil,Stuttgart,487968,True,id_map
+opta,436217,Amos Pieper,Bremen,436217,True,id_map
+opta,68582,Andrej Kramaric,Hoffenheim,68582,True,id_map
+opta,620473,Andrija Maksimovic,RB Leipzig,620473,True,id_map
+opta,457734,András Schäfer,Union Berlin,457734,True,id_map
+opta,437922,Angelo Stiller,Stuttgart,437922,True,id_map
+opta,492931,Ansgar Knauff,Eintracht Frankfurt,492931,True,id_map
+opta,232240,Anthony Caci,Mainz,232240,True,id_map
+opta,513432,Anton Kade,Augsburg,513432,True,id_map
+opta,538980,Antonio Nusa,RB Leipzig,538980,True,id_map
+opta,505201,Arijon Ibrahimovic,Augsburg,505201,True,id_map
+opta,566438,Arthur,Bremen,566438,True,id_map
+opta,578612,Arthur Vermeeren,RB Leipzig,578612,True,id_map
+opta,685741,Assad Kotya-Fofana,Koln,685741,True,id_map
+opta,569015,Assan Ouédraogo,RB Leipzig,569015,True,id_map
+opta,428181,Atakan Karazor,Stuttgart,428181,True,id_map
+opta,702409,Ayoube Amaimouni-Echghouyab,Eintracht Frankfurt,702409,True,id_map
+opta,492949,Badredine Bouanani,Stuttgart,492949,True,id_map
+opta,228316,Bakery Jatta,Hamburger SV,228316,True,id_map
+opta,513565,Bambasé Conté,Hoffenheim,513565,True,id_map
+opta,704138,Bara Sapoko Ndiaye,Bayern Munich,704138,True,id_map
+opta,465993,Benedict Hollerbach,Mainz,465993,True,id_map
+opta,180167,Benjamin Henrichs,RB Leipzig,180167,True,id_map
+opta,547313,Berkay Yilmaz,Freiburg,547313,True,id_map
+opta,209362,Bernardo,Hoffenheim,209362,True,id_map
+opta,513527,Bilal El Khannouss,Stuttgart,513527,True,id_map
+opta,546178,Bilal Nadir,Hamburger SV,546178,True,id_map
+opta,218364,Borna Sosa,Koln,218364,True,id_map
+opta,513433,Brajan Gruda,RB Leipzig,513433,True,id_map
+opta,588935,Bruno Ogbus,Freiburg,588935,True,id_map
+opta,244591,Bryan Lasme,Schalke 04,opta_new_244591,False,
+opta,695474,Cajetan Lenz,Hoffenheim,695474,True,id_map
+opta,585070,Calvin Brackelmann,Augsburg,585070,True,id_map
+opta,554087,Can Uzun,Eintracht Frankfurt,554087,True,id_map
+opta,478912,Carney Chukwuemeka,Borussia Dortmund,478912,True,id_map
+opta,657171,Cassiano Kiala,Bayern Munich,657171,True,master
+opta,468657,Castello Lukeba,RB Leipzig,468657,True,id_map
+opta,198383,Cedric Itten,Bremen,198383,True,id_map
+opta,592984,Chema Andrés,Stuttgart,592984,True,id_map
+opta,442218,Chris Führich,Stuttgart,442218,True,id_map
+opta,465524,Chrislain Matsima,Augsburg,465524,True,id_map
+opta,119382,Christian Günter,Freiburg,119382,True,id_map
+opta,683068,Christian Kofane,Bayer Leverkusen,683068,True,id_map
+opta,454831,Christoph Baumgartner,RB Leipzig,454831,True,master
+opta,213198,Christopher Nkunku,RB Leipzig,213198,True,id_map
+opta,62422,Christopher Trimmel,Union Berlin,62422,True,id_map
+opta,587669,Chuki,Bremen,587669,True,id_map
+opta,629188,Clemens Lippmann,Paderborn,629188,True,id_map
+opta,549407,Cole Campbell,Elversberg,549407,True,id_map
+opta,621481,Conrad Harder,RB Leipzig,621481,True,id_map
+opta,628884,Cyriaque Irié,Freiburg,628884,True,id_map
+opta,209293,Daiki Hashioka,Borussia Monchengladbach,209293,True,id_map
+opta,584649,Daniel Elfadli,Hamburger SV,584649,True,id_map
+opta,141021,Daniel Heuer Fernandes,Hamburger SV,141021,True,id_map
+opta,521052,Daniel Svensson,Borussia Dortmund,521052,True,id_map
+opta,92295,Danny da Costa,Mainz,92295,True,id_map
+opta,545189,Dariusz Stalmach,Bremen,545189,True,id_map
+opta,627809,Darwin Soylu,Bremen,627809,True,id_map
+opta,493326,David Herold,Borussia Monchengladbach,493326,True,id_map
+opta,589018,David Mokwa,Elversberg,589018,True,id_map
+opta,497949,David Møller Wolfe,Hamburger SV,497949,True,id_map
+opta,243309,David Raum,RB Leipzig,243309,True,id_map
+opta,614770,David Santos Daiber,Bayern Munich,614770,True,master
+opta,199661,Dayot Upamecano,Bayern Munich,199661,True,id_map
+opta,429631,Dejan Ljubicic,Schalke 04,429631,True,id_map
+opta,450434,Deniz Undav,Stuttgart,450434,True,id_map
+opta,640659,Deniz Zeitler,Paderborn,640659,True,id_map
+opta,516952,Dennis Seimen,Stuttgart,516952,True,id_map
+opta,429524,Derrick Köhn,Union Berlin,429524,True,id_map
+opta,587831,Derry Scherhant,Freiburg,587831,True,id_map
+opta,114549,Dominik Kohr,Mainz,114549,True,id_map
+opta,522019,Dzenan Pejcinovic,Stuttgart,522019,True,id_map
+opta,42544,Edin Dzeko,Schalke 04,42544,True,id_map
+opta,424969,Edmond Tapsoba,Bayer Leverkusen,424969,True,id_map
+opta,547216,Elias Baum,Eintracht Frankfurt,547216,True,id_map
+opta,195430,Ellyes Skhiri,Koln,195430,True,id_map
+opta,233581,Emmanuel Latte Lath,Union Berlin,233581,True,id_map
+opta,543919,Enzo Leopold,Borussia Monchengladbach,543919,True,id_map
+opta,677449,Enzo dos Santos,Borussia Dortmund,opta_new_677449,False,
+opta,481237,Equi Fernández,Bayer Leverkusen,481237,True,id_map
+opta,513417,Eren Dinkçi,Bremen,513417,True,id_map
+opta,487868,Eric Martel,Mainz,487868,True,id_map
+opta,429256,Ermedin Demirovic,Stuttgart,429256,True,id_map
+opta,499175,Ethan Nwaneri,Borussia Dortmund,499175,True,id_map
+opta,558522,Ezechiel Banzuzi,RB Leipzig,558522,True,id_map
+opta,179612,Fabian Bredlow,Stuttgart,179612,True,id_map
+opta,449787,Fabian Rieder,Augsburg,449787,True,id_map
+opta,544822,Fabio Chiarodia,Borussia Monchengladbach,544822,True,id_map
+opta,515169,Fabio Gruber,Mainz,515169,True,id_map
+opta,224868,Facundo Medina,Bayer Leverkusen,224868,True,id_map
+opta,573379,Farès Chaïbi,Eintracht Frankfurt,573379,True,id_map
+opta,225354,Felix Götze,Paderborn,225354,True,id_map
+opta,524093,Felix Keidel,Elversberg,524093,True,id_map
+opta,219265,Felix Nmecha,Borussia Dortmund,219265,True,id_map
+opta,221693,Felix Uduokhai,Union Berlin,221693,True,id_map
+opta,571642,Filippo Mane,Borussia Dortmund,571642,True,id_map
+opta,218361,Finn Dahmen,Augsburg,218361,True,id_map
+opta,554088,Finn Jeltsch,Stuttgart,554088,True,id_map
+opta,180177,Finn Porath,Schalke 04,opta_new_180177,False,
+opta,561060,Fisnik Asllani,Hoffenheim,561060,True,id_map
+opta,205823,Florian Le Joncour,Elversberg,205823,True,id_map
+opta,229231,Florian Neuhaus,Borussia Monchengladbach,229231,True,id_map
+opta,593262,Francis Onyeka,Elversberg,593262,True,id_map
+opta,174655,Franck Honorat,Borussia Monchengladbach,174655,True,id_map
+opta,89628,Frederik Rønnow,Union Berlin,89628,True,id_map
+opta,625932,Frederik Schmahl,Elversberg,625932,True,id_map
+opta,647875,Fritz Fleck,Borussia Monchengladbach,647875,True,id_map
+opta,449988,Fábio Silva,Borussia Dortmund,449988,True,id_map
+opta,438098,Fábio Vieira,Hamburger SV,438098,True,id_map
+opta,508347,Gabriel Vidovic,Paderborn,508347,True,id_map
+opta,477510,Giannis Konstantelias,Borussia Dortmund,477510,True,id_map
+opta,229670,Gideon Mensah,Koln,229670,True,id_map
+opta,185513,Gregor Kobel,Borussia Dortmund,185513,True,id_map
+opta,209184,Grischa Prömel,Stuttgart,209184,True,id_map
+opta,503720,Guéla Doué,Bayer Leverkusen,503720,True,id_map
+opta,437757,Han-Noah Massengo,Augsburg,437757,True,id_map
+opta,78830,Harry Kane,Bayern Munich,78830,True,id_map
+opta,240737,Hasan Kuruçay,Schalke 04,240737,True,id_map
+opta,519073,Hennes Behrens,Augsburg,519073,True,id_map
+opta,248811,Hiroki Ito,Bayern Munich,248811,True,id_map
+opta,551048,Hugo Bolin,Borussia Monchengladbach,551048,True,id_map
+opta,184754,Hwang Hee-Chan,Schalke 04,184754,True,id_map
+opta,655694,Iaia Danfa,Borussia Monchengladbach,655694,True,id_map
+opta,570052,Ibrahim Maza,Bayer Leverkusen,570052,True,id_map
+opta,513431,Igor Matanovic,Freiburg,513431,True,id_map
+opta,430502,Imad Rondic,Koln,430502,True,id_map
+opta,423045,Immanuël Pherai,Hamburger SV,423045,True,id_map
+opta,193806,Isac Lidberg,Borussia Monchengladbach,193806,True,id_map
+opta,492963,Ismael Saibari,Bayern Munich,492963,True,id_map
+opta,554194,Jahmai Simpson-Pusey,Koln,554194,True,id_map
+opta,244857,Jamal Musiala,Bayern Munich,244857,True,id_map
+opta,488677,Jamie Leweling,Stuttgart,488677,True,id_map
+opta,164537,Jan Gyamerah,Elversberg,164537,True,id_map
+opta,626569,Jan Leszczynski,Borussia Monchengladbach,626569,True,id_map
+opta,470311,Jan Thielmann,Koln,470311,True,id_map
+opta,191906,Janik Bachmann,Schalke 04,191906,True,id_map
+opta,111453,Janik Haberer,Union Berlin,111453,True,id_map
+opta,626599,Jano ter Horst,Paderborn,626599,True,id_map
+opta,441428,Jarell Quansah,Bayer Leverkusen,441428,True,id_map
+opta,687621,Jason Bissi Mouelle,Hamburger SV,opta_new_687621,False,
+opta,587982,Jean-Mattéo Bahoya,Eintracht Frankfurt,587982,True,id_map
+opta,553935,Jean-Paul N'Diaye,Schalke 04,opta_new_553935,False,
+opta,565992,Jeanuël Belocian,Bayer Leverkusen,565992,True,id_map
+opta,428785,Jeff Chabot,Stuttgart,428785,True,id_map
+opta,93683,Jeffrey Gouweleeuw,Augsburg,93683,True,id_map
+opta,700073,Jeremiaha Maluze,Eintracht Frankfurt,700073,True,id_map
+opta,592891,Joane Gadou,Borussia Dortmund,592891,True,id_map
+opta,519322,Jobe Bellingham,Borussia Dortmund,519322,True,id_map
+opta,427426,Joe Scally,Borussia Monchengladbach,427426,True,id_map
+opta,231653,Joey Veerman,Borussia Dortmund,231653,True,id_map
+opta,519638,Johan Bakayoko,RB Leipzig,519638,True,id_map
+opta,627290,Jonah Sticker,Paderborn,627290,True,id_map
+opta,118876,Jonas Hofmann,Bayer Leverkusen,118876,True,id_map
+opta,494589,Jonas Urbig,Bayern Munich,494589,True,id_map
+opta,225485,Jonathan Burkardt,Eintracht Frankfurt,225485,True,id_map
+opta,685509,Jonathan Friemel,Koln,685509,True,id_map
+opta,164454,Jonathan Tah,Bayern Munich,164454,True,id_map
+opta,244761,Jordan Torunarigha,Hamburger SV,244761,True,id_map
+opta,543921,Jordy Makengo,Freiburg,543921,True,id_map
+opta,438957,Josha Vagnoman,Stuttgart,438957,True,id_map
+opta,165687,Joshua Kimmich,Bayern Munich,165687,True,id_map
+opta,718067,Josiah Uwakhonye,Borussia Monchengladbach,opta_new_718067,False,
+opta,210791,Josip Juranovic,Union Berlin,210791,True,id_map
+opta,437921,Josip Stanisic,Bayern Munich,437921,True,id_map
+opta,512524,Joël Schmied,Koln,512524,True,id_map
+opta,213783,Julian Ryerson,Borussia Dortmund,213783,True,id_map
+opta,518758,Julián Malatini,Bremen,518758,True,id_map
+opta,632880,Juma Bah,Augsburg,632880,True,id_map
+opta,436454,Junior Adamu,Schalke 04,436454,True,id_map
+opta,438309,Junior Dina Ebimbe,Schalke 04,438309,True,id_map
+opta,565380,Justin Njinmah,Bremen,565380,True,id_map
+opta,627675,Kacper Potulski,Mainz,627675,True,id_map
+opta,567062,Kaishu Sano,Mainz,567062,True,id_map
+opta,463748,Karl Hein,Bremen,463748,True,id_map
+opta,486419,Kastriot Imeri,Union Berlin,486419,True,id_map
+opta,685487,Kauã Prates,Borussia Dortmund,685487,True,id_map
+opta,587165,Keisuke Goto,Freiburg,587165,True,id_map
+opta,623214,Keita Kosugi,Eintracht Frankfurt,623214,True,id_map
+opta,165172,Kenan Karaman,Schalke 04,165172,True,id_map
+opta,579916,Kenny Quetant,Bremen,579916,True,master_transfer
+opta,193228,Kevin Diks,Borussia Monchengladbach,193228,True,id_map
+opta,93293,Kevin Stöger,Borussia Monchengladbach,93293,True,id_map
+opta,249621,Kim Min-Jae,Bayern Munich,249621,True,id_map
+opta,210906,Ko Itakura,Borussia Monchengladbach,210906,True,id_map
+opta,550884,Kofi Amoako,Hamburger SV,550884,True,id_map
+opta,205837,Koki Machida,Hoffenheim,205837,True,id_map
+opta,109126,Konrad Laimer,Bayern Munich,109126,True,id_map
+opta,609068,Konstantinos Karetsas,Borussia Dortmund,609068,True,id_map
+opta,493332,Lasse Günther,Elversberg,493332,True,id_map
+opta,465852,Laurin Curda,Paderborn,465852,True,id_map
+opta,516960,Laurin Ulrich,Paderborn,516960,True,id_map
+opta,205308,Lee Jae-Sung,Mainz,205308,True,id_map
+opta,433156,Lennard Maloney,Mainz,433156,True,id_map
+opta,648440,Lennart Karl,Bayern Munich,648440,True,id_map
+opta,556187,Leo Sauer,Stuttgart,556187,True,id_map
+opta,620667,Leon Avdullahu,Hoffenheim,620667,True,id_map
+opta,476824,Leonidas Stergiou,Stuttgart,476824,True,id_map
+opta,518058,Leopold Querfeld,Union Berlin,518058,True,id_map
+opta,447547,Lilian Brassier,Eintracht Frankfurt,447547,True,id_map
+opta,219846,Linton Maina,Koln,219846,True,id_map
+opta,696486,Linus Güther,Union Berlin,696486,True,id_map
+opta,212581,Lion Schweers,Borussia Monchengladbach,opta_new_212581,False,
+opta,519095,Livan Burcu,Union Berlin,519095,True,id_map
+opta,503724,Lorenz Assignon,Stuttgart,503724,True,id_map
+opta,104542,Loris Karius,,104542,True,id_map
+opta,687635,Louis Lemke,Hamburger SV,687635,True,id_map
+opta,649816,Love Arrhov,Eintracht Frankfurt,649816,True,id_map
+opta,500267,Loïc Badé,Bayer Leverkusen,500267,True,id_map
+opta,563987,Luca Jaquez,Stuttgart,563987,True,id_map
+opta,631121,Luca Reggiani,Borussia Dortmund,631121,True,id_map
+opta,165167,Luca Schnellbacher,Elversberg,165167,True,id_map
+opta,545635,Luca Sirch,Elversberg,545635,True,id_map
+opta,685541,Luca Vozar,Schalke 04,685541,True,id_map
+opta,168143,Luca Waldschmidt,Koln,168143,True,id_map
+opta,192401,Lucas Höler,Freiburg,192401,True,id_map
+opta,107593,Lucas Vázquez,Bayer Leverkusen,107593,True,id_map
+opta,433051,Ludovit Reis,Bremen,433051,True,id_map
+opta,244731,Luis Díaz,Bayern Munich,244731,True,id_map
+opta,515218,Luka Djuric,Paderborn,515218,True,id_map
+opta,211265,Luka Lochoshvili,Koln,211265,True,id_map
+opta,180839,Lukas Klostermann,RB Leipzig,180839,True,id_map
+opta,112488,Lukas Kübler,Freiburg,112488,True,id_map
+opta,520845,Lukas Petkov,Elversberg,520845,True,id_map
+opta,543907,Lukas Pinckert,Elversberg,543907,True,id_map
+opta,513440,Lukas Ullrich,Borussia Monchengladbach,513440,True,id_map
+opta,465341,Lukasz Poreba,Elversberg,465341,True,id_map
+opta,248866,Maarten Vandevoordt,RB Leipzig,248866,True,id_map
+opta,656156,Malek El Mala,Koln,opta_new_656156,False,
+opta,687059,Malik Pimpong,Eintracht Frankfurt,687059,True,id_map
+opta,466006,Malik Tillman,Bayer Leverkusen,466006,True,id_map
+opta,20388,Manuel Neuer,Bayern Munich,20388,True,id_map
+opta,499309,Marc Guiu,RB Leipzig,499309,True,id_map
+opta,101338,Marcel Sabitzer,Borussia Dortmund,101338,True,id_map
+opta,225335,Marco Friedl,Bremen,225335,True,id_map
+opta,474605,Marco Grüll,Bremen,474605,True,id_map
+opta,523678,Marin Ljubicic,Union Berlin,523678,True,id_map
+opta,69600,Mario Götze,Eintracht Frankfurt,69600,True,id_map
+opta,449343,Marius Bülter,Koln,449343,True,id_map
+opta,192849,Marius Wolf,Augsburg,192849,True,id_map
+opta,118342,Mark Flekken,Bayer Leverkusen,118342,True,id_map
+opta,493355,Martin Adeline,Hamburger SV,493355,True,id_map
+opta,232176,Martin Terrier,Bayer Leverkusen,232176,True,id_map
+opta,523879,Marvin Pieringer,Paderborn,523879,True,id_map
+opta,183095,Marvin Schwäbe,Koln,183095,True,id_map
+opta,229511,Matheo Raab,Union Berlin,229511,True,id_map
+opta,648805,Mathieu Nguefack,Borussia Monchengladbach,648805,True,id_map
+opta,609623,Mathis Albert,Borussia Dortmund,609623,True,id_map
+opta,576750,Mats Rots,Hoffenheim,576750,True,id_map
+opta,513442,Mattes Hansen,Paderborn,513442,True,id_map
+opta,111251,Matthias Ginter,Freiburg,111251,True,id_map
+opta,522089,Maurice Krattenmacher,Elversberg,522089,True,id_map
+opta,629741,Max Finkgräfe,RB Leipzig,629741,True,id_map
+opta,547426,Max Moerstedt,Hoffenheim,547426,True,id_map
+opta,494600,Max Rosenfelder,Freiburg,494600,True,id_map
+opta,220087,Max Wöber,Schalke 04,220087,True,id_map
+opta,477717,Maxime Estève,RB Leipzig,477717,True,id_map
+opta,465859,Maximilian Beier,Borussia Dortmund,465859,True,id_map
+opta,200850,Maximilian Eggestein,Freiburg,200850,True,id_map
+opta,589195,Maximilian Herwerth,Stuttgart,589195,True,id_map
+opta,204335,Maximilian Mittelstädt,Stuttgart,204335,True,id_map
+opta,487057,Maximilian Rohr,Elversberg,487057,True,id_map
+opta,685527,Mekhi Gray,Union Berlin,685527,True,id_map
+opta,550661,Mert Kömür,Augsburg,550661,True,id_map
+opta,578554,Mertcan Ayhan,Schalke 04,578554,True,id_map
+opta,62480,Michael Gregoritsch,Augsburg,62480,True,id_map
+opta,443661,Michael Olise,Bayern Munich,443661,True,id_map
+opta,235865,Michel Aebischer,Union Berlin,235865,True,id_map
+opta,627413,Mick Schmetgens,Bremen,627413,True,id_map
+opta,248498,Miguel Gutiérrez,Bayer Leverkusen,248498,True,id_map
+opta,499721,Mikey Moore,Koln,499721,True,id_map
+opta,513441,Mio Backhaus,Freiburg,513441,True,id_map
+opta,198230,Miro Muheim,Hamburger SV,198230,True,id_map
+opta,109203,Mitchell Weiser,Bremen,109203,True,id_map
+opta,215651,Moritz Nicolas,Borussia Monchengladbach,215651,True,id_map
+opta,243557,Moussa Diaby,Bayer Leverkusen,243557,True,id_map
+opta,592692,Moussa N'Diaye,Bremen,592692,True,id_map
+opta,240149,Moussa Sylla,Schalke 04,240149,True,id_map
+opta,183309,Nadiem Amiri,Mainz,183309,True,id_map
+opta,515210,Nahuel Noll,,515210,True,id_map
+opta,646003,Nathan De Cat,Hoffenheim,646003,True,id_map
+opta,203389,Nathan Tella,Bayer Leverkusen,203389,True,id_map
+opta,476892,Nathanaël Mbuku,Augsburg,476892,True,id_map
+opta,515352,Nathaniel Brown,Bayern Munich,515352,True,id_map
+opta,627549,Natnael Abraha,Hoffenheim,627549,True,id_map
+opta,545286,Neil El Aynaoui,RB Leipzig,545286,True,id_map
+opta,428442,Nicholas Mickelson,Elversberg,428442,True,id_map
+opta,91889,Niclas Füllkrug,Bremen,91889,True,id_map
+opta,470836,Nico Schlotterbeck,Borussia Dortmund,470836,True,id_map
+opta,512843,Nicolai Remberg,Hamburger SV,512843,True,id_map
+opta,545755,Nicolas Kristof,,545755,True,id_map
+opta,247716,Nicolas Kühn,Borussia Monchengladbach,247716,True,id_map
+opta,478196,Nicolas Seiwald,RB Leipzig,478196,True,id_map
+opta,474094,Nicolás Capaldo,Hamburger SV,474094,True,id_map
+opta,219836,Niklas Beste,Freiburg,219836,True,id_map
+opta,704210,Niklas Mohr,Paderborn,704210,True,id_map
+opta,160541,Niklas Stark,Bremen,160541,True,id_map
+opta,186348,Nikola Katic,Schalke 04,186348,True,id_map
+opta,430817,Nikolas Nartey,Stuttgart,430817,True,id_map
+opta,492942,Nnamdi Collins,Eintracht Frankfurt,492942,True,id_map
+opta,470306,Noah Atubolu,Eintracht Frankfurt,470306,True,id_map
+opta,554935,Noah Darvich,Elversberg,554935,True,id_map
+opta,547187,Noahkai Banks,Augsburg,547187,True,id_map
+opta,513628,Noel Futkeu,Elversberg,513628,True,id_map
+opta,549875,Noël Aséko,Eintracht Frankfurt,549875,True,id_map
+opta,439348,Oliver Batista Meier,Paderborn,439348,True,id_map
+opta,73140,Oliver Baumann,Hoffenheim,73140,True,id_map
+opta,197937,Oliver Burke,Union Berlin,197937,True,id_map
+opta,468523,Olivier Deman,Bremen,468523,True,id_map
+opta,578611,Oscar Højlund,Eintracht Frankfurt,578611,True,id_map
+opta,511704,Oskar Wójcik,Bremen,511704,True,id_map
+opta,573117,Otto Ruoppi,Mainz,573117,True,id_map
+opta,620851,Otto Stange,Hamburger SV,620851,True,id_map
+opta,694362,Otávio,Eintracht Frankfurt,694362,True,id_map
+opta,438277,Ozan Kabak,Hoffenheim,438277,True,id_map
+opta,627846,Patrice Covic,Bremen,627846,True,id_map
+opta,440824,Patrick Osterhage,Freiburg,440824,True,id_map
+opta,486206,Patrick Wimmer,Hoffenheim,486206,True,id_map
+opta,196680,Patrik Schick,Bayer Leverkusen,196680,True,id_map
+opta,245419,Patson Daka,Hamburger SV,245419,True,id_map
+opta,627418,Paul Erevbenagie,Bremen,627418,True,id_map
+opta,487986,Paul Nebel,Mainz,487986,True,id_map
+opta,550966,Paul Okon-Engstler,Koln,550966,True,id_map
+opta,199245,Philipp Lienhart,Freiburg,199245,True,id_map
+opta,452461,Philipp Sander,Borussia Monchengladbach,452461,True,id_map
+opta,543922,Philipp Treu,Freiburg,543922,True,id_map
+opta,223844,Phillip Tietz,Mainz,223844,True,id_map
+opta,160158,Phillipp Mwene,Mainz,160158,True,id_map
+opta,750292,Rael Nakuzola,Mainz,750292,True,id_map
+opta,233325,Ragnar Ache,Koln,233325,True,id_map
+opta,576784,Raif Adam,Elversberg,576784,True,id_map
+opta,450067,Ramon Hendriks,Stuttgart,450067,True,id_map
+opta,189791,Ramy Bensebaini,Borussia Dortmund,189791,True,id_map
+opta,111450,Rani Khedira,Union Berlin,111450,True,id_map
+opta,477539,Ransford Königsdörffer,Mainz,477539,True,id_map
+opta,245795,Raphael Obermair,Paderborn,245795,True,id_map
+opta,503548,Raphael Onyedika,Eintracht Frankfurt,503548,True,id_map
+opta,512229,Rav van den Berg,Koln,512229,True,id_map
+opta,490190,Rayan Philippe,Paderborn,490190,True,id_map
+opta,580921,Reigan Heskey,Koln,580921,True,id_map
+opta,428786,Ridle Baku,RB Leipzig,428786,True,id_map
+opta,465917,Rihito Yamamoto,Freiburg,465917,True,id_map
+opta,205252,Ritsu Doan,Eintracht Frankfurt,205252,True,id_map
+opta,147488,Robert Andrich,Bayer Leverkusen,147488,True,id_map
+opta,162037,Robert Skov,Union Berlin,162037,True,id_map
+opta,513033,Robin Fellhauer,Augsburg,513033,True,id_map
+opta,177901,Robin Gosens,Schalke 04,177901,True,id_map
+opta,428234,Robin Hack,Borussia Monchengladbach,428234,True,id_map
+opta,465953,Robin Hranác,Hoffenheim,465953,True,id_map
+opta,193645,Robin Koch,Eintracht Frankfurt,193645,True,id_map
+opta,192079,Robin Zentner,Mainz,192079,True,id_map
+opta,514341,Rocco Reitz,RB Leipzig,514341,True,id_map
+opta,551232,Rodrigo Ribeiro,Augsburg,551232,True,id_map
+opta,246025,Ron Schallenberg,Schalke 04,246025,True,id_map
+opta,547335,Ruben Müller,Paderborn,547335,True,id_map
+opta,546855,Rômulo,RB Leipzig,546855,True,id_map
+opta,481616,Sacha Boey,Bayern Munich,481616,True,id_map
+opta,589863,Salim Musah,Bremen,589863,True,id_map
+opta,712725,Samba Konaté,RB Leipzig,712725,True,id_map
+opta,513536,Samuel Mbangula,Bremen,513536,True,id_map
+opta,636717,Samuele Inácio,Borussia Dortmund,636717,True,id_map
+opta,495002,Santiago Castañeda,Paderborn,495002,True,id_map
+opta,494868,Satoshi Tanaka,Schalke 04,494868,True,id_map
+opta,649235,Saïd El Mala,Koln,649235,True,id_map
+opta,437738,Sebastiaan Bornauw,Hamburger SV,437738,True,id_map
+opta,502821,Sebastian Sebulonsen,Koln,502821,True,id_map
+opta,444687,Senne Lynen,Bremen,444687,True,id_map
+opta,183364,Seol Young-Woo,Augsburg,183364,True,id_map
+opta,133798,Serge Gnabry,Bayern Munich,133798,True,id_map
+opta,162275,Serhou Guirassy,Borussia Dortmund,162275,True,id_map
+opta,629020,Shafiq Nandja,Hamburger SV,629020,True,id_map
+opta,173547,Sheraldo Becker,Mainz,173547,True,id_map
+opta,446220,Shuto Machino,Borussia Monchengladbach,446220,True,id_map
+opta,120781,Silvan Widmer,Mainz,120781,True,id_map
+opta,558681,Sima Suso,Augsburg,558681,True,id_map
+opta,565518,Sota Kawasaki,Mainz,565518,True,id_map
+opta,537147,Soufiane El-Faouzi,Schalke 04,537147,True,id_map
+opta,80941,Stefan Bell,Mainz,80941,True,id_map
+opta,191803,Stefan Posch,Mainz,191803,True,id_map
+opta,518035,Stefano Marino,Paderborn,518035,True,id_map
+opta,220369,Steffen Tigges,Paderborn,220369,True,id_map
+opta,164432,Sven Michel,Paderborn,164432,True,id_map
+opta,438398,Terem Moffi,Hamburger SV,438398,True,id_map
+opta,438590,Thijs Dallinga,Koln,438590,True,id_map
+opta,465209,Tiago Tomás,Stuttgart,465209,True,id_map
+opta,560261,Tidiam Gomis,RB Leipzig,560261,True,id_map
+opta,627636,Tim Binder,Bayern Munich,opta_new_627636,False,
+opta,160201,Tim Kleindienst,Borussia Monchengladbach,160201,True,id_map
+opta,470305,Tim Lemperle,Hoffenheim,470305,True,id_map
+opta,587477,Tim Oermann,Bayer Leverkusen,587477,True,id_map
+opta,627781,Tim Schnitzer,Augsburg,627781,True,id_map
+opta,212397,Tim Skarke,Union Berlin,212397,True,id_map
+opta,228726,Timo Becker,Schalke 04,228726,True,id_map
+opta,57500,Timothy Chandler,Eintracht Frankfurt,57500,True,id_map
+opta,633996,Tjark Scheller,Paderborn,633996,True,id_map
+opta,212687,Tom Baack,Paderborn,212687,True,id_map
+opta,519086,Tom Bischof,Bayern Munich,519086,True,id_map
+opta,449918,Tom Krauß,Koln,449918,True,id_map
+opta,513450,Tom Rothe,Union Berlin,513450,True,id_map
+opta,513365,Tom Zimmerschied,Elversberg,513365,True,id_map
+opta,679396,Uchenna Ogundu,Augsburg,679396,True,id_map
+opta,461415,Valentin Gendrey,Hoffenheim,461415,True,id_map
+opta,515203,Valentin Lässig,Hoffenheim,515203,True,id_map
+opta,479052,Victor Boniface,Bayer Leverkusen,479052,True,id_map
+opta,137908,Vincenzo Grifo,Freiburg,137908,True,id_map
+opta,632766,Vitalie Becker,Schalke 04,632766,True,id_map
+opta,164555,Vladimír Coufal,Hoffenheim,164555,True,id_map
+opta,679296,Wael Mohya,Borussia Monchengladbach,679296,True,id_map
+opta,212509,Waldemar Anton,Borussia Dortmund,212509,True,id_map
+opta,503732,Warmed Omari,Hamburger SV,503732,True,id_map
+opta,101601,Willi Orbán,RB Leipzig,101601,True,id_map
+opta,446215,Woo-yeong Jeong,Union Berlin,446215,True,id_map
+opta,438066,Wouter Burger,Hoffenheim,438066,True,id_map
+opta,518973,Yanik Spalt,Stuttgart,518973,True,id_map
+opta,492384,Yannik Engelhardt,Freiburg,492384,True,id_map
+opta,241238,Yannik Keitel,Augsburg,241238,True,id_map
+opta,613801,Younes Ebnoutalib,Eintracht Frankfurt,613801,True,id_map
+opta,492629,Youri Regeer,Bremen,492629,True,id_map
+opta,481035,Yuito Suzuki,Freiburg,481035,True,id_map
+opta,437869,Yukhym Konoplia,Borussia Monchengladbach,437869,True,id_map
+opta,166028,Yussuf Poulsen,Hamburger SV,166028,True,id_map
+opta,547774,Zakaria El Ouahdi,Hamburger SV,547774,True,id_map
+opta,531858,Zeno Van den Bosch,Union Berlin,531858,True,id_map
+opta,567067,Zento Uno,Borussia Monchengladbach,567067,True,id_map
+opta,479342,Ísak Jóhannesson,Koln,479342,True,id_map
+opta,98770,Ørjan Nyland,RB Leipzig,98770,True,master_transfer
+whoscored,371281,Michael Olise,Bayern Munich,443661,True,id_map
+whoscored,261020,Maximilian Mittelstädt,VfB Stuttgart,204335,True,id_map
+whoscored,568298,Jeremiaha Maluze,Eintracht Frankfurt,700073,True,id_map
+whoscored,83532,Harry Kane,Bayern Munich,78830,True,id_map
+whoscored,476927,Giannis Konstantelias,Borussia Dortmund,477510,True,id_map
+whoscored,416030,Antonio Nusa,RB Leipzig,538980,True,id_map
+whoscored,385080,Marco Grüll,Werder Bremen,474605,True,id_map
+whoscored,401743,Miro Muheim,Hamburger SV,198230,True,id_map
+whoscored,407222,Igor Matanovic,Freiburg,513431,True,id_map
+whoscored,296768,Waldemar Anton,Borussia Dortmund,212509,True,id_map
+whoscored,298145,Phillip Tietz,Mainz 05,223844,True,id_map
+whoscored,283323,Joshua Kimmich,Bayern Munich,165687,True,id_map
+whoscored,243565,Patrik Schick,Bayer Leverkusen,196680,True,id_map
+whoscored,371275,Nico Schlotterbeck,Borussia Dortmund,470836,True,id_map
+whoscored,481079,Aleksandar Pavlovic,Bayern Munich,515675,True,id_map
+whoscored,363666,Nikola Katic,Schalke 04,186348,True,id_map
+whoscored,377168,Luis Díaz,Bayern Munich,244731,True,id_map
+whoscored,327721,Dayot Upamecano,Bayern Munich,199661,True,id_map
+whoscored,365332,Maarten Vandevoordt,RB Leipzig,248866,True,id_map
+whoscored,551088,Hennes Behrens,Augsburg,519073,True,id_map
+whoscored,471784,Brajan Gruda,RB Leipzig,513433,True,id_map
+whoscored,428330,Rômulo,RB Leipzig,546855,True,id_map
+whoscored,321145,Anthony Caci,Mainz 05,232240,True,id_map
+whoscored,404193,Fabian Rieder,Augsburg,449787,True,id_map
+whoscored,104058,Niclas Füllkrug,Werder Bremen,91889,True,id_map
+whoscored,39187,Ørjan Nyland,RB Leipzig,whoscored_new_39187,False,
+whoscored,320040,Alphonso Davies,Bayern Munich,225059,True,id_map
+whoscored,531855,Santiago Castañeda,Paderborn,495002,True,id_map
+whoscored,137227,Sheraldo Becker,Mainz 05,173547,True,id_map
+whoscored,406672,Lukas Petkov,Elversberg,520845,True,id_map
+whoscored,107176,Loris Karius,Schalke 04,ws_107176,True,id_map
+whoscored,110182,Matthias Ginter,Freiburg,111251,True,id_map
+whoscored,104917,Willi Orbán,RB Leipzig,101601,True,id_map
+whoscored,433100,Bambasé Conté,Hoffenheim,513565,True,id_map
+whoscored,395252,Jamal Musiala,Bayern Munich,244857,True,id_map
+whoscored,502544,Tjark Scheller,Paderborn,633996,True,id_map
+whoscored,353985,Finn Dahmen,Augsburg,218361,True,id_map
+whoscored,427577,Youri Regeer,Werder Bremen,492629,True,id_map
+whoscored,486781,Laurin Curda,Paderborn,465852,True,id_map
+whoscored,347884,Atakan Karazor,VfB Stuttgart,428181,True,id_map
+whoscored,270829,Borna Sosa,FC Koln,218364,True,id_map
+whoscored,435993,Hasan Kuruçay,Schalke 04,240737,True,id_map
+whoscored,236506,Serhou Guirassy,Borussia Dortmund,162275,True,id_map
+whoscored,110165,Dominik Kohr,Mainz 05,114549,True,id_map
+whoscored,509815,Kaishu Sano,Mainz 05,567062,True,id_map
+whoscored,477985,Ibrahim Maza,Bayer Leverkusen,570052,True,id_map
+whoscored,367783,Felix Nmecha,Borussia Dortmund,219265,True,id_map
+whoscored,84919,Michael Gregoritsch,Augsburg,62480,True,id_map
+whoscored,514499,Adam Daghim,Hoffenheim,575415,True,id_map
+whoscored,343317,Jeff Chabot,VfB Stuttgart,428785,True,id_map
+whoscored,323169,Timo Becker,Schalke 04,228726,True,id_map
+whoscored,349888,Chris Führich,VfB Stuttgart,442218,True,id_map
+whoscored,300945,Christopher Nkunku,RB Leipzig,213198,True,id_map
+whoscored,418584,Daniel Svensson,Borussia Dortmund,521052,True,id_map
+whoscored,422365,Jobe Bellingham,Borussia Dortmund,519322,True,id_map
+whoscored,356743,Ozan Kabak,Hoffenheim,438277,True,id_map
+whoscored,276205,Robin Koch,Eintracht Frankfurt,193645,True,id_map
+whoscored,444289,Derry Scherhant,Freiburg,587831,True,id_map
+whoscored,395788,Miguel Gutiérrez,Bayer Leverkusen,248498,True,id_map
+whoscored,526988,Abdoul Koné,RB Leipzig,whoscored_new_526988,False,
+whoscored,254557,Maximilian Eggestein,Freiburg,200850,True,id_map
+whoscored,496922,Jordy Makengo,Freiburg,543921,True,id_map
+whoscored,419916,Maximilian Rohr,Elversberg,487057,True,id_map
+whoscored,415172,Castello Lukeba,RB Leipzig,468657,True,id_map
+whoscored,354241,Josha Vagnoman,VfB Stuttgart,438957,True,id_map
+whoscored,111372,Vladimír Coufal,Hoffenheim,164555,True,id_map
+whoscored,330538,David Raum,RB Leipzig,243309,True,id_map
+whoscored,476035,Younes Ebnoutalib,Eintracht Frankfurt,613801,True,id_map
+whoscored,369979,Christoph Baumgartner,RB Leipzig,454831,True,master
+whoscored,446537,Lukas Pinckert,Elversberg,543907,True,id_map
+whoscored,134946,Jonathan Tah,Bayern Munich,164454,True,id_map
+whoscored,363037,Jonathan Burkardt,Eintracht Frankfurt,225485,True,id_map
+whoscored,312666,Marius Wolf,Augsburg,192849,True,id_map
+whoscored,532785,Noahkai Banks,Augsburg,547187,True,id_map
+whoscored,399501,Karl Hein,Werder Bremen,463748,True,id_map
+whoscored,511411,Tidiam Gomis,RB Leipzig,560261,True,id_map
+whoscored,472403,Yuito Suzuki,Freiburg,481035,True,id_map
+whoscored,356183,Ridle Baku,RB Leipzig,428786,True,id_map
+whoscored,398372,Chrislain Matsima,Augsburg,465524,True,id_map
+whoscored,404776,Ismael Saibari,Bayern Munich,492963,True,id_map
+whoscored,249897,Marvin Schwäbe,FC Koln,183095,True,id_map
+whoscored,280663,Aleix García,Bayer Leverkusen,178871,True,id_map
+whoscored,370912,Kim Min-Jae,Bayern Munich,249621,True,id_map
+whoscored,416165,Nahuel Noll,Paderborn,ws_416165,True,id_map
+whoscored,298446,Philipp Lienhart,Freiburg,199245,True,id_map
+whoscored,398931,Lilian Brassier,Eintracht Frankfurt,447547,True,id_map
+whoscored,485929,Ezechiel Banzuzi,RB Leipzig,558522,True,id_map
+whoscored,418588,Alexander Prass,Hoffenheim,442305,True,id_map
+whoscored,494154,Jano ter Horst,Paderborn,626599,True,id_map
+whoscored,437724,Arthur,Werder Bremen,566438,True,id_map
+whoscored,434179,Yannik Engelhardt,Freiburg,492384,True,id_map
+whoscored,431281,Anton Kade,Augsburg,513432,True,id_map
+whoscored,261021,Nadiem Amiri,Mainz 05,183309,True,id_map
+whoscored,445983,Calvin Brackelmann,Augsburg,585070,True,id_map
+whoscored,437020,Tom Rothe,Union Berlin,513450,True,id_map
+whoscored,142959,Lee Jae-Sung,Mainz 05,205308,True,id_map
+whoscored,411433,Equi Fernández,Bayer Leverkusen,481237,True,id_map
+whoscored,430704,Arijon Ibrahimovic,Augsburg,505201,True,id_map
+whoscored,431864,Koki Machida,Hoffenheim,205837,True,id_map
+whoscored,427502,Leopold Querfeld,Union Berlin,518058,True,id_map
+whoscored,467776,Can Uzun,Eintracht Frankfurt,554087,True,id_map
+whoscored,534072,Jahmai Simpson-Pusey,FC Koln,554194,True,id_map
+whoscored,137837,Franck Honorat,Borussia M.Gladbach,174655,True,id_map
+whoscored,320436,Julian Ryerson,Borussia Dortmund,213783,True,id_map
+whoscored,336037,Raphael Obermair,Paderborn,245795,True,id_map
+whoscored,248010,Konrad Laimer,Bayern Munich,109126,True,id_map
+whoscored,271603,Josip Juranovic,Union Berlin,210791,True,id_map
+whoscored,382556,Joey Veerman,Borussia Dortmund,231653,True,id_map
+whoscored,336028,Gregor Kobel,Borussia Dortmund,185513,True,id_map
+whoscored,288892,Ramy Bensebaini,Borussia Dortmund,189791,True,id_map
+whoscored,379687,Thijs Dallinga,FC Koln,438590,True,id_map
+whoscored,513664,Joane Gadou,Borussia Dortmund,592891,True,id_map
+whoscored,486734,Neil El Aynaoui,RB Leipzig,545286,True,id_map
+whoscored,365831,Han-Noah Massengo,Augsburg,437757,True,id_map
+whoscored,354555,Linton Maina,FC Koln,219846,True,id_map
+whoscored,502775,Andrija Maksimovic,RB Leipzig,620473,True,id_map
+whoscored,319448,Florian Neuhaus,Borussia M.Gladbach,229231,True,id_map
+whoscored,343436,Ludovit Reis,Werder Bremen,433051,True,id_map
+whoscored,94934,Danny da Costa,Mainz 05,92295,True,id_map
+whoscored,387125,Maximilian Beier,Borussia Dortmund,465859,True,id_map
+whoscored,353193,Niklas Beste,Freiburg,219836,True,id_map
+whoscored,430019,Jarell Quansah,Bayer Leverkusen,441428,True,id_map
+whoscored,399385,Adam Hlozek,Hoffenheim,467008,True,id_map
+whoscored,327905,Alexis Claude-Maurice,Augsburg,218357,True,id_map
+whoscored,407284,Olivier Deman,Werder Bremen,468523,True,id_map
+whoscored,141726,Robin Gosens,Schalke 04,177901,True,id_map
+whoscored,124021,Phillipp Mwene,Mainz 05,160158,True,id_map
+whoscored,108914,Mitchell Weiser,Werder Bremen,109203,True,id_map
+whoscored,364235,Sebastiaan Bornauw,Hamburger SV,437738,True,id_map
+whoscored,368176,Amos Pieper,Werder Bremen,436217,True,id_map
+whoscored,404262,Luka Lochoshvili,FC Koln,211265,True,id_map
+whoscored,372927,Junior Dina Ebimbe,Schalke 04,438309,True,id_map
+whoscored,97743,Alexander Schwolow,Mainz 05,94196,True,id_map
+whoscored,485137,Maurice Krattenmacher,Elversberg,522089,True,id_map
+whoscored,454870,Satoshi Tanaka,Schalke 04,494868,True,id_map
+whoscored,140646,Kenan Karaman,Schalke 04,165172,True,id_map
+whoscored,327877,Felix Götze,Paderborn,225354,True,id_map
+whoscored,445354,Nathaniel Brown,Bayern Munich,515352,True,id_map
+whoscored,382491,Adil Aouchiche,Schalke 04,465676,True,id_map
+whoscored,13754,Manuel Neuer,Bayern Munich,20388,True,id_map
+whoscored,369687,András Schäfer,Union Berlin,457734,True,id_map
+whoscored,361878,Wouter Burger,Hoffenheim,438066,True,id_map
+whoscored,122140,Robert Andrich,Bayer Leverkusen,147488,True,id_map
+whoscored,433572,Bilal El Khannouss,VfB Stuttgart,513527,True,id_map
+whoscored,363069,Joe Scally,Borussia M.Gladbach,427426,True,id_map
+whoscored,367182,Tom Krauß,FC Koln,449918,True,id_map
+whoscored,503382,Elias Baum,Eintracht Frankfurt,547216,True,id_map
+whoscored,330672,Facundo Medina,Bayer Leverkusen,224868,True,id_map
+whoscored,487066,Mattes Hansen,Paderborn,513442,True,id_map
+whoscored,425057,Lasse Günther,Elversberg,493332,True,id_map
+whoscored,414233,Maxime Estève,RB Leipzig,477717,True,id_map
+whoscored,424465,Lukasz Poreba,Elversberg,465341,True,id_map
+whoscored,238903,Ellyes Skhiri,FC Koln,195430,True,id_map
+whoscored,475578,Mats Rots,Hoffenheim,576750,True,id_map
+whoscored,486776,Philipp Treu,Freiburg,543922,True,id_map
+whoscored,333227,Marco Friedl,Werder Bremen,225335,True,id_map
+whoscored,301066,Steffen Tigges,Paderborn,220369,True,id_map
+whoscored,444285,Lukas Ullrich,Borussia M.Gladbach,513440,True,id_map
+whoscored,428308,Noah Atubolu,Eintracht Frankfurt,470306,True,id_map
+whoscored,446529,Robin Fellhauer,Augsburg,513033,True,id_map
+whoscored,575655,Wael Mohya,Borussia M.Gladbach,679296,True,id_map
+whoscored,506115,Chuki,Werder Bremen,587669,True,id_map
+whoscored,424622,Adrian Gantenbein,Schalke 04,549985,True,id_map
+whoscored,428426,Fisnik Asllani,Hoffenheim,561060,True,id_map
+whoscored,456771,Ethan Nwaneri,Borussia Dortmund,499175,True,id_map
+whoscored,624395,Oskar Wójcik,Werder Bremen,511704,True,id_map
+whoscored,384000,Victor Boniface,Bayer Leverkusen,479052,True,id_map
+whoscored,414038,Soufiane El-Faouzi,Schalke 04,537147,True,id_map
+whoscored,438493,Felix Keidel,Elversberg,524093,True,id_map
+whoscored,132943,Yussuf Poulsen,Hamburger SV,166028,True,id_map
+whoscored,450295,Hugo Bolin,Borussia M.Gladbach,551048,True,id_map
+whoscored,471855,Konstantinos Karetsas,Borussia Dortmund,609068,True,id_map
+whoscored,81842,Frederik Rønnow,Union Berlin,89628,True,id_map
+whoscored,605344,Keita Kosugi,Eintracht Frankfurt,623214,True,id_map
+whoscored,552278,Fabio Gruber,Mainz 05,515169,True,id_map
+whoscored,369480,Nicolás Capaldo,Hamburger SV,474094,True,id_map
+whoscored,497562,Max Finkgräfe,RB Leipzig,629741,True,id_map
+whoscored,406062,Ísak Jóhannesson,FC Koln,479342,True,id_map
+whoscored,395001,Tim Lemperle,Hoffenheim,470305,True,id_map
+whoscored,296769,Benjamin Henrichs,RB Leipzig,180167,True,id_map
+whoscored,395850,Tiago Tomás,VfB Stuttgart,465209,True,id_map
+whoscored,343435,Ritsu Doan,Eintracht Frankfurt,205252,True,id_map
+whoscored,423491,Jonas Urbig,Bayern Munich,494589,True,id_map
+whoscored,132011,Jan Gyamerah,Elversberg,164537,True,id_map
+whoscored,422909,Ramon Hendriks,VfB Stuttgart,450067,True,id_map
+whoscored,550465,Christian Kofane,Bayer Leverkusen,683068,True,id_map
+whoscored,320002,Felix Uduokhai,Union Berlin,221693,True,id_map
+whoscored,446532,Nicolas Kristof,Elversberg,ws_446532,True,id_map
+whoscored,510234,Leon Avdullahu,Hoffenheim,620667,True,id_map
+whoscored,549132,David Mokwa,Elversberg,589018,True,id_map
+whoscored,333741,Stefan Posch,Mainz 05,191803,True,id_map
+whoscored,474412,Mert Kömür,Augsburg,550661,True,id_map
+whoscored,526481,Mikey Moore,FC Koln,499721,True,id_map
+whoscored,353397,Moussa Diaby,Bayer Leverkusen,243557,True,id_map
+whoscored,405170,Warmed Omari,Hamburger SV,503732,True,id_map
+whoscored,608138,Luca Reggiani,Borussia Dortmund,631121,True,id_map
+whoscored,413272,Josip Stanisic,Bayern Munich,437921,True,id_map
+whoscored,335756,Ragnar Ache,FC Koln,233325,True,id_map
+whoscored,573881,Kacper Potulski,Mainz 05,627675,True,id_map
+whoscored,512330,Noël Aséko,Eintracht Frankfurt,549875,True,id_map
+whoscored,119501,Serge Gnabry,Bayern Munich,133798,True,id_map
+whoscored,487063,Assan Ouédraogo,RB Leipzig,569015,True,id_map
+whoscored,407476,Angelo Stiller,VfB Stuttgart,437922,True,id_map
+whoscored,444292,Laurin Ulrich,Paderborn,516960,True,id_map
+whoscored,422240,Bilal Nadir,Hamburger SV,546178,True,id_map
+whoscored,380655,Fábio Silva,Borussia Dortmund,449988,True,id_map
+whoscored,420245,Nicolas Kühn,Borussia M.Gladbach,247716,True,id_map
+whoscored,401014,Rocco Reitz,RB Leipzig,514341,True,id_map
+whoscored,369446,Edmond Tapsoba,Bayer Leverkusen,424969,True,id_map
+whoscored,552277,Dariusz Stalmach,Werder Bremen,545189,True,id_map
+whoscored,513605,Cole Campbell,Elversberg,549407,True,id_map
+whoscored,557706,Lennart Karl,Bayern Munich,648440,True,id_map
+whoscored,418589,Patrick Wimmer,Hoffenheim,486206,True,id_map
+whoscored,424809,Albert Grønbæk,Hamburger SV,494779,True,id_map
+whoscored,517371,Saïd El Mala,FC Koln,649235,True,id_map
+whoscored,395374,Sebastian Sebulonsen,FC Koln,502821,True,id_map
+whoscored,351339,Ermedin Demirovic,VfB Stuttgart,429256,True,id_map
+whoscored,514447,Francis Onyeka,Elversberg,593262,True,id_map
+whoscored,478033,Afonso Moreira,Bayer Leverkusen,551191,True,id_map
+whoscored,444725,Farès Chaïbi,Eintracht Frankfurt,573379,True,id_map
+whoscored,394924,Fábio Vieira,Hamburger SV,438098,True,id_map
+whoscored,285654,Tim Skarke,Union Berlin,212397,True,id_map
+whoscored,367534,Philipp Sander,Borussia M.Gladbach,452461,True,id_map
+whoscored,507717,Finn Jeltsch,VfB Stuttgart,554088,True,id_map
+whoscored,429675,Stefano Marino,Paderborn,518035,True,id_map
+whoscored,317306,Alessio Castro-Montes,FC Koln,226858,True,id_map
+whoscored,418590,Junior Adamu,Schalke 04,436454,True,id_map
+whoscored,284451,Isac Lidberg,Borussia M.Gladbach,193806,True,id_map
+whoscored,551822,Kauã Prates,Borussia Dortmund,685487,True,id_map
+whoscored,402697,Albian Hajdari,Hoffenheim,514116,True,id_map
+whoscored,366868,Woo-yeong Jeong,Union Berlin,446215,True,id_map
+whoscored,110266,Rani Khedira,Union Berlin,111450,True,id_map
+whoscored,495291,Livan Burcu,Union Berlin,519095,True,id_map
+whoscored,410525,Zeno Van den Bosch,Union Berlin,531858,True,id_map
+whoscored,278125,Grischa Prömel,VfB Stuttgart,209184,True,id_map
+whoscored,121192,Vincenzo Grifo,Freiburg,137908,True,id_map
+whoscored,431282,Tom Bischof,Bayern Munich,519086,True,id_map
+whoscored,361419,Marius Bülter,FC Koln,449343,True,id_map
+whoscored,306961,Tom Baack,Paderborn,212687,True,id_map
+whoscored,424368,Gabriel Vidovic,Paderborn,508347,True,id_map
+whoscored,132896,Daniel Heuer Fernandes,Hamburger SV,141021,True,id_map
+whoscored,77440,Oliver Baumann,Hoffenheim,73140,True,id_map
+whoscored,425338,Raphael Onyedika,Eintracht Frankfurt,503548,True,id_map
+whoscored,547622,Cyriaque Irié,Freiburg,628884,True,id_map
+whoscored,142529,Fabian Bredlow,VfB Stuttgart,179612,True,id_map
+whoscored,484526,Zakaria El Ouahdi,Hamburger SV,547774,True,id_map
+whoscored,430308,Martin Adeline,Hamburger SV,493355,True,id_map
+whoscored,379252,Jamie Leweling,VfB Stuttgart,488677,True,id_map
+whoscored,111306,Lukas Kübler,Freiburg,112488,True,id_map
+whoscored,428031,Robin Hranác,Hoffenheim,465953,True,id_map
+whoscored,536128,Filippo Mane,Borussia Dortmund,571642,True,id_map
+whoscored,485184,Benedict Hollerbach,Mainz 05,465993,True,id_map
+whoscored,410639,Carney Chukwuemeka,Borussia Dortmund,478912,True,id_map
+whoscored,418587,Nicolas Seiwald,RB Leipzig,478196,True,id_map
+whoscored,428499,Fabio Chiarodia,Borussia M.Gladbach,544822,True,id_map
+whoscored,110272,Janik Haberer,Union Berlin,111453,True,id_map
+whoscored,408357,Eren Dinkçi,Werder Bremen,513417,True,id_map
+whoscored,301024,Max Wöber,Schalke 04,220087,True,id_map
+whoscored,380644,Rayan Philippe,Hamburger SV,490190,True,id_map
+whoscored,115131,Mark Flekken,Bayer Leverkusen,118342,True,id_map
+whoscored,412299,Kastriot Imeri,Union Berlin,486419,True,id_map
+whoscored,415341,David Møller Wolfe,Hamburger SV,497949,True,id_map
+whoscored,397465,Malik Tillman,Bayer Leverkusen,466006,True,id_map
+whoscored,92051,Marcel Sabitzer,Borussia Dortmund,101338,True,id_map
+whoscored,302588,Bernardo,Hoffenheim,209362,True,id_map
+whoscored,517609,Max Moerstedt,Hoffenheim,547426,True,id_map
+whoscored,550581,Joël Schmied,FC Koln,512524,True,id_map
+whoscored,97351,Jeffrey Gouweleeuw,Augsburg,93683,True,id_map
+whoscored,645133,Rael Nakuzola,Mainz 05,750292,True,id_map
+whoscored,566743,Jan Leszczynski,Borussia M.Gladbach,626569,True,id_map
+whoscored,395472,Nathan Tella,Bayer Leverkusen,203389,True,id_map
+whoscored,485040,Luca Sirch,Elversberg,545635,True,id_map
+whoscored,380637,Valentin Gendrey,Hoffenheim,461415,True,id_map
+whoscored,389899,Ransford Königsdörffer,Mainz 05,477539,True,id_map
+whoscored,434076,Rodrigo Ribeiro,Augsburg,551232,True,id_map
+whoscored,538807,Conrad Harder,RB Leipzig,621481,True,id_map
+whoscored,80382,Mario Götze,Eintracht Frankfurt,69600,True,id_map
+whoscored,568403,Uchenna Ogundu,Augsburg,679396,True,master
+whoscored,323242,Emmanuel Latte Lath,Union Berlin,233581,True,id_map
+whoscored,389376,Jan Thielmann,FC Koln,470311,True,id_map
+whoscored,566595,Otto Ruoppi,Mainz 05,573117,True,id_map
+whoscored,495281,Jonah Sticker,Paderborn,627290,True,id_map
+whoscored,411101,Daiki Hashioka,Borussia M.Gladbach,209293,True,id_map
+whoscored,638021,Mekhi Gray,Union Berlin,685527,True,id_map
+whoscored,401107,Paul Nebel,Mainz 05,487986,True,id_map
+whoscored,447590,Shuto Machino,Borussia M.Gladbach,446220,True,id_map
+whoscored,322881,Moritz Nicolas,Borussia M.Gladbach,215651,True,id_map
+whoscored,638280,Paul Erevbenagie,Werder Bremen,627418,True,id_map
+whoscored,402749,Gideon Mensah,FC Koln,229670,True,id_map
+whoscored,606483,Yanik Spalt,VfB Stuttgart,518973,True,id_map
+whoscored,481953,Dennis Seimen,VfB Stuttgart,516952,True,id_map
+whoscored,450125,Nnamdi Collins,Eintracht Frankfurt,492942,True,id_map
+whoscored,422716,Patrick Osterhage,Freiburg,440824,True,id_map
+whoscored,123178,Sven Michel,Paderborn,whoscored_new_123178,False,
+whoscored,262854,Hwang Hee-Chan,Schalke 04,184754,True,id_map
+whoscored,436119,Mio Backhaus,Freiburg,513441,True,id_map
+whoscored,513011,Juma Bah,Augsburg,632880,True,id_map
+whoscored,363662,Dejan Ljubicic,Schalke 04,429631,True,id_map
+whoscored,533130,Berkay Yilmaz,Freiburg,547313,True,id_map
+whoscored,420405,Senne Lynen,Werder Bremen,444687,True,id_map
+whoscored,531850,Vitalie Becker,Schalke 04,632766,True,id_map
+whoscored,357091,Deniz Undav,VfB Stuttgart,450434,True,id_map
+whoscored,552363,Mick Schmetgens,Werder Bremen,627413,True,id_map
+whoscored,308802,Janik Bachmann,Schalke 04,191906,True,id_map
+whoscored,550709,Keisuke Goto,Freiburg,587165,True,id_map
+whoscored,332120,Jordan Torunarigha,Hamburger SV,244761,True,id_map
+whoscored,444298,Dzenan Pejcinovic,VfB Stuttgart,522019,True,id_map
+whoscored,527354,Alexander Røssing-Lelesiit,Hamburger SV,657978,True,id_map
+whoscored,75217,Andrej Kramaric,Hoffenheim,68582,True,id_map
+whoscored,349125,Nikolas Nartey,VfB Stuttgart,430817,True,id_map
+whoscored,510854,Kofi Amoako,Hamburger SV,550884,True,id_map
+whoscored,405380,Lion Schweers,Borussia M.Gladbach,ws_405380,True,id_map
+whoscored,565462,Mathis Albert,Borussia Dortmund,609623,True,id_map
+whoscored,534793,Noah Darvich,Elversberg,554935,True,id_map
+whoscored,422717,Hiroki Ito,Bayern Munich,248811,True,master
+whoscored,372411,Nicholas Mickelson,Elversberg,428442,True,id_map
+whoscored,570091,Zento Uno,Borussia M.Gladbach,567067,True,id_map
+whoscored,403747,Ansgar Knauff,Eintracht Frankfurt,492931,True,id_map
+whoscored,245634,Robin Zentner,Mainz 05,192079,True,id_map
+whoscored,103622,Silvan Widmer,Mainz 05,120781,True,id_map
+whoscored,486739,Noel Futkeu,Elversberg,513628,True,id_map
+whoscored,24845,Edin Dzeko,Schalke 04,42544,True,id_map
+whoscored,345560,Patson Daka,Hamburger SV,245419,True,id_map
+whoscored,349102,Albert Sambi Lokonga,Hamburger SV,437742,True,id_map
+whoscored,485118,Nicolai Remberg,Hamburger SV,512843,True,id_map
+whoscored,447449,Guéla Doué,Bayer Leverkusen,503720,True,id_map
+whoscored,244303,Oliver Burke,Union Berlin,197937,True,id_map
+whoscored,404336,Eric Martel,Mainz 05,487868,True,id_map
+whoscored,408909,Marvin Pieringer,Paderborn,523879,True,id_map
+whoscored,607388,Louis Lemke,Hamburger SV,687635,True,id_map
+whoscored,400505,Terem Moffi,Hamburger SV,438398,True,id_map
+whoscored,424374,Marin Ljubicic,Union Berlin,523678,True,id_map
+whoscored,605380,Ayoube Amaimouni-Echghouyab,Eintracht Frankfurt,702409,True,id_map
+whoscored,372280,Sacha Boey,Bayern Munich,481616,True,id_map
+whoscored,486802,Rihito Yamamoto,Freiburg,whoscored_new_486802,False,
+whoscored,232262,Kevin Diks,Borussia M.Gladbach,193228,True,id_map
+whoscored,477549,Seol Young-Woo,Augsburg,183364,True,id_map
+whoscored,604188,Fritz Fleck,Borussia M.Gladbach,647875,True,id_map
+whoscored,400010,Derrick Köhn,Union Berlin,429524,True,id_map
+whoscored,398416,Loïc Badé,Bayer Leverkusen,500267,True,id_map
+whoscored,327702,Michel Aebischer,Union Berlin,235865,True,id_map
+whoscored,438066,Justin Njinmah,Werder Bremen,565380,True,id_map
+whoscored,496923,Max Rosenfelder,Freiburg,494600,True,id_map
+whoscored,485102,Tom Zimmerschied,Elversberg,513365,True,id_map
+whoscored,312582,Cedric Itten,Werder Bremen,198383,True,id_map
+whoscored,570078,Paul Okon-Engstler,FC Koln,550966,True,id_map
+whoscored,599169,Luca Vozar,Schalke 04,685541,True,id_map
+whoscored,539663,Chema Andrés,VfB Stuttgart,592984,True,id_map
+whoscored,115163,Jonas Hofmann,Bayer Leverkusen,118876,True,id_map
+whoscored,344041,Moussa Sylla,Schalke 04,240149,True,id_map
+whoscored,352891,Lennard Maloney,Mainz 05,433156,True,id_map
+whoscored,531859,Frederik Schmahl,Elversberg,625932,True,id_map
+whoscored,227655,Lucas Höler,Freiburg,192401,True,id_map
+whoscored,445430,Arthur Vermeeren,RB Leipzig,578612,True,id_map
+whoscored,329356,Martin Terrier,Bayer Leverkusen,232176,True,id_map
+whoscored,148484,Luca Waldschmidt,FC Koln,168143,True,id_map
+whoscored,71757,Christopher Trimmel,Union Berlin,62422,True,id_map
+whoscored,402874,Lorenz Assignon,VfB Stuttgart,503724,True,id_map
+whoscored,454351,David Herold,Borussia M.Gladbach,493326,True,id_map
+whoscored,508286,Otto Stange,Hamburger SV,620851,True,id_map
+whoscored,401632,Imad Rondic,FC Koln,430502,True,id_map
+whoscored,455785,Aljoscha Kemlein,Union Berlin,575397,True,id_map
+whoscored,605523,Raif Adam,Elversberg,576784,True,id_map
+whoscored,329689,Bakery Jatta,Hamburger SV,228316,True,id_map
+whoscored,468119,Leo Sauer,VfB Stuttgart,556187,True,id_map
+whoscored,577575,Niklas Mohr,Paderborn,704210,True,id_map
+whoscored,346210,Robin Hack,Borussia M.Gladbach,428234,True,id_map
+whoscored,569759,Salim Musah,Werder Bremen,589863,True,id_map
+whoscored,560433,Mertcan Ayhan,Schalke 04,578554,True,id_map
+whoscored,294026,Florian Le Joncour,Elversberg,205823,True,id_map
+whoscored,144511,Lucas Vázquez,Bayer Leverkusen,107593,True,id_map
+whoscored,602560,Samba Konaté,RB Leipzig,712725,True,id_map
+whoscored,532302,Nathan De Cat,Hoffenheim,646003,True,id_map
+whoscored,319396,Amara Condé,Elversberg,213459,True,id_map
+whoscored,619549,Linus Güther,Union Berlin,696486,True,id_map
+whoscored,446542,Luca Schnellbacher,Elversberg,165167,True,id_map
+whoscored,557907,Otávio,Eintracht Frankfurt,694362,True,id_map
+whoscored,130123,Robert Skov,Union Berlin,162037,True,id_map
+whoscored,643385,Mathieu Nguefack,Borussia M.Gladbach,648805,True,id_map
+whoscored,602909,Shafiq Nandja,Hamburger SV,629020,True,id_map
+whoscored,389378,Oliver Batista Meier,Paderborn,439348,True,id_map
+whoscored,549133,Patrice Covic,Werder Bremen,627846,True,id_map
+whoscored,606459,Malik Pimpong,Eintracht Frankfurt,687059,True,id_map
+whoscored,401742,Leonidas Stergiou,VfB Stuttgart,476824,True,id_map
+whoscored,483208,Marc Guiu,RB Leipzig,499309,True,id_map
+whoscored,534462,Reigan Heskey,FC Koln,580921,True,id_map
+whoscored,399829,Yukhym Konoplia,Borussia M.Gladbach,437869,True,id_map
+whoscored,389375,Yannik Keitel,Augsburg,241238,True,id_map
+whoscored,69467,Timothy Chandler,Eintracht Frankfurt,57500,True,id_map
+whoscored,605345,Love Arrhov,Eintracht Frankfurt,649816,True,id_map
+whoscored,129368,Tim Kleindienst,Borussia M.Gladbach,160201,True,id_map
+whoscored,625161,Clemens Lippmann,Paderborn,629188,True,id_map
+whoscored,643386,Iaia Danfa,Borussia M.Gladbach,655694,True,id_map
+whoscored,568257,Ruben Müller,Paderborn,547335,True,id_map
+whoscored,104011,Kevin Stöger,Borussia M.Gladbach,93293,True,id_map
+whoscored,551091,Luka Djuric,Paderborn,515218,True,id_map
+whoscored,492867,Oscar Højlund,Eintracht Frankfurt,578611,True,id_map
+whoscored,401089,Ron Schallenberg,Schalke 04,246025,True,id_map
+whoscored,369525,Ko Itakura,Borussia M.Gladbach,210906,True,id_map
+whoscored,427824,Johan Bakayoko,RB Leipzig,519638,True,id_map
+whoscored,143600,Lukas Klostermann,RB Leipzig,180839,True,id_map
+whoscored,442501,Matheo Raab,Union Berlin,229511,True,id_map
+whoscored,565461,Samuele Inácio,Borussia Dortmund,636717,True,id_map
+fotmob,27299,Manuel Neuer,FC Bayern München,20388,True,id_map
+fotmob,194165,Harry Kane,FC Bayern München,78830,True,id_map
+fotmob,460632,Joshua Kimmich,FC Bayern München,165687,True,id_map
+fotmob,469700,Jonathan Tah,FC Bayern München,164454,True,id_map
+fotmob,522236,Fabian Bredlow,VfB Stuttgart,179612,True,id_map
+fotmob,526827,Konrad Laimer,FC Bayern München,109126,True,id_map
+fotmob,614384,Maximilian Mittelstädt,VfB Stuttgart,204335,True,id_map
+fotmob,625175,Grischa Prömel,VfB Stuttgart,209184,True,id_map
+fotmob,658554,Dayot Upamecano,FC Bayern München,199661,True,id_map
+fotmob,659086,Marius Funk,VfB Stuttgart,fm_659086,True,id_map
+fotmob,661519,Deniz Undav,VfB Stuttgart,450434,True,id_map
+fotmob,684983,Atakan Karazor,VfB Stuttgart,428181,True,id_map
+fotmob,751202,Alphonso Davies,FC Bayern München,225059,True,id_map
+fotmob,828159,Min-Jae Kim,FC Bayern München,249621,True,id_map
+fotmob,840241,Ermedin Demirović,VfB Stuttgart,429256,True,id_map
+fotmob,851626,Hiroki Ito,FC Bayern München,248811,True,id_map
+fotmob,860914,Luis Díaz,FC Bayern München,244731,True,id_map
+fotmob,867080,Jeff Chabot,VfB Stuttgart,428785,True,id_map
+fotmob,928454,Josha Vagnoman,VfB Stuttgart,438957,True,id_map
+fotmob,950824,Josip Stanišić,FC Bayern München,437921,True,id_map
+fotmob,1019947,Leonidas Stergiou,VfB Stuttgart,476824,True,id_map
+fotmob,1029063,Michael Olise,FC Bayern München,443661,True,id_map
+fotmob,1071186,Angelo Stiller,VfB Stuttgart,437922,True,id_map
+fotmob,1074968,Jamie Leweling,VfB Stuttgart,488677,True,id_map
+fotmob,1125187,Ramon Hendriks,VfB Stuttgart,450067,True,id_map
+fotmob,1164506,Tiago Tomás,VfB Stuttgart,465209,True,id_map
+fotmob,1180288,Ismael Saibari,FC Bayern München,492963,True,id_map
+fotmob,1279764,Ameen Al Dakhil,VfB Stuttgart,487968,True,id_map
+fotmob,1285872,Jonas Urbig,FC Bayern München,494589,True,id_map
+fotmob,1286183,Tom Bischof,FC Bayern München,519086,True,id_map
+fotmob,1327150,Arijon Ibrahimović,FC Augsburg,505201,True,id_map
+fotmob,1340895,Bilal El Khannouss,VfB Stuttgart,513527,True,id_map
+fotmob,1366602,Dženan Pejčinović,VfB Stuttgart,522019,True,id_map
+fotmob,1388070,Badredine Bouanani,VfB Stuttgart,492949,True,id_map
+fotmob,1395447,Nathaniel Brown,FC Bayern München,515352,True,id_map
+fotmob,1473580,Aleksandar Pavlović,FC Bayern München,515675,True,id_map
+fotmob,1487877,Finn Jeltsch,VfB Stuttgart,554088,True,id_map
+fotmob,1586552,Chema Andrés,VfB Stuttgart,592984,True,id_map
+fotmob,1737700,Lennart Karl,FC Bayern München,648440,True,id_map
+fotmob,1798782,Bara Ndiaye,FC Bayern München,704138,True,id_map
+fotmob,15403,Edin Džeko,FC Schalke 04,42544,True,id_map
+fotmob,198316,Michael Gregoritsch,FC Augsburg,62480,True,id_map
+fotmob,215159,Kevin Müller,FC Schalke 04,fm_215159,True,id_map
+fotmob,245315,Jeffrey Gouweleeuw,FC Augsburg,93683,True,id_map
+fotmob,287894,Loris Karius,FC Schalke 04,ws_107176,True,id_map
+fotmob,518346,Robin Gosens,FC Schalke 04,177901,True,id_map
+fotmob,556029,Marius Wolf,FC Augsburg,192849,True,id_map
+fotmob,560976,Janik Bachmann,FC Schalke 04,191906,True,id_map
+fotmob,701149,Maximilian Wöber,FC Schalke 04,fm_701149,True,id_map
+fotmob,725655,Nikola Katić,FC Schalke 04,186348,True,id_map
+fotmob,785739,Timo Becker,FC Schalke 04,228726,True,id_map
+fotmob,794619,Hasan Kuruçay,FC Schalke 04,240737,True,id_map
+fotmob,820974,Ron Schallenberg,FC Schalke 04,246025,True,id_map
+fotmob,844431,Yannik Keitel,FC Augsburg,241238,True,id_map
+fotmob,860056,Moussa Sylla,FC Schalke 04,240149,True,id_map
+fotmob,861668,Dejan Ljubičić,FC Schalke 04,429631,True,id_map
+fotmob,882163,Chukwubuike Adamu,FC Schalke 04,fm_882163,True,id_map
+fotmob,926445,Finn Dahmen,FC Augsburg,218361,True,id_map
+fotmob,978680,Han-Noah Massengo,FC Augsburg,437757,True,id_map
+fotmob,1040889,Junior Dina Ebimbe,FC Schalke 04,438309,True,id_map
+fotmob,1047664,Adil Aouchiche,FC Schalke 04,465676,True,id_map
+fotmob,1049799,Nathanaël Mbuku,FC Augsburg,476892,True,id_map
+fotmob,1132818,Young-Woo Seol,FC Augsburg,fm_1132818,True,id_map
+fotmob,1155066,Satoshi Tanaka,FC Schalke 04,494868,True,id_map
+fotmob,1161211,Fabian Rieder,FC Augsburg,449787,True,id_map
+fotmob,1178512,Chrislain Matsima,FC Augsburg,465524,True,id_map
+fotmob,1185609,Robin Fellhauer,FC Augsburg,513033,True,id_map
+fotmob,1249185,Soufian El-Faouzi,FC Schalke 04,537147,True,id_map
+fotmob,1284464,Nediljko Labrović,FC Augsburg,fm_1284464,True,id_map
+fotmob,1300329,Calvin Brackelmann,FC Augsburg,585070,True,id_map
+fotmob,1310103,Anton Kade,FC Augsburg,513432,True,id_map
+fotmob,1343749,Rodrigo Ribeiro,FC Augsburg,551232,True,id_map
+fotmob,1453218,Mert Kömür,FC Augsburg,550661,True,id_map
+fotmob,1641063,Noahkai Banks,FC Augsburg,547187,True,id_map
+fotmob,1659420,Vitalie Becker,FC Schalke 04,632766,True,id_map
+fotmob,1678681,Hennes Behrens,FC Augsburg,519073,True,id_map
+fotmob,1718174,Uchenna Ogundu,FC Augsburg,679396,True,id_map
+fotmob,1755657,Mertcan Ayhan,FC Schalke 04,578554,True,id_map
+fotmob,1842512,Luca Vozar,FC Schalke 04,685541,True,id_map
+fotmob,1875448,Tim Schnitzer,FC Augsburg,627781,True,id_map
+fotmob,215151,Marcel Sabitzer,Borussia Dortmund,101338,True,id_map
+fotmob,266527,Yussuf Poulsen,Hamburger SV,166028,True,id_map
+fotmob,406501,Daniel Heuer Fernandes,Hamburger SV,141021,True,id_map
+fotmob,448540,Serhou Guirassy,Borussia Dortmund,162275,True,id_map
+fotmob,644459,Patson Daka,Hamburger SV,245419,True,id_map
+fotmob,659272,Julian Ryerson,Borussia Dortmund,213783,True,id_map
+fotmob,664970,Waldemar Anton,Borussia Dortmund,212509,True,id_map
+fotmob,700074,Jordan Torunarigha,Hamburger SV,244761,True,id_map
+fotmob,743381,Alexander Meyer,Borussia Dortmund,fm_743381,True,id_map
+fotmob,763998,Bakery Jatta,Hamburger SV,228316,True,id_map
+fotmob,764018,Gregor Kobel,Borussia Dortmund,185513,True,id_map
+fotmob,792429,Joey Veerman,Borussia Dortmund,231653,True,id_map
+fotmob,885005,Terem Moffi,Hamburger SV,438398,True,id_map
+fotmob,901495,Albert Sambi Lokonga,Hamburger SV,437742,True,id_map
+fotmob,922892,Sebastiaan Bornauw,Hamburger SV,437738,True,id_map
+fotmob,966019,Felix Nmecha,Borussia Dortmund,219265,True,id_map
+fotmob,1018564,Nicolás Capaldo,Hamburger SV,474094,True,id_map
+fotmob,1047667,Maximilian Beier,Borussia Dortmund,465859,True,id_map
+fotmob,1050158,Fábio Silva,Borussia Dortmund,449988,True,id_map
+fotmob,1079892,Rayan Philippe,SC Paderborn 07,490190,True,id_map
+fotmob,1133381,Albert Grønbæk,Hamburger SV,494779,True,id_map
+fotmob,1145714,Sander Tangvik,Hamburger SV,449411,True,id_map
+fotmob,1188890,Nicolai Remberg,Hamburger SV,512843,True,id_map
+fotmob,1209228,Daniel Svensson,Borussia Dortmund,521052,True,id_map
+fotmob,1215014,Giannis Konstantelias,Borussia Dortmund,477510,True,id_map
+fotmob,1283407,Bilal Nadir,Hamburger SV,546178,True,id_map
+fotmob,1287373,Jobe Bellingham,Borussia Dortmund,519322,True,id_map
+fotmob,1324082,Martin Adeline,Hamburger SV,493355,True,id_map
+fotmob,1383070,Daniel Elfadli,Hamburger SV,584649,True,id_map
+fotmob,1479742,Joane Gadou,Borussia Dortmund,592891,True,id_map
+fotmob,1536436,Konstantinos Karetsas,Borussia Dortmund,609068,True,id_map
+fotmob,1576487,Otto Stange,Hamburger SV,620851,True,id_map
+fotmob,1587901,Kofi Amoako,Hamburger SV,550884,True,id_map
+fotmob,1663094,Filippo Mane,Borussia Dortmund,571642,True,id_map
+fotmob,1692797,Mathis Albert,Borussia Dortmund,609623,True,id_map
+fotmob,1750565,Kauã Prates,Borussia Dortmund,685487,True,id_map
+fotmob,1761151,Samuele Inácio,Borussia Dortmund,636717,True,id_map
+fotmob,1804634,Shafiq Nandja,Hamburger SV,629020,True,id_map
+fotmob,1845173,Luca Reggiani,Borussia Dortmund,631121,True,id_map
+fotmob,1899791,Louis Lemke,Hamburger SV,687635,True,id_map
+fotmob,278814,Janis Blaswich,Bayer 04 Leverkusen,100891,True,id_map
+fotmob,330643,Mark Flekken,Bayer 04 Leverkusen,118342,True,id_map
+fotmob,331542,Jonas Hofmann,Bayer 04 Leverkusen,118876,True,id_map
+fotmob,359193,Lucas Vázquez,Bayer 04 Leverkusen,107593,True,id_map
+fotmob,411851,Robert Andrich,Bayer 04 Leverkusen,147488,True,id_map
+fotmob,458602,Jan Gyamerah,SV 07 Elversberg,164537,True,id_map
+fotmob,459010,Luca Schnellbacher,SV 07 Elversberg,165167,True,id_map
+fotmob,540097,Patrik Schick,Bayer 04 Leverkusen,196680,True,id_map
+fotmob,594886,Florian Le Joncour,SV 07 Elversberg,205823,True,id_map
+fotmob,633721,Nicholas Mickelson,SV 07 Elversberg,428442,True,id_map
+fotmob,642551,Aleix García,Bayer 04 Leverkusen,178871,True,id_map
+fotmob,659051,Tim Boss,SV 07 Elversberg,fm_659051,True,id_map
+fotmob,763990,Amara Condé,SV 07 Elversberg,213459,True,id_map
+fotmob,789914,Edmond Tapsoba,Bayer 04 Leverkusen,424969,True,id_map
+fotmob,812652,Facundo Medina,Bayer 04 Leverkusen,224868,True,id_map
+fotmob,942379,Miguel Gutiérrez,Bayer 04 Leverkusen,248498,True,id_map
+fotmob,962113,Łukasz Poręba,SV 07 Elversberg,465341,True,id_map
+fotmob,1035208,Victor Okoh Boniface,Bayer 04 Leverkusen,479052,True,id_map
+fotmob,1077911,Maximilian Rohr,SV 07 Elversberg,487057,True,id_map
+fotmob,1093782,Lukas Petkov,SV 07 Elversberg,520845,True,id_map
+fotmob,1097361,Luca Sirch,SV 07 Elversberg,545635,True,id_map
+fotmob,1107620,Jarell Quansah,Bayer 04 Leverkusen,441428,True,id_map
+fotmob,1119461,Loic Badé,Bayer 04 Leverkusen,500267,True,id_map
+fotmob,1126058,Malik Tillman,Bayer 04 Leverkusen,466006,True,id_map
+fotmob,1138725,Noel Futkeu,SV 07 Elversberg,513628,True,id_map
+fotmob,1199959,Equi Fernández,Bayer 04 Leverkusen,481237,True,id_map
+fotmob,1245692,Lasse Günther,SV 07 Elversberg,493332,True,id_map
+fotmob,1280560,Lukas Pinckert,SV 07 Elversberg,543907,True,id_map
+fotmob,1285926,Nicolas Kristof,SV 07 Elversberg,ws_446532,True,id_map
+fotmob,1288195,Cole Campbell,SV 07 Elversberg,549407,True,id_map
+fotmob,1329406,Jeanuël Belocian,Bayer 04 Leverkusen,565992,True,id_map
+fotmob,1353457,Arthur,SV Werder Bremen,566438,True,id_map
+fotmob,1366338,Felix Keidel,SV 07 Elversberg,524093,True,id_map
+fotmob,1367047,Afonso Moreira,Bayer 04 Leverkusen,551191,True,id_map
+fotmob,1412933,Maurice Krattenmacher,SV 07 Elversberg,522089,True,id_map
+fotmob,1457626,Ibrahim Maza,Bayer 04 Leverkusen,570052,True,id_map
+fotmob,1459758,David Mokwa,SV 07 Elversberg,589018,True,id_map
+fotmob,1479921,Noah Darvich,SV 07 Elversberg,554935,True,id_map
+fotmob,1603681,Francis Onyeka,SV 07 Elversberg,593262,True,id_map
+fotmob,1705081,Christian Kofane,Bayer 04 Leverkusen,683068,True,id_map
+fotmob,41087,Ron-Robert Zieler,1. FC Köln,fm_41087,True,id_map
+fotmob,173461,Andrej Kramarić,TSG 1899 Hoffenheim,68582,True,id_map
+fotmob,178778,Oliver Baumann,TSG 1899 Hoffenheim,73140,True,id_map
+fotmob,307317,Vladimír Coufal,TSG 1899 Hoffenheim,164555,True,id_map
+fotmob,573465,Marvin Schwäbe,1. FC Köln,183095,True,id_map
+fotmob,574642,Ellyes Skhiri,1. FC Köln,195430,True,id_map
+fotmob,626890,Marius Bülter,1. FC Köln,449343,True,id_map
+fotmob,637716,Bernardo,TSG 1899 Hoffenheim,209362,True,id_map
+fotmob,748620,Alessio Castro-Montes,1. FC Köln,226858,True,id_map
+fotmob,771630,Gideon Mensah,1. FC Köln,229670,True,id_map
+fotmob,772193,Ragnar Ache,1. FC Köln,233325,True,id_map
+fotmob,784175,Luka Lochoshvili,1. FC Köln,211265,True,id_map
+fotmob,845990,Ozan Kabak,TSG 1899 Hoffenheim,438277,True,id_map
+fotmob,885085,Thijs Dallinga,1. FC Köln,438590,True,id_map
+fotmob,930035,Linton Maina,1. FC Köln,219846,True,id_map
+fotmob,947884,Wouter Burger,TSG 1899 Hoffenheim,438066,True,id_map
+fotmob,969870,Adam Hložek,TSG 1899 Hoffenheim,467008,True,id_map
+fotmob,992060,Tom Krauß,1. FC Köln,449918,True,id_map
+fotmob,1000428,Ísak Jóhannesson,1. FC Köln,479342,True,id_map
+fotmob,1003254,Joël Schmied,1. FC Köln,512524,True,id_map
+fotmob,1073498,Patrick Wimmer,TSG 1899 Hoffenheim,486206,True,id_map
+fotmob,1077653,Valentin Gendrey,TSG 1899 Hoffenheim,461415,True,id_map
+fotmob,1119643,Jan Thielmann,1. FC Köln,470311,True,id_map
+fotmob,1175933,Luca Philipp,TSG 1899 Hoffenheim,fm_1175933,True,id_map
+fotmob,1186015,Albian Hajdari,TSG 1899 Hoffenheim,514116,True,id_map
+fotmob,1199391,Rav van den Berg,1. FC Köln,512229,True,id_map
+fotmob,1225995,Robin Hranác,TSG 1899 Hoffenheim,465953,True,id_map
+fotmob,1338957,Bambasé Conté,TSG 1899 Hoffenheim,513565,True,id_map
+fotmob,1353000,Adam Daghim,TSG 1899 Hoffenheim,575415,True,id_map
+fotmob,1445416,Mats Rots,TSG 1899 Hoffenheim,576750,True,id_map
+fotmob,1463271,Jahmai Simpson-Pusey,1. FC Köln,554194,True,id_map
+fotmob,1478148,Leon Avdullahu,TSG 1899 Hoffenheim,620667,True,id_map
+fotmob,1486537,Max Moerstedt,TSG 1899 Hoffenheim,547426,True,id_map
+fotmob,1527363,Paul Okon-Engstler,1. FC Köln,550966,True,id_map
+fotmob,1613676,Saïd El Mala,1. FC Köln,649235,True,id_map
+fotmob,1664759,Nathan De Cat,TSG 1899 Hoffenheim,646003,True,id_map
+fotmob,1665352,Reigan Heskey,1. FC Köln,580921,True,id_map
+fotmob,1793498,Cajetan Lenz,TSG 1899 Hoffenheim,695474,True,id_map
+fotmob,1829438,Jonathan Friemel,1. FC Köln,685509,True,id_map
+fotmob,1899713,Natnael Abraha,TSG 1899 Hoffenheim,627549,True,id_map
+fotmob,276791,Niclas Füllkrug,SV Werder Bremen,91889,True,id_map
+fotmob,303912,Matthias Ginter,Sport-Club Freiburg,111251,True,id_map
+fotmob,307209,Lukas Kübler,Sport-Club Freiburg,112488,True,id_map
+fotmob,355358,Christian Günter,Sport-Club Freiburg,119382,True,id_map
+fotmob,400625,Vincenzo Grifo,Sport-Club Freiburg,137908,True,id_map
+fotmob,450739,Alexander Schlager,SV Werder Bremen,fm_450739,True,id_map
+fotmob,556524,Lucas Höler,Sport-Club Freiburg,192401,True,id_map
+fotmob,602523,Maximilian Eggestein,Sport-Club Freiburg,200850,True,id_map
+fotmob,643724,Philipp Lienhart,Sport-Club Freiburg,199245,True,id_map
+fotmob,726956,Cedric Itten,SV Werder Bremen,198383,True,id_map
+fotmob,737365,Florian Müller,Sport-Club Freiburg,fm_737365,True,id_map
+fotmob,765998,Amos Pieper,SV Werder Bremen,436217,True,id_map
+fotmob,767789,Marco Friedl,SV Werder Bremen,225335,True,id_map
+fotmob,864157,Jan-Niklas Beste,Sport-Club Freiburg,219836,True,id_map
+fotmob,869326,Ludovit Reis,SV Werder Bremen,433051,True,id_map
+fotmob,919742,Senne Lynen,SV Werder Bremen,444687,True,id_map
+fotmob,969856,Olivier Deman,SV Werder Bremen,468523,True,id_map
+fotmob,982692,Karl Hein,SV Werder Bremen,463748,True,id_map
+fotmob,1024292,Marco Grüll,SV Werder Bremen,474605,True,id_map
+fotmob,1134467,Yuito Suzuki,Sport-Club Freiburg,481035,True,id_map
+fotmob,1137364,Justin Njinmah,SV Werder Bremen,565380,True,id_map
+fotmob,1146376,Eren Dinkçi,SV Werder Bremen,513417,True,id_map
+fotmob,1201408,Julián Malatini,SV Werder Bremen,518758,True,id_map
+fotmob,1210893,Igor Matanović,Sport-Club Freiburg,513431,True,id_map
+fotmob,1269497,Yannik Engelhardt,Sport-Club Freiburg,492384,True,id_map
+fotmob,1276988,Dariusz Stalmach,SV Werder Bremen,545189,True,id_map
+fotmob,1281090,Philipp Treu,Sport-Club Freiburg,543922,True,id_map
+fotmob,1281107,Max Rosenfelder,Sport-Club Freiburg,494600,True,id_map
+fotmob,1281108,Jordy Makengo,Sport-Club Freiburg,543921,True,id_map
+fotmob,1302666,Derry Scherhant,Sport-Club Freiburg,587831,True,id_map
+fotmob,1315344,Chuki,SV Werder Bremen,587669,True,id_map
+fotmob,1352996,Mio Backhaus,Sport-Club Freiburg,513441,True,id_map
+fotmob,1402900,Samuel Mbangula,SV Werder Bremen,513536,True,id_map
+fotmob,1436730,Keisuke Goto,Sport-Club Freiburg,587165,True,id_map
+fotmob,1526221,Cyriaque Irié,Sport-Club Freiburg,628884,True,id_map
+fotmob,1580371,Berkay Yılmaz,Sport-Club Freiburg,547313,True,id_map
+fotmob,1646629,Salim Musah,SV Werder Bremen,589863,True,id_map
+fotmob,1646943,Patrice Covic,SV Werder Bremen,627846,True,id_map
+fotmob,1714103,Mick Schmetgens,SV Werder Bremen,627413,True,id_map
+fotmob,1810868,Paul Erevbenagie,SV Werder Bremen,627418,True,id_map
+fotmob,240537,Danny da Costa,1. FSV Mainz 05,92295,True,id_map
+fotmob,248437,Alexander Schwolow,1. FSV Mainz 05,94196,True,id_map
+fotmob,275034,Silvan Widmer,1. FSV Mainz 05,120781,True,id_map
+fotmob,303905,Dominik Kohr,1. FSV Mainz 05,114549,True,id_map
+fotmob,423812,Phillipp Mwene,1. FSV Mainz 05,160158,True,id_map
+fotmob,495222,Sheraldo Becker,1. FSV Mainz 05,173547,True,id_map
+fotmob,523749,Jae-Sung Lee,1. FSV Mainz 05,205308,True,id_map
+fotmob,556505,Robin Zentner,1. FSV Mainz 05,192079,True,id_map
+fotmob,557325,Stefan Posch,1. FSV Mainz 05,191803,True,id_map
+fotmob,614449,Nadiem Amiri,1. FSV Mainz 05,183309,True,id_map
+fotmob,658444,Tom Baack,SC Paderborn 07,212687,True,id_map
+fotmob,659046,Markus Schubert,SC Paderborn 07,fm_659046,True,id_map
+fotmob,686315,Phillip Tietz,1. FSV Mainz 05,223844,True,id_map
+fotmob,706500,Steffen Tigges,SC Paderborn 07,220369,True,id_map
+fotmob,771401,Anthony Caci,1. FSV Mainz 05,232240,True,id_map
+fotmob,784225,Raphael Obermair,SC Paderborn 07,245795,True,id_map
+fotmob,921197,Lennard Maloney,1. FSV Mainz 05,433156,True,id_map
+fotmob,950822,Oliver Batista Meier,SC Paderborn 07,439348,True,id_map
+fotmob,956913,Marvin Pieringer,SC Paderborn 07,523879,True,id_map
+fotmob,1033111,Kaishu Sano,1. FSV Mainz 05,567062,True,id_map
+fotmob,1121170,Ransford Königsdörffer,1. FSV Mainz 05,477539,True,id_map
+fotmob,1134759,Sota Kawasaki,1. FSV Mainz 05,565518,True,id_map
+fotmob,1257826,Nahuel Noll,SC Paderborn 07,ws_416165,True,id_map
+fotmob,1276453,Gabriel Vidović,SC Paderborn 07,508347,True,id_map
+fotmob,1321553,Stefano Marino,SC Paderborn 07,518035,True,id_map
+fotmob,1347994,Otto Ruoppi,1. FSV Mainz 05,573117,True,id_map
+fotmob,1362417,Fabio Gruber,1. FSV Mainz 05,515169,True,id_map
+fotmob,1362492,Santiago Castañeda,SC Paderborn 07,495002,True,id_map
+fotmob,1367587,Laurin Ulrich,SC Paderborn 07,516960,True,id_map
+fotmob,1415373,Tjark Scheller,SC Paderborn 07,633996,True,id_map
+fotmob,1426060,Laurin Curda,SC Paderborn 07,465852,True,id_map
+fotmob,1515976,Mattes Hansen,SC Paderborn 07,513442,True,id_map
+fotmob,1520469,Jano ter Horst,SC Paderborn 07,626599,True,id_map
+fotmob,1520593,Jonah Sticker,SC Paderborn 07,627290,True,id_map
+fotmob,1580112,Deniz Zeitler,SC Paderborn 07,640659,True,id_map
+fotmob,1586401,Luka Duric,SC Paderborn 07,515218,True,id_map
+fotmob,1701615,Clemens Lippmann,SC Paderborn 07,629188,True,id_map
+fotmob,1800401,Kacper Potulski,1. FSV Mainz 05,627675,True,id_map
+fotmob,1801952,Niklas Mohr,SC Paderborn 07,704210,True,id_map
+fotmob,2140397,Rael Nakuzola,1. FSV Mainz 05,750292,True,id_map
+fotmob,212873,Daniel Batz,Borussia Mönchengladbach,84955,True,id_map
+fotmob,276739,Kevin Stöger,Borussia Mönchengladbach,93293,True,id_map
+fotmob,278856,Willi Orbán,RB Leipzig,101601,True,id_map
+fotmob,442728,Tim Kleindienst,Borussia Mönchengladbach,160201,True,id_map
+fotmob,450972,Leopold Zingerle,RB Leipzig,fm_450972,True,id_map
+fotmob,501543,Franck Honorat,Borussia Mönchengladbach,174655,True,id_map
+fotmob,566158,Kevin Diks,Borussia Mönchengladbach,193228,True,id_map
+fotmob,620917,Ko Itakura,Borussia Mönchengladbach,210906,True,id_map
+fotmob,655095,Isac Lidberg,Borussia Mönchengladbach,193806,True,id_map
+fotmob,681383,Benjamin Henrichs,RB Leipzig,180167,True,id_map
+fotmob,704523,Christopher Nkunku,RB Leipzig,213198,True,id_map
+fotmob,784146,Moritz Nicolas,Borussia Mönchengladbach,215651,True,id_map
+fotmob,806669,David Raum,RB Leipzig,243309,True,id_map
+fotmob,878296,Daiki Hashioka,Borussia Mönchengladbach,209293,True,id_map
+fotmob,883087,Ridle Baku,RB Leipzig,428786,True,id_map
+fotmob,884919,Robin Hack,Borussia Mönchengladbach,428234,True,id_map
+fotmob,915111,Shuto Machino,Borussia Mönchengladbach,446220,True,id_map
+fotmob,951918,Philipp Sander,Borussia Mönchengladbach,452461,True,id_map
+fotmob,959696,Joseph Scally,Borussia Mönchengladbach,427426,True,id_map
+fotmob,972200,Maarten Vandevoordt,RB Leipzig,248866,True,id_map
+fotmob,1024672,Nicolas Seiwald,RB Leipzig,478196,True,id_map
+fotmob,1174726,Rocco Reitz,RB Leipzig,514341,True,id_map
+fotmob,1203194,Johan Bakayoko,RB Leipzig,519638,True,id_map
+fotmob,1248482,Antonio Nusa,RB Leipzig,538980,True,id_map
+fotmob,1250443,Maxime Estève,RB Leipzig,477717,True,id_map
+fotmob,1253852,Castello Lukeba,RB Leipzig,468657,True,id_map
+fotmob,1301517,Enzo Leopold,Borussia Mönchengladbach,543919,True,id_map
+fotmob,1310001,Ezechiel Banzuzi,RB Leipzig,558522,True,id_map
+fotmob,1351569,Hugo Bolin,Borussia Mönchengladbach,551048,True,id_map
+fotmob,1356589,David Herold,Borussia Mönchengladbach,493326,True,id_map
+fotmob,1387389,Arthur Vermeeren,RB Leipzig,578612,True,id_map
+fotmob,1398483,Lukas Ullrich,Borussia Mönchengladbach,513440,True,id_map
+fotmob,1430151,Brajan Gruda,RB Leipzig,513433,True,id_map
+fotmob,1482209,Andrija Maksimović,RB Leipzig,620473,True,id_map
+fotmob,1482294,Conrad Harder,RB Leipzig,621481,True,id_map
+fotmob,1482733,Tidiam Gomis,RB Leipzig,560261,True,id_map
+fotmob,1529161,Max Finkgräfe,RB Leipzig,629741,True,id_map
+fotmob,1660228,Jan Leszczyński,Borussia Mönchengladbach,626569,True,id_map
+fotmob,1793874,Wael Mohya,Borussia Mönchengladbach,679296,True,id_map
+fotmob,1975572,Mathieu Nguefack,Borussia Mönchengladbach,648805,True,id_map
+fotmob,158234,Timothy Chandler,Eintracht Frankfurt,57500,True,id_map
+fotmob,166733,Christopher Trimmel,1. FC Union Berlin,62422,True,id_map
+fotmob,177714,Mario Götze,Eintracht Frankfurt,69600,True,id_map
+fotmob,304348,Rani Khedira,1. FC Union Berlin,111450,True,id_map
+fotmob,304354,Janik Haberer,1. FC Union Berlin,111453,True,id_map
+fotmob,451628,Carl Klaus,1. FC Union Berlin,212693,True,id_map
+fotmob,622373,Josip Juranović,1. FC Union Berlin,210791,True,id_map
+fotmob,628201,Robin Koch,Eintracht Frankfurt,193645,True,id_map
+fotmob,658440,Tim Skarke,1. FC Union Berlin,212397,True,id_map
+fotmob,767800,Felix Uduokhai,1. FC Union Berlin,221693,True,id_map
+fotmob,783585,Emmanuel Latte Lath,1. FC Union Berlin,233581,True,id_map
+fotmob,792756,Michel Aebischer,1. FC Union Berlin,235865,True,id_map
+fotmob,836726,András Schäfer,1. FC Union Berlin,457734,True,id_map
+fotmob,860260,Derrick Köhn,1. FC Union Berlin,429524,True,id_map
+fotmob,947901,Jonathan Burkardt,Eintracht Frankfurt,225485,True,id_map
+fotmob,949673,Woo-Yeong Jeong,1. FC Union Berlin,446215,True,id_map
+fotmob,1126768,Raphael Onyedika,Eintracht Frankfurt,503548,True,id_map
+fotmob,1156148,Matheo Raab,1. FC Union Berlin,229511,True,id_map
+fotmob,1199947,Leopold Querfeld,1. FC Union Berlin,518058,True,id_map
+fotmob,1231677,Zeno Van Den Bosch,1. FC Union Berlin,531858,True,id_map
+fotmob,1242198,Marin Ljubičić,1. FC Union Berlin,523678,True,id_map
+fotmob,1281100,Noah Atubolu,Eintracht Frankfurt,470306,True,id_map
+fotmob,1282582,Tom Rothe,1. FC Union Berlin,513450,True,id_map
+fotmob,1336529,Oscar Højlund,Eintracht Frankfurt,578611,True,id_map
+fotmob,1345875,Farès Chaïbi,Eintracht Frankfurt,573379,True,id_map
+fotmob,1367924,Can Uzun,Eintracht Frankfurt,554087,True,id_map
+fotmob,1393672,Jean-Mattéo Bahoya,Eintracht Frankfurt,587982,True,id_map
+fotmob,1403332,Aljoscha Kemlein,1. FC Union Berlin,575397,True,id_map
+fotmob,1418816,Kauã,Eintracht Frankfurt,575549,True,id_map
+fotmob,1421821,Elias Baum,Eintracht Frankfurt,547216,True,id_map
+fotmob,1447050,Younes Ebnoutalib,Eintracht Frankfurt,613801,True,id_map
+fotmob,1520506,Livan Burcu,1. FC Union Berlin,519095,True,id_map
+fotmob,1596359,Noël Aséko,Eintracht Frankfurt,549875,True,id_map
+fotmob,1627706,Keita Kosugi,Eintracht Frankfurt,623214,True,id_map
+fotmob,1671553,Jeremiaha Maluze,Eintracht Frankfurt,700073,True,id_map
+fotmob,1680173,Ayoube Amaimouni-Echghouyab,Eintracht Frankfurt,702409,True,id_map
+fotmob,1690128,Malik Pimpong,Eintracht Frankfurt,687059,True,id_map
+fotmob,1717491,Love Arrhov,Eintracht Frankfurt,649816,True,id_map
+fotmob,1738366,Otávio,Eintracht Frankfurt,694362,True,id_map
+fotmob,1958812,Linus Guether,1. FC Union Berlin,696486,True,id_map
+fotmob,186557,Frederik Rønnow,1. FC Union Berlin,89628,True,id_map
+fotmob,447959,Robert Skov,1. FC Union Berlin,162037,True,id_map
+fotmob,923498,Moussa Diaby,Bayer 04 Leverkusen,243557,True,id_map
+fotmob,1381853,Tim Oermann,Bayer 04 Leverkusen,587477,True,id_map
+fotmob,888745,Nicolas-Gerrit Kühn,Borussia Mönchengladbach,247716,True,id_map
+fotmob,1276331,Fabio Chiarodia,Borussia Mönchengladbach,544822,True,id_map
+fotmob,629805,Ritsu Doan,Eintracht Frankfurt,205252,True,id_map
+fotmob,689065,Alexis Claude-Maurice,FC Augsburg,218357,True,id_map
+fotmob,1073941,Lilian Brassier,Eintracht Frankfurt,447547,True,id_map
+fotmob,1539619,Juma Bah,FC Augsburg,632880,True,id_map
+fotmob,193901,Stefan Bell,1. FSV Mainz 05,80941,True,id_map
+fotmob,1025462,Fábio Vieira,Hamburger SV,438098,True,id_map
+fotmob,1049679,David Møller Wolfe,Hamburger SV,497949,True,id_map
+fotmob,1185568,Benedict Hollerbach,1. FSV Mainz 05,465993,True,id_map
+fotmob,1283288,Maximilian Kinzig,1. FSV Mainz 05,fm_1283288,True,id_map
+fotmob,1287871,Zakaria El Ouahdi,Hamburger SV,547774,True,id_map
+fotmob,1089685,Carney Chukwuemeka,Borussia Dortmund,478912,True,id_map
+fotmob,1124825,Tim Lemperle,TSG 1899 Hoffenheim,470305,True,id_map
+fotmob,1254234,Ethan Nwaneri,Borussia Dortmund,499175,True,id_map
+fotmob,1577843,Bruno Ogbus,Sport-Club Freiburg,588935,True,id_map
+fotmob,469763,Kenan Karaman,FC Schalke 04,165172,True,id_map
+fotmob,1156141,Jamal Musiala,FC Bayern München,244857,True,id_map
+fotmob,622091,Borna Sosa,1. FC Köln,218364,True,id_map
+fotmob,892679,Chris Führich,VfB Stuttgart,442218,True,id_map
+fotmob,916092,Imad Rondić,1. FC Köln,430502,True,id_map
+fotmob,1407250,Mikey Moore,1. FC Köln,499721,True,id_map
+fotmob,1425998,Leo Sauer,VfB Stuttgart,556187,True,id_map
+fotmob,1793638,Yanik Spalt,VfB Stuttgart,518973,True,id_map
+fotmob,73409,Ørjan Håskjold Nyland,RB Leipzig,98770,True,id_map
+fotmob,425962,Niklas Stark,SV Werder Bremen,160541,True,id_map
+fotmob,526657,Lukas Klostermann,RB Leipzig,180839,True,id_map
+fotmob,1053674,Moussa N'Diaye,SV Werder Bremen,592692,True,id_map
+fotmob,1111980,Youri Regeer,SV Werder Bremen,492629,True,id_map
+fotmob,1274060,Neil El Aynaoui,RB Leipzig,545286,True,id_map
+fotmob,1283403,Oskar Wójcik,SV Werder Bremen,511704,True,id_map
+fotmob,1412137,Marc Guiu,RB Leipzig,499309,True,id_map
+fotmob,1643776,Abdoul Koné,RB Leipzig,657512,True,id_map
+fotmob,1860819,Samba Konaté,RB Leipzig,712725,True,id_map
+fotmob,770136,Martin Terrier,Bayer 04 Leverkusen,232176,True,id_map
+fotmob,1395704,Guéla Doué,Bayer 04 Leverkusen,503720,True,id_map
+fotmob,559065,Ramy Bensebaini,Borussia Dortmund,189791,True,id_map
+fotmob,767790,Felix Götze,SC Paderborn 07,225354,True,id_map
+fotmob,1002058,Nico Schlotterbeck,Borussia Dortmund,470836,True,id_map
+fotmob,385437,Serge Gnabry,FC Bayern München,133798,True,id_map
+fotmob,298823,Mitchell Weiser,SV Werder Bremen,109203,True,id_map
+fotmob,936140,Sebastian Sebulonsen,1. FC Köln,502821,True,id_map
+fotmob,764507,Florian Neuhaus,Borussia Mönchengladbach,229231,True,id_map
+fotmob,727817,Koki Machida,TSG 1899 Hoffenheim,205837,True,id_map
+fotmob,1219540,Fisnik Asllani,TSG 1899 Hoffenheim,561060,True,id_map
+fotmob,1663160,Maximilian Herwerth,VfB Stuttgart,589195,True,id_map
+fotmob,1176780,Nnamdi Collins,Eintracht Frankfurt,492942,True,id_map
+fotmob,1202595,Warmed Omari,Hamburger SV,503732,True,id_map
+fotmob,1314412,Rômulo,RB Leipzig,546855,True,id_map
+fotmob,1486541,Assan Ouédraogo,RB Leipzig,569015,True,id_map
+fotmob,620026,Hee-Chan Hwang,FC Schalke 04,184754,True,id_map
+fotmob,852049,Kastriot Imeri,1. FC Union Berlin,486419,True,id_map
+fotmob,1199283,Eric Martel,1. FSV Mainz 05,487868,True,id_map
+fotmob,1175708,Ansgar Knauff,Eintracht Frankfurt,492931,True,id_map
+fotmob,540073,Gian-Luca Waldschmidt,1. FC Köln,168143,True,id_map
+fotmob,419774,Sven Michel,SC Paderborn 07,164432,True,id_map
+fotmob,1688956,Ruben Müller,SC Paderborn 07,547335,True,id_map
+fotmob,869298,Nikolas Nartey,VfB Stuttgart,430817,True,id_map
+fotmob,1034808,Sacha Boey,FC Bayern München,481616,True,id_map
+fotmob,1561984,Sima Suso,FC Augsburg,558681,True,id_map
+fotmob,2155105,Darwin Soylu,SV Werder Bremen,627809,True,id_map
+fotmob,1054026,Yukhym Konoplya,Borussia Mönchengladbach,437869,True,id_map
+fotmob,1337143,Zento Uno,Borussia Mönchengladbach,567067,True,id_map
+fotmob,1838513,Fritz Fleck,Borussia Mönchengladbach,647875,True,id_map
+fotmob,556503,Jannik Huth,Sport-Club Freiburg,fm_556503,True,id_map
+fotmob,1075815,Patrick Osterhage,Sport-Club Freiburg,440824,True,id_map
+fotmob,1179182,Adrian Gantenbein,FC Schalke 04,549985,True,id_map
+fotmob,759817,Miro Muheim,Hamburger SV,198230,True,id_map
+fotmob,1027194,Alexander Prass,TSG 1899 Hoffenheim,442305,True,id_map
+fotmob,1071178,Immanuël Pherai,Hamburger SV,423045,True,id_map
+fotmob,1644278,Alexander Røssing,Hamburger SV,657978,True,id_map
+fotmob,877700,Nathan Tella,Bayer 04 Leverkusen,203389,True,id_map
+fotmob,1192406,Lorenz Assignon,VfB Stuttgart,503724,True,id_map
+fotmob,1478098,Dennis Seimen,VfB Stuttgart,516952,True,id_map
+fotmob,609504,Oliver Burke,1. FC Union Berlin,197937,True,id_map
+fotmob,940015,Tom Zimmerschied,SV 07 Elversberg,513365,True,id_map
+fotmob,1281256,Frederik Schmahl,SV 07 Elversberg,625932,True,id_map
+fotmob,2062767,Mekhi Gray,1. FC Union Berlin,685527,True,id_map
+fotmob,1030836,Rihito Yamamoto,Sport-Club Freiburg,465917,True,id_map
+fotmob,94841,Sven Ulreich,FC Bayern München,49431,True,id_map
+fotmob,1457957,Valentin Lässig,TSG 1899 Hoffenheim,515203,True,id_map
+fotmob,1904630,Iaia Manco Danfa,Borussia Mönchengladbach,fm_1904630,True,id_map
+fotmob,1829439,Assad Kotya Fofana,1. FC Köln,685741,True,id_map
+fotmob,1730149,Raif Adam,SV 07 Elversberg,576784,True,id_map
+fotmob,1270002,Luca Jaquez,VfB Stuttgart,563987,True,id_map
+fotmob,1175939,Paul Nebel,1. FSV Mainz 05,487986,True,id_map
+fotmob,1729839,Enzo Duarte,Borussia Dortmund,fotmob_new_1729839,False,
+fotmob,721091,Finn Porath,FC Schalke 04,fotmob_new_721091,False,
+fotmob,815566,Bryan Lasme,FC Schalke 04,fotmob_new_815566,False,
+fotmob,1640790,Malek El Mala,1. FC Köln,fotmob_new_1640790,False,
+fotmob,1975808,Jean-Paul Ndiaye,FC Schalke 04,fotmob_new_1975808,False,
+fotmob,1740666,Tim Binder,FC Bayern München,fotmob_new_1740666,False,
+fotmob,1771196,Cassiano Kiala,FC Bayern München,657171,True,master
+fotmob,1771197,David Santos Daiber,FC Bayern München,614770,True,master
+fotmob,1807485,Jannis Bärtl,FC Bayern München,fotmob_new_1807485,False,
+fotmob,1869761,Kenny Quetant,SV Werder Bremen,579916,True,master_transfer
+fotmob,2264137,Jason Dean Bissi Mouelle,Hamburger SV,fotmob_new_2264137,False,
+fotmob,747718,Christoph Baumgartner,RB Leipzig,454831,True,master
+fotmob,658794,Lion Schweers,Borussia Mönchengladbach,ws_405380,True,id_map
+fotmob,2030060,Josiah Uwakhonye,Borussia Mönchengladbach,fm_2030060,True,id_map

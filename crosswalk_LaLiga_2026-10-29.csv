@@ -1,0 +1,1640 @@
+source,source_native_id,source_name,team,canonical_player_id,matched_to_master,match_via
+opta,720320,Aaron Mayol,Valencia,720320,True,id_map
+opta,234369,Aarón Martín,Racing de Santander,234369,True,id_map
+opta,500745,Abde Ezzalzouli,Real Betis,500745,True,id_map
+opta,586866,Abde Rebbach,Alaves,586866,True,id_map
+opta,463001,Abdel Abqar,Getafe,463001,True,id_map
+opta,631935,Abdoulaye Faye,Celta Vigo,631935,True,id_map
+opta,498594,Abel Bretones,Osasuna,498594,True,id_map
+opta,572662,Abiel Osorio,Elche,572662,True,id_map
+opta,499300,Adam Aznou,Málaga,499300,True,id_map
+opta,629738,Adama Boiro,Athletic Club,629738,True,id_map
+opta,720618,Adama Timera,Espanyol,720618,True,id_map
+opta,159533,Adama Traoré,Deportivo de A Coruña,159533,True,id_map
+opta,219352,Ademola Lookman,Atletico Madrid,219352,True,id_map
+opta,465599,Adrià Altimira,Deportivo de A Coruña,465599,True,id_map
+opta,446990,Adrià Pedrosa,Rayo Vallecano,446990,True,id_map
+opta,593196,Adrián Niño,Málaga,593196,True,id_map
+opta,437808,Adrián de la Fuente,Levante,437808,True,id_map
+opta,472145,Aihen Muñoz,Real Sociedad,472145,True,id_map
+opta,609616,Aimar Blázquez,Valencia,609616,True,id_map
+opta,484702,Aimar Oroz,Osasuna,484702,True,id_map
+opta,80993,Aitor Fernández,Osasuna,80993,True,id_map
+opta,551482,Aitor Mañas,Alaves,551482,True,id_map
+opta,440593,Aitor Paredes,Athletic Club,440593,True,id_map
+opta,441303,Aitor Ruibal,Real Betis,441303,True,master
+opta,665522,Alassane Diatta,Villarreal,665522,True,id_map
+opta,645746,Alberto Calatrava,Levante,645746,True,id_map
+opta,513956,Alberto Moleiro,Villarreal,513956,True,id_map
+opta,654780,Alberto Risco,Getafe,654780,True,id_map
+opta,199250,Aleix Febas,Celta Vigo,199250,True,id_map
+opta,493019,Alejandro Balde,Barcelona,493019,True,id_map
+opta,244273,Alejandro Catena,Osasuna,244273,True,id_map
+opta,106004,Alejandro Grimaldo,Atletico Madrid,106004,True,id_map
+opta,631986,Alejandro Rego,Athletic Club,631986,True,id_map
+opta,483116,Alemão,Rayo Vallecano,483116,True,id_map
+opta,195385,Alex Berenguer,Athletic Club,195385,True,id_map
+opta,484917,Alex Freeman,Villarreal,484917,True,id_map
+opta,627656,Alex Lebarbier,Real Sociedad,627656,True,id_map
+opta,634254,Alex Marchal,Real Sociedad,634254,True,id_map
+opta,643319,Alex Panach,Valencia,643319,True,id_map
+opta,143877,Alexander Sørloth,Atletico Madrid,143877,True,id_map
+opta,704994,Alexis Ciria,Real Madrid,704994,True,id_map
+opta,446814,Alfon González,Sevilla,446814,True,id_map
+opta,165795,Alfonso Herrero,,165795,True,id_map
+opta,631382,Ali Houary,Elche,631382,True,id_map
+opta,449576,Aliou Dieng,Valencia,449576,True,id_map
+opta,471138,Ander Barrenetxea,Real Sociedad,471138,True,id_map
+opta,431644,Ander Guevara,Alaves,431644,True,id_map
+opta,235227,Andoni Gorosabel,Espanyol,235227,True,id_map
+opta,135363,Andreas Christensen,Barcelona,135363,True,id_map
+opta,466543,Andrei Ratiu,Rayo Vallecano,466543,True,id_map
+opta,224965,Andrii Lunin,Real Madrid,224965,True,master
+opta,247636,André Almeida,Racing de Santander,247636,True,id_map
+opta,672231,Andrés Antañón,Celta Vigo,672231,True,id_map
+opta,562922,Andrés Castrín,Sevilla,562922,True,id_map
+opta,606798,Andrés García,Getafe,606798,True,id_map
+opta,444284,Andrés Martín,Racing de Santander,444284,True,id_map
+opta,718495,Andrés Vallecillo,Racing de Santander,718495,True,id_map
+opta,145235,Angeliño,Deportivo de A Coruña,145235,True,id_map
+opta,94273,Ante Budimir,Osasuna,94273,True,id_map
+opta,232826,Anthony Gordon,Barcelona,232826,True,id_map
+opta,437465,Antonio Blanco,Alaves,437465,True,id_map
+opta,102380,Antonio Rüdiger,Real Madrid,102380,True,id_map
+opta,176245,Antonio Sivera,Alaves,176245,True,id_map
+opta,467169,Antony,Real Betis,467169,True,id_map
+opta,520250,Arda Güler,Real Madrid,520250,True,id_map
+opta,437774,Arnau Comas,Deportivo de A Coruña,437774,True,id_map
+opta,517333,Arnau Martínez,Valencia,517333,True,id_map
+opta,552095,Arnau Ortiz,Atletico Madrid,552095,True,id_map
+opta,220307,Arnaut Danjuma,Valencia,220307,True,id_map
+opta,509285,Arouna Sangante,Sevilla,509285,True,id_map
+opta,475612,Arsen Zakharyan,Real Sociedad,475612,True,id_map
+opta,647953,Asier Bonel,Osasuna,647953,True,id_map
+opta,646142,Asier Osambela,Osasuna,646142,True,id_map
+opta,212770,Asier Villalibre,Racing de Santander,212770,True,id_map
+opta,173209,Augusto Batalla,Rayo Vallecano,173209,True,id_map
+opta,219292,Aurélien Tchouaméni,Real Madrid,219292,True,id_map
+opta,669592,Axel Tape,Levante,669592,True,id_map
+opta,146941,Aymeric Laporte,Athletic Club,146941,True,id_map
+opta,168580,Ayoze Pérez,Villarreal,168580,True,id_map
+opta,86813,Aïssa Mandi,Levante,86813,True,id_map
+opta,165809,Bernardo Silva,Real Madrid,165809,True,id_map
+opta,631990,Beñat Gerenabarrena,Athletic Club,631990,True,id_map
+opta,470506,Beñat Prados,Athletic Club,470506,True,id_map
+opta,488026,Beñat Turrientes,Real Sociedad,488026,True,id_map
+opta,711110,Bil Nsongo,Deportivo de A Coruña,711110,True,id_map
+opta,202044,Borja Iglesias,Celta Vigo,202044,True,id_map
+opta,199248,Borja Mayoral,Getafe,199248,True,id_map
+opta,216183,Brahim Díaz,Real Madrid,216183,True,id_map
+opta,499314,Brian Fariñas,Barcelona,499314,True,id_map
+opta,679125,Bright Ede,Deportivo de A Coruña,679125,True,id_map
+opta,522601,Bryan Zaragoza,Espanyol,522601,True,id_map
+opta,633425,Buba Sangaré,Elche,633425,True,id_map
+opta,568812,Cala,Espanyol,568812,True,id_map
+opta,174249,Carl Starfelt,Celta Vigo,174249,True,id_map
+opta,179271,Carles Aleñá,Alaves,179271,True,id_map
+opta,448178,Carlos Dotor,Málaga,448178,True,id_map
+opta,645745,Carlos Espí,Real Madrid,645745,True,id_map
+opta,710081,Carlos Maciá,Villarreal,710081,True,id_map
+opta,531219,Carlos Martín,Atletico Madrid,531219,True,id_map
+opta,244707,Carlos Protesoni,Alaves,244707,True,id_map
+opta,562075,Carlos Puga,Málaga,562075,True,id_map
+opta,588993,Carlos Romero,Villarreal,588993,True,id_map
+opta,224860,Carlos Soler,Real Sociedad,224860,True,id_map
+opta,720621,Carlos Sánchez,Racing de Santander,720621,True,id_map
+opta,494921,Carlos Álvarez,Levante,494921,True,id_map
+opta,499358,Cestero,Real Madrid,499358,True,id_map
+opta,696086,Cheikh Thiam,Villarreal,696086,True,id_map
+opta,250437,Chidera Ejuke,Sevilla,250437,True,id_map
+opta,643385,Christian Imga,Athletic Club,643385,True,id_map
+opta,620045,Chupe,Málaga,620045,True,id_map
+opta,514968,Clemens Riedel,Espanyol,514968,True,id_map
+opta,510657,Couhaib Driouech,Celta Vigo,510657,True,id_map
+opta,221632,Cristian Romero,Atletico Madrid,221632,True,id_map
+opta,709993,Cubo,Atletico Madrid,709993,True,id_map
+opta,244716,Cucho Hernández,Real Betis,244716,True,id_map
+opta,675560,Curro Burgos,Getafe,675560,True,id_map
+opta,492898,César Tárrega,Valencia,492898,True,id_map
+opta,568583,Dani Barcia,Deportivo de A Coruña,568583,True,id_map
+opta,88483,Dani Carvajal,Getafe,88483,True,id_map
+opta,182539,Dani Ceballos,Real Betis,182539,True,id_map
+opta,491436,Dani Cárdenas,Rayo Vallecano,491436,True,id_map
+opta,561391,Dani Lorenzo,Málaga,561391,True,id_map
+opta,593193,Dani Martinez,Atletico Madrid,593193,True,id_map
+opta,179370,Dani Olmo,Barcelona,179370,True,id_map
+opta,240071,Dani Raba,Valencia,240071,True,id_map
+opta,621306,Dani Requena,Levante,621306,True,id_map
+opta,437554,Dani Vivian,Athletic Club,437554,True,id_map
+opta,442299,David Affengruber,Elche,442299,True,id_map
+opta,495391,David Larrubia,Málaga,495391,True,id_map
+opta,554651,David Mella,Deportivo de A Coruña,554651,True,id_map
+opta,576682,David Otorbi,Valencia,576682,True,id_map
+opta,175204,David Soria,Getafe,175204,True,id_map
+opta,700202,Davinchi,Getafe,700202,True,id_map
+opta,554605,Dean Huijsen,Real Madrid,554605,True,id_map
+opta,89572,Denis Suárez,Alaves,89572,True,id_map
+opta,199432,Denzel Dumfries,Real Madrid,199432,True,id_map
+opta,664923,Diego Díaz,Racing de Santander,664923,True,id_map
+opta,149915,Diego Llorente,Real Betis,149915,True,id_map
+opta,171129,Diego Rico,Osasuna,171129,True,id_map
+opta,562005,Diego Villares,Deportivo de A Coruña,562005,True,id_map
+opta,96767,Dimitri Foulquier,Valencia,96767,True,id_map
+opta,149838,Djené Dakonam,Getafe,149838,True,id_map
+opta,198534,Dominik Livakovic,Barcelona,198534,True,id_map
+opta,235093,Dávid Hancko,Atletico Madrid,235093,True,id_map
+opta,748228,Ebrahima Drammeh,Getafe,748228,True,id_map
+opta,592810,Edu Altozano,Sevilla,592810,True,id_map
+opta,420909,Edu Expósito,Espanyol,420909,True,id_map
+opta,475561,Eduardo Camavinga,Real Madrid,475561,True,id_map
+opta,138041,Einar Galilea,Málaga,138041,True,id_map
+opta,193509,Emil Audero,Rayo Vallecano,193509,True,id_map
+opta,577107,Endrick,Real Madrid,577107,True,id_map
+opta,216473,Eneko Jauregi,Málaga,216473,True,id_map
+opta,168636,Enes Ünal,Getafe,168636,True,id_map
+opta,492841,Enzo Bardeli,Levante,492841,True,id_map
+opta,437677,Enzo Boyomo,Osasuna,437677,True,id_map
+opta,432656,Eric García,Barcelona,432656,True,id_map
+opta,172845,Ezequiel Ponce,Elche,172845,True,id_map
+opta,564895,Facu González,Racing de Santander,564895,True,id_map
+opta,614242,Facundo Bernal,Real Betis,614242,True,id_map
+opta,536916,Facundo Buonanotte,Elche,536916,True,id_map
+opta,536884,Federico Redondo,Elche,536884,True,id_map
+opta,223255,Federico Valverde,Real Madrid,223255,True,id_map
+opta,502290,Fer Niño,Elche,502290,True,id_map
+opta,551086,Fermín López,Barcelona,551086,True,id_map
+opta,241869,Fernando Calero,Málaga,241869,True,id_map
+opta,464575,Ferran Jutglà,Celta Vigo,464575,True,id_map
+opta,242169,Filip Ugrinic,Valencia,242169,True,id_map
+opta,77359,Florian Lejeune,Rayo Vallecano,77359,True,id_map
+opta,227166,Fran García,Real Betis,227166,True,id_map
+opta,466057,Fran Pérez,Rayo Vallecano,466057,True,id_map
+opta,494495,Francho Serrano,Getafe,494495,True,id_map
+opta,209712,Frenkie de Jong,Barcelona,209712,True,id_map
+opta,165804,Fábio Cardoso,Sevilla,165804,True,id_map
+opta,449991,Félix Correia,Sevilla,449991,True,id_map
+opta,205651,Gabriel Jesus,Barcelona,205651,True,id_map
+opta,617127,Gabriel Moscardo,Espanyol,617127,True,id_map
+opta,213102,Gabriel Suazo,Sevilla,213102,True,id_map
+opta,500046,Gavi,Barcelona,500046,True,id_map
+opta,499209,Georges Mikautadze,Villarreal,499209,True,id_map
+opta,523234,Gerard Martín,Barcelona,523234,True,id_map
+opta,93721,Gerard Moreno,Villarreal,93721,True,id_map
+opta,467020,Germán Valera,Elche,467020,True,id_map
+opta,456504,Giacomo Quagliata,Deportivo de A Coruña,456504,True,id_map
+opta,486783,Giorgi Guliashvili,Racing de Santander,486783,True,id_map
+opta,428798,Giorgi Kochorashvili,Sevilla,428798,True,id_map
+opta,451017,Giorgi Tsitaishvili,Rayo Vallecano,451017,True,id_map
+opta,200826,Giovani Lo Celso,Real Betis,200826,True,id_map
+opta,482652,Giuliano Simeone,Atletico Madrid,482652,True,id_map
+opta,747880,Gnangoro,Rayo Vallecano,747880,True,id_map
+opta,450782,Gonzalo Villar,Elche,450782,True,id_map
+opta,181284,Gonçalo Guedes,Real Sociedad,181284,True,id_map
+opta,632509,Gorka Carrera,Real Sociedad,632509,True,id_map
+opta,220182,Gorka Guruzeta,Athletic Club,220182,True,id_map
+opta,179830,Grady Diangana,Elche,179830,True,id_map
+opta,197024,Guido Rodríguez,Valencia,197024,True,id_map
+opta,560564,Gustavo Puerta,Racing de Santander,560564,True,id_map
+opta,482236,Haitam Abaida,Málaga,482236,True,id_map
+opta,684337,Hamza Abdelkarim,Barcelona,684337,True,id_map
+opta,444884,Harvey Elliott,Valencia,444884,True,id_map
+opta,657325,Hugo Burcio,Celta Vigo,657325,True,id_map
+opta,439716,Hugo Duro,Valencia,439716,True,id_map
+opta,492900,Hugo González,Celta Vigo,492900,True,id_map
+opta,493055,Hugo Novoa,Alaves,493055,True,id_map
+opta,730982,Hugo Pérez,Racing de Santander,730982,True,id_map
+opta,620583,Hugo Rincón,Athletic Club,620583,True,id_map
+opta,538283,Hugo Sotelo,Levante,538283,True,id_map
+opta,550566,Hugo Álvarez,Celta Vigo,550566,True,id_map
+opta,98745,Héctor Bellerín,Real Betis,98745,True,id_map
+opta,499310,Héctor Fort,Real Sociedad,499310,True,id_map
+opta,40270,Iago Aspas,Celta Vigo,40270,True,id_map
+opta,634238,Ibai Aguirre,Real Sociedad,634238,True,id_map
+opta,204716,Ibrahima Konaté,Real Madrid,204716,True,id_map
+opta,550797,Ibrahima Sow,Sevilla,550797,True,id_map
+opta,591617,Ifeanyi Ndukwe,Levante,591617,True,id_map
+opta,216475,Igor Zubeldia,Real Sociedad,216475,True,id_map
+opta,637198,Iker Córdoba,Valencia,637198,True,id_map
+opta,490726,Iker Losada,Real Betis,490726,True,id_map
+opta,621933,Iker Luque,Racing de Santander,621933,True,id_map
+opta,668821,Iker Monreal,Athletic Club,668821,True,id_map
+opta,592812,Iker Munoz,Sevilla,592812,True,id_map
+opta,589577,Iker Muñoz,Osasuna,589577,True,id_map
+opta,465689,Ilaix Moriba,Celta Vigo,465689,True,id_map
+opta,500043,Ilias Akhomach,Villarreal,500043,True,id_map
+opta,215531,Ionut Radu,Celta Vigo,215531,True,id_map
+opta,610206,Isaac Romero,Sevilla,610206,True,id_map
+opta,80209,Isco,Real Betis,80209,True,id_map
+opta,434078,Isi Palazón,Rayo Vallecano,434078,True,id_map
+opta,499356,Iván Alonso,Rayo Vallecano,499356,True,id_map
+opta,503798,Iván Azón,Getafe,503798,True,id_map
+opta,97624,Iván Balliu,Rayo Vallecano,97624,True,id_map
+opta,224467,Iván Martín,Racing de Santander,224467,True,id_map
+opta,521508,Iván Romero,Levante,521508,True,id_map
+opta,620616,Izan Merino,Málaga,620616,True,id_map
+opta,643253,Izei Hernández,Alaves,643253,True,id_map
+opta,197334,Iñaki Williams,Athletic Club,197334,True,id_map
+opta,646149,Iñigo Arguibide,Osasuna,646149,True,id_map
+opta,96736,Iñigo Ruiz de Galarreta,Athletic Club,96736,True,id_map
+opta,242833,Iñigo Vicente,Racing de Santander,242833,True,id_map
+opta,81352,Jan Oblak,Atletico Madrid,81352,True,id_map
+opta,670115,Jaume Durá,Valencia,670115,True,id_map
+opta,219717,Javi Galán,Celta Vigo,219717,True,id_map
+opta,546540,Javi Guerra,Valencia,546540,True,id_map
+opta,628184,Javi Hernández,Espanyol,628184,True,id_map
+opta,714598,Javi Morcillo,Elche,714598,True,id_map
+opta,431434,Javi Puado,Espanyol,431434,True,id_map
+opta,638238,Javi Rodríguez,Celta Vigo,638238,True,id_map
+opta,493333,Javi Rueda,Celta Vigo,493333,True,id_map
+opta,677054,Jean Valou,Getafe,677054,True,id_map
+opta,565992,Jeanuël Belocian,Racing de Santander,565992,True,id_map
+opta,454667,Jens Cajuste,Málaga,454667,True,id_map
+opta,160540,Jeremy Toljan,Levante,160540,True,id_map
+opta,437549,Jesús Areso,Athletic Club,437549,True,id_map
+opta,634381,Jesús Cruz,Sevilla,634381,True,id_map
+opta,656371,Jesús Martínez,Getafe,656371,True,id_map
+opta,466044,Jesús Vázquez,Valencia,466044,True,id_map
+opta,449928,Joan García,Barcelona,449928,True,id_map
+opta,437831,Joaquín Muñoz,Málaga,437831,True,id_map
+opta,612309,Job Ochieng,Real Sociedad,612309,True,id_map
+opta,513950,Jofre Carreras,Espanyol,513950,True,id_map
+opta,152723,Johan Mojica,Getafe,152723,True,id_map
+opta,564923,Johaneko Louis-Jean,Athletic Club,564923,True,id_map
+opta,488662,Johnny Cardoso,Atletico Madrid,488662,True,id_map
+opta,513945,Jon Ander Olasagasti,Levante,513945,True,id_map
+opta,479816,Jon Aramburu,Real Sociedad,479816,True,id_map
+opta,546812,Jon Gorrotxategi,Real Sociedad,546812,True,id_map
+opta,201178,Jon Guridi,Sevilla,201178,True,id_map
+opta,620617,Jon Martín,Real Sociedad,620617,True,id_map
+opta,477463,Jon Moncayola,Osasuna,477463,True,id_map
+opta,449931,Jon Pacheco,Real Sociedad,449931,True,id_map
+opta,568404,Jonathan Asp Jensen,Deportivo de A Coruña,568404,True,id_map
+opta,421821,Jonathan David,Atletico Madrid,421821,True,id_map
+opta,523079,Jonathan Dubasin,Osasuna,523079,True,id_map
+opta,566165,Jones El Abdellaoui,Celta Vigo,566165,True,id_map
+opta,114128,Jonny Otto,Alaves,114128,True,id_map
+opta,723493,Jordi Pesquer,Barcelona,723493,True,id_map
+opta,648762,Jorge Cabello,Levante,648762,True,id_map
+opta,621929,Jorge Castellanos,Racing de Santander,621929,True,id_map
+opta,593184,Jorge Castillo,Atletico Madrid,593184,True,id_map
+opta,710911,Jorge Domínguez,Atletico Madrid,710911,True,id_map
+opta,463784,Jorge Herrando,Osasuna,463784,True,id_map
+opta,658061,Jorge Salinas,Racing de Santander,658061,True,id_map
+opta,241153,Jorge de Frutos,Rayo Vallecano,241153,True,id_map
+opta,199195,Josan,Elche,199195,True,id_map
+opta,633441,Joselillo Gaitán,Villarreal,633441,True,id_map
+opta,619893,Joselu Pérez,Getafe,619893,True,id_map
+opta,746342,Joseph Otu,Málaga,746342,True,id_map
+opta,680523,José Antonio Morante,Real Betis,680523,True,id_map
+opta,132105,José Gayà,Valencia,132105,True,id_map
+opta,151883,José María Giménez,Deportivo de A Coruña,151883,True,id_map
+opta,515611,José Salinas,Málaga,515611,True,id_map
+opta,623680,José Ángel,Espanyol,623680,True,id_map
+opta,545998,José Ángel Carmona,Sevilla,545998,True,id_map
+opta,538671,Jozhua Vertrouwd,Rayo Vallecano,538671,True,id_map
+opta,121145,João Cancelo,Barcelona,121145,True,id_map
+opta,433632,Juan Berrocal,Málaga,433632,True,id_map
+opta,553751,Juan Carlos Arana,Racing de Santander,553751,True,id_map
+opta,451281,Juan Cruz,Málaga,451281,True,id_map
+opta,234908,Juan Foyth,Villarreal,234908,True,id_map
+opta,464283,Juan Iglesias,Sevilla,464283,True,id_map
+opta,706221,Juani,Málaga,706221,True,id_map
+opta,244855,Jude Bellingham,Real Madrid,244855,True,id_map
+opta,470508,Julen Agirrezabala,,470508,True,id_map
+opta,495392,Julen Lobete,Málaga,495392,True,id_map
+opta,220325,Jules Koundé,Barcelona,220325,True,id_map
+opta,551311,Julio Díaz,Sevilla,551311,True,id_map
+opta,461358,Julián Alvarez,Atletico Madrid,461358,True,id_map
+opta,443967,Junior Firpo,Real Betis,443967,True,id_map
+opta,467622,Justin de Haas,Valencia,467622,True,id_map
+opta,645755,Kareem Tunde,Levante,645755,True,id_map
+opta,453750,Karim Adeyemi,Barcelona,453750,True,id_map
+opta,588010,Karl Etta Eyong,Levante,588010,True,id_map
+opta,479203,Kevin Lomónaco,Elche,479203,True,id_map
+opta,568601,Kevin Sánchez,Deportivo de A Coruña,568601,True,id_map
+opta,178870,Kike Barja,Osasuna,178870,True,id_map
+opta,550816,Kike Salas,Sevilla,550816,True,id_map
+opta,54484,Kiko Femenía,Getafe,54484,True,id_map
+opta,77390,Koke,Atletico Madrid,77390,True,id_map
+opta,220160,Kylian Mbappé,Real Madrid,220160,True,id_map
+opta,593109,Lamine Yamal,Barcelona,593109,True,id_map
+opta,64662,Leandro Cabrera,Espanyol,64662,True,id_map
+opta,451358,Lee Kang-In,Atletico Madrid,451358,True,id_map
+opta,500755,Leo Román,,500755,True,id_map
+opta,445956,Logan Costa,Villarreal,445956,True,id_map
+opta,607463,Lorenzo Amatucci,Deportivo de A Coruña,607463,True,id_map
+opta,193774,Lucas Boyé,Alaves,193774,True,id_map
+opta,541759,Lucas Cepeda,Elche,541759,True,id_map
+opta,543316,Lucas Noubi,Deportivo de A Coruña,543316,True,id_map
+opta,513530,Lucas Stassin,Sevilla,513530,True,id_map
+opta,111232,Lucas Torró,Osasuna,111232,True,id_map
+opta,468426,Lucien Agoumé,Sevilla,468426,True,id_map
+opta,434941,Luis Rioja,Valencia,434941,True,id_map
+opta,546000,Luismi Cruz,Deportivo de A Coruña,546000,True,id_map
+opta,215510,Luiz Felipe,Rayo Vallecano,215510,True,id_map
+opta,514664,Luiz Júnior,Villarreal,514664,True,id_map
+opta,464166,Luka Sucic,Real Sociedad,464166,True,id_map
+opta,612301,Luken Beitia,Real Sociedad,612301,True,id_map
+opta,572069,Maguette Gueye,Racing de Santander,572069,True,id_map
+opta,574458,Mamadou Sarr,Real Sociedad,574458,True,id_map
+opta,749255,Manel Usedo,Levante,749255,True,id_map
+opta,550781,Manu Bueno,Sevilla,550781,True,id_map
+opta,179372,Manu Hernando,Racing de Santander,179372,True,id_map
+opta,465494,Manu Sánchez,Levante,465494,True,id_map
+opta,735727,Manuel Ángel Castillo,Sevilla,735727,True,id_map
+opta,433059,Marash Kumbulla,Rayo Vallecano,433059,True,id_map
+opta,484741,Marc Aguado,Elche,484741,True,id_map
+opta,81138,Marc Bartra,Real Betis,81138,True,id_map
+opta,637126,Marc Bernal,Barcelona,637126,True,id_map
+opta,494927,Marc Casadó,Deportivo de A Coruña,494927,True,id_map
+opta,179268,Marc Cucurella,Real Madrid,179268,True,id_map
+opta,562720,Marc Pubill,Atletico Madrid,562720,True,id_map
+opta,234370,Marc Roca,Real Betis,234370,True,id_map
+opta,719440,Marc Santos,Levante,719440,True,id_map
+opta,722839,Marco Román,Rayo Vallecano,722839,True,id_map
+opta,665388,Marco de Las Sias,Rayo Vallecano,665388,True,id_map
+opta,82263,Marcos Alonso,Celta Vigo,82263,True,id_map
+opta,604116,Marcos Fernández,Espanyol,604116,True,id_map
+opta,192364,Marcos Llorente,Atletico Madrid,192364,True,id_map
+opta,619748,Marcos Navarro,Valencia,619748,True,id_map
+opta,182816,Marcão,Sevilla,182816,True,id_map
+opta,178347,Mariano Díaz,Alaves,178347,True,id_map
+opta,561243,Mario Martín,Getafe,561243,True,id_map
+opta,633424,Mario Rivas,Real Madrid,633424,True,id_map
+opta,488042,Mario Soriano,Deportivo de A Coruña,488042,True,id_map
+opta,94618,Marko Dmitrovic,Espanyol,94618,True,id_map
+opta,611626,Maroan Sannadi,Athletic Club,611626,True,id_map
+opta,483083,Martim Neto,Elche,483083,True,id_map
+opta,568609,Martín Ochoa,Deportivo de A Coruña,568609,True,id_map
+opta,474843,Martín Satriano,Getafe,474843,True,id_map
+opta,131897,Mathew Ryan,Levante,131897,True,id_map
+opta,593181,Matia Barzic,Elche,593181,True,id_map
+opta,588222,Matteo Prati,Racing de Santander,588222,True,id_map
+opta,98448,Matías Dituro,Elche,98448,True,id_map
+opta,646145,Mauro Echegoyen,Osasuna,646145,True,id_map
+opta,429213,Miguel Loureiro,Deportivo de A Coruña,429213,True,id_map
+opta,494932,Miguel Rodríguez,Alaves,494932,True,id_map
+opta,602479,Miguel Román,Celta Vigo,602479,True,id_map
+opta,639309,Miguel Sierra,Sevilla,639309,True,id_map
+opta,628792,Mikel Goti,Real Sociedad,628792,True,id_map
+opta,632021,Mikel Jauregizar,Athletic Club,632021,True,id_map
+opta,219000,Mikel Oyarzabal,Real Sociedad,219000,True,id_map
+opta,631521,Mikel Rodríguez,Alaves,631521,True,id_map
+opta,753867,Moha Achraf,Getafe,753867,True,id_map
+opta,639184,Mohamed Hamdoune,Getafe,639184,True,id_map
+opta,109243,Moi Gómez,Osasuna,109243,True,id_map
+opta,454812,Morten Hjulmand,Atletico Madrid,454812,True,id_map
+opta,208135,Mouctar Diakhaby,Valencia,208135,True,id_map
+opta,485098,Moussa Diarra,Alaves,485098,True,id_map
+opta,436027,Mujaid Sadick,Rayo Vallecano,436027,True,id_map
+opta,704770,Nacho Pérez,Levante,704770,True,id_map
+opta,432855,Nahuel Tenaglia,Alaves,432855,True,id_map
+opta,448085,Natan,Real Betis,448085,True,id_map
+opta,496694,Nathan Saliba,Villarreal,496694,True,id_map
+opta,544538,Nelson Deossa,Real Betis,544538,True,id_map
+opta,72154,Nemanja Gudelj,Getafe,72154,True,id_map
+opta,664217,Nico Guillén,Sevilla,664217,True,id_map
+opta,494929,Nico Serrano,Athletic Club,494929,True,id_map
+opta,523654,Nico Williams,Athletic Club,523654,True,id_map
+opta,195735,Nicolas Pepe,Villarreal,195735,True,id_map
+opta,536665,Nicolás Valentini,Alaves,536665,True,id_map
+opta,746335,Nizar,Villarreal,746335,True,id_map
+opta,631383,Nordin Al Lal,Elche,631383,True,id_map
+opta,645785,Noé,Deportivo de A Coruña,645785,True,id_map
+opta,502868,Obed Vargas,Atletico Madrid,502868,True,id_map
+opta,111452,Odysseas Vlachodimos,Sevilla,111452,True,id_map
+opta,439772,Oihan Sancet,Athletic Club,439772,True,id_map
+opta,517929,Omar El Hilali,Espanyol,517929,True,id_map
+opta,179519,Orel Mangala,Getafe,179519,True,id_map
+opta,668714,Orian Goren,Barcelona,opta_new_668714,False,
+opta,242310,Oriol Rey,Levante,242310,True,id_map
+opta,507438,Orri Óskarsson,Real Sociedad,507438,True,id_map
+opta,637705,Oso,Sevilla,637705,True,id_map
+opta,503523,Pablo Barrios,Atletico Madrid,503523,True,id_map
+opta,597355,Pablo Durán,Celta Vigo,597355,True,id_map
+opta,217593,Pablo Fornals,Real Betis,217593,True,id_map
+opta,623696,Pablo García,Racing de Santander,623696,True,id_map
+opta,522856,Pablo Ibáñez,Alaves,522856,True,id_map
+opta,170154,Pablo Maffeo,Valencia,170154,True,id_map
+opta,445998,Pablo Martínez,Málaga,445998,True,id_map
+opta,547455,Pablo Marín,Real Sociedad,547455,True,id_map
+opta,469317,Pablo Ramón,Racing de Santander,469317,True,id_map
+opta,648430,Paco Cortés,Levante,648430,True,id_map
+opta,422453,Pape Gueye,Villarreal,422453,True,id_map
+opta,441175,Pathé Ciss,Rayo Vallecano,441175,True,id_map
+opta,593110,Pau Cubarsí,Barcelona,593110,True,id_map
+opta,629907,Pau Navarro,Villarreal,629907,True,id_map
+opta,490541,Pedri,Barcelona,490541,True,id_map
+opta,91393,Pedro Bigas,Elche,91393,True,id_map
+opta,435065,Pedro Díaz,Rayo Vallecano,435065,True,id_map
+opta,617105,Pedro Felipe,Racing de Santander,617105,True,id_map
+opta,632023,Peio Canales,Athletic Club,632023,True,id_map
+opta,493085,Pelayo Fernández,Rayo Vallecano,493085,True,id_map
+opta,220191,Pepelu,Valencia,220191,True,id_map
+opta,493086,Peque Fernández,Sevilla,493086,True,id_map
+opta,175090,Pere Milla,Espanyol,175090,True,id_map
+opta,530193,Petar Ratkov,Levante,530193,True,id_map
+opta,54694,Pierre-Emerick Aubameyang,Deportivo de A Coruña,54694,True,id_map
+opta,227172,Pol Lozano,Espanyol,227172,True,id_map
+opta,46506,Péter Gulácsi,Villarreal,46506,True,id_map
+opta,494960,Quilindschy Hartman,Espanyol,494960,True,id_map
+opta,567886,Quique Ribes,Celta Vigo,567886,True,id_map
+opta,608484,Rafa Rodríguez,Málaga,608484,True,id_map
+opta,654680,Rafel Bauzà,Espanyol,654680,True,id_map
+opta,640504,Rafita,Málaga,640504,True,id_map
+opta,490733,Ramón Enríquez,Málaga,490733,True,id_map
+opta,519373,Ramón Terrats,Getafe,519373,True,id_map
+opta,449300,Randy Nteka,Rayo Vallecano,449300,True,id_map
+opta,219961,Raphinha,Barcelona,219961,True,id_map
+opta,621927,Rayane Belaid,Rayo Vallecano,621927,True,id_map
+opta,551497,Raúl Asencio,Real Madrid,551497,True,id_map
+opta,490859,Raúl García,Osasuna,490859,True,id_map
+opta,465701,Raúl Moro,Osasuna,465701,True,id_map
+opta,551230,Renato Veiga,Villarreal,551230,True,id_map
+opta,464470,Riki Rodríguez,Deportivo de A Coruña,464470,True,id_map
+opta,503537,Robbie Ure,Sevilla,503537,True,id_map
+opta,460265,Robert Navarro,Athletic Club,460265,True,id_map
+opta,537940,Roberto Fernández,Espanyol,537940,True,id_map
+opta,224919,Robin Le Normand,Atletico Madrid,224919,True,id_map
+opta,627127,Rockson Yeboah,Osasuna,627127,True,id_map
+opta,220566,Rodri,Barcelona,220566,True,id_map
+opta,719474,Rodrigo Gamón,Valencia,719474,True,id_map
+opta,578538,Rodrigo Mendoza,Atletico Madrid,578538,True,id_map
+opta,437834,Rodrigo Riquelme,Real Betis,437834,True,id_map
+opta,439878,Roger Brugué,Levante,439878,True,id_map
+opta,690618,Roger Hinojo,Espanyol,690618,True,id_map
+opta,219873,Romain Del Castillo,Osasuna,219873,True,id_map
+opta,545092,Roy Revivo,Elche,545092,True,id_map
+opta,130026,Rubén García,Osasuna,130026,True,id_map
+opta,568644,Rubén López,Deportivo de A Coruña,opta_new_568644,False,
+opta,539600,Rubén Sánchez,Elche,539600,True,id_map
+opta,429534,Rubén Vargas,Sevilla,429534,True,id_map
+opta,614481,Ryunosuke Sato,Valencia,614481,True,id_map
+opta,492977,Saba Sazonov,Getafe,492977,True,id_map
+opta,690348,Samu Becerra,Rayo Vallecano,690348,True,id_map
+opta,230071,Santi Comesaña,Villarreal,230071,True,id_map
+opta,536642,Santiago Mouriño,Villarreal,536642,True,id_map
+opta,609050,Sebastián Boselli,Getafe,609050,True,id_map
+opta,425715,Sebastián Cáceres,Celta Vigo,425715,True,id_map
+opta,646190,Selton Sánchez,Athletic Club,646190,True,id_map
+opta,611627,Selu Diallo,Alaves,611627,True,id_map
+opta,484693,Sergi Cardona,Villarreal,484693,True,id_map
+opta,248507,Sergio Camello,Rayo Vallecano,248507,True,id_map
+opta,56448,Sergio Canales,Racing de Santander,56448,True,id_map
+opta,439871,Sergio Carreira,Celta Vigo,439871,True,id_map
+opta,437468,Sergio Gómez,Real Sociedad,437468,True,id_map
+opta,138039,Sergio Herrera,Osasuna,138039,True,id_map
+opta,691217,Sergio Lozano,Rayo Vallecano,691217,True,id_map
+opta,704740,Sergio Martínez,Real Madrid,704740,True,id_map
+opta,94878,Stole Dimitrievski,Valencia,94878,True,id_map
+opta,424622,Tajon Buchanan,Villarreal,424622,True,id_map
+opta,219271,Takefusa Kubo,Real Sociedad,219271,True,id_map
+opta,565686,Tani Oluwaseyi,Villarreal,565686,True,id_map
+opta,429644,Tete Morente,Elche,429644,True,id_map
+opta,560616,Teun Gijselhart,Deportivo de A Coruña,560616,True,id_map
+opta,575889,Thiago Fernández,Levante,575889,True,id_map
+opta,657962,Thiago Pitarch,Real Madrid,657962,True,id_map
+opta,60772,Thibaut Courtois,Real Madrid,60772,True,id_map
+opta,167449,Thomas Lemar,Elche,167449,True,id_map
+opta,178867,Toni Martínez,Alaves,178867,True,id_map
+opta,169187,Trent Alexander-Arnold,Real Madrid,169187,True,id_map
+opta,447235,Troy Parrott,Real Betis,447235,True,id_map
+opta,632057,Txus Vizcay,Athletic Club,opta_new_632057,False,
+opta,420926,Tyrhys Dolan,Espanyol,420926,True,id_map
+opta,196878,Umar Sadiq,Valencia,196878,True,id_map
+opta,691630,Umaru,Elche,691630,True,id_map
+opta,183462,Unai López,Rayo Vallecano,183462,True,id_map
+opta,523062,Unai Marrero,Real Sociedad,523062,True,id_map
+opta,242830,Unai Núñez,Espanyol,242830,True,id_map
+opta,672686,Unai Santos,Osasuna,672686,True,id_map
+opta,212769,Unai Simón,Athletic Club,212769,True,id_map
+opta,514204,Urko González de Zárate,Espanyol,514204,True,id_map
+opta,228170,Valentin Rosier,Osasuna,228170,True,id_map
+opta,570931,Valentín Gómez,Real Betis,570931,True,id_map
+opta,462097,Vanja Drkusic,Espanyol,462097,True,id_map
+opta,754808,Victor Mullerat,Espanyol,754808,True,id_map
+opta,519810,Ville Koski,Alaves,519810,True,id_map
+opta,246333,Vinícius Júnior,Real Madrid,246333,True,id_map
+opta,437463,Víctor Chust,Elche,437463,True,id_map
+opta,465278,Víctor García,Levante,465278,True,id_map
+opta,543932,Williot Swedberg,Celta Vigo,543932,True,id_map
+opta,518466,Willy Kambwala,Villarreal,518466,True,id_map
+opta,59936,Wojciech Szczesny,Barcelona,59936,True,id_map
+opta,554646,Xanet Oláiz,Alaves,554646,True,id_map
+opta,634630,Xavi Espart,Barcelona,634630,True,id_map
+opta,90728,Ximo Navarro,Deportivo de A Coruña,90728,True,id_map
+opta,692871,Yan Diomande,Real Madrid,692871,True,id_map
+opta,226541,Yangel Herrera,Real Sociedad,226541,True,id_map
+opta,664880,Yanis Musuayi,Levante,664880,True,id_map
+opta,652987,Yassir Zabiri,Racing de Santander,652987,True,id_map
+opta,546703,Yayo González,Deportivo de A Coruña,546703,True,id_map
+opta,197319,Yeray Álvarez,Athletic Club,197319,True,id_map
+opta,523890,Yeremay Hernández,Deportivo de A Coruña,523890,True,id_map
+opta,643133,Yoel Lago,Celta Vigo,643133,True,id_map
+opta,554656,Youssef Enriquez,Alaves,554656,True,id_map
+opta,461913,Youssouf Fofana,Sevilla,461913,True,id_map
+opta,42670,Yuri Berchiche,Athletic Club,42670,True,id_map
+opta,500021,Zaid Romero,Getafe,500021,True,id_map
+opta,479491,Zakaria Eddahchouri,Deportivo de A Coruña,479491,True,id_map
+opta,248501,Álex Baena,Atletico Madrid,248501,True,id_map
+opta,705436,Álex Campos,Barcelona,opta_new_705436,False,
+opta,521429,Álex Pastor,Málaga,521429,True,id_map
+opta,197316,Álex Remiro,Real Sociedad,197316,True,id_map
+opta,515501,Álvaro Carreras,Real Madrid,515501,True,id_map
+opta,634056,Álvaro Cortés,Barcelona,634056,True,id_map
+opta,588171,Álvaro Djaló,Athletic Club,588171,True,id_map
+opta,223761,Álvaro Fidalgo,Real Betis,223761,True,id_map
+opta,165682,Álvaro García,Rayo Vallecano,165682,True,id_map
+opta,500285,Álvaro Mantilla,Racing de Santander,500285,True,id_map
+opta,440594,Álvaro Núñez,Celta Vigo,440594,True,id_map
+opta,748535,Álvaro Padilla,Elche,748535,True,id_map
+opta,472194,Álvaro Valles,Real Betis,472194,True,id_map
+opta,657361,Ángel Arcos,Celta Vigo,657361,True,id_map
+opta,513951,Ángel Fortuño,Espanyol,513951,True,id_map
+opta,588143,Ángel Ortiz,Real Betis,588143,True,id_map
+opta,633295,Ángel Pérez,Alaves,633295,True,id_map
+opta,539602,Ángel Recio,Málaga,539602,True,id_map
+opta,218449,Éder Militão,Real Madrid,218449,True,id_map
+opta,464168,Íñigo Sainz-Maza,Racing de Santander,464168,True,id_map
+opta,679262,Óscar López,Getafe,679262,True,id_map
+opta,433161,Óscar Valentín,Rayo Vallecano,433161,True,id_map
+whoscored,480249,Lamine Yamal,Barcelona,593109,True,id_map
+whoscored,300447,Raphinha,Barcelona,219961,True,id_map
+whoscored,300713,Kylian Mbappé,Real Madrid,220160,True,id_map
+whoscored,408252,Unai Marrero,Real Sociedad,523062,True,id_map
+whoscored,379868,Jude Bellingham,Real Madrid,244855,True,id_map
+whoscored,357839,Dani Vivian,Athletic Club,437554,True,master
+whoscored,415181,Arda Güler,Real Madrid,520250,True,id_map
+whoscored,463838,Fermín López,Barcelona,551086,True,id_map
+whoscored,383855,Jonathan David,Atletico Madrid,421821,True,id_map
+whoscored,511064,Oso,Sevilla,637705,True,id_map
+whoscored,83686,Marc Bartra,Real Betis,81138,True,id_map
+whoscored,44120,Pierre-Emerick Aubameyang,Deportivo de A Coruna,54694,True,id_map
+whoscored,448735,Sebastián Cáceres,Celta Vigo,425715,True,id_map
+whoscored,591617,Xavi Espart,Barcelona,634630,True,id_map
+whoscored,107252,Alejandro Grimaldo,Atletico Madrid,106004,True,id_map
+whoscored,448208,Álvaro Valles,Real Betis,472194,True,id_map
+whoscored,397893,Hugo Novoa,Deportivo Alaves,493055,True,id_map
+whoscored,104010,Antonio Rüdiger,Real Madrid,102380,True,id_map
+whoscored,395242,Álex Baena,Atletico Madrid,248501,True,id_map
+whoscored,349669,Anthony Gordon,Barcelona,232826,True,id_map
+whoscored,345031,Andrii Lunin,Real Madrid,224965,True,master
+whoscored,433286,Valentín Gómez,Real Betis,570931,True,id_map
+whoscored,303139,Rodri,Barcelona,220566,True,id_map
+whoscored,367780,Lee Kang-In,Atletico Madrid,451358,True,id_map
+whoscored,98126,Ante Budimir,Osasuna,94273,True,id_map
+whoscored,402206,Natan,Real Betis,448085,True,id_map
+whoscored,449409,Ángel Fortuño,Espanyol,513951,True,id_map
+whoscored,402663,Aitor Paredes,Athletic Club,440593,True,id_map
+whoscored,368091,Eric García,Barcelona,432656,True,id_map
+whoscored,238899,Alex Berenguer,Athletic Club,195385,True,id_map
+whoscored,546572,Mikel Rodríguez,Deportivo Alaves,494932,True,id_map
+whoscored,507590,Miguel Sierra,Sevilla,639309,True,id_map
+whoscored,557000,Yan Diomande,Real Madrid,692871,True,id_map
+whoscored,323663,Cristian Romero,Atletico Madrid,221632,True,id_map
+whoscored,239872,Nicolas Pepe,Villarreal,195735,True,id_map
+whoscored,362470,Youssouf Fofana,Sevilla,461913,True,id_map
+whoscored,261212,Dani Olmo,Barcelona,179370,True,id_map
+whoscored,296723,Ionut Radu,Celta Vigo,215531,True,id_map
+whoscored,372469,Sergio Camello,Rayo Vallecano,248507,True,id_map
+whoscored,412831,Félix Correia,Sevilla,449991,True,id_map
+whoscored,427117,Hugo González,Celta Vigo,492900,True,id_map
+whoscored,402137,Iñigo Vicente,Racing Santander,242833,True,id_map
+whoscored,498386,Pau Cubarsí,Barcelona,593110,True,id_map
+whoscored,402197,Pedri,Barcelona,490541,True,id_map
+whoscored,56057,Yuri Berchiche,Athletic Club,42670,True,id_map
+whoscored,303800,Lucas Boyé,Deportivo Alaves,193774,True,id_map
+whoscored,391082,Fer Niño,Elche,502290,True,id_map
+whoscored,448211,Alberto Moleiro,Villarreal,513956,True,id_map
+whoscored,440159,Alex Freeman,Villarreal,484917,True,id_map
+whoscored,400237,Robert Navarro,Athletic Club,460265,True,id_map
+whoscored,609574,Aaron Mayol,Valencia,720320,True,id_map
+whoscored,362779,Dávid Hancko,Atletico Madrid,235093,True,id_map
+whoscored,303876,Guido Rodríguez,Valencia,197024,True,id_map
+whoscored,254692,Emil Audero,Rayo Vallecano,193509,True,id_map
+whoscored,586240,Sergio Martínez,Racing Santander,ws_586240,True,id_map
+whoscored,130331,Andreas Christensen,Barcelona,135363,True,id_map
+whoscored,512879,Gerard Martín,Barcelona,523234,True,id_map
+whoscored,335696,Edu Expósito,Espanyol,420909,True,id_map
+whoscored,407080,Luka Sucic,Real Sociedad,464166,True,id_map
+whoscored,408735,Juan Iglesias,Sevilla,464283,True,id_map
+whoscored,323148,Marc Roca,Real Betis,234370,True,id_map
+whoscored,132962,Thomas Lemar,Elche,167449,True,id_map
+whoscored,365409,Julián Alvarez,Atletico Madrid,461358,True,id_map
+whoscored,236575,Unai López,Rayo Vallecano,183462,True,id_map
+whoscored,422918,Giuliano Simeone,Atletico Madrid,482652,True,id_map
+whoscored,451213,Roy Revivo,Elche,545092,True,id_map
+whoscored,407567,Iván Romero,Levante,521508,True,id_map
+whoscored,448231,Roger Brugué,Levante,439878,True,id_map
+whoscored,538158,Yassir Zabiri,Racing Santander,652987,True,id_map
+whoscored,254582,Marcos Llorente,Atletico Madrid,192364,True,id_map
+whoscored,344644,Federico Valverde,Real Madrid,223255,True,id_map
+whoscored,444254,Pablo Ibáñez,Deportivo Alaves,522856,True,id_map
+whoscored,463961,Jon Aramburu,Real Sociedad,479816,True,id_map
+whoscored,541900,Jorge Salinas,Racing Santander,658061,True,id_map
+whoscored,337782,Vinícius Júnior,Real Madrid,246333,True,id_map
+whoscored,448296,Roberto Fernández,Espanyol,537940,True,id_map
+whoscored,378626,Carl Starfelt,Celta Vigo,174249,True,id_map
+whoscored,279379,Gabriel Jesus,Barcelona,205651,True,id_map
+whoscored,427283,Abde Ezzalzouli,Real Betis,500745,True,id_map
+whoscored,141044,Antonio Sivera,Deportivo Alaves,176245,True,id_map
+whoscored,301019,Jules Koundé,Barcelona,220325,True,id_map
+whoscored,388808,Pablo Martínez,Malaga,445998,True,id_map
+whoscored,506205,Ángel Pérez,Deportivo Alaves,633295,True,id_map
+whoscored,347874,Nahuel Tenaglia,Deportivo Alaves,432855,True,id_map
+whoscored,462768,Miguel Román,Celta Vigo,602479,True,id_map
+whoscored,392646,Karim Adeyemi,Barcelona,453750,True,id_map
+whoscored,447938,Carlos Puga,Malaga,562075,True,id_map
+whoscored,335107,Juan Foyth,Villarreal,234908,True,id_map
+whoscored,427831,César Tárrega,Valencia,492898,True,id_map
+whoscored,434138,Pablo Barrios,Atletico Madrid,503523,True,id_map
+whoscored,313542,Carlos Soler,Real Sociedad,224860,True,id_map
+whoscored,431768,Lucas Noubi,Deportivo de A Coruna,543316,True,id_map
+whoscored,123232,Diego Llorente,Real Betis,149915,True,id_map
+whoscored,362501,Cucho Hernández,Real Betis,244716,True,id_map
+whoscored,67369,Péter Gulácsi,Villarreal,46506,True,id_map
+whoscored,318871,Trent Alexander-Arnold,Real Madrid,169187,True,id_map
+whoscored,413758,Pablo Ramón,Racing Santander,469317,True,id_map
+whoscored,407138,Beñat Turrientes,Real Sociedad,488026,True,id_map
+whoscored,468852,Dean Huijsen,Real Madrid,554605,True,id_map
+whoscored,449410,Omar El Hilali,Espanyol,517929,True,id_map
+whoscored,84008,Marcos Alonso,Celta Vigo,82263,True,id_map
+whoscored,73798,Thibaut Courtois,Real Madrid,60772,True,id_map
+whoscored,73265,Leandro Cabrera,Espanyol,64662,True,id_map
+whoscored,528001,Yoel Lago,Celta Vigo,643133,True,id_map
+whoscored,504195,Adrián Niño,Malaga,593196,True,id_map
+whoscored,364315,Antony,Real Betis,467169,True,id_map
+whoscored,437583,Álvaro Carreras,Real Madrid,515501,True,id_map
+whoscored,388505,Lucien Agoumé,Sevilla,468426,True,id_map
+whoscored,431509,Kike Salas,Sevilla,550816,True,id_map
+whoscored,446729,Thiago Fernández,Levante,575889,True,id_map
+whoscored,448011,Yeremay Hernández,Deportivo de A Coruna,523890,True,id_map
+whoscored,509876,Álvaro Núñez,Celta Vigo,440594,True,id_map
+whoscored,444253,Jorge Herrando,Osasuna,463784,True,id_map
+whoscored,448209,Sergi Cardona,Villarreal,484693,True,id_map
+whoscored,332823,Unai Simón,Athletic Club,212769,True,id_map
+whoscored,82989,Isco,Real Betis,80209,True,id_map
+whoscored,351252,Junior Firpo,Real Betis,443967,True,id_map
+whoscored,409130,Mario Soriano,Deportivo de A Coruna,488042,True,id_map
+whoscored,374813,Manu Sánchez,Levante,465494,True,id_map
+whoscored,444244,Ramón Terrats,Getafe,519373,True,id_map
+whoscored,286080,Gabriel Suazo,Sevilla,213102,True,id_map
+whoscored,383780,Adrián de la Fuente,Levante,437808,True,id_map
+whoscored,424575,Ville Koski,Deportivo Alaves,519810,True,id_map
+whoscored,495459,Jon Martín,Real Sociedad,620617,True,id_map
+whoscored,534796,Marc Bernal,Barcelona,637126,True,id_map
+whoscored,381510,Oihan Sancet,Athletic Club,439772,True,id_map
+whoscored,390240,Germán Valera,Elche,467020,True,id_map
+whoscored,459707,Lucas Stassin,Sevilla,513530,True,id_map
+whoscored,243262,David Soria,Getafe,175204,True,id_map
+whoscored,76662,Jan Oblak,Atletico Madrid,81352,True,id_map
+whoscored,270504,Álex Remiro,Real Sociedad,197316,True,id_map
+whoscored,403803,Martín Satriano,Getafe,474843,True,id_map
+whoscored,389020,Georges Mikautadze,Villarreal,499209,True,id_map
+whoscored,598590,Bil Nsongo,Deportivo de A Coruna,711110,True,id_map
+whoscored,80764,Koke,Atletico Madrid,77390,True,id_map
+whoscored,506010,Javi Hernández,Espanyol,628184,True,id_map
+whoscored,422824,Joan García,Barcelona,449928,True,id_map
+whoscored,353423,Aurélien Tchouaméni,Real Madrid,219292,True,id_map
+whoscored,516414,Lucas Cepeda,Elche,541759,True,id_map
+whoscored,408449,Nico Williams,Athletic Club,523654,True,id_map
+whoscored,448303,David Larrubia,Malaga,495391,True,id_map
+whoscored,323236,Mariano Díaz,Deportivo Alaves,178347,True,id_map
+whoscored,298839,Mikel Oyarzabal,Real Sociedad,219000,True,id_map
+whoscored,363966,Adrià Pedrosa,Rayo Vallecano,446990,True,id_map
+whoscored,508349,Rafita,Malaga,640504,True,id_map
+whoscored,403647,Morten Hjulmand,Atletico Madrid,454812,True,id_map
+whoscored,470032,Lorenzo Amatucci,Deportivo de A Coruna,607463,True,id_map
+whoscored,382631,Rodrigo Riquelme,Real Betis,437834,True,id_map
+whoscored,545675,Ángel Ortiz,Real Betis,588143,True,id_map
+whoscored,119189,Rubén García,Osasuna,130026,True,id_map
+whoscored,115917,Jonny Otto,Deportivo Alaves,114128,True,id_map
+whoscored,423108,Julen Agirrezabala,Racing Santander,470508,True,id_map
+whoscored,247995,Gonçalo Guedes,Real Sociedad,181284,True,id_map
+whoscored,345957,Ibrahima Konaté,Real Madrid,204716,True,id_map
+whoscored,106586,Iñigo Ruiz de Galarreta,Athletic Club,96736,True,id_map
+whoscored,297203,Pablo Fornals,Real Betis,217593,True,id_map
+whoscored,508331,Javi Rodríguez,Celta Vigo,638238,True,id_map
+whoscored,379230,Johnny Cardoso,Atletico Madrid,488662,True,id_map
+whoscored,617819,Javi Morcillo,Elche,714598,True,id_map
+whoscored,432475,Nelson Deossa,Real Betis,544538,True,id_map
+whoscored,135345,Álvaro García,Rayo Vallecano,165682,True,id_map
+whoscored,279839,Yeray Álvarez,Athletic Club,197319,True,id_map
+whoscored,367857,Ander Barrenetxea,Real Sociedad,471138,True,id_map
+whoscored,97659,Gerard Moreno,Villarreal,93721,True,id_map
+whoscored,372634,Justin de Haas,Valencia,467622,True,id_map
+whoscored,434077,Renato Veiga,Villarreal,551230,True,id_map
+whoscored,135914,José María Giménez,Atletico Madrid,151883,True,id_map
+whoscored,422937,Gavi,Barcelona,500046,True,id_map
+whoscored,448273,Miguel Loureiro,Deportivo de A Coruna,429213,True,id_map
+whoscored,372473,Iván Martín,Racing Santander,224467,True,id_map
+whoscored,498163,Dani Martinez,Atletico Madrid,593193,True,id_map
+whoscored,357388,Gonzalo Villar,Elche,450782,True,id_map
+whoscored,422963,Pathé Ciss,Rayo Vallecano,441175,True,id_map
+whoscored,428620,Luismi Cruz,Deportivo de A Coruna,546000,True,id_map
+whoscored,409030,Ilaix Moriba,Celta Vigo,465689,True,id_map
+whoscored,355110,Sergio Gómez,Real Sociedad,437468,True,id_map
+whoscored,128967,João Cancelo,Barcelona,121145,True,id_map
+whoscored,81523,Mathew Ryan,Levante,131897,True,id_map
+whoscored,141497,Einar Galilea,Malaga,138041,True,id_map
+whoscored,467913,Mamadou Sarr,Real Sociedad,574458,True,id_map
+whoscored,303629,Augusto Batalla,Rayo Vallecano,173209,True,id_map
+whoscored,413346,Jon Ander Olasagasti,Levante,513945,True,id_map
+whoscored,426757,Rubén Sánchez,Elche,539600,True,id_map
+whoscored,422957,Fran García,Real Betis,227166,True,id_map
+whoscored,294848,Pablo Maffeo,Valencia,170154,True,id_map
+whoscored,536243,Beñat Gerenabarrena,Athletic Club,631990,True,id_map
+whoscored,90115,Aïssa Mandi,Levante,86813,True,id_map
+whoscored,141499,Stole Dimitrievski,Valencia,94878,True,id_map
+whoscored,302889,Pepelu,Valencia,220191,True,id_map
+whoscored,429273,Bryan Zaragoza,Espanyol,522601,True,id_map
+whoscored,119817,José Gayà,Valencia,132105,True,id_map
+whoscored,363496,Marc Cucurella,Real Madrid,179268,True,id_map
+whoscored,101238,Moi Gómez,Osasuna,109243,True,id_map
+whoscored,361696,Vanja Drkusic,Espanyol,462097,True,id_map
+whoscored,409467,Antonio Blanco,Deportivo Alaves,437465,True,id_map
+whoscored,430148,Marc Pubill,Atletico Madrid,562720,True,id_map
+whoscored,44189,Sergio Canales,Racing Santander,56448,True,id_map
+whoscored,467181,Enzo Bardeli,Levante,492841,True,id_map
+whoscored,431507,Javi Guerra,Valencia,546540,True,id_map
+whoscored,402862,Víctor Chust,Elche,437463,True,id_map
+whoscored,280060,Toni Martínez,Deportivo Alaves,178867,True,id_map
+whoscored,110273,Odysseas Vlachodimos,Sevilla,111452,True,id_map
+whoscored,448284,Andrés Castrín,Sevilla,562922,True,id_map
+whoscored,481851,Hugo Rincón,Athletic Club,620583,True,id_map
+whoscored,377285,Takefusa Kubo,Real Sociedad,219271,True,id_map
+whoscored,255182,Iñaki Williams,Athletic Club,197334,True,id_map
+whoscored,472904,Gustavo Puerta,Racing Santander,560564,True,id_map
+whoscored,419935,Clemens Riedel,Espanyol,514968,True,id_map
+whoscored,447835,Abde Rebbach,Deportivo Alaves,586866,True,id_map
+whoscored,461527,Carlos Dotor,Malaga,448178,True,id_map
+whoscored,135366,Ayoze Pérez,Villarreal,168580,True,id_map
+whoscored,386230,Jorge de Frutos,Rayo Vallecano,241153,True,id_map
+whoscored,91194,Aitor Fernández,Osasuna,80993,True,id_map
+whoscored,259393,Marko Dmitrovic,Espanyol,94618,True,id_map
+whoscored,100881,Ximo Navarro,Deportivo de A Coruna,90728,True,id_map
+whoscored,393081,Giacomo Quagliata,Deportivo de A Coruna,456504,True,id_map
+whoscored,135098,Johan Mojica,Getafe,152723,True,id_map
+whoscored,492362,Isaac Romero,Sevilla,610206,True,id_map
+whoscored,448294,Dani Lorenzo,Malaga,561391,True,id_map
+whoscored,469329,Andrés García,Getafe,606798,True,id_map
+whoscored,303908,Giovani Lo Celso,Real Betis,200826,True,id_map
+whoscored,369497,Javi Galán,Celta Vigo,219717,True,id_map
+whoscored,122117,Aymeric Laporte,Athletic Club,146941,True,id_map
+whoscored,315566,Igor Zubeldia,Real Sociedad,216475,True,id_map
+whoscored,374638,Alejandro Catena,Osasuna,244273,True,id_map
+whoscored,369109,Eduardo Camavinga,Real Madrid,475561,True,id_map
+whoscored,399047,Pape Gueye,Villarreal,422453,True,id_map
+whoscored,496149,Dani Requena,Levante,621306,True,id_map
+whoscored,427001,Hugo Álvarez,Celta Vigo,550566,True,id_map
+whoscored,428500,Ilias Akhomach,Villarreal,500043,True,id_map
+whoscored,422938,Alejandro Balde,Barcelona,493019,True,id_map
+whoscored,422961,Andrés Martín,Racing Santander,444284,True,id_map
+whoscored,578266,Nacho Pérez,Levante,704770,True,id_map
+whoscored,513607,Adam Aznou,Malaga,499300,True,id_map
+whoscored,448397,Álvaro Mantilla,Racing Santander,500285,True,id_map
+whoscored,447842,Enzo Boyomo,Osasuna,437677,True,id_map
+whoscored,337022,Chidera Ejuke,Sevilla,250437,True,id_map
+whoscored,469547,Manu Bueno,Sevilla,550781,True,id_map
+whoscored,541871,Jon Gorrotxategi,Real Sociedad,546812,True,id_map
+whoscored,367008,Robin Le Normand,Atletico Madrid,224919,True,id_map
+whoscored,444739,Quilindschy Hartman,Espanyol,494960,True,id_map
+whoscored,603190,Carlos Maciá,Villarreal,710081,True,id_map
+whoscored,422916,Matías Dituro,Elche,98448,True,id_map
+whoscored,371027,Tajon Buchanan,Villarreal,424622,True,id_map
+whoscored,459082,Pablo Durán,Celta Vigo,597355,True,id_map
+whoscored,445119,Nathan Saliba,Villarreal,496694,True,id_map
+whoscored,510999,David Otorbi,Valencia,576682,True,id_map
+whoscored,396158,Ferran Jutglà,Celta Vigo,464575,True,id_map
+whoscored,318505,Yangel Herrera,Real Sociedad,226541,True,id_map
+whoscored,106525,Denis Suárez,Deportivo Alaves,89572,True,id_map
+whoscored,537235,Pau Navarro,Villarreal,629907,True,id_map
+whoscored,419616,Federico Redondo,Elche,536884,True,id_map
+whoscored,468931,Carlos Romero,Villarreal,588993,True,id_map
+whoscored,631884,Bright Ede,Deportivo de A Coruna,679125,True,id_map
+whoscored,334221,Dani Raba,Valencia,240071,True,id_map
+whoscored,422820,Jesús Areso,Athletic Club,437549,True,id_map
+whoscored,422958,Óscar Valentín,Rayo Vallecano,433161,True,id_map
+whoscored,424815,Iván Azón,Getafe,503798,True,id_map
+whoscored,372331,Andrei Ratiu,Rayo Vallecano,466543,True,id_map
+whoscored,655061,Christian Imga,Athletic Club,whoscored_new_655061,False,
+whoscored,364114,Juan Berrocal,Malaga,433632,True,id_map
+whoscored,423973,Manu Hernando,Racing Santander,179372,True,id_map
+whoscored,474267,Iker Muñoz,Osasuna,589577,True,id_map
+whoscored,297546,Umar Sadiq,Valencia,196878,True,id_map
+whoscored,389191,Zaid Romero,Getafe,500021,True,id_map
+whoscored,640699,Ifeanyi Ndukwe,Levante,591617,True,id_map
+whoscored,261509,Alfonso Herrero,Malaga,ws_261509,True,id_map
+whoscored,384064,Troy Parrott,Real Betis,447235,True,id_map
+whoscored,344200,Unai Núñez,Espanyol,242830,True,id_map
+whoscored,448009,Diego Villares,Deportivo de A Coruna,562005,True,id_map
+whoscored,555136,Roger Hinojo,Espanyol,690618,True,id_map
+whoscored,448936,Santiago Mouriño,Villarreal,536642,True,id_map
+whoscored,551186,Pablo García,Racing Santander,623696,True,id_map
+whoscored,448514,Pedro Díaz,Rayo Vallecano,435065,True,id_map
+whoscored,381713,Luis Rioja,Valencia,434941,True,id_map
+whoscored,144890,Dani Ceballos,Real Betis,182539,True,id_map
+whoscored,519969,Youssef Enriquez,Deportivo Alaves,554656,True,id_map
+whoscored,398922,Tyrhys Dolan,Espanyol,420926,True,id_map
+whoscored,414212,Nicolás Valentini,Deportivo Alaves,536665,True,id_map
+whoscored,319388,Valentin Rosier,Osasuna,228170,True,id_map
+whoscored,362393,Carlos Protesoni,Deportivo Alaves,244707,True,id_map
+whoscored,511043,Ángel Recio,Malaga,539602,True,id_map
+whoscored,119120,Dominik Livakovic,Barcelona,198534,True,id_map
+whoscored,389130,Logan Costa,Villarreal,445956,True,id_map
+whoscored,510360,Buba Sangaré,Elche,633425,True,id_map
+whoscored,395346,Giorgi Kochorashvili,Sevilla,428798,True,id_map
+whoscored,80758,Florian Lejeune,Rayo Vallecano,77359,True,id_map
+whoscored,395320,Jon Pacheco,Real Sociedad,449931,True,id_map
+whoscored,621893,Nico Guillén,Sevilla,664217,True,id_map
+whoscored,273453,Josan,Elche,199195,True,id_map
+whoscored,454790,Robbie Ure,Sevilla,503537,True,id_map
+whoscored,516341,Carlos Espí,Real Madrid,645745,True,id_map
+whoscored,512611,Facundo Bernal,Real Betis,614242,True,id_map
+whoscored,323625,Arnaut Danjuma,Valencia,220307,True,id_map
+whoscored,445649,Endrick,Real Madrid,577107,True,id_map
+whoscored,402087,Tete Morente,Elche,429644,True,id_map
+whoscored,461771,Abel Bretones,Osasuna,498594,True,id_map
+whoscored,322153,Denzel Dumfries,Real Madrid,199432,True,id_map
+whoscored,429003,Zakaria Eddahchouri,Deportivo de A Coruna,479491,True,id_map
+whoscored,468761,Cala,Espanyol,568812,True,id_map
+whoscored,344073,Orel Mangala,Getafe,179519,True,id_map
+whoscored,136741,Bernardo Silva,Real Madrid,165809,True,id_map
+whoscored,91242,Iago Aspas,Celta Vigo,40270,True,id_map
+whoscored,357387,Mujaid Sadick,Rayo Vallecano,436027,True,id_map
+whoscored,402092,José Salinas,Malaga,515611,True,id_map
+whoscored,463588,Javi Rueda,Celta Vigo,493333,True,id_map
+whoscored,432384,Facundo Buonanotte,Elche,536916,True,id_map
+whoscored,134695,Enes Ünal,Getafe,168636,True,id_map
+whoscored,464541,Marcos Fernández,Espanyol,604116,True,id_map
+whoscored,447544,Matteo Prati,Racing Santander,588222,True,id_map
+whoscored,536242,Peio Canales,Athletic Club,632023,True,id_map
+whoscored,400185,Arsen Zakharyan,Real Sociedad,475612,True,id_map
+whoscored,379684,Filip Ugrinic,Valencia,242169,True,id_map
+whoscored,386622,Sergio Carreira,Celta Vigo,439871,True,id_map
+whoscored,431668,Johaneko Louis-Jean,Athletic Club,564923,True,id_map
+whoscored,641813,Gnangoro,Rayo Vallecano,747880,True,id_map
+whoscored,448050,Marc Aguado,Elche,484741,True,id_map
+whoscored,423420,Leo Román,Deportivo de A Coruna,500755,True,id_map
+whoscored,362735,Santi Comesaña,Villarreal,230071,True,id_map
+whoscored,483206,Héctor Fort,Real Sociedad,499310,True,id_map
+whoscored,454343,Marc Casadó,Deportivo de A Coruna,494927,True,id_map
+whoscored,448041,Adrià Altimira,Deportivo de A Coruna,465599,True,id_map
+whoscored,428066,Orri Óskarsson,Real Sociedad,507438,True,id_map
+whoscored,464952,Peque Fernández,Sevilla,493086,True,id_map
+whoscored,125211,Héctor Bellerín,Real Betis,98745,True,id_map
+whoscored,433973,Abiel Osorio,Elche,572662,True,id_map
+whoscored,344120,Ander Guevara,Deportivo Alaves,431644,True,id_map
+whoscored,598468,Hugo Burcio,Celta Vigo,657325,True,id_map
+whoscored,77417,Nemanja Gudelj,Getafe,72154,True,id_map
+whoscored,518928,Asier Osambela,Osasuna,646142,True,id_map
+whoscored,383924,Raúl García,Osasuna,490859,True,id_map
+whoscored,367583,Aihen Muñoz,Real Sociedad,472145,True,id_map
+whoscored,495163,Rockson Yeboah,Osasuna,627127,True,id_map
+whoscored,299451,Ademola Lookman,Atletico Madrid,219352,True,id_map
+whoscored,400009,Couhaib Driouech,Celta Vigo,510657,True,id_map
+whoscored,514695,Aitor Mañas,Deportivo Alaves,551482,True,id_map
+whoscored,422959,Isi Palazón,Rayo Vallecano,434078,True,id_map
+whoscored,362354,Fernando Calero,Malaga,241869,True,id_map
+whoscored,381673,Jon Moncayola,Osasuna,477463,True,id_map
+whoscored,395321,Aimar Oroz,Osasuna,484702,True,id_map
+whoscored,381643,Aleix Febas,Celta Vigo,199250,True,id_map
+whoscored,445095,Karl Etta Eyong,Levante,588010,True,id_map
+whoscored,517618,Iñigo Arguibide,Osasuna,646149,True,id_map
+whoscored,424675,Francho Serrano,Getafe,494495,True,id_map
+whoscored,531953,Pelayo Fernández,Rayo Vallecano,493085,True,id_map
+whoscored,381550,Rubén Vargas,Sevilla,429534,True,id_map
+whoscored,444227,Williot Swedberg,Celta Vigo,543932,True,id_map
+whoscored,431340,Jeanuël Belocian,Racing Santander,565992,True,id_map
+whoscored,511120,Mikel Jauregizar,Athletic Club,632021,True,id_map
+whoscored,423282,David Affengruber,Elche,442299,True,id_map
+whoscored,541570,Matia Barzic,Elche,593181,True,id_map
+whoscored,336251,Kike Barja,Osasuna,178870,True,id_map
+whoscored,322246,André Almeida,Racing Santander,247636,True,id_map
+whoscored,140088,Adama Traoré,Deportivo de A Coruna,159533,True,id_map
+whoscored,382157,Pol Lozano,Espanyol,227172,True,id_map
+whoscored,602515,Xanet Oláiz,Deportivo Alaves,554646,True,id_map
+whoscored,317541,Brahim Díaz,Real Madrid,216183,True,id_map
+whoscored,599413,Job Ochieng,Real Sociedad,612309,True,id_map
+whoscored,303268,Carles Aleñá,Deportivo Alaves,179271,True,id_map
+whoscored,335041,Jon Guridi,Sevilla,201178,True,id_map
+whoscored,137031,Ezequiel Ponce,Elche,172845,True,id_map
+whoscored,541704,Maroan Sannadi,Athletic Club,611626,True,id_map
+whoscored,362623,Oriol Rey,Levante,242310,True,id_map
+whoscored,463938,Rodrigo Mendoza,Atletico Madrid,578538,True,id_map
+whoscored,476789,Petar Ratkov,Levante,530193,True,id_map
+whoscored,471958,Rafa Rodríguez,Malaga,608484,True,id_map
+whoscored,444251,Arnau Ortiz,Atletico Madrid,552095,True,id_map
+whoscored,332990,Djené Dakonam,Getafe,149838,True,id_map
+whoscored,527113,Jonathan Asp Jensen,Deportivo de A Coruna,568404,True,id_map
+whoscored,448450,Riki Rodríguez,Deportivo de A Coruna,464470,True,id_map
+whoscored,534590,Iker Córdoba,Valencia,637198,True,id_map
+whoscored,408732,Jesús Vázquez,Valencia,466044,True,id_map
+whoscored,560362,Alejandro Rego,Athletic Club,631986,True,id_map
+whoscored,431121,Aliou Dieng,Valencia,449576,True,id_map
+whoscored,544767,Jean Valou,Getafe,677054,True,id_map
+whoscored,422960,Randy Nteka,Rayo Vallecano,449300,True,id_map
+whoscored,396490,Raúl Moro,Osasuna,465701,True,id_map
+whoscored,337879,Éder Militão,Real Madrid,218449,True,id_map
+whoscored,578366,Mauro Echegoyen,Osasuna,646145,True,id_map
+whoscored,395708,Víctor García,Levante,465278,True,id_map
+whoscored,366204,Joaquín Muñoz,Malaga,437831,True,id_map
+whoscored,422956,José Ángel Carmona,Sevilla,545998,True,id_map
+whoscored,249960,Lucas Torró,Osasuna,111232,True,id_map
+whoscored,447853,Jonathan Dubasin,Osasuna,523079,True,id_map
+whoscored,513251,Teun Gijselhart,Deportivo de A Coruna,560616,True,id_map
+whoscored,452407,Álvaro Fidalgo,Real Betis,223761,True,id_map
+whoscored,598467,Andrés Antañón,Celta Vigo,672231,True,id_map
+whoscored,354526,Hugo Duro,Valencia,439716,True,id_map
+whoscored,448289,Ramón Enríquez,Malaga,490733,True,id_map
+whoscored,644082,Marc Santos,Levante,719440,True,id_map
+whoscored,129620,Jeremy Toljan,Levante,160540,True,id_map
+whoscored,357786,Juan Cruz,Malaga,451281,True,id_map
+whoscored,410988,Saba Sazonov,Getafe,492977,True,id_map
+whoscored,322095,Mouctar Diakhaby,Valencia,208135,True,id_map
+whoscored,259042,Borja Iglesias,Celta Vigo,202044,True,id_map
+whoscored,605436,Julio Díaz,Sevilla,551311,True,id_map
+whoscored,531460,Rafel Bauzà,Espanyol,654680,True,id_map
+whoscored,541868,Chupe,Malaga,620045,True,id_map
+whoscored,445292,Tani Oluwaseyi,Villarreal,565686,True,id_map
+whoscored,401173,Urko González de Zárate,Espanyol,514204,True,id_map
+whoscored,448400,Íñigo Sainz-Maza,Racing Santander,464168,True,id_map
+whoscored,302497,Alexander Sørloth,Atletico Madrid,143877,True,id_map
+whoscored,505924,Jozhua Vertrouwd,Rayo Vallecano,538671,True,id_map
+whoscored,414643,Beñat Prados,Athletic Club,470506,True,master
+whoscored,657076,Txus Vizcay,Athletic Club,whoscored_new_657076,False,
+whoscored,547317,José Ángel,Espanyol,623680,True,id_map
+whoscored,444264,Facu González,Racing Santander,564895,True,id_map
+whoscored,415345,Hugo Sotelo,Levante,538283,True,id_map
+whoscored,300291,Romain Del Castillo,Osasuna,219873,True,id_map
+whoscored,399952,Miguel Rodríguez,Deportivo Alaves,631521,True,id_map
+whoscored,559489,Hamza Abdelkarim,Barcelona,684337,True,id_map
+whoscored,362602,Gorka Guruzeta,Athletic Club,220182,True,id_map
+whoscored,546570,Luken Beitia,Real Sociedad,612301,True,id_map
+whoscored,484251,Sebastián Boselli,Getafe,609050,True,id_map
+whoscored,644193,Álvaro Padilla,Elche,748535,True,id_map
+whoscored,323352,Diego Rico,Osasuna,171129,True,id_map
+whoscored,485481,Maguette Gueye,Racing Santander,572069,True,id_map
+whoscored,438351,Martim Neto,Elche,483083,True,id_map
+whoscored,140772,Pere Milla,Espanyol,175090,True,id_map
+whoscored,386261,Dani Cárdenas,Rayo Vallecano,491436,True,id_map
+whoscored,448292,Haitam Abaida,Malaga,482236,True,id_map
+whoscored,409740,Abdel Abqar,Getafe,463001,True,id_map
+whoscored,546574,Alex Marchal,Real Sociedad,634254,True,id_map
+whoscored,498812,Abdoulaye Faye,Celta Vigo,631935,True,id_map
+whoscored,641096,Jorge Domínguez,Atletico Madrid,710911,True,id_map
+whoscored,478349,Gabriel Moscardo,Espanyol,617127,True,id_map
+whoscored,423109,Nico Serrano,Athletic Club,494929,True,id_map
+whoscored,605437,Iker Luque,Racing Santander,621933,True,id_map
+whoscored,367803,Giorgi Tsitaishvili,Rayo Vallecano,451017,True,id_map
+whoscored,541854,Paco Cortés,Levante,648430,True,id_map
+whoscored,408942,Alfon González,Sevilla,446814,True,id_map
+whoscored,486031,Arouna Sangante,Sevilla,509285,True,id_map
+whoscored,436617,Alemão,Rayo Vallecano,483116,True,id_map
+whoscored,381674,Sergio Herrera,Osasuna,138039,True,id_map
+whoscored,568737,Davinchi,Getafe,700202,True,id_map
+whoscored,546268,Óscar López,Getafe,679262,True,id_map
+whoscored,508035,Izan Merino,Malaga,620616,True,id_map
+whoscored,515307,Adama Boiro,Athletic Club,629738,True,id_map
+whoscored,101613,Iván Balliu,Rayo Vallecano,97624,True,id_map
+whoscored,508339,Ali Houary,Elche,631382,True,id_map
+whoscored,463425,Eneko Jauregi,Malaga,216473,True,id_map
+whoscored,404108,Jens Cajuste,Malaga,454667,True,id_map
+whoscored,427360,Carlos Martín,Atletico Madrid,531219,True,id_map
+whoscored,328315,Álvaro Ferllo,Deportivo de A Coruna,whoscored_new_328315,False,
+whoscored,584515,José Antonio Morante,Real Betis,680523,True,id_map
+whoscored,391317,Julen Lobete,Malaga,495392,True,id_map
+whoscored,511219,Rayane Belaid,Rayo Vallecano,621927,True,id_map
+whoscored,106883,Dani Carvajal,Getafe,88483,True,id_map
+whoscored,511028,Kevin Sánchez,Deportivo de A Coruna,568601,True,id_map
+whoscored,640749,Nizar,Villarreal,746335,True,id_map
+whoscored,637210,Yanis Musuayi,Levante,664880,True,id_map
+whoscored,323546,Aarón Martín,Racing Santander,234369,True,id_map
+whoscored,430451,Jofre Carreras,Espanyol,513950,True,id_map
+whoscored,507361,David Mella,Deportivo de A Coruna,554651,True,id_map
+whoscored,431570,Juan Carlos Arana,Racing Santander,553751,True,id_map
+whoscored,331171,Asier Villalibre,Racing Santander,212770,True,id_map
+whoscored,75919,Kiko Femenía,Getafe,54484,True,id_map
+whoscored,523331,Alberto Risco,Getafe,654780,True,id_map
+whoscored,279423,Frenkie de Jong,Barcelona,209712,True,master
+whoscored,278721,Borja Mayoral,Getafe,199248,True,id_map
+whoscored,546604,Axel Tape,Levante,669592,True,master_transfer
+whoscored,444265,Fran Pérez,Rayo Vallecano,466057,True,id_map
+whoscored,406937,Carlos Álvarez,Levante,494921,True,id_map
+whoscored,508469,Joselu Pérez,Getafe,619893,True,id_map
+whoscored,444806,Álvaro Djaló,Athletic Club,588171,True,id_map
+whoscored,545956,Diego Díaz,Racing Santander,664923,True,id_map
+whoscored,556141,Umaru,Elche,691630,True,id_map
+whoscored,363982,Harvey Elliott,Valencia,444884,True,id_map
+whoscored,460461,Giorgi Guliashvili,Racing Santander,486783,True,id_map
+whoscored,444239,Arnau Martínez,Valencia,517333,True,id_map
+whoscored,562981,Ryunosuke Sato,Valencia,614481,True,id_map
+whoscored,441888,Jones El Abdellaoui,Celta Vigo,566165,True,id_map
+whoscored,471047,Mario Martín,Getafe,561243,True,id_map
+whoscored,108100,Pedro Bigas,Elche,91393,True,id_map
+whoscored,578262,Aimar Blázquez,Valencia,609616,True,id_map
+whoscored,478316,Pedro Felipe,Racing Santander,617105,True,id_map
+whoscored,400826,Luiz Júnior,Villarreal,514664,True,id_map
+whoscored,362423,Javi Puado,Espanyol,431434,True,id_map
+whoscored,604365,Kareem Tunde,Levante,645755,True,id_map
+whoscored,255089,Angeliño,Deportivo de A Coruna,145235,True,id_map
+whoscored,604368,Unai Santos,Osasuna,672686,True,id_map
+whoscored,73379,Wojciech Szczesny,Barcelona,59936,True,id_map
+whoscored,459677,Pablo Marín,Real Sociedad,547455,True,id_map
+fotmob,175311,Kiko,Getafe,54484,True,id_map
+fotmob,282281,Denis Suárez,Alavés,89572,True,id_map
+fotmob,360918,Jonny Otto,Alavés,114128,True,id_map
+fotmob,421365,Djené,Getafe,149838,True,id_map
+fotmob,464486,Enes Ünal,Getafe,168636,True,id_map
+fotmob,518525,Mariano Díaz,Alavés,178347,True,id_map
+fotmob,530468,Antonio Sivera,Alavés,176245,True,id_map
+fotmob,581919,David Soria,Getafe,175204,True,id_map
+fotmob,635772,Borja Mayoral,Getafe,199248,True,id_map
+fotmob,637756,Carles Aleñá,Alavés,179271,True,id_map
+fotmob,640123,Toni Martínez,Alavés,178867,True,id_map
+fotmob,765693,Orel Mangala,Getafe,179519,True,id_map
+fotmob,799914,Carlos Protesoni,Alavés,244707,True,id_map
+fotmob,845998,Antonio Blanco,Alavés,437465,True,id_map
+fotmob,860314,Nahuel Tenaglia,Alavés,432855,True,id_map
+fotmob,873827,Ander Guevara,Alavés,431644,True,id_map
+fotmob,956921,Abdelkabir Abqar,Getafe,fm_956921,True,id_map
+fotmob,1054522,Moussa Diarra,Alavés,485098,True,id_map
+fotmob,1056461,Ville Koski,Alavés,519810,True,id_map
+fotmob,1118199,Zaid Abner Romero,Getafe,500021,True,id_map
+fotmob,1136937,Adrián Rodriguez,Alavés,fm_1136937,True,id_map
+fotmob,1175969,Hugo Novoa,Alavés,493055,True,id_map
+fotmob,1178641,Jirí Letácek,Getafe,fm_1178641,True,id_map
+fotmob,1179368,Saba Sazonov,Getafe,492977,True,id_map
+fotmob,1184663,Miguel Rodríguez,Alavés,494932,True,id_map
+fotmob,1197039,Martín Satriano,Getafe,474843,True,id_map
+fotmob,1200941,Abderrahman Rebbach,Alavés,fm_1200941,True,id_map
+fotmob,1202587,Ramón Terrats,Getafe,519373,True,id_map
+fotmob,1238154,Pablo Ibánez,Alavés,522856,True,id_map
+fotmob,1321605,Mario Martín,Getafe,561243,True,id_map
+fotmob,1403692,Youssef Enríquez,Alavés,554656,True,id_map
+fotmob,1414777,Sebastián Boselli,Getafe,609050,True,id_map
+fotmob,1426189,Mikel Rodríguez,Alavés,631521,True,id_map
+fotmob,1430406,Andrés García,Getafe,606798,True,id_map
+fotmob,1467806,Grégoire Świderski,Alavés,fm_1467806,True,id_map
+fotmob,1553663,Aitor Mañas,Alavés,551482,True,id_map
+fotmob,1563022,Ángel Pérez,Alavés,633295,True,id_map
+fotmob,1637438,Alberto Risco,Getafe,654780,True,id_map
+fotmob,1669215,Diego Ferrer,Getafe,fm_1669215,True,id_map
+fotmob,1676086,Davinchi,Getafe,700202,True,id_map
+fotmob,1721181,Xanet Oláiz,Alavés,554646,True,id_map
+fotmob,1792368,Jean Ives Valou,Getafe,677054,True,id_map
+fotmob,2110934,Ebrahima Drammeh,Getafe,748228,True,id_map
+fotmob,177126,Jan Oblak,Atlético de Madrid,81352,True,id_map
+fotmob,184533,Koke,Atlético de Madrid,77390,True,id_map
+fotmob,288406,Alejandro Grimaldo,Atlético de Madrid,106004,True,id_map
+fotmob,389050,Juan Musso,Atlético de Madrid,121537,True,id_map
+fotmob,474589,José Giménez,Deportivo de La Coruña,151883,True,id_map
+fotmob,516803,Einar Galilea,Málaga,138041,True,id_map
+fotmob,602563,Marcos Llorente,Atlético de Madrid,192364,True,id_map
+fotmob,609516,Robin Le Normand,Atlético de Madrid,224919,True,id_map
+fotmob,616538,Alfonso Herrero,Málaga,ws_261509,True,id_map
+fotmob,690516,Ademola Lookman,Atlético de Madrid,219352,True,id_map
+fotmob,722830,Eneko Jauregi,Málaga,216473,True,id_map
+fotmob,727897,Dávid Hancko,Atlético de Madrid,235093,True,id_map
+fotmob,940608,Juan Cruz,Málaga,451281,True,id_map
+fotmob,940976,Kang-In Lee,Atlético de Madrid,451358,True,id_map
+fotmob,942372,Álex Baena,Atlético de Madrid,248501,True,id_map
+fotmob,950199,Morten Hjulmand,Atlético de Madrid,454812,True,id_map
+fotmob,951739,Joaquín Muñoz,Málaga,437831,True,id_map
+fotmob,1082957,Ramón Enríquez,Málaga,490733,True,id_map
+fotmob,1098594,Julen Lobete,Málaga,495392,True,id_map
+fotmob,1108863,David Larrubia,Málaga,495391,True,id_map
+fotmob,1173678,Johnny Cardoso,Atlético de Madrid,488662,True,id_map
+fotmob,1187478,José Salinas,Málaga,515611,True,id_map
+fotmob,1209421,Carlos Dotor,Málaga,448178,True,id_map
+fotmob,1220748,Haitam Abaida,Málaga,482236,True,id_map
+fotmob,1226147,Giuliano Simeone,Atlético de Madrid,482652,True,id_map
+fotmob,1256463,Álex Pastor,Málaga,521429,True,id_map
+fotmob,1260010,Ángel Recio,Málaga,539602,True,id_map
+fotmob,1282015,Carlos Martín,Atlético de Madrid,531219,True,id_map
+fotmob,1297989,Arnau Ortiz,Atlético de Madrid,552095,True,id_map
+fotmob,1317624,Dani Lorenzo,Málaga,561391,True,id_map
+fotmob,1323897,Marc Pubill,Atlético de Madrid,562720,True,id_map
+fotmob,1338192,Pablo Barrios,Atlético de Madrid,503523,True,id_map
+fotmob,1419969,Rodrigo Mendoza,Atlético de Madrid,578538,True,id_map
+fotmob,1426161,Carlos López,Málaga,fm_1426161,True,id_map
+fotmob,1434474,Rafa Rodríguez,Málaga,608484,True,id_map
+fotmob,1531100,Dani Martínez,Atlético de Madrid,593193,True,id_map
+fotmob,1668274,Carlos Puga,Málaga,562075,True,id_map
+fotmob,1669619,Izan Merino,Málaga,620616,True,id_map
+fotmob,1669622,Chupe,Málaga,620045,True,id_map
+fotmob,1692877,Jorge Castillo,Atlético de Madrid,593184,True,id_map
+fotmob,1717331,Rafita,Málaga,640504,True,id_map
+fotmob,1810991,Joseph Otu,Málaga,746342,True,id_map
+fotmob,1839193,Juan Fernandez,Málaga,fm_1839193,True,id_map
+fotmob,1842315,Miguel Llorente,Atlético de Madrid,fm_1842315,True,id_map
+fotmob,1842329,Jorge Domínguez,Atlético de Madrid,710911,True,id_map
+fotmob,174472,Iago Aspas,Celta de Vigo,40270,True,id_map
+fotmob,196169,Marcos Alonso,Celta de Vigo,82263,True,id_map
+fotmob,213471,Aitor Fernández,Osasuna,80993,True,id_map
+fotmob,251269,Ante Budimir,Osasuna,94273,True,id_map
+fotmob,262592,Moi Gómez,Osasuna,109243,True,id_map
+fotmob,303879,Lucas Torró,Osasuna,111232,True,id_map
+fotmob,384413,Rubén Garcia,Osasuna,130026,True,id_map
+fotmob,488718,Diego Rico,Osasuna,171129,True,id_map
+fotmob,497662,Carl Starfelt,Celta de Vigo,174249,True,id_map
+fotmob,574624,Enrique Barja,Osasuna,fm_574624,True,id_map
+fotmob,671686,Aleix Febas,Celta de Vigo,199250,True,id_map
+fotmob,681213,Ionuț Radu,Celta de Vigo,215531,True,id_map
+fotmob,683762,Sergio Herrera,Osasuna,138039,True,id_map
+fotmob,695062,Javi Galán,Celta de Vigo,219717,True,id_map
+fotmob,814663,Alejandro Catena,Osasuna,244273,True,id_map
+fotmob,866967,Altay Bayındır,Celta de Vigo,451302,True,id_map
+fotmob,921825,Jon Moncayola,Osasuna,477463,True,id_map
+fotmob,1054786,Aimar Oroz,Osasuna,484702,True,id_map
+fotmob,1094778,Raúl García,Osasuna,490859,True,id_map
+fotmob,1098365,Jorge Herrando,Osasuna,463784,True,id_map
+fotmob,1102732,Ferrán Jutglà,Celta de Vigo,464575,True,id_map
+fotmob,1106742,Sergio Carreira,Celta de Vigo,439871,True,id_map
+fotmob,1109046,Ilaix Moriba,Celta de Vigo,465689,True,id_map
+fotmob,1132355,Álvaro Núñez,Celta de Vigo,440594,True,id_map
+fotmob,1169596,Raúl Moro,Osasuna,465701,True,id_map
+fotmob,1187734,Flavien Boyomo,Osasuna,fm_1187734,True,id_map
+fotmob,1226783,Hugo González,Celta de Vigo,492900,True,id_map
+fotmob,1242139,Jonathan Dubasin,Osasuna,523079,True,id_map
+fotmob,1272740,Williot Swedberg,Celta de Vigo,543932,True,id_map
+fotmob,1308414,Hugo Álvarez,Celta de Vigo,550566,True,id_map
+fotmob,1310440,Javi Rueda,Celta de Vigo,493333,True,id_map
+fotmob,1322858,Pablo Durán,Celta de Vigo,597355,True,id_map
+fotmob,1323398,Abel Bretones,Osasuna,498594,True,id_map
+fotmob,1323863,Iker Muñoz,Osasuna,589577,True,id_map
+fotmob,1359911,Miguel Román,Celta de Vigo,602479,True,id_map
+fotmob,1379196,Jones El-Abdellaoui,Celta de Vigo,566165,True,id_map
+fotmob,1431121,Asier Osambela,Osasuna,646142,True,id_map
+fotmob,1435439,Javi Rodríguez,Celta de Vigo,638238,True,id_map
+fotmob,1555492,Abdoulaye Faye,Celta de Vigo,631935,True,id_map
+fotmob,1578176,Yoel Lago,Celta de Vigo,643133,True,id_map
+fotmob,1614872,Iñigo Arguibide,Osasuna,646149,True,id_map
+fotmob,1682298,Unai Santos,Osasuna,672686,True,id_map
+fotmob,1699317,Mauro Echegoyen,Osasuna,646145,True,id_map
+fotmob,1732791,Andrés Antañón,Celta de Vigo,672231,True,id_map
+fotmob,1752349,Asier Bonel,Osasuna,647953,True,id_map
+fotmob,1825995,Hugo Burcio,Celta de Vigo,657325,True,id_map
+fotmob,150565,Pierre-Emerick Aubameyang,Deportivo de La Coruña,54694,True,id_map
+fotmob,260659,Ximo Navarro,Deportivo de La Coruña,90728,True,id_map
+fotmob,291635,Pedro Bigas,Elche,91393,True,id_map
+fotmob,416409,Germán Parreno,Deportivo de La Coruña,fm_416409,True,id_map
+fotmob,493216,Ezequiel Ponce,Elche,172845,True,id_map
+fotmob,592412,Matías Dituro,Elche,98448,True,id_map
+fotmob,603537,Angeliño,Deportivo de La Coruña,145235,True,id_map
+fotmob,623982,Josan,Elche,199195,True,id_map
+fotmob,796781,Álvaro Fernández,Deportivo de La Coruña,fm_796781,True,id_map
+fotmob,800891,Miguel Loureiro,Deportivo de La Coruña,429213,True,id_map
+fotmob,801213,Tete Morente,Elche,429644,True,id_map
+fotmob,881773,Gonzalo Villar,Elche,450782,True,id_map
+fotmob,970566,Riki Rodríguez,Deportivo de La Coruña,464470,True,id_map
+fotmob,988178,Diego Villares,Deportivo de La Coruña,562005,True,id_map
+fotmob,1029029,Zakaria Eddahchouri,Deportivo de La Coruña,479491,True,id_map
+fotmob,1050828,Mario Soriano,Deportivo de La Coruña,488042,True,id_map
+fotmob,1073980,David Affengruber,Elche,442299,True,id_map
+fotmob,1077977,Giacomo Quagliata,Deportivo de La Coruña,456504,True,id_map
+fotmob,1102708,Germán Valera,Elche,467020,True,id_map
+fotmob,1120002,Arnau Comas,Deportivo de La Coruña,437774,True,id_map
+fotmob,1127224,Fer Niño,Elche,502290,True,id_map
+fotmob,1187702,Leo Román,Deportivo de La Coruña,500755,True,id_map
+fotmob,1192393,Víctor Chust,Elche,437463,True,id_map
+fotmob,1204447,Luismi Cruz,Deportivo de La Coruña,546000,True,id_map
+fotmob,1226189,Martim Neto,Elche,483083,True,id_map
+fotmob,1256478,Adrià Altimira,Deportivo de La Coruña,465599,True,id_map
+fotmob,1277343,Federico Redondo,Elche,536884,True,id_map
+fotmob,1280756,Lucas Cepeda,Elche,541759,True,id_map
+fotmob,1311126,Alejandro Iturbe,Elche,fm_1311126,True,id_map
+fotmob,1332025,Lucas Noubi,Deportivo de La Coruña,543316,True,id_map
+fotmob,1336566,Facundo Buonanotte,Elche,536916,True,id_map
+fotmob,1368655,David Mella,Deportivo de La Coruña,554651,True,id_map
+fotmob,1392232,Marc Aguado,Elche,484741,True,id_map
+fotmob,1425989,Lorenzo Amatucci,Deportivo de La Coruña,607463,True,id_map
+fotmob,1466558,Teun Gijselhart,Deportivo de La Coruña,560616,True,id_map
+fotmob,1531888,Nordin,Elche,fm_1531888,True,id_map
+fotmob,1560023,Kevin Sánchez,Deportivo de La Coruña,568601,True,id_map
+fotmob,1583872,Buba Sangaré,Elche,633425,True,id_map
+fotmob,1621150,Jonathan Asp,Deportivo de La Coruña,fm_1621150,True,id_map
+fotmob,1670276,Matia Barzić,Elche,593181,True,id_map
+fotmob,1670281,Ali Houary,Elche,631382,True,id_map
+fotmob,1690831,Bil Nsongo,Deportivo de La Coruña,711110,True,id_map
+fotmob,1711969,Bright Ede,Deportivo de La Coruña,679125,True,id_map
+fotmob,1732412,Javi Morcillo,Elche,714598,True,id_map
+fotmob,1859341,Umaru Konare,Elche,fm_1859341,True,id_map
+fotmob,1959218,Alvaro Padilla,Elche,748535,True,id_map
+fotmob,185644,Mathew Ryan,Levante,131897,True,id_map
+fotmob,210683,Aïssa Mandi,Levante,86813,True,id_map
+fotmob,280818,Marko Dmitrović,Espanyol,94618,True,id_map
+fotmob,443966,Jeremy Toljan,Levante,160540,True,id_map
+fotmob,593129,Pere Milla,Espanyol,175090,True,id_map
+fotmob,750031,Pol Lozano,Espanyol,227172,True,id_map
+fotmob,805352,Unai Núñez,Espanyol,242830,True,id_map
+fotmob,837089,Edu Expósito,Espanyol,420909,True,id_map
+fotmob,914401,Oriol Rey,Levante,242310,True,id_map
+fotmob,952528,Adrián De La Fuente,Levante,437808,True,id_map
+fotmob,955204,Vanja Drkušić,Espanyol,462097,True,id_map
+fotmob,977618,Víctor García,Levante,465278,True,id_map
+fotmob,1052330,Manuel Sánchez,Levante,465494,True,id_map
+fotmob,1131957,Jon Olasagasti,Levante,513945,True,id_map
+fotmob,1181101,Tyrhys Dolan,Espanyol,420926,True,id_map
+fotmob,1184772,Ángel Fortuno,Espanyol,513951,True,id_map
+fotmob,1184777,Jofre Carreras,Espanyol,513950,True,id_map
+fotmob,1187767,Urko González,Espanyol,514204,True,id_map
+fotmob,1208708,Omar El Hilali,Espanyol,517929,True,id_map
+fotmob,1209441,Iván Romero,Levante,521508,True,id_map
+fotmob,1209980,Carlos Álvarez,Levante,494921,True,id_map
+fotmob,1237455,Pablo Campos,Levante,fm_1237455,True,id_map
+fotmob,1252373,Roberto Fernández,Espanyol,537940,True,id_map
+fotmob,1279557,Clemens Riedel,Espanyol,514968,True,id_map
+fotmob,1300457,Álex Calatrava,Espanyol,fm_1300457,True,id_map
+fotmob,1332540,Enzo Bardeli,Levante,492841,True,id_map
+fotmob,1392779,Etta Eyong,Levante,588010,True,id_map
+fotmob,1393669,Quilindschy Hartman,Espanyol,494960,True,id_map
+fotmob,1407741,Marcos Fernández,Espanyol,604116,True,id_map
+fotmob,1427828,Javi Hernández,Espanyol,628184,True,id_map
+fotmob,1503655,Gabriel Moscardo,Espanyol,617127,True,id_map
+fotmob,1609364,Rafel Bauzà,Espanyol,654680,True,id_map
+fotmob,1617146,Jorge Cabello,Levante,648762,True,id_map
+fotmob,1624106,Llorenç Serred,Espanyol,fm_1624106,True,id_map
+fotmob,1649293,Paco Cortés,Levante,648430,True,id_map
+fotmob,1687255,José Ángel,Espanyol,623680,True,id_map
+fotmob,1727689,Roger Hinojo,Espanyol,690618,True,id_map
+fotmob,1800611,Nacho Pérez,Levante,704770,True,id_map
+fotmob,1875615,Kareem Tunde,Levante,645755,True,id_map
+fotmob,1876774,Adama Timera,Espanyol,720618,True,id_map
+fotmob,2141143,Ihor Galdin,Levante,fm_2141143,True,id_map
+fotmob,2141146,Marc Santos,Levante,719440,True,id_map
+fotmob,2141152,Manel Usedo,Levante,749255,True,id_map
+fotmob,2141153,Alberto Calatrava,Levante,645746,True,id_map
+fotmob,169718,Wojciech Szczęsny,Barcelona,59936,True,id_map
+fotmob,282462,Íñigo Ruíz de Galarreta,Athletic Club,96736,True,id_map
+fotmob,361757,João Cancelo,Barcelona,121145,True,id_map
+fotmob,411617,Aymeric Laporte,Athletic Club,146941,True,id_map
+fotmob,449232,Andreas Christensen,Barcelona,135363,True,id_map
+fotmob,574629,Alex Berenguer,Athletic Club,195385,True,id_map
+fotmob,604105,Iñaki Williams,Athletic Club,197334,True,id_map
+fotmob,614834,Dani Olmo,Barcelona,179370,True,id_map
+fotmob,639450,Yeray Álvarez,Athletic Club,197319,True,id_map
+fotmob,660625,Unai Simón,Athletic Club,212769,True,id_map
+fotmob,675088,Rodri,Barcelona,220566,True,id_map
+fotmob,696679,Raphinha,Barcelona,219961,True,id_map
+fotmob,705450,Jules Koundé,Barcelona,220325,True,id_map
+fotmob,711231,Gorka Guruzeta,Athletic Club,220182,True,id_map
+fotmob,906937,Anthony Gordon,Barcelona,232826,True,id_map
+fotmob,940573,Eric García,Barcelona,432656,True,id_map
+fotmob,950545,Oihan Sancet,Athletic Club,439772,True,id_map
+fotmob,959594,Karim Adeyemi,Barcelona,453750,True,id_map
+fotmob,1011117,Robert Navarro,Athletic Club,460265,True,id_map
+fotmob,1037537,Jesús Areso,Athletic Club,437549,True,id_map
+fotmob,1083323,Pedri,Barcelona,490541,True,id_map
+fotmob,1167220,Joan García,Barcelona,449928,True,id_map
+fotmob,1191407,Aitor Paredes,Athletic Club,440593,True,id_map
+fotmob,1202110,Nico Williams,Athletic Club,523654,True,id_map
+fotmob,1254166,Alejandro Balde,Barcelona,493019,True,id_map
+fotmob,1327006,Johaneko Louisjean,Athletic Club,564923,True,id_map
+fotmob,1331249,Adama Boiro,Athletic Club,629738,True,id_map
+fotmob,1355668,Álvaro Djaló,Athletic Club,588171,True,id_map
+fotmob,1401997,Álex Padilla,Athletic Club,564564,True,id_map
+fotmob,1404415,Fermín López,Barcelona,551086,True,id_map
+fotmob,1425173,Beñat Gerenabarrena,Athletic Club,631990,True,id_map
+fotmob,1425206,Maroan Sannadi,Athletic Club,611626,True,id_map
+fotmob,1425769,Alejandro Rego,Athletic Club,631986,True,id_map
+fotmob,1427819,Hugo Rincón,Athletic Club,620583,True,id_map
+fotmob,1467236,Lamine Yamal,Barcelona,593109,True,id_map
+fotmob,1532137,Pau Cubarsí,Barcelona,593110,True,id_map
+fotmob,1553099,Mikel Jauregizar,Athletic Club,632021,True,id_map
+fotmob,1573126,Marc Bernal,Barcelona,637126,True,id_map
+fotmob,1585726,Peio Canales,Athletic Club,632023,True,id_map
+fotmob,1598982,Gerard Martín,Barcelona,523234,True,id_map
+fotmob,1708842,Hamza Abdelkarim,Barcelona,684337,True,id_map
+fotmob,1815149,Xavi Espart,Barcelona,634630,True,id_map
+fotmob,1817320,Iker Monreal,Athletic Club,668821,True,id_map
+fotmob,1818299,Eder Aller,Barcelona,fm_1818299,True,id_map
+fotmob,1821727,Brian Fariñas,Barcelona,499314,True,id_map
+fotmob,150649,Sergio Canales,Racing de Santander,56448,True,id_map
+fotmob,151001,Péter Gulácsi,Villarreal,46506,True,id_map
+fotmob,246438,Gerard Moreno,Villarreal,93721,True,id_map
+fotmob,479020,Ayoze Pérez,Villarreal,168580,True,id_map
+fotmob,575735,Nicolas Pépé,Villarreal,195735,True,id_map
+fotmob,670031,Asier Villalibre,Racing de Santander,212770,True,id_map
+fotmob,671865,Santi Comesaña,Villarreal,230071,True,id_map
+fotmob,730982,Hugo Pérez,Racing de Santander,730982,True,id_map
+fotmob,833219,Juan Foyth,Villarreal,234908,True,id_map
+fotmob,844544,Pape Gueye,Villarreal,422453,True,id_map
+fotmob,863169,Manu,Racing de Santander,fm_863169,True,id_map
+fotmob,889229,Iñigo Vicente,Racing de Santander,242833,True,id_map
+fotmob,899195,Andrés Martin,Racing de Santander,444284,True,id_map
+fotmob,922877,Logan Costa,Villarreal,445956,True,id_map
+fotmob,982734,Pablo Ramón,Racing de Santander,469317,True,id_map
+fotmob,1026135,Tajon Buchanan,Villarreal,424622,True,id_map
+fotmob,1059657,Sergi Cardona,Villarreal,484693,True,id_map
+fotmob,1117069,Georges Mikautadze,Villarreal,499209,True,id_map
+fotmob,1168852,Íñigo Sainz-Maza,Racing de Santander,464168,True,id_map
+fotmob,1184694,Alberto Moleiro,Villarreal,513956,True,id_map
+fotmob,1187044,Luíz Júnior,Villarreal,514664,True,id_map
+fotmob,1199649,Álvaro Mantilla,Racing de Santander,500285,True,id_map
+fotmob,1212179,Facundo González,Racing de Santander,564895,True,id_map
+fotmob,1225417,Juan Carlos Arana,Racing de Santander,553751,True,id_map
+fotmob,1280020,Julen Agirrezabala,Racing de Santander,470508,True,id_map
+fotmob,1311915,Ilias Akhomach,Villarreal,500043,True,id_map
+fotmob,1331597,Gustavo Puerta,Racing de Santander,560564,True,id_map
+fotmob,1338696,Alex Freeman,Villarreal,484917,True,id_map
+fotmob,1338740,Tani Oluwaseyi,Villarreal,565686,True,id_map
+fotmob,1343750,Renato Veiga,Villarreal,551230,True,id_map
+fotmob,1344550,Willy Kambwala,Villarreal,518466,True,id_map
+fotmob,1363232,Maguette Gueye,Racing de Santander,572069,True,id_map
+fotmob,1395964,Carlos Romero,Villarreal,588993,True,id_map
+fotmob,1407468,Santiago Mouriño,Villarreal,536642,True,id_map
+fotmob,1441736,Simon Eriksson,Racing de Santander,fm_1441736,True,id_map
+fotmob,1531887,Pau Navarro,Villarreal,629907,True,id_map
+fotmob,1553409,Jorge Castellanos,Racing de Santander,621929,True,id_map
+fotmob,1640985,Yassir Zabiri,Racing de Santander,652987,True,id_map
+fotmob,1644302,Pedro Felipe,Racing de Santander,617105,True,id_map
+fotmob,1670161,Jorge Salinas,Racing de Santander,658061,True,id_map
+fotmob,1693550,Diego Díaz,Racing de Santander,664923,True,id_map
+fotmob,1791769,Sergio Martínez,Racing de Santander,ws_586240,True,id_map
+fotmob,1841906,Carlos Maciá,Villarreal,710081,True,id_map
+fotmob,1910947,Carlos Sanchez,Racing de Santander,720621,True,id_map
+fotmob,1938902,Andres Vallecillo,Racing de Santander,718495,True,id_map
+fotmob,2141015,Cheikh Tidiane Thiam,Villarreal,fm_2141015,True,id_map
+fotmob,170323,Thibaut Courtois,Real Madrid,60772,True,id_map
+fotmob,276738,Antonio Rüdiger,Real Madrid,102380,True,id_map
+fotmob,488139,Bernardo Silva,Real Madrid,165809,True,id_map
+fotmob,536455,Gonçalo Guedes,Real Sociedad,181284,True,id_map
+fotmob,593118,Denzel Dumfries,Real Madrid,199432,True,id_map
+fotmob,616539,Alex Remiro,Real Sociedad,197316,True,id_map
+fotmob,678234,Mikel Oyarzabal,Real Sociedad,219000,True,id_map
+fotmob,698653,Igor Zubeldia,Real Sociedad,216475,True,id_map
+fotmob,701154,Kylian Mbappé,Real Madrid,220160,True,id_map
+fotmob,708890,Carlos Soler,Real Sociedad,224860,True,id_map
+fotmob,730901,Yangel Herrera,Real Sociedad,226541,True,id_map
+fotmob,743533,Federico Valverde,Real Madrid,223255,True,id_map
+fotmob,750027,Brahim Díaz,Real Madrid,216183,True,id_map
+fotmob,760712,Trent Alexander-Arnold,Real Madrid,169187,True,id_map
+fotmob,800882,Andriy Lunin,Real Madrid,fm_800882,True,id_map
+fotmob,820140,Ibrahima Konaté,Real Madrid,204716,True,id_map
+fotmob,844477,Sergio Gómez,Real Sociedad,437468,True,id_map
+fotmob,846033,Vinícius Júnior,Real Madrid,246333,True,id_map
+fotmob,848289,Takefusa Kubo,Real Sociedad,219271,True,id_map
+fotmob,873289,Marc Cucurella,Real Madrid,179268,True,id_map
+fotmob,959597,Luka Sučić,Real Sociedad,464166,True,id_map
+fotmob,999159,Aihen Muñoz,Real Sociedad,472145,True,id_map
+fotmob,1002618,Ander Barrenetxea,Real Sociedad,471138,True,id_map
+fotmob,1015185,Eduardo Camavinga,Real Madrid,475561,True,id_map
+fotmob,1077894,Jude Bellingham,Real Madrid,244855,True,id_map
+fotmob,1097229,Orri Óskarsson,Real Sociedad,507438,True,id_map
+fotmob,1112072,Jon Pacheco,Real Sociedad,449931,True,id_map
+fotmob,1175610,Arsen Zakharyan,Real Sociedad,475612,True,id_map
+fotmob,1190025,Alvaro Carreras,Real Madrid,515501,True,id_map
+fotmob,1210647,Beñat Turrientes,Real Sociedad,488026,True,id_map
+fotmob,1217043,Unai Marrero,Real Sociedad,523062,True,id_map
+fotmob,1249284,Jon Aramburu,Real Sociedad,479816,True,id_map
+fotmob,1253890,Arda Güler,Real Madrid,520250,True,id_map
+fotmob,1367619,Dean Huijsen,Real Madrid,554605,True,id_map
+fotmob,1405014,Sergio Mestre,Real Madrid,fm_1405014,True,id_map
+fotmob,1426185,Alex Lebarbier,Real Sociedad,627656,True,id_map
+fotmob,1523234,Jon Martín,Real Sociedad,620617,True,id_map
+fotmob,1610744,Carlos Espí,Real Madrid,645745,True,id_map
+fotmob,1697334,Luken Beitia,Real Sociedad,612301,True,id_map
+fotmob,1707940,Alexis Ciria,Real Madrid,704994,True,id_map
+fotmob,1713217,Mario Rivas,Real Madrid,633424,True,id_map
+fotmob,1721611,Álex Marchal,Real Sociedad,634254,True,id_map
+fotmob,1724551,Job Ochieng,Real Sociedad,612309,True,id_map
+fotmob,1735453,Yan Diomande,Real Madrid,692871,True,id_map
+fotmob,1807277,Jorge Cestero,Real Madrid,499358,True,id_map
+fotmob,1810849,Ibai Aguirre,Real Sociedad,634238,True,id_map
+fotmob,184521,Florian Lejeune,Rayo Vallecano,77359,True,id_map
+fotmob,264885,Iván Balliu,Rayo Vallecano,97624,True,id_map
+fotmob,304355,Odysseas Vlachodimos,Sevilla,111452,True,id_map
+fotmob,474658,Álvaro Garcia,Rayo Vallecano,165682,True,id_map
+fotmob,571615,Unai López,Rayo Vallecano,183462,True,id_map
+fotmob,621415,Augusto Batalla,Rayo Vallecano,173209,True,id_map
+fotmob,638010,Isi Palazón,Rayo Vallecano,434078,True,id_map
+fotmob,659490,Gabriel Suazo,Sevilla,213102,True,id_map
+fotmob,678192,Jon Guridi,Sevilla,201178,True,id_map
+fotmob,715069,Pedro Díaz,Rayo Vallecano,435065,True,id_map
+fotmob,797901,Jorge de Frutos,Rayo Vallecano,241153,True,id_map
+fotmob,837270,Chidera Ejuke,Sevilla,250437,True,id_map
+fotmob,860752,Rubén Vargas,Sevilla,429534,True,id_map
+fotmob,872396,Pathé Ciss,Rayo Vallecano,441175,True,id_map
+fotmob,915264,Randy Nteka,Rayo Vallecano,449300,True,id_map
+fotmob,924300,Alemão,Rayo Vallecano,483116,True,id_map
+fotmob,956622,Óscar Valentín,Rayo Vallecano,433161,True,id_map
+fotmob,970578,Andrei Rațiu,Rayo Vallecano,466543,True,id_map
+fotmob,971790,Lucien Agoumé,Sevilla,468426,True,id_map
+fotmob,980422,Sergio Camello,Rayo Vallecano,248507,True,id_map
+fotmob,1041445,Dani Cárdenas,Rayo Vallecano,491436,True,id_map
+fotmob,1102289,Juan Iglesias,Sevilla,464283,True,id_map
+fotmob,1130991,Isaac Romero,Sevilla,610206,True,id_map
+fotmob,1132607,Peque Fernández,Sevilla,493086,True,id_map
+fotmob,1244272,Arouna Sangante,Sevilla,509285,True,id_map
+fotmob,1255090,Jozhua Vertrouwd,Rayo Vallecano,538671,True,id_map
+fotmob,1281461,José Ángel Carmona,Sevilla,545998,True,id_map
+fotmob,1284430,Fran Pérez,Rayo Vallecano,466057,True,id_map
+fotmob,1327489,Kike Salas,Sevilla,550816,True,id_map
+fotmob,1334767,Andrés Lopez,Sevilla,fm_1334767,True,id_map
+fotmob,1399218,Robbie Ure,Sevilla,503537,True,id_map
+fotmob,1411818,Pelayo Fernández,Rayo Vallecano,493085,True,id_map
+fotmob,1413945,Iker Ortín,Sevilla,592812,True,id_map
+fotmob,1428849,Manu Bueno,Sevilla,550781,True,id_map
+fotmob,1447089,Julio Díaz,Sevilla,551311,True,id_map
+fotmob,1484851,Fran González,Sevilla,fm_1484851,True,id_map
+fotmob,1555045,Ibrahima Sow,Sevilla,550797,True,id_map
+fotmob,1575945,Oso,Sevilla,637705,True,id_map
+fotmob,1662963,Marco de Las Sías,Rayo Vallecano,665388,True,id_map
+fotmob,1729976,Sergio Lozano,Rayo Vallecano,691217,True,id_map
+fotmob,1783498,Nico Guillen,Sevilla,664217,True,id_map
+fotmob,1793858,Edu Altozano,Sevilla,592810,True,id_map
+fotmob,1797904,Miguel Sierra,Sevilla,639309,True,id_map
+fotmob,1845978,Ivan Alonso,Rayo Vallecano,499356,True,id_map
+fotmob,2130263,Marco Roman,Rayo Vallecano,722839,True,id_map
+fotmob,191315,Isco,Real Betis,80209,True,id_map
+fotmob,195305,Marc Bartra,Real Betis,81138,True,id_map
+fotmob,254241,Stole Dimitrievski,Valencia CF,94878,True,id_map
+fotmob,391058,José Gayà,Valencia CF,132105,True,id_map
+fotmob,420568,Diego Llorente,Real Betis,149915,True,id_map
+fotmob,427438,Héctor Bellerín,Real Betis,98745,True,id_map
+fotmob,561198,Mouctar Diakhaby,Valencia CF,208135,True,id_map
+fotmob,586768,Guido Rodríguez,Valencia CF,197024,True,id_map
+fotmob,590494,Umar Sadiq,Valencia CF,196878,True,id_map
+fotmob,638070,Luis Rioja,Valencia CF,434941,True,id_map
+fotmob,640220,Marc Roca,Real Betis,234370,True,id_map
+fotmob,673356,Pablo Maffeo,Valencia CF,170154,True,id_map
+fotmob,673689,Pepelu,Valencia CF,220191,True,id_map
+fotmob,683450,Pablo Fornals,Real Betis,217593,True,id_map
+fotmob,704151,Arnaut Danjuma,Valencia CF,220307,True,id_map
+fotmob,723148,Aliou Dieng,Valencia CF,449576,True,id_map
+fotmob,743192,Júnior Firpo,Real Betis,443967,True,id_map
+fotmob,750028,Fran García,Real Betis,227166,True,id_map
+fotmob,777028,André Almeida,Racing de Santander,247636,True,id_map
+fotmob,784246,Dani Raba,Valencia CF,240071,True,id_map
+fotmob,800615,Filip Ugrinic,Valencia CF,242169,True,id_map
+fotmob,852071,Juan Hernández,Real Betis,fm_852071,True,id_map
+fotmob,895954,Álvaro Fidalgo,Real Betis,223761,True,id_map
+fotmob,929838,Hugo Duro,Valencia CF,439716,True,id_map
+fotmob,942365,Troy Parrott,Real Betis,447235,True,id_map
+fotmob,967622,Antony,Real Betis,467169,True,id_map
+fotmob,999171,Álvaro Vallés,Real Betis,472194,True,id_map
+fotmob,1072200,Rodrigo Riquelme,Real Betis,437834,True,id_map
+fotmob,1082930,Iker Losada,Real Betis,490726,True,id_map
+fotmob,1188375,Natan,Real Betis,448085,True,id_map
+fotmob,1220187,Jesus Vázquez,Valencia CF,466044,True,id_map
+fotmob,1284429,Javier Guerra,Valencia CF,546540,True,id_map
+fotmob,1311985,César Tárrega,Valencia CF,492898,True,id_map
+fotmob,1315711,Nelson Deossa,Real Betis,544538,True,id_map
+fotmob,1338016,Valentín Gómez,Real Betis,570931,True,id_map
+fotmob,1348497,Kayne van Oevelen,Valencia CF,fm_1348497,True,id_map
+fotmob,1436133,Facundo Bernal,Real Betis,614242,True,id_map
+fotmob,1580522,Ángel Ortiz,Real Betis,588143,True,id_map
+fotmob,1600732,David Otorbi,Valencia CF,576682,True,id_map
+fotmob,1611149,Ryunosuke Sato,Valencia CF,614481,True,id_map
+fotmob,1637860,Iker Córdoba,Valencia CF,637198,True,id_map
+fotmob,1662379,Pablo García,Racing de Santander,623696,True,id_map
+fotmob,1674892,Manu González,Real Betis,fm_1674892,True,id_map
+fotmob,1793870,Alejandro Panach,Valencia CF,643319,True,id_map
+fotmob,1842857,Jaume Dura,Valencia CF,670115,True,id_map
+fotmob,1928170,Alvaro de Pablo,Real Betis,fm_1928170,True,id_map
+fotmob,80295,Yuri Berchiche,Athletic Club,42670,True,id_map
+fotmob,953958,Giorgi Kochorashvili,Sevilla,428798,True,id_map
+fotmob,1203891,Rafa Romero,Sevilla,fm_1203891,True,id_map
+fotmob,1899757,Manuel Angel Castillo,Sevilla,735727,True,id_map
+fotmob,974753,Julián Álvarez,Atlético de Madrid,461358,True,id_map
+fotmob,1897470,Nizar El Jmili,Villarreal,fm_1897470,True,id_map
+fotmob,1340594,Mikel Goti,Real Sociedad,628792,True,id_map
+fotmob,1431291,Gorka Carrera,Real Sociedad,632509,True,id_map
+fotmob,654091,Grady Diangana,Elche,179830,True,id_map
+fotmob,1279040,Gavi,Barcelona,500046,True,id_map
+fotmob,1695867,Álvaro Cortés,Barcelona,634056,True,id_map
+fotmob,1901980,Jordi Pesquer,Barcelona,723493,True,id_map
+fotmob,474673,Johan Mojica,Getafe,152723,True,id_map
+fotmob,967871,Iván Martin,Racing de Santander,224467,True,id_map
+fotmob,1183650,Francho Serrano,Getafe,494495,True,id_map
+fotmob,1691462,Curro Burgos,Getafe,675560,True,id_map
+fotmob,1694764,Oscar Lopez,Getafe,679262,True,id_map
+fotmob,2156233,Hugo Perez,Racing de Santander,fm_2156233,True,id_map
+fotmob,923298,Pablo Martínez,Málaga,445998,True,id_map
+fotmob,1319204,Yeremay Hernández,Deportivo de La Coruña,523890,True,id_map
+fotmob,1254218,Hugo Sotelo,Levante,538283,True,id_map
+fotmob,1286471,Roger Brugué,Levante,439878,True,id_map
+fotmob,1460063,Thiago Fernández,Levante,575889,True,id_map
+fotmob,1481503,Dani Requena,Levante,621306,True,id_map
+fotmob,1762938,Rafa Fernández,Osasuna,fm_1762938,True,id_map
+fotmob,1780239,Ifeanyi Ndukwe,Levante,591617,True,id_map
+fotmob,561164,Lucas Boyé,Alavés,193774,True,id_map
+fotmob,939061,Giorgi Tsitaishvili,Rayo Vallecano,451017,True,id_map
+fotmob,1249665,Nicolás Valentini,Alavés,536665,True,id_map
+fotmob,609505,Borja Iglesias,Celta de Vigo,202044,True,id_map
+fotmob,913464,Cristian Rivero,Valencia CF,fm_913464,True,id_map
+fotmob,969711,Justin De Haas,Valencia CF,467622,True,id_map
+fotmob,1469787,Marcos Navarro,Valencia CF,619748,True,id_map
+fotmob,1216798,Nathan Saliba,Villarreal,496694,True,id_map
+fotmob,1695966,Alassane Diatta,Villarreal,665522,True,id_map
+fotmob,1609347,Kike Ribes,Celta de Vigo,fm_1609347,True,id_map
+fotmob,261609,Dimitri Foulquier,Valencia CF,96767,True,id_map
+fotmob,1194892,Arnau Martínez,Valencia CF,517333,True,id_map
+fotmob,1905203,Aaron Mayol,Valencia CF,720320,True,id_map
+fotmob,927646,Adrià Pedrosa,Rayo Vallecano,446990,True,id_map
+fotmob,1803292,Adrián Molina,Rayo Vallecano,fm_1803292,True,id_map
+fotmob,1889232,Gnangoro Bouare,Rayo Vallecano,fm_1889232,True,id_map
+fotmob,1209399,Abdessamad Ezzalzouli,Real Betis,500745,True,id_map
+fotmob,1836083,Yanis Musuayi,Levante,664880,True,id_map
+fotmob,178753,Nemanja Gudelj,Getafe,72154,True,id_map
+fotmob,1559834,Joselu Pérez,Getafe,619893,True,id_map
+fotmob,1603025,Rockson Yeboah,Osasuna,627127,True,id_map
+fotmob,1065640,Giorgi Guliashvili,Racing de Santander,486783,True,id_map
+fotmob,1343195,Abiel Osorio,Elche,572662,True,id_map
+fotmob,1396089,Matteo Prati,Racing de Santander,588222,True,id_map
+fotmob,1820340,Javi Navarro,Real Madrid,fm_1820340,True,id_map
+fotmob,1323827,Jon Gorrotxategi,Real Sociedad,546812,True,id_map
+fotmob,1426170,Mamadou Sarr,Real Sociedad,574458,True,id_map
+fotmob,789066,Cristian Romero,Atlético de Madrid,221632,True,id_map
+fotmob,926643,Alfon González,Sevilla,446814,True,id_map
+fotmob,696263,Romain Del Castillo,Osasuna,219873,True,id_map
+fotmob,1431307,Selu Diallo,Alavés,611627,True,id_map
+fotmob,1859185,Izei Hernández,Alavés,643253,True,id_map
+fotmob,939569,Jonathan David,Atlético de Madrid,421821,True,id_map
+fotmob,1229176,Beñat Prados,Athletic Club,470506,True,id_map
+fotmob,1820601,Selton Sánchez,Athletic Club,646190,True,id_map
+fotmob,1793845,José Antonio Morante,Real Betis,680523,True,id_map
+fotmob,468931,Thomas Lemar,Elche,167449,True,id_map
+fotmob,1330035,Rubén Sánchez,Elche,539600,True,id_map
+fotmob,1337914,Roy Revivo,Elche,545092,True,id_map
+fotmob,1490110,Héctor Fort,Real Sociedad,499310,True,id_map
+fotmob,169586,Leandro Cabrera,Espanyol,64662,True,id_map
+fotmob,942358,Félix Correia,Sevilla,449991,True,id_map
+fotmob,954621,Youssouf Fofana,Sevilla,461913,True,id_map
+fotmob,1202525,Bryan Zaragoza,Espanyol,522601,True,id_map
+fotmob,1398377,Lucas Stassin,Sevilla,513530,True,id_map
+fotmob,1020026,Sebastián Cáceres,Celta de Vigo,425715,True,id_map
+fotmob,1184693,Couhaib Driouech,Celta de Vigo,510657,True,id_map
+fotmob,1203946,Iván Azon,Getafe,503798,True,id_map
+fotmob,1697367,Mohamed Hamdoune,Getafe,639184,True,id_map
+fotmob,801120,Jens-Lys Cajuste,Málaga,454667,True,id_map
+fotmob,873838,Juan Berrocal,Málaga,433632,True,id_map
+fotmob,1302821,Petar Ratkov,Levante,530193,True,id_map
+fotmob,1573563,Adam Aznou,Málaga,499300,True,id_map
+fotmob,1695701,Axel Tape,Levante,669592,True,id_map
+fotmob,602845,Emil Audero,Rayo Vallecano,193509,True,id_map
+fotmob,684981,Aarón Martín,Racing de Santander,234369,True,id_map
+fotmob,939427,Mujaid Sadick,Rayo Vallecano,436027,True,id_map
+fotmob,1329406,Jeanuël Belocian,Racing de Santander,565992,True,id_map
+fotmob,1553404,Rayane Belaid,Rayo Vallecano,621927,True,id_map
+fotmob,383971,Dominik Livaković,Barcelona,198534,True,id_map
+fotmob,576165,Gabriel Jesus,Barcelona,205651,True,id_map
+fotmob,963964,Harvey Elliott,Valencia CF,444884,True,id_map
+fotmob,1793871,Aimar Blázquez,Valencia CF,609616,True,id_map
+fotmob,1875436,Rodrigo Gamon,Valencia CF,719474,True,id_map
+fotmob,493647,Adama Traoré,Deportivo de La Coruña,159533,True,id_map
+fotmob,1384883,Marc Casadó,Deportivo de La Coruña,494927,True,id_map
+fotmob,1408547,Rubén Gómez,Villarreal,fm_1408547,True,id_map
+fotmob,1203614,Nico Serrano,Athletic Club,494929,True,id_map
+fotmob,786630,Iván Villar,Celta de Vigo,fm_786630,True,id_map
+fotmob,1403695,Adrián Niño,Málaga,593196,True,id_map
+fotmob,1800362,Moha Achraf,Getafe,753867,True,id_map
+fotmob,1586390,Iker Luque,Racing de Santander,621933,True,id_map
+fotmob,1810878,Laro Gómez,Racing de Santander,fm_1810878,True,id_map
+fotmob,872362,Marash Kumbulla,Rayo Vallecano,433059,True,id_map
+fotmob,914458,Aurélien Tchouaméni,Real Madrid,219292,True,id_map
+fotmob,1406729,Endrick,Real Madrid,577107,True,id_map
+fotmob,1580528,Raúl Asencio,Real Madrid,551497,True,id_map
+fotmob,1796908,Thiago Pitarch,Real Madrid,657962,True,id_map
+fotmob,1797872,Samu Becerra,Rayo Vallecano,690348,True,id_map
+fotmob,1254394,Obed Vargas,Atlético de Madrid,502868,True,id_map
+fotmob,1553402,Salvi Esquivel,Atlético de Madrid,fm_1553402,True,id_map
+fotmob,753593,Marcão,Sevilla,182816,True,id_map
+fotmob,531629,Dani Ceballos,Real Betis,182539,True,id_map
+fotmob,604126,Giovani Lo Celso,Real Betis,200826,True,id_map
+fotmob,940743,Daniel Vivian,Athletic Club,437554,True,id_map
+fotmob,1366374,Álex Primo,Levante,fm_1366374,True,id_map
+fotmob,1820604,Christian Imga,Athletic Club,643385,True,id_map
+fotmob,1372810,Dani Barcia,Deportivo de La Coruña,568583,True,id_map
+fotmob,2190234,Victor Mullerat,Espanyol,754808,True,id_map
+fotmob,1678287,Andrés Céspedes,Málaga,fm_1678287,True,id_map
+fotmob,1830259,Iker Rodríguez,Barcelona,fm_1830259,True,id_map
+fotmob,440330,Alexander Sørloth,Atlético de Madrid,143877,True,id_map
+fotmob,763970,Valentin Rosier,Osasuna,228170,True,id_map
+fotmob,1022354,Diego Conde,Real Betis,fm_1022354,True,id_map
+fotmob,2358004,Mikel Bermejo,Osasuna,fm_2358004,True,id_map
+fotmob,1206583,Kevin Lomónaco,Elche,479203,True,id_map
+fotmob,1641028,Jesús Martínez,Getafe,656371,True,id_map
+fotmob,361751,Fábio Cardoso,Sevilla,165804,True,id_map
+fotmob,839232,Fernando Calero,Málaga,241869,True,id_map
+fotmob,846966,Javi Puado,Espanyol,431434,True,id_map
+fotmob,672840,Luiz Felipe,Rayo Vallecano,215510,True,id_map
+fotmob,1834473,Joselillo Gaitán,Villarreal,633441,True,id_map
+fotmob,1293912,Pablo Marín,Real Sociedad,547455,True,id_map
+fotmob,1572672,Martín Ochoa,Deportivo de La Coruña,568609,True,id_map
+fotmob,1821442,Noé,Deportivo de La Coruña,645785,True,id_map
+fotmob,638622,Frenkie de Jong,Barcelona,209712,True,id_map
+fotmob,1700562,Ángel Arcos,Celta de Vigo,657361,True,id_map
+fotmob,1323483,Yayo,Deportivo de La Coruña,fm_1323483,True,id_map
+fotmob,839893,Andoni Gorosabel,Espanyol,235227,True,id_map
+fotmob,282674,Daniel Carvajal,Getafe,88483,True,id_map
+fotmob,844415,Éder Militao,Real Madrid,218449,True,id_map
+fotmob,2387654,Jesus Cruz,Sevilla,634381,True,id_map
+fotmob,1559968,Rubén Montero,Alavés,fm_1559968,True,id_map
+fotmob,1899917,Txus Vizcay,Athletic Club,fotmob_new_1899917,False,
+fotmob,1336022,Rubén Lopez,Deportivo de La Coruña,fotmob_new_1336022,False,
+fotmob,676533,Aitor Ruibal,Real Betis,441303,True,master
+fotmob,1820574,Álex Campos,Barcelona,fotmob_new_1820574,False,
+fotmob,1834445,Orian Goren,Barcelona,fotmob_new_1834445,False,
+fotmob,2140984,Ilia Voloshyn,Real Madrid,fotmob_new_2140984,False,

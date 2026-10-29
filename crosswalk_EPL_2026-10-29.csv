@@ -1,0 +1,1475 @@
+source,source_native_id,source_name,team,canonical_player_id,matched_to_master,match_via
+opta,472713,Aaron Hickey,Brentford,472713,True,id_map
+opta,214590,Aaron Wan-Bissaka,Aston Villa,214590,True,id_map
+opta,572584,Abdoul Ouattara,Ipswich Town,572584,True,id_map
+opta,578153,Abdukodir Khusanov,Manchester City,578153,True,id_map
+opta,531442,Abdul Fatawu,Ipswich Town,531442,True,id_map
+opta,54469,Adam Smith,Bournemouth,54469,True,id_map
+opta,496221,Adam Wharton,Crystal Palace,496221,True,id_map
+opta,494521,Adrien Truffert,Bournemouth,494521,True,id_map
+opta,154043,Ainsley Maitland-Niles,Everton,154043,True,id_map
+opta,632794,Aladji Bamba,Newcastle,632794,True,id_map
+opta,493105,Alejandro Garnacho,Aston Villa,493105,True,id_map
+opta,153133,Alex Iwobi,Fulham,153133,True,id_map
+opta,503139,Alex Scott,Bournemouth,503139,True,id_map
+opta,614574,Alex Tóth,Bournemouth,614574,True,id_map
+opta,219168,Alexander Isak,Liverpool,219168,True,id_map
+opta,243016,Alexis Mac Allister,Liverpool,243016,True,id_map
+opta,592740,Alfie Cresswell,Leeds,592740,True,id_map
+opta,116535,Alisson Becker,Liverpool,116535,True,id_map
+opta,624777,Allan,Manchester City,624777,True,id_map
+opta,653481,Alysson,Aston Villa,653481,True,id_map
+opta,493250,Amad Diallo,Manchester United,493250,True,id_map
+opta,463726,Amar Dedic,Newcastle,463726,True,id_map
+opta,519324,Amario Cozier-Duberry,Brighton,519324,True,id_map
+opta,489888,Amine Adli,Bournemouth,489888,True,id_map
+opta,570794,Anan Khalaili,Crystal Palace,570794,True,id_map
+opta,532605,Andrey Santos,Manchester United,532605,True,id_map
+opta,122798,Andy Robertson,Tottenham,122798,True,id_map
+opta,449434,Anthony Elanga,Newcastle,449434,True,id_map
+opta,437730,Antoine Semenyo,Manchester City,437730,True,id_map
+opta,466525,Anton Stach,Leeds,466525,True,id_map
+opta,169528,Antonee Robinson,Fulham,169528,True,id_map
+opta,485055,Antonín Kinsky,Tottenham,485055,True,id_map
+opta,483067,António Silva,Bournemouth,483067,True,id_map
+opta,248056,Ao Tanaka,Leeds,248056,True,id_map
+opta,547701,Archie Gray,Tottenham,547701,True,id_map
+opta,465680,Arnaud Kalimuendo,Nottingham Forest,465680,True,id_map
+opta,539142,Aurèle Amenda,Coventry City,539142,True,id_map
+opta,220362,Axel Disasi,Crystal Palace,220362,True,id_map
+opta,606745,Ayden Heaven,Manchester United,606745,True,id_map
+opta,637238,Ayyoub Bouaddi,Manchester City,637238,True,id_map
+opta,241117,Azor Matusiwa,Ipswich Town,241117,True,id_map
+opta,242882,Bafodé Diakité,Bournemouth,242882,True,id_map
+opta,489639,Bart Verbruggen,Brighton,489639,True,id_map
+opta,611665,Bazoumana Touré,Newcastle,611665,True,id_map
+opta,172850,Ben Chilwell,Crystal Palace,172850,True,id_map
+opta,115556,Ben Davies,Tottenham,115556,True,id_map
+opta,496208,Ben Gannon-Doak,Bournemouth,496208,True,id_map
+opta,198869,Ben White,Arsenal,198869,True,id_map
+opta,612534,Benjamin Fredrick,Brentford,612534,True,id_map
+opta,485711,Benjamin Sesko,Manchester United,485711,True,id_map
+opta,80201,Bernd Leno,Fulham,80201,True,id_map
+opta,486385,Beto,Everton,486385,True,id_map
+opta,461102,Bobby Thomas,Coventry City,461102,True,id_map
+opta,218364,Borna Sosa,Crystal Palace,218364,True,id_map
+opta,226944,Boubacar Kamara,Aston Villa,226944,True,id_map
+opta,482616,Bradley Barcola,Liverpool,482616,True,id_map
+opta,645618,Bradley Burrowes,Aston Villa,645618,True,id_map
+opta,629068,Braiden Graham,Everton,629068,True,id_map
+opta,230730,Brandon Thomas-Asante,Coventry City,230730,True,id_map
+opta,427637,Brenden Aaronson,Leeds,427637,True,id_map
+opta,242898,Brennan Johnson,Everton,242898,True,id_map
+opta,441264,Brian Brobbey,Sunderland,441264,True,id_map
+opta,690838,Brian Madjo,Aston Villa,690838,True,id_map
+opta,496181,Brooke Norton-Cuffy,Hull City,496181,True,id_map
+opta,141746,Bruno Fernandes,Manchester United,141746,True,id_map
+opta,208706,Bruno Guimarães,Arsenal,208706,True,id_map
+opta,446008,Bryan Mbeumo,Manchester United,446008,True,id_map
+opta,223340,Bukayo Saka,Arsenal,223340,True,id_map
+opta,661888,Caleb Yirenkyi,Coventry City,661888,True,id_map
+opta,209046,Callum Hudson-Odoi,Nottingham Forest,209046,True,id_map
+opta,499726,Callum Olusesi,Tottenham,499726,True,id_map
+opta,75115,Callum Wilson,Brentford,75115,True,id_map
+opta,232892,Calvin Bassey,Fulham,232892,True,id_map
+opta,524180,Cameron Humphreys,Ipswich Town,524180,True,id_map
+opta,200720,Caoimhín Kelleher,Brentford,200720,True,id_map
+opta,472739,Carl Rushworth,,472739,True,id_map
+opta,535301,Carlos Baleba,Manchester United,535301,True,id_map
+opta,515621,Chadi Riad,Crystal Palace,515621,True,id_map
+opta,647850,Charalampos Kostoulas,Brighton,647850,True,id_map
+opta,502697,Charly Alcaraz,Everton,502697,True,id_map
+opta,438464,Cheick Doucouré,Crystal Palace,438464,True,id_map
+opta,592984,Chema Andrés,Brighton,592984,True,id_map
+opta,549912,Chemsdine Talbi,Sunderland,549912,True,id_map
+opta,427623,Chris Richards,Crystal Palace,427623,True,id_map
+opta,554197,Chris Rigg,Sunderland,554197,True,id_map
+opta,60689,Chris Wood,Nottingham Forest,60689,True,id_map
+opta,128295,Christian Nørgaard,Everton,128295,True,id_map
+opta,108813,Christian Walton,,108813,True,id_map
+opta,647839,Christos Mouzakitis,Hull City,647839,True,id_map
+opta,439509,Christos Tzolis,Arsenal,439509,True,id_map
+opta,147675,Chuba Akpom,Ipswich Town,147675,True,id_map
+opta,575204,Claudio Echeverri,Manchester City,575204,True,id_map
+opta,433590,Cody Drameh,Hull City,433590,True,id_map
+opta,243298,Cody Gakpo,Liverpool,243298,True,id_map
+opta,244851,Cole Palmer,Chelsea,244851,True,id_map
+opta,232787,Conor Gallagher,Tottenham,232787,True,id_map
+opta,451490,Costinha,Brighton,451490,True,id_map
+opta,500040,Cristhian Mosquera,Arsenal,500040,True,id_map
+opta,183015,Cédric Kipré,Ipswich Town,183015,True,id_map
+opta,571779,César Palacios,Fulham,571779,True,id_map
+opta,209400,Daichi Kamada,Crystal Palace,209400,True,id_map
+opta,442967,Daizen Maeda,Ipswich Town,442967,True,id_map
+opta,223827,Dan Ballard,Sunderland,223827,True,id_map
+opta,78916,Dan Burn,Newcastle,78916,True,id_map
+opta,456512,Dan Ndoye,Nottingham Forest,456512,True,id_map
+opta,533463,Dango Ouattara,Brentford,533463,True,id_map
+opta,200617,Daniel James,Leeds,200617,True,id_map
+opta,523700,Daniel Jebbison,Bournemouth,523700,True,id_map
+opta,247348,Daniel Muñoz,Nottingham Forest,247348,True,id_map
+opta,50175,Danny Welbeck,Chelsea,50175,True,id_map
+opta,216616,Dara O'Shea,Ipswich Town,216616,True,id_map
+opta,176420,Darnell Furlong,Ipswich Town,176420,True,id_map
+opta,533646,Darío Osorio,Crystal Palace,533646,True,id_map
+opta,442299,David Affengruber,Fulham,442299,True,id_map
+opta,111317,David Brooks,Bournemouth,111317,True,id_map
+opta,154561,David Raya,Arsenal,154561,True,id_map
+opta,638411,Dayann Méthalie,Sunderland,638411,True,id_map
+opta,172649,Dean Henderson,Crystal Palace,172649,True,id_map
+opta,204480,Declan Rice,Arsenal,204480,True,id_map
+opta,445044,Dejan Kulusevski,Tottenham,445044,True,id_map
+opta,487053,Destiny Udogie,Tottenham,487053,True,id_map
+opta,514254,Diego Gómez,Brighton,514254,True,id_map
+opta,216051,Diogo Dalot,Manchester United,216051,True,id_map
+opta,457569,Djordje Petrovic,Bournemouth,457569,True,id_map
+opta,177815,Dominic Calvert-Lewin,Leeds,177815,True,id_map
+opta,154566,Dominic Solanke,Tottenham,154566,True,id_map
+opta,424876,Dominik Szoboszlai,Liverpool,424876,True,id_map
+opta,433154,Dwight McNeil,Crystal Palace,433154,True,id_map
+opta,232413,Eberechi Eze,Arsenal,232413,True,id_map
+opta,205533,Eddie Nketiah,Crystal Palace,205533,True,id_map
+opta,613804,El Hadji Malick Diouf,Brentford,613804,True,id_map
+opta,215379,Elliot Anderson,Manchester City,215379,True,id_map
+opta,608227,Elliot Stroud,Hull City,608227,True,id_map
+opta,218997,Ellis Simms,Coventry City,218997,True,id_map
+opta,543968,Emersonn,Ipswich Town,543968,True,id_map
+opta,209289,Emile Smith Rowe,Fulham,209289,True,id_map
+opta,195546,Emiliano Buendía,Aston Villa,195546,True,id_map
+opta,98980,Emiliano Martínez,Chelsea,98980,True,id_map
+opta,448047,Enzo Fernández,Manchester City,448047,True,id_map
+opta,484420,Enzo Le Fée,Sunderland,484420,True,id_map
+opta,241293,Ephron Mason-Clark,Coventry City,241293,True,id_map
+opta,223094,Erling Haaland,Manchester City,223094,True,id_map
+opta,624773,Estêvão,Chelsea,624773,True,id_map
+opta,199598,Ethan Ampadu,Leeds,199598,True,id_map
+opta,499175,Ethan Nwaneri,Arsenal,499175,True,id_map
+opta,231065,Ethan Pinnock,Coventry City,231065,True,id_map
+opta,444102,Evanilson,Bournemouth,444102,True,id_map
+opta,485337,Evann Guessand,Crystal Palace,485337,True,id_map
+opta,218543,Exequiel Palacios,Ipswich Town,218543,True,id_map
+opta,199798,Ezri Konsa,Arsenal,199798,True,id_map
+opta,119471,Fabian Schär,Newcastle,119471,True,id_map
+opta,223541,Federico Chiesa,Liverpool,223541,True,id_map
+opta,231416,Ferdi Kadioglu,Brighton,231416,True,id_map
+opta,216055,Florentino,Ipswich Town,216055,True,id_map
+opta,494595,Florian Wirtz,Liverpool,494595,True,id_map
+opta,595480,Floyd Samba,Manchester City,595480,True,id_map
+opta,428580,Frank Onyeka,Coventry City,428580,True,id_map
+opta,244858,Fábio Carvalho,Brentford,244858,True,id_map
+opta,243526,Gabriel Gudmundsson,Leeds,243526,True,id_map
+opta,226597,Gabriel Magalhães,Arsenal,226597,True,id_map
+opta,577285,George Hemmings,Aston Villa,577285,True,id_map
+opta,463067,Georginio Rutter,Brighton,463067,True,id_map
+opta,593117,Geovany Quenda,Chelsea,593117,True,id_map
+opta,204936,Gianluigi Donnarumma,Manchester City,204936,True,id_map
+opta,551466,Gonzalo García,Fulham,551466,True,id_map
+opta,84450,Granit Xhaka,Sunderland,84450,True,id_map
+opta,196100,Gustavo Hamer,Coventry City,196100,True,id_map
+opta,626464,Gustavo Nunes,Brentford,626464,True,id_map
+opta,547027,Habib Diarra,Sunderland,547027,True,id_map
+opta,609873,Harrison Armstrong,Everton,609873,True,id_map
+opta,153366,Harrison Reed,Fulham,153366,True,id_map
+opta,577974,Harry Amass,Manchester United,577974,True,id_map
+opta,95658,Harry Maguire,Manchester United,95658,True,id_map
+opta,153682,Harry Wilson,Leeds,153682,True,id_map
+opta,201666,Harvey Barnes,Newcastle,201666,True,id_map
+opta,244860,Hayden Hackney,Everton,244860,True,id_map
+opta,445028,Hidemasa Morita,Hull City,445028,True,id_map
+opta,605972,Honest Ahanor,Crystal Palace,605972,True,id_map
+opta,551050,Hugo Larsson,Fulham,551050,True,id_map
+opta,441302,Ian Maatsen,Aston Villa,441302,True,id_map
+opta,638987,Ibrahim Mbaye,Aston Villa,638987,True,id_map
+opta,612855,Ibrahim Osman,Brighton,612855,True,id_map
+opta,210462,Ibrahim Sangaré,Nottingham Forest,210462,True,id_map
+opta,482973,Igor Jesus,Nottingham Forest,482973,True,id_map
+opta,502500,Igor Thiago,Brentford,502500,True,id_map
+opta,486520,Ilia Gruev,Leeds,486520,True,id_map
+opta,440993,Iliman Ndiaye,Manchester City,440993,True,id_map
+opta,232185,Ismaïla Sarr,Crystal Palace,232185,True,id_map
+opta,219924,Issa Diop,Ipswich Town,219924,True,id_map
+opta,443261,Jack Clarke,Ipswich Town,443261,True,id_map
+opta,114283,Jack Grealish,Everton,114283,True,id_map
+opta,532529,Jack Hinshelwood,Brighton,532529,True,id_map
+opta,480457,Jack Rudoni,Coventry City,480457,True,id_map
+opta,449429,Jacob Greaves,Ipswich Town,449429,True,id_map
+opta,114243,Jacob Murphy,Newcastle,114243,True,id_map
+opta,232653,Jacob Ramsey,Newcastle,232653,True,id_map
+opta,481624,Jaden Philogene,Ipswich Town,481624,True,id_map
+opta,444180,Jaidon Anthony,Brentford,444180,True,id_map
+opta,575458,Jair Cunha,Nottingham Forest,575458,True,id_map
+opta,434752,Jaka Bijol,Leeds,434752,True,id_map
+opta,512462,Jake O'Brien,Everton,512462,True,id_map
+opta,232928,James Garner,Everton,232928,True,id_map
+opta,463981,James Hill,Bournemouth,463981,True,id_map
+opta,220627,James Justin,Leeds,220627,True,id_map
+opta,172780,James Maddison,Tottenham,172780,True,id_map
+opta,432714,James McAtee,Nottingham Forest,432714,True,id_map
+opta,491501,James McConnell,Liverpool,491501,True,id_map
+opta,17761,James Tarkowski,Everton,17761,True,id_map
+opta,432720,James Trafford,Leeds,432720,True,id_map
+opta,463936,Jamie Gittens,Chelsea,463936,True,id_map
+opta,469142,Jan Paul van Hecke,Tottenham,469142,True,id_map
+opta,513086,Jannik Schuster,Brentford,513086,True,id_map
+opta,512123,Jaouen Hadjam,Brighton,512123,True,id_map
+opta,480455,Jarrad Branthwaite,Everton,480455,True,id_map
+opta,173878,Jay Dasilva,Coventry City,173878,True,id_map
+opta,651426,Jaydee Canvot,Crystal Palace,651426,True,id_map
+opta,226182,Jayden Bogle,Leeds,226182,True,id_map
+opta,643970,Jayden Lienou,Leeds,643970,True,id_map
+opta,587982,Jean-Mattéo Bahoya,Leeds,587982,True,id_map
+opta,231747,Jean-Philippe Mateta,Crystal Palace,231747,True,id_map
+opta,152551,Jefferson Lerma,Crystal Palace,152551,True,id_map
+opta,552946,Jens Hjertø-Dahl,Hull City,552946,True,id_map
+opta,216094,Jeremie Frimpong,Liverpool,216094,True,id_map
+opta,174874,Joachim Andersen,Fulham,174874,True,id_map
+opta,699989,Jocelin Ta Bi,Sunderland,699989,True,id_map
+opta,462635,Joe Gelhardt,Hull City,462635,True,id_map
+opta,171287,Joe Gomez,Liverpool,171287,True,id_map
+opta,214225,Joe Rodon,Leeds,214225,True,id_map
+opta,200089,Joe Willock,Newcastle,200089,True,id_map
+opta,204813,Joel Latibeaudiere,Coventry City,204813,True,id_map
+opta,180974,Joelinton,Newcastle,180974,True,id_map
+opta,614071,Johan Manzambi,Aston Villa,614071,True,id_map
+opta,108416,John Egan,Hull City,108416,True,id_map
+opta,122806,John McGinn,Aston Villa,122806,True,id_map
+opta,56979,Jordan Henderson,Chelsea,56979,True,id_map
+opta,111234,Jordan Pickford,Everton,111234,True,id_map
+opta,246301,Jorge Cuenca,Fulham,246301,True,id_map
+opta,551210,Jorrel Hato,Chelsea,551210,True,id_map
+opta,577016,Josh Acheampong,Chelsea,577016,True,id_map
+opta,439668,Josh Eccles,Coventry City,439668,True,id_map
+opta,577725,Josh King,Fulham,577725,True,id_map
+opta,458249,Joshua Zirkzee,Manchester United,458249,True,id_map
+opta,477424,Josko Gvardiol,Manchester City,477424,True,id_map
+opta,448089,João Gomes,Aston Villa,448089,True,id_map
+opta,475168,João Pedro,Chelsea,475168,True,id_map
+opta,661313,Juan Angulo,Sunderland,661313,True,id_map
+opta,494928,Juanlu Sánchez,Bournemouth,494928,True,id_map
+opta,696104,Jules Ahoka,Sunderland,696104,True,id_map
+opta,474120,Julio Enciso,Ipswich Town,474120,True,id_map
+opta,575901,Julio Soler,Bournemouth,575901,True,id_map
+opta,560262,Junior Kroupi,Bournemouth,560262,True,master
+opta,445122,Jurriën Timber,Arsenal,445122,True,id_map
+opta,222683,Justin Kluivert,Bournemouth,222683,True,id_map
+opta,248875,Jérémy Doku,Manchester City,248875,True,id_map
+opta,606702,Jérémy Jacquet,Liverpool,606702,True,id_map
+opta,247412,Jørgen Strand Larsen,Crystal Palace,247412,True,id_map
+opta,554054,Kaden Braithwaite,Manchester City,554054,True,id_map
+opta,219847,Kai Havertz,Arsenal,219847,True,id_map
+opta,465390,Kaine Kesler-Hayden,Coventry City,465390,True,id_map
+opta,461587,Kasey McAteer,Ipswich Town,461587,True,id_map
+opta,249231,Keane Lewis-Potter,Brentford,249231,True,id_map
+opta,167074,Kenny Tete,Fulham,167074,True,id_map
+opta,560552,Kevin,Fulham,560552,True,id_map
+opta,135720,Kevin Danso,Sunderland,135720,True,id_map
+opta,513418,Kevin Schade,Brentford,513418,True,id_map
+opta,171270,Kieran Dowell,Hull City,171270,True,id_map
+opta,215413,Kiernan Dewsbury-Hall,Everton,215413,True,id_map
+opta,240514,Kjell Scherpen,,240514,True,id_map
+opta,516895,Kobbie Mainoo,Manchester United,516895,True,id_map
+opta,473284,Konstantinos Tzolakis,,473284,True,id_map
+opta,214285,Kostas Tsimikas,Liverpool,214285,True,id_map
+opta,191866,Kristoffer Ajer,Brentford,191866,True,id_map
+opta,671875,Kyran Thompson,Newcastle,671875,True,id_map
+opta,515597,Lamare Bogarde,Aston Villa,515597,True,id_map
+opta,455084,Leif Davis,Ipswich Town,455084,True,id_map
+opta,550864,Leny Yoro,Manchester United,550864,True,id_map
+opta,553746,Leo Shahar,Newcastle,553746,True,id_map
+opta,119090,Leon Goretzka,Aston Villa,119090,True,id_map
+opta,460028,Levi Colwill,Chelsea,460028,True,id_map
+opta,193278,Lewie Coyle,Hull City,193278,True,id_map
+opta,155408,Lewis Cook,Bournemouth,155408,True,id_map
+opta,83299,Lewis Dunk,Brighton,83299,True,id_map
+opta,487838,Lewis Hall,Newcastle,487838,True,id_map
+opta,514514,Lewis Koumas,Liverpool,514514,True,id_map
+opta,547719,Lewis Miley,Newcastle,547719,True,id_map
+opta,463034,Liam Delap,Nottingham Forest,463034,True,id_map
+opta,436761,Liam Kitching,Coventry City,436761,True,id_map
+opta,232905,Liam Millar,Hull City,232905,True,id_map
+opta,221820,Lisandro Martínez,Manchester United,221820,True,id_map
+opta,469272,Loum Tchaouna,Coventry City,469272,True,id_map
+opta,547686,Luc De Fougerolles,Fulham,547686,True,id_map
+opta,470315,Luca Netz,Nottingham Forest,470315,True,id_map
+opta,611917,Luca Williams-Barnett,Tottenham,611917,True,id_map
+opta,570526,Lucas Bergvall,Tottenham,570526,True,id_map
+opta,469266,Lucas Gourna-Douath,Hull City,469266,True,id_map
+opta,597462,Lucas Herrington,Hull City,597462,True,id_map
+opta,571380,Luka Lynch,Aston Villa,571380,True,id_map
+opta,610799,Luka Vuskovic,Brighton,610799,True,id_map
+opta,174594,Lukas Nmecha,Leeds,174594,True,id_map
+opta,167512,Luke O'Nien,Sunderland,167512,True,id_map
+opta,106760,Luke Shaw,Manchester United,106760,True,id_map
+opta,470551,Lukás Hornícek,Newcastle,470551,True,id_map
+opta,616069,Macaulay Zepa,Fulham,616069,True,id_map
+opta,636846,Mahdi Nicoll-Jazuli,Chelsea,636846,True,id_map
+opta,549940,Malick Fofana,Sunderland,549940,True,id_map
+opta,465642,Malick Thiaw,Newcastle,465642,True,id_map
+opta,611695,Malick Yalcouyé,Brighton,611695,True,id_map
+opta,482609,Malo Gusto,Chelsea,482609,True,id_map
+opta,513545,Mamadou Sangaré,Brentford,513545,True,id_map
+opta,500033,Manuel Ángel,Fulham,500033,True,id_map
+opta,209036,Marc Guéhi,Manchester City,209036,True,id_map
+opta,501390,Marcelino Núñez,Ipswich Town,501390,True,id_map
+opta,72147,Marco Bizot,Aston Villa,72147,True,id_map
+opta,620109,Marco Palestra,Chelsea,620109,True,id_map
+opta,221466,Marcos Senesi,Tottenham,221466,True,id_map
+opta,176297,Marcus Rashford,Manchester United,176297,True,id_map
+opta,201658,Marcus Tavernier,Bournemouth,201658,True,id_map
+opta,184029,Martin Ødegaard,Arsenal,184029,True,id_map
+opta,481655,Martín Zubimendi,Arsenal,481655,True,id_map
+opta,665243,Mason Miley,Newcastle,665243,True,id_map
+opta,184341,Mason Mount,Manchester United,184341,True,id_map
+opta,91651,Mateo Kovacic,Manchester City,91651,True,id_map
+opta,551226,Mateus Fernandes,Tottenham,551226,True,id_map
+opta,430871,Matheus Cunha,Manchester United,430871,True,id_map
+opta,465351,Matheus Nunes,Manchester City,465351,True,id_map
+opta,207283,Mathias Jensen,Brentford,207283,True,id_map
+opta,511499,Mathys Tel,Tottenham,511499,True,id_map
+opta,613221,Matias Fernandez-Pardo,Newcastle,613221,True,id_map
+opta,467779,Mats Wieffer,Brighton,467779,True,id_map
+opta,101282,Matt Crooks,Hull City,101282,True,id_map
+opta,168144,Matt Grimes,Coventry City,168144,True,id_map
+opta,219249,Matt O'Riley,Brighton,219249,True,id_map
+opta,169359,Matt Targett,Hull City,169359,True,id_map
+opta,487992,Matteo Ruggeri,Aston Villa,487992,True,id_map
+opta,209365,Matthijs de Ligt,Manchester United,209365,True,id_map
+opta,199796,Matty Cash,Aston Villa,199796,True,id_map
+opta,85633,Matz Sels,Nottingham Forest,85633,True,id_map
+opta,616077,Max Dowman,Arsenal,616077,True,id_map
+opta,437499,Maxence Lacroix,Chelsea,437499,True,id_map
+opta,465730,Maxim De Cuyper,Brighton,465730,True,id_map
+opta,437497,Melvin Bard,Leeds,437497,True,id_map
+opta,513466,Merlin Röhl,Everton,513466,True,id_map
+opta,607464,Michael Kayode,Brentford,607464,True,id_map
+opta,106611,Michael Keane,Everton,106611,True,id_map
+opta,655585,Michael Mills,Newcastle,655585,True,id_map
+opta,454490,Michael Svoboda,Brighton,454490,True,id_map
+opta,491279,Micky van de Ven,Tottenham,491279,True,id_map
+opta,549939,Mike Penders,Chelsea,549939,True,id_map
+opta,195384,Mikel Merino,Arsenal,195384,True,id_map
+opta,499721,Mikey Moore,Tottenham,499721,True,id_map
+opta,440089,Mikkel Damsgaard,Brentford,440089,True,id_map
+opta,451284,Milan van Ewijk,Coventry City,451284,True,id_map
+opta,544877,Milos Kerkez,Liverpool,544877,True,id_map
+opta,578512,Miodrag Pivas,Newcastle,578512,True,id_map
+opta,540324,Mohamed Belloumi,Hull City,540324,True,id_map
+opta,490884,Mohamed-Ali Cho,Hull City,490884,True,id_map
+opta,460842,Mohammed Kudus,Tottenham,460842,True,id_map
+opta,486672,Moisés Caicedo,Chelsea,486672,True,id_map
+opta,222531,Morgan Gibbs-White,Nottingham Forest,222531,True,id_map
+opta,244850,Morgan Rogers,Chelsea,244850,True,id_map
+opta,575476,Murillo,Nottingham Forest,575476,True,id_map
+opta,465920,Mykhailo Mudryk,Tottenham,465920,True,id_map
+opta,499169,Myles Lewis-Skelly,Arsenal,499169,True,id_map
+opta,432830,Nathan Collins,Brentford,432830,True,id_map
+opta,243571,Nathan Patterson,Everton,243571,True,id_map
+opta,215136,Neco Williams,Nottingham Forest,215136,True,id_map
+opta,556637,Nehemiah Oriola,Brighton,556637,True,id_map
+opta,470313,Nick Woltemade,Newcastle,470313,True,id_map
+opta,173774,Nico Elvedi,Leeds,173774,True,id_map
+opta,465694,Nico González,Newcastle,465694,True,id_map
+opta,472769,Nico O'Reilly,Manchester City,472769,True,id_map
+opta,517052,Nicolas Jackson,Aston Villa,517052,True,id_map
+opta,250199,Nicolás Domínguez,Nottingham Forest,250199,True,id_map
+opta,227444,Nikola Milenkovic,Nottingham Forest,227444,True,id_map
+opta,536661,Nilson Angulo,Sunderland,536661,True,id_map
+opta,435997,Noah Okafor,Leeds,435997,True,id_map
+opta,577669,Noah Sadiki,Sunderland,577669,True,id_map
+opta,606930,Nobel Mendy,Hull City,606930,True,id_map
+opta,248857,Noni Madueke,Arsenal,248857,True,id_map
+opta,200834,Nordi Mukiele,Sunderland,200834,True,id_map
+opta,230001,Noussair Mazraoui,Manchester United,230001,True,id_map
+opta,159506,Ola Aina,Nottingham Forest,159506,True,id_map
+opta,169432,Oliver McBurnie,Hull City,169432,True,id_map
+opta,204120,Olivier Boscagli,Brighton,204120,True,id_map
+opta,201895,Omar Alderete,Sunderland,201895,True,id_map
+opta,438234,Omar Marmoush,Tottenham,438234,True,id_map
+opta,477555,Oscar Bobb,Fulham,477555,True,id_map
+opta,568420,Ousmane Diomande,Nottingham Forest,568420,True,id_map
+opta,160817,Paddy McNair,Hull City,160817,True,id_map
+opta,60307,Pascal Groß,Brighton,60307,True,id_map
+opta,222694,Pascal Struijk,Brighton,222694,True,id_map
+opta,596777,Patrick Dorgu,Manchester United,596777,True,id_map
+opta,244954,Pau Torres,Aston Villa,244954,True,id_map
+opta,247632,Pedro Neto,Chelsea,247632,True,id_map
+opta,441164,Pedro Porro,Tottenham,441164,True,id_map
+opta,498444,Pep Chavarría,Chelsea,498444,True,id_map
+opta,209244,Phil Foden,Manchester City,209244,True,id_map
+opta,448104,Piero Hincapié,Arsenal,448104,True,id_map
+opta,538007,Promise David,Brighton,538007,True,id_map
+opta,450063,Quinten Timber,Crystal Palace,450063,True,id_map
+opta,499604,Rayan,Bournemouth,499604,True,id_map
+opta,448514,Rayan Aït-Nouri,Manchester City,448514,True,id_map
+opta,466052,Rayan Cherki,Manchester City,466052,True,id_map
+opta,225796,Reece James,Chelsea,225796,True,id_map
+opta,243413,Regan Slater,Hull City,243413,True,id_map
+opta,434399,Reinildo Mandava,Sunderland,434399,True,id_map
+opta,466075,Riccardo Calafiori,Arsenal,466075,True,id_map
+opta,212319,Richarlison,Tottenham,212319,True,id_map
+opta,194010,Rico Henry,Brentford,194010,True,id_map
+opta,477064,Rico Lewis,Manchester City,477064,True,id_map
+opta,611922,Rio Ngumoha,Liverpool,611922,True,id_map
+opta,215059,Robert Sánchez,Chelsea,215059,True,id_map
+opta,498016,Robin Roefs,Sunderland,498016,True,id_map
+opta,631000,Robinio Vaz,Hull City,631000,True,id_map
+opta,202993,Rodrigo Bentancur,Tottenham,202993,True,id_map
+opta,244042,Rodrigo Muniz,Fulham,244042,True,id_map
+opta,461199,Romaine Mundle,Sunderland,461199,True,id_map
+opta,514356,Roméo Lavia,Chelsea,514356,True,id_map
+opta,445087,Ronald Araujo,Liverpool,445087,True,id_map
+opta,88894,Ross Barkley,Aston Villa,88894,True,id_map
+opta,158499,Ryan Christie,Bournemouth,158499,True,id_map
+opta,232351,Ryan Giles,Hull City,232351,True,id_map
+opta,441266,Ryan Gravenberch,Liverpool,441266,True,id_map
+opta,616288,Ryan McAidoo,Manchester City,616288,True,id_map
+opta,184349,Ryan Sessegnon,Fulham,184349,True,id_map
+opta,204968,Ryan Yates,Nottingham Forest,204968,True,id_map
+opta,171314,Rúben Dias,Manchester City,171314,True,id_map
+opta,207189,Sander Berge,Fulham,207189,True,id_map
+opta,432422,Sandro Tonali,Tottenham,432422,True,id_map
+opta,212314,Sasa Lukic,Ipswich Town,212314,True,id_map
+opta,180135,Sean Longstaff,Leeds,180135,True,id_map
+opta,636852,Sean Steur,Newcastle,636852,True,id_map
+opta,146426,Semi Ajayi,Hull City,146426,True,id_map
+opta,465247,Senne Lammens,Manchester United,465247,True,id_map
+opta,444765,Sepp van den Berg,Brentford,444765,True,id_map
+opta,463210,Shea Charles,Fulham,463210,True,id_map
+opta,576628,Shea Lacey,Manchester United,576628,True,id_map
+opta,627221,Sidiki Cherif,Coventry City,627221,True,id_map
+opta,557012,Sindre Egeli,Ipswich Town,557012,True,id_map
+opta,243951,Sorba Thomas,Hull City,243951,True,id_map
+opta,566213,Stephen Mfuni,Coventry City,566213,True,id_map
+opta,220237,Sven Botman,Newcastle,220237,True,id_map
+opta,510281,Sávio,Tottenham,510281,True,id_map
+opta,210156,Taiwo Awoniyi,Coventry City,210156,True,id_map
+opta,223723,Takehiro Tomiyasu,Crystal Palace,223723,True,id_map
+opta,173879,Tammy Abraham,Aston Villa,173879,True,id_map
+opta,522047,Tarik Muharemovic,Leeds,522047,True,id_map
+opta,501459,Tatsuhiro Sakamoto,Coventry City,501459,True,id_map
+opta,245719,Taylor Harwood-Bellis,Aston Villa,245719,True,id_map
+opta,586309,Thierno Barry,Everton,586309,True,id_map
+opta,93605,Thomas Meunier,Sunderland,93605,True,id_map
+opta,490094,Tim Iroegbunam,Hull City,490094,True,id_map
+opta,166477,Timothy Castagne,Fulham,166477,True,id_map
+opta,441191,Tino Livramento,Newcastle,441191,True,id_map
+opta,76357,Tom Cairney,Fulham,76357,True,id_map
+opta,109646,Tosin Adarabioyo,Tottenham,109646,True,id_map
+opta,487676,Trai Hume,Sunderland,487676,True,id_map
+opta,591386,Trey Nyoni,Liverpool,591386,True,id_map
+opta,569577,Triston Rowe,Aston Villa,569577,True,id_map
+opta,200785,Tyler Adams,Bournemouth,200785,True,id_map
+opta,496661,Tyler Dibling,Everton,496661,True,id_map
+opta,519913,Tyler Fletcher,Manchester United,519913,True,master
+opta,604211,Tymur Tutierov,Sunderland,604211,True,id_map
+opta,244723,Tyrick Mitchell,Crystal Palace,244723,True,id_map
+opta,550615,Tyrique George,Everton,550615,True,id_map
+opta,149484,Tyrone Mings,Aston Villa,149484,True,id_map
+opta,601767,Vakhtang Salia,Newcastle,601767,True,id_map
+opta,543158,Valentín Barco,Chelsea,543158,True,id_map
+opta,184667,Victor Lindelöf,Aston Villa,184667,True,id_map
+opta,226965,Victor Torp,Coventry City,226965,True,id_map
+opta,224117,Viktor Gyökeres,Arsenal,224117,True,id_map
+opta,97032,Virgil van Dijk,Liverpool,97032,True,id_map
+opta,224967,Vitalii Mykolenko,Everton,224967,True,id_map
+opta,204580,Vitaly Janelt,Brentford,204580,True,id_map
+opta,616222,Vitor Reis,Manchester City,616222,True,id_map
+opta,551499,Víctor Muñoz,Liverpool,551499,True,id_map
+opta,121709,Walter Benítez,Crystal Palace,121709,True,id_map
+opta,158983,Wataru Endo,Liverpool,158983,True,id_map
+opta,444463,Wesley Fofana,Chelsea,444463,True,id_map
+opta,492859,Wilfried Gnonto,Leeds,492859,True,id_map
+opta,108413,Will Hughes,Crystal Palace,108413,True,id_map
+opta,538207,William Osula,Newcastle,538207,True,id_map
+opta,437505,Wilson Isidor,Sunderland,437505,True,id_map
+opta,204561,Xaver Schlager,Nottingham Forest,204561,True,id_map
+opta,242893,Yann Gboho,Coventry City,242893,True,id_map
+opta,509416,Yasin Ayari,Brighton,509416,True,id_map
+opta,508395,Yehor Yarmoliuk,Brentford,508395,True,id_map
+opta,216646,Yoane Wissa,Newcastle,216646,True,id_map
+opta,661016,Younes Ibrahim,Brighton,661016,True,id_map
+opta,166989,Youri Tielemans,Manchester United,166989,True,id_map
+opta,488024,Yéremy Pino,Crystal Palace,488024,True,id_map
+opta,549067,Zach Abbott,Nottingham Forest,549067,True,id_map
+opta,700308,Zadok Yohanna,Brighton,700308,True,id_map
+opta,559152,Zavier Gozo,Crystal Palace,559152,True,id_map
+opta,431639,Zian Flemming,Ipswich Town,431639,True,id_map
+opta,433969,Zion Suzuki,Aston Villa,433969,True,id_map
+opta,561245,Álvaro Rodríguez,Bournemouth,561245,True,id_map
+opta,242313,Óscar Mingueza,Crystal Palace,242313,True,id_map
+whoscored,315227,Erling Haaland,Manchester City,223094,True,id_map
+whoscored,373525,João Pedro,Chelsea,475168,True,id_map
+whoscored,386153,Rayan Cherki,Manchester City,466052,True,id_map
+whoscored,388098,Jérémy Doku,Manchester City,248875,True,id_map
+whoscored,131464,James Tarkowski,Everton,17761,True,id_map
+whoscored,457802,Mohamed Belloumi,Hull,540324,True,id_map
+whoscored,366116,Iliman Ndiaye,Everton,440993,True,id_map
+whoscored,446133,Diego Gómez,Brighton,514254,True,id_map
+whoscored,352825,Cody Gakpo,Liverpool,243298,True,id_map
+whoscored,469629,Jack Hinshelwood,Brighton,532529,True,id_map
+whoscored,384430,Evanilson,Bournemouth,444102,True,id_map
+whoscored,439533,Tarik Muharemovic,Leeds,522047,True,id_map
+whoscored,334087,Gabriel Magalhães,Arsenal,226597,True,id_map
+whoscored,533010,Luka Vuskovic,Brighton,610799,True,id_map
+whoscored,71824,Pascal Groß,Brighton,60307,True,id_map
+whoscored,367185,Bukayo Saka,Arsenal,223340,True,id_map
+whoscored,392647,Maxim De Cuyper,Brighton,465730,True,id_map
+whoscored,362824,Morgan Rogers,Chelsea,244850,True,id_map
+whoscored,430294,Lewis Hall,Newcastle,487838,True,id_map
+whoscored,344314,Marcus Tavernier,Bournemouth,201658,True,id_map
+whoscored,468827,Jérémy Jacquet,Liverpool,606702,True,id_map
+whoscored,532577,Johan Manzambi,Aston Villa,614071,True,id_map
+whoscored,365402,Jan Paul van Hecke,Tottenham,469142,True,id_map
+whoscored,299254,Alexander Isak,Liverpool,219168,True,id_map
+whoscored,445059,Mats Wieffer,Brighton,467779,True,id_map
+whoscored,337916,Pedro Neto,Chelsea,247632,True,id_map
+whoscored,397821,Sávio,Tottenham,510281,True,id_map
+whoscored,332325,Declan Rice,Arsenal,204480,True,id_map
+whoscored,362837,James Hill,Bournemouth,463981,True,id_map
+whoscored,469508,Nobel Mendy,Hull,606930,True,id_map
+whoscored,402664,Josko Gvardiol,Manchester City,477424,True,id_map
+whoscored,533923,Charalampos Kostoulas,Brighton,647850,True,id_map
+whoscored,426050,Nicolas Jackson,Aston Villa,517052,True,id_map
+whoscored,404852,James Trafford,Leeds,432720,True,id_map
+whoscored,447570,Zion Suzuki,Aston Villa,433969,True,id_map
+whoscored,395615,Bobby Thomas,Coventry,461102,True,id_map
+whoscored,123761,Bruno Fernandes,Manchester United,141746,True,id_map
+whoscored,397331,Konstantinos Tzolakis,Hull,ws_397331,True,id_map
+whoscored,95408,Virgil van Dijk,Liverpool,97032,True,id_map
+whoscored,299077,Nordi Mukiele,Sunderland,200834,True,id_map
+whoscored,298689,Vitaly Janelt,Brentford,204580,True,id_map
+whoscored,102248,Emiliano Martínez,Chelsea,98980,True,id_map
+whoscored,301441,James Justin,Leeds,220627,True,id_map
+whoscored,533784,Jannik Schuster,Brentford,513086,True,id_map
+whoscored,401073,Anton Stach,Leeds,466525,True,id_map
+whoscored,402596,Elliot Anderson,Manchester City,215379,True,id_map
+whoscored,86441,Lewis Dunk,Brighton,83299,True,id_map
+whoscored,68659,Jordan Henderson,Chelsea,56979,True,id_map
+whoscored,321085,Kristoffer Ajer,Brentford,191866,True,id_map
+whoscored,357073,Antoine Semenyo,Manchester City,437730,True,id_map
+whoscored,276366,David Raya,Arsenal,154561,True,id_map
+whoscored,381045,Jarrad Branthwaite,Everton,480455,True,id_map
+whoscored,534073,Stephen Mfuni,Coventry,566213,True,id_map
+whoscored,395692,Cole Palmer,Chelsea,244851,True,id_map
+whoscored,391256,Kiernan Dewsbury-Hall,Everton,215413,True,id_map
+whoscored,445424,Murillo,Nottingham Forest,575476,True,id_map
+whoscored,386969,Neco Williams,Nottingham Forest,215136,True,id_map
+whoscored,353377,Bryan Mbeumo,Manchester United,446008,True,id_map
+whoscored,386606,Nick Woltemade,Newcastle,470313,True,id_map
+whoscored,369875,Dominik Szoboszlai,Liverpool,424876,True,id_map
+whoscored,539663,Chema Andrés,Brighton,592984,True,id_map
+whoscored,493206,Abdukodir Khusanov,Manchester City,578153,True,id_map
+whoscored,302312,Joe Rodon,Leeds,214225,True,id_map
+whoscored,394933,Matheus Nunes,Manchester City,465351,True,id_map
+whoscored,247454,Martin Ødegaard,Arsenal,184029,True,id_map
+whoscored,322036,Ben White,Arsenal,198869,True,id_map
+whoscored,515865,Josh King,Fulham,577725,True,id_map
+whoscored,398301,Adrien Truffert,Bournemouth,494521,True,id_map
+whoscored,332867,Morgan Gibbs-White,Nottingham Forest,222531,True,id_map
+whoscored,301440,Ezri Konsa,Arsenal,199798,True,id_map
+whoscored,407260,Kevin Schade,Brentford,513418,True,id_map
+whoscored,371761,Dan Ballard,Sunderland,223827,True,id_map
+whoscored,369430,Enzo Fernández,Chelsea,448047,True,id_map
+whoscored,460260,Kobbie Mainoo,Manchester United,516895,True,id_map
+whoscored,537713,Thierno Barry,Everton,586309,True,id_map
+whoscored,372724,Nathan Collins,Brentford,432830,True,id_map
+whoscored,410998,Alex Scott,Bournemouth,503139,True,id_map
+whoscored,141469,Dominic Calvert-Lewin,Leeds,177815,True,id_map
+whoscored,373946,Wesley Fofana,Chelsea,444463,True,id_map
+whoscored,401385,Fábio Carvalho,Brentford,244858,True,id_map
+whoscored,413211,Anthony Elanga,Newcastle,449434,True,id_map
+whoscored,118244,Luke Shaw,Manchester United,106760,True,id_map
+whoscored,136824,Alex Iwobi,Fulham,153133,True,id_map
+whoscored,400138,Bart Verbruggen,Brighton,489639,True,id_map
+whoscored,322176,Caoimhín Kelleher,Brentford,200720,True,id_map
+whoscored,331579,Justin Kluivert,Bournemouth,222683,True,id_map
+whoscored,322418,Ethan Ampadu,Leeds,199598,True,id_map
+whoscored,425591,Cristhian Mosquera,Arsenal,500040,True,id_map
+whoscored,443613,António Silva,Bournemouth,483067,True,id_map
+whoscored,470690,Yasin Ayari,Brighton,509416,True,id_map
+whoscored,442971,Mamadou Sangaré,Brentford,513545,True,id_map
+whoscored,141169,Timothy Castagne,Fulham,166477,True,id_map
+whoscored,444136,Anan Khalaili,Crystal Palace,570794,True,id_map
+whoscored,470031,Michael Kayode,Brentford,607464,True,id_map
+whoscored,394786,Florian Wirtz,Liverpool,494595,True,id_map
+whoscored,89401,Granit Xhaka,Sunderland,84450,True,id_map
+whoscored,400166,Mohammed Kudus,Tottenham,460842,True,id_map
+whoscored,410175,Moisés Caicedo,Chelsea,486672,True,id_map
+whoscored,331382,Harvey Barnes,Newcastle,201666,True,id_map
+whoscored,548106,Víctor Muñoz,Liverpool,551499,True,id_map
+whoscored,374631,Marc Guéhi,Manchester City,209036,True,id_map
+whoscored,423282,David Affengruber,Fulham,442299,True,id_map
+whoscored,360941,Jaka Bijol,Leeds,434752,True,id_map
+whoscored,404568,Brian Brobbey,Sunderland,441264,True,id_map
+whoscored,430709,Oscar Bobb,Fulham,477555,True,id_map
+whoscored,330549,Gabriel Gudmundsson,Leeds,243526,True,id_map
+whoscored,384711,Ronald Araujo,Liverpool,445087,True,id_map
+whoscored,343501,Sandro Tonali,Tottenham,432422,True,id_map
+whoscored,443784,Igor Thiago,Brentford,502500,True,id_map
+whoscored,331790,Boubacar Kamara,Aston Villa,226944,True,id_map
+whoscored,345516,Vitalii Mykolenko,Everton,224967,True,id_map
+whoscored,313171,Rúben Dias,Manchester City,171314,True,id_map
+whoscored,400496,Daniel Muñoz,Crystal Palace,247348,True,id_map
+whoscored,247815,Semi Ajayi,Hull,146426,True,id_map
+whoscored,362758,Matheus Cunha,Manchester United,430871,True,id_map
+whoscored,108632,John Egan,Hull,108416,True,id_map
+whoscored,425366,Bradley Barcola,Liverpool,482616,True,id_map
+whoscored,401130,Maxence Lacroix,Chelsea,437499,True,id_map
+whoscored,260809,Olivier Boscagli,Brighton,204120,True,id_map
+whoscored,362826,Dara O'Shea,Ipswich,216616,True,id_map
+whoscored,138695,Oliver McBurnie,Hull,169432,True,id_map
+whoscored,243534,Nico Elvedi,Leeds,173774,True,id_map
+whoscored,428060,Shea Charles,Fulham,463210,True,id_map
+whoscored,338780,Bruno Guimarães,Arsenal,208706,True,id_map
+whoscored,255169,Ainsley Maitland-Niles,Everton,154043,True,id_map
+whoscored,326413,Kai Havertz,Arsenal,219847,True,id_map
+whoscored,395401,Chris Richards,Crystal Palace,427623,True,id_map
+whoscored,379732,Sven Botman,Newcastle,220237,True,id_map
+whoscored,533015,Malick Yalcouyé,Brighton,611695,True,id_map
+whoscored,353418,Diogo Dalot,Manchester United,216051,True,id_map
+whoscored,425576,James McAtee,Nottingham Forest,432714,True,id_map
+whoscored,354291,Jayden Bogle,Leeds,226182,True,id_map
+whoscored,418203,Amar Dedic,Newcastle,463726,True,id_map
+whoscored,107941,Michael Keane,Everton,106611,True,id_map
+whoscored,262856,Xaver Schlager,Nottingham Forest,204561,True,id_map
+whoscored,306581,Antonee Robinson,Fulham,169528,True,id_map
+whoscored,331254,Phil Foden,Manchester City,209244,True,id_map
+whoscored,398393,Enzo Le Fée,Sunderland,484420,True,id_map
+whoscored,417747,Julio Enciso,Ipswich,474120,True,id_map
+whoscored,136345,Youri Tielemans,Manchester United,166989,True,id_map
+whoscored,386519,Riccardo Calafiori,Arsenal,466075,True,id_map
+whoscored,99487,Harry Maguire,Manchester United,95658,True,id_map
+whoscored,349981,Regan Slater,Hull,243413,True,id_map
+whoscored,315543,Ola Aina,Nottingham Forest,159506,True,id_map
+whoscored,328330,Marcos Senesi,Tottenham,221466,True,id_map
+whoscored,472122,Rayan,Bournemouth,499604,True,id_map
+whoscored,396976,Calvin Bassey,Fulham,232892,True,id_map
+whoscored,425229,Micky van de Ven,Tottenham,491279,True,id_map
+whoscored,389579,Tyrick Mitchell,Crystal Palace,244723,True,id_map
+whoscored,345319,Alexis Mac Allister,Liverpool,243016,True,id_map
+whoscored,300359,Issa Diop,Ipswich,219924,True,id_map
+whoscored,535879,Harrison Armstrong,Everton,609873,True,id_map
+whoscored,381107,Jack Rudoni,Coventry,480457,True,id_map
+whoscored,423347,Ao Tanaka,Leeds,248056,True,id_map
+whoscored,368512,Keane Lewis-Potter,Brentford,249231,True,id_map
+whoscored,467715,Jorrel Hato,Chelsea,551210,True,id_map
+whoscored,397497,Igor Jesus,Nottingham Forest,482973,True,id_map
+whoscored,399296,Christos Tzolis,Arsenal,439509,True,id_map
+whoscored,262515,Gianluigi Donnarumma,Manchester City,204936,True,id_map
+whoscored,300299,Marcus Rashford,Manchester United,176297,True,id_map
+whoscored,110189,Jordan Pickford,Everton,111234,True,id_map
+whoscored,339674,Mathias Jensen,Brentford,207283,True,id_map
+whoscored,422885,Mathys Tel,Tottenham,511499,True,id_map
+whoscored,422183,Dango Ouattara,Brentford,533463,True,id_map
+whoscored,133464,Jefferson Lerma,Crystal Palace,152551,True,id_map
+whoscored,376090,Noah Okafor,Leeds,435997,True,id_map
+whoscored,93894,Mateo Kovacic,Manchester City,91651,True,id_map
+whoscored,366211,Leif Davis,Ipswich,455084,True,id_map
+whoscored,415682,Lukás Hornícek,Newcastle,470551,True,id_map
+whoscored,319785,Nikola Milenkovic,Nottingham Forest,227444,True,id_map
+whoscored,422939,Nico González,Newcastle,465694,True,id_map
+whoscored,523597,Tyrique George,Everton,550615,True,id_map
+whoscored,82726,Fabian Schär,Newcastle,119471,True,id_map
+whoscored,342499,Ethan Pinnock,Coventry,231065,True,id_map
+whoscored,424273,Milos Kerkez,Liverpool,544877,True,id_map
+whoscored,321958,Ferdi Kadioglu,Brighton,231416,True,id_map
+whoscored,331235,Brandon Thomas-Asante,Coventry,230730,True,id_map
+whoscored,103837,Ben Davies,Tottenham,115556,True,id_map
+whoscored,136464,Tosin Adarabioyo,Tottenham,109646,True,id_map
+whoscored,498798,Gonzalo García,Fulham,551466,True,id_map
+whoscored,411078,Quinten Timber,Crystal Palace,450063,True,id_map
+whoscored,304008,Dean Henderson,Crystal Palace,172649,True,id_map
+whoscored,362433,Georginio Rutter,Brighton,463067,True,id_map
+whoscored,299684,Exequiel Palacios,Ipswich,218543,True,id_map
+whoscored,457006,Antonín Kinsky,Tottenham,485055,True,id_map
+whoscored,318449,John McGinn,Aston Villa,122806,True,id_map
+whoscored,400610,Jaidon Anthony,Brentford,444180,True,id_map
+whoscored,389935,Noni Madueke,Arsenal,248857,True,id_map
+whoscored,429556,Emersonn,Ipswich,543968,True,id_map
+whoscored,429922,Archie Gray,Tottenham,547701,True,id_map
+whoscored,333048,Jørgen Strand Larsen,Crystal Palace,247412,True,id_map
+whoscored,430985,Abdul Fatawu,Ipswich,531442,True,id_map
+whoscored,114147,Alisson Becker,Liverpool,116535,True,id_map
+whoscored,342563,Joe Willock,Newcastle,200089,True,id_map
+whoscored,443064,Nilson Angulo,Sunderland,536661,True,id_map
+whoscored,321020,Sander Berge,Fulham,207189,True,id_map
+whoscored,361867,Kjell Scherpen,Ipswich,ws_361867,True,id_map
+whoscored,343346,Mason Mount,Manchester United,184341,True,id_map
+whoscored,438657,Jaouen Hadjam,Brighton,512123,True,id_map
+whoscored,421351,Levi Colwill,Chelsea,460028,True,id_map
+whoscored,394749,Omar Marmoush,Tottenham,438234,True,id_map
+whoscored,92173,Bernd Leno,Fulham,80201,True,id_map
+whoscored,375621,Conor Gallagher,Tottenham,232787,True,id_map
+whoscored,361812,Reinildo Mandava,Sunderland,434399,True,id_map
+whoscored,137015,James Maddison,Tottenham,172780,True,id_map
+whoscored,115726,Andy Robertson,Tottenham,122798,True,id_map
+whoscored,401168,Mikkel Damsgaard,Brentford,440089,True,id_map
+whoscored,443545,Jair Cunha,Nottingham Forest,575458,True,id_map
+whoscored,425319,Roméo Lavia,Chelsea,514356,True,id_map
+whoscored,391821,Liam Millar,Hull,232905,True,id_map
+whoscored,231135,Joachim Andersen,Fulham,174874,True,id_map
+whoscored,386634,Amad Diallo,Manchester United,493250,True,id_map
+whoscored,322043,Matty Cash,Aston Villa,199796,True,id_map
+whoscored,104376,Thomas Meunier,Sunderland,93605,True,id_map
+whoscored,123167,Tyrone Mings,Aston Villa,149484,True,id_map
+whoscored,393137,Lucas Gourna-Douath,Hull,469266,True,id_map
+whoscored,534901,César Palacios,Fulham,571779,True,id_map
+whoscored,299272,Ben Chilwell,Crystal Palace,172850,True,id_map
+whoscored,260592,Emiliano Buendía,Aston Villa,195546,True,id_map
+whoscored,201755,Joelinton,Newcastle,180974,True,id_map
+whoscored,113069,Jack Grealish,Everton,114283,True,id_map
+whoscored,344166,Daichi Kamada,Crystal Palace,209400,True,id_map
+whoscored,424514,Trai Hume,Sunderland,487676,True,id_map
+whoscored,401254,Liam Delap,Nottingham Forest,463034,True,id_map
+whoscored,467918,Myles Lewis-Skelly,Arsenal,499169,True,id_map
+whoscored,437449,Noah Sadiki,Sunderland,577669,True,id_map
+whoscored,367781,James Garner,Everton,232928,True,id_map
+whoscored,518604,Josh Acheampong,Chelsea,577016,True,id_map
+whoscored,363884,Ryan Gravenberch,Liverpool,441266,True,id_map
+whoscored,78386,Matz Sels,Nottingham Forest,85633,True,id_map
+whoscored,361330,Reece James,Chelsea,225796,True,id_map
+whoscored,331924,Aaron Wan-Bissaka,Aston Villa,214590,True,id_map
+whoscored,448468,Pep Chavarría,Chelsea,498444,True,id_map
+whoscored,402046,Matteo Ruggeri,Aston Villa,487992,True,id_map
+whoscored,297395,Sasa Lukic,Ipswich,212314,True,id_map
+whoscored,399014,Mohamed-Ali Cho,Hull,490884,True,id_map
+whoscored,419945,Merlin Röhl,Everton,513466,True,id_map
+whoscored,443663,Ousmane Diomande,Nottingham Forest,568420,True,id_map
+whoscored,318767,Jay Dasilva,Coventry,173878,True,id_map
+whoscored,379760,Milan van Ewijk,Coventry,451284,True,id_map
+whoscored,136456,Lewis Cook,Bournemouth,155408,True,id_map
+whoscored,140906,Christian Walton,Ipswich,ws_140906,True,id_map
+whoscored,430774,Adam Wharton,Crystal Palace,496221,True,id_map
+whoscored,403865,Yéremy Pino,Crystal Palace,488024,True,id_map
+whoscored,363516,Jack Clarke,Ipswich,443261,True,id_map
+whoscored,82277,Dan Burn,Newcastle,78916,True,id_map
+whoscored,369813,Jacob Ramsey,Newcastle,232653,True,id_map
+whoscored,362352,Pedro Porro,Tottenham,441164,True,id_map
+whoscored,296240,Yoane Wissa,Newcastle,216646,True,id_map
+whoscored,433937,Abdoul Ouattara,Ipswich,572584,True,id_map
+whoscored,511378,Sidiki Cherif,Coventry,627221,True,id_map
+whoscored,504830,Ayyoub Bouaddi,Manchester City,637238,True,id_map
+whoscored,431539,Tatsuhiro Sakamoto,Coventry,501459,True,id_map
+whoscored,416209,William Osula,Newcastle,538207,True,id_map
+whoscored,584927,Ryan McAidoo,Manchester City,616288,True,id_map
+whoscored,361694,Zian Flemming,Ipswich,431639,True,id_map
+whoscored,614510,Elliot Stroud,Hull,608227,True,id_map
+whoscored,393355,Malick Thiaw,Newcastle,465642,True,id_map
+whoscored,384134,Ian Maatsen,Aston Villa,441302,True,id_map
+whoscored,436048,Carlos Baleba,Manchester United,535301,True,id_map
+whoscored,362831,Ryan Giles,Hull,232351,True,id_map
+whoscored,416208,Tim Iroegbunam,Everton,490094,True,id_map
+whoscored,444304,Yehor Yarmoliuk,Brentford,508395,True,id_map
+whoscored,315275,Tyler Adams,Bournemouth,200785,True,id_map
+whoscored,606532,Lucas Herrington,Hull,597462,True,id_map
+whoscored,396483,Ellis Simms,Coventry,218997,True,id_map
+whoscored,437299,Leny Yoro,Manchester United,550864,True,id_map
+whoscored,262401,Darnell Furlong,Ipswich,176420,True,id_map
+whoscored,130304,Walter Benítez,Crystal Palace,121709,True,id_map
+whoscored,395954,Costinha,Brighton,451490,True,id_map
+whoscored,105742,Matt Crooks,Hull,101282,True,id_map
+whoscored,414473,Cody Drameh,Hull,433590,True,id_map
+whoscored,141486,Jacob Murphy,Newcastle,114243,True,id_map
+whoscored,134373,Luke O'Nien,Sunderland,167512,True,id_map
+whoscored,355609,Pascal Struijk,Brighton,222694,True,id_map
+whoscored,349932,Noussair Mazraoui,Manchester United,230001,True,id_map
+whoscored,535536,Ibrahim Mbaye,Aston Villa,638987,True,id_map
+whoscored,145996,Kenny Tete,Fulham,167074,True,id_map
+whoscored,303657,Rodrigo Bentancur,Tottenham,202993,True,id_map
+whoscored,425118,Loum Tchaouna,Coventry,469272,True,id_map
+whoscored,340105,Lisandro Martínez,Manchester United,221820,True,id_map
+whoscored,402367,Aaron Hickey,Brentford,472713,True,id_map
+whoscored,403850,Malo Gusto,Chelsea,482609,True,id_map
+whoscored,128882,Ryan Christie,Bournemouth,158499,True,id_map
+whoscored,479288,El Hadji Malick Diouf,Brentford,613804,True,id_map
+whoscored,136459,Dominic Solanke,Tottenham,154566,True,id_map
+whoscored,300426,Axel Disasi,Crystal Palace,220362,True,id_map
+whoscored,351705,Sepp van den Berg,Brentford,444765,True,id_map
+whoscored,362815,Viktor Gyökeres,Arsenal,224117,True,id_map
+whoscored,474264,Lewis Miley,Newcastle,547719,True,id_map
+whoscored,583276,Jules Ahoka,Sunderland,696104,True,id_map
+whoscored,398414,Dan Ndoye,Nottingham Forest,456512,True,id_map
+whoscored,551965,Bazoumana Touré,Newcastle,611665,True,id_map
+whoscored,122294,Chuba Akpom,Ipswich,147675,True,id_map
+whoscored,322611,Ryan Sessegnon,Fulham,184349,True,id_map
+whoscored,136451,Joe Gomez,Liverpool,171287,True,id_map
+whoscored,438067,Tyler Dibling,Everton,496661,True,id_map
+whoscored,451236,Andrey Santos,Manchester United,532605,True,id_map
+whoscored,403693,João Gomes,Aston Villa,448089,True,id_map
+whoscored,450271,Aurèle Amenda,Coventry,539142,True,id_map
+whoscored,355855,Dejan Kulusevski,Tottenham,445044,True,id_map
+whoscored,333044,Harry Wilson,Leeds,153682,True,id_map
+whoscored,520919,Alysson,Aston Villa,653481,True,id_map
+whoscored,79583,Tom Cairney,Fulham,76357,True,id_map
+whoscored,362192,Joe Gelhardt,Hull,462635,True,id_map
+whoscored,468847,Nico O'Reilly,Manchester City,472769,True,id_map
+whoscored,138584,Matt Grimes,Coventry,168144,True,id_map
+whoscored,100008,Victor Lindelöf,Aston Villa,184667,True,id_map
+whoscored,531676,Jaydee Canvot,Crystal Palace,651426,True,id_map
+whoscored,406564,Djordje Petrovic,Bournemouth,457569,True,id_map
+whoscored,422814,Robin Roefs,Sunderland,498016,True,id_map
+whoscored,69877,Adam Smith,Bournemouth,54469,True,id_map
+whoscored,640690,Mahdi Nicoll-Jazuli,Chelsea,636846,True,id_map
+whoscored,388651,Hayden Hackney,Everton,244860,True,id_map
+whoscored,495260,Patrick Dorgu,Manchester United,596777,True,id_map
+whoscored,445248,Darío Osorio,Crystal Palace,533646,True,id_map
+whoscored,92547,Ross Barkley,Aston Villa,88894,True,id_map
+whoscored,401044,Destiny Udogie,Tottenham,487053,True,id_map
+whoscored,301415,Lewie Coyle,Hull,193278,True,id_map
+whoscored,509423,Trey Nyoni,Liverpool,591386,True,id_map
+whoscored,389064,Melvin Bard,Leeds,437497,True,id_map
+whoscored,411335,Jaden Philogene,Ipswich,481624,True,id_map
+whoscored,447231,Mateus Fernandes,Tottenham,551226,True,id_map
+whoscored,519755,Ibrahim Osman,Brighton,612855,True,id_map
+whoscored,115519,Leon Goretzka,Aston Villa,119090,True,id_map
+whoscored,402184,Senne Lammens,Manchester United,465247,True,id_map
+whoscored,372424,Martín Zubimendi,Arsenal,481655,True,id_map
+whoscored,534461,Dayann Méthalie,Sunderland,638411,True,id_map
+whoscored,377283,Takehiro Tomiyasu,Crystal Palace,223723,True,id_map
+whoscored,454342,Chadi Riad,Crystal Palace,515621,True,id_map
+whoscored,328075,Ibrahim Sangaré,Nottingham Forest,210462,True,id_map
+whoscored,328096,Jean-Philippe Mateta,Crystal Palace,231747,True,id_map
+whoscored,404109,Frank Onyeka,Coventry,428580,True,id_map
+whoscored,363535,Wilson Isidor,Sunderland,437505,True,id_map
+whoscored,561984,Caleb Yirenkyi,Coventry,661888,True,id_map
+whoscored,333182,Jorge Cuenca,Fulham,246301,True,id_map
+whoscored,383956,Joshua Zirkzee,Manchester United,458249,True,id_map
+whoscored,238916,Mikel Merino,Arsenal,195384,True,id_map
+whoscored,334653,Nicolás Domínguez,Nottingham Forest,250199,True,id_map
+whoscored,409279,Hidemasa Morita,Hull,445028,True,id_map
+whoscored,332403,Eberechi Eze,Arsenal,232413,True,id_map
+whoscored,426913,Sindre Egeli,Ipswich,557012,True,id_map
+whoscored,369712,Florentino,Ipswich,216055,True,id_map
+whoscored,395187,Juanlu Sánchez,Bournemouth,494928,True,id_map
+whoscored,301455,Kostas Tsimikas,Liverpool,214285,True,id_map
+whoscored,535735,Honest Ahanor,Crystal Palace,605972,True,id_map
+whoscored,424191,Benjamin Sesko,Manchester United,485711,True,id_map
+whoscored,377287,Daizen Maeda,Ipswich,442967,True,id_map
+whoscored,576066,George Hemmings,Aston Villa,577285,True,id_map
+whoscored,342899,Ephron Mason-Clark,Coventry,241293,True,id_map
+whoscored,475462,Matias Fernandez-Pardo,Newcastle,613221,True,id_map
+whoscored,469645,Chris Rigg,Sunderland,554197,True,id_map
+whoscored,392644,Jeremie Frimpong,Liverpool,216094,True,id_map
+whoscored,388650,Jurriën Timber,Arsenal,445122,True,id_map
+whoscored,417745,Marcelino Núñez,Ipswich,501390,True,id_map
+whoscored,345845,Eddie Nketiah,Crystal Palace,205533,True,id_map
+whoscored,438102,Malick Fofana,Sunderland,549940,True,id_map
+whoscored,419341,Valentín Barco,Chelsea,543158,True,id_map
+whoscored,422818,Habib Diarra,Sunderland,547027,True,id_map
+whoscored,546589,Aladji Bamba,Newcastle,632794,True,id_map
+whoscored,379688,Brennan Johnson,Everton,242898,True,id_map
+whoscored,342889,Matt O'Riley,Brighton,219249,True,id_map
+whoscored,403649,Rodrigo Muniz,Fulham,244042,True,id_map
+whoscored,302313,Daniel James,Leeds,200617,True,id_map
+whoscored,548566,Rio Ngumoha,Liverpool,611922,True,id_map
+whoscored,552573,Sean Steur,Newcastle,636852,True,id_map
+whoscored,366114,Sorba Thomas,Hull,243951,True,id_map
+whoscored,563779,Shea Lacey,Manchester United,576628,True,id_map
+whoscored,479170,Junior Kroupi,Bournemouth,560262,True,master
+whoscored,347340,Lukas Nmecha,Leeds,174594,True,id_map
+whoscored,429531,Kasey McAteer,Ipswich,461587,True,id_map
+whoscored,571994,Max Dowman,Arsenal,616077,True,id_map
+whoscored,404832,Piero Hincapié,Arsenal,448104,True,id_map
+whoscored,437310,Julio Soler,Bournemouth,575901,True,id_map
+whoscored,431573,Brooke Norton-Cuffy,Hull,496181,True,id_map
+whoscored,424495,Jake O'Brien,Everton,512462,True,id_map
+whoscored,355960,Azor Matusiwa,Ipswich,241117,True,id_map
+whoscored,526481,Mikey Moore,Tottenham,499721,True,id_map
+whoscored,366875,Bafodé Diakité,Bournemouth,242882,True,id_map
+whoscored,371012,Brenden Aaronson,Leeds,427637,True,id_map
+whoscored,381161,Jacob Greaves,Ipswich,449429,True,id_map
+whoscored,244565,Paddy McNair,Hull,160817,True,id_map
+whoscored,430350,Ben Gannon-Doak,Bournemouth,496208,True,id_map
+whoscored,429174,Kevin,Fulham,560552,True,id_map
+whoscored,350088,Callum Hudson-Odoi,Nottingham Forest,209046,True,id_map
+whoscored,505295,Lucas Bergvall,Tottenham,570526,True,id_map
+whoscored,342811,Sean Longstaff,Leeds,180135,True,id_map
+whoscored,492374,Lewis Koumas,Liverpool,514514,True,id_map
+whoscored,415174,Tino Livramento,Newcastle,441191,True,id_map
+whoscored,411201,Kaine Kesler-Hayden,Coventry,465390,True,id_map
+whoscored,408946,Lamare Bogarde,Aston Villa,515597,True,id_map
+whoscored,409424,Victor Torp,Coventry,226965,True,id_map
+whoscored,623567,Zadok Yohanna,Brighton,700308,True,id_map
+whoscored,423518,Michael Svoboda,Brighton,454490,True,id_map
+whoscored,380546,Beto,Everton,486385,True,id_map
+whoscored,444791,Rico Lewis,Manchester City,477064,True,id_map
+whoscored,517341,Ayden Heaven,Manchester United,606745,True,id_map
+whoscored,73380,Chris Wood,Nottingham Forest,60689,True,id_map
+whoscored,39308,Danny Welbeck,Chelsea,50175,True,id_map
+whoscored,136776,Matt Targett,Hull,169359,True,id_map
+whoscored,538450,Tymur Tutierov,Sunderland,604211,True,id_map
+whoscored,443796,Hugo Larsson,Fulham,551050,True,id_map
+whoscored,332143,Gustavo Hamer,Coventry,196100,True,id_map
+whoscored,437022,Alejandro Garnacho,Aston Villa,493105,True,id_map
+whoscored,521094,Allan,Manchester City,624777,True,id_map
+whoscored,510728,Estêvão,Chelsea,624773,True,id_map
+whoscored,462243,Jens Hjertø-Dahl,Hull,552946,True,id_map
+whoscored,540462,Kaden Braithwaite,Manchester City,554054,True,id_map
+whoscored,397469,Óscar Mingueza,Crystal Palace,242313,True,id_map
+whoscored,478314,Vitor Reis,Manchester City,616222,True,id_map
+whoscored,555332,Brian Madjo,Aston Villa,whoscored_new_555332,False,
+whoscored,409376,Mykhailo Mudryk,Tottenham,465920,True,id_map
+whoscored,384005,Arnaud Kalimuendo,Nottingham Forest,465680,True,id_map
+whoscored,509068,Geovany Quenda,Chelsea,593117,True,id_map
+whoscored,394888,Luca Netz,Nottingham Forest,470315,True,id_map
+whoscored,317506,Tammy Abraham,Aston Villa,173879,True,id_map
+whoscored,460772,Álvaro Rodríguez,Bournemouth,561245,True,id_map
+whoscored,134115,Callum Wilson,Brentford,75115,True,id_map
+whoscored,511691,Robinio Vaz,Hull,631000,True,id_map
+whoscored,383605,Joel Latibeaudiere,Coventry,204813,True,id_map
+whoscored,450254,Romaine Mundle,Sunderland,461199,True,id_map
+whoscored,322670,Ismaïla Sarr,Crystal Palace,232185,True,id_map
+whoscored,421944,Carl Rushworth,Coventry,ws_421944,True,id_map
+whoscored,382587,Evann Guessand,Crystal Palace,485337,True,id_map
+whoscored,108638,Will Hughes,Crystal Palace,108413,True,id_map
+whoscored,363686,Emile Smith Rowe,Fulham,209289,True,id_map
+whoscored,391348,Charly Alcaraz,Everton,502697,True,id_map
+whoscored,444748,Jean-Mattéo Bahoya,Leeds,587982,True,id_map
+whoscored,322971,Federico Chiesa,Liverpool,223541,True,id_map
+whoscored,357427,Dwight McNeil,Crystal Palace,433154,True,id_map
+whoscored,295084,David Brooks,Bournemouth,111317,True,id_map
+whoscored,606073,Jocelin Ta Bi,Sunderland,699989,True,id_map
+whoscored,229562,Rico Henry,Brentford,194010,True,id_map
+whoscored,415163,Daniel Jebbison,Bournemouth,523700,True,id_map
+whoscored,83824,Marco Bizot,Aston Villa,72147,True,id_map
+whoscored,476166,Alex Tóth,Bournemouth,614574,True,id_map
+whoscored,389409,Amine Adli,Bournemouth,489888,True,id_map
+whoscored,476110,Chemsdine Talbi,Sunderland,549912,True,id_map
+whoscored,362151,Robert Sánchez,Chelsea,215059,True,id_map
+whoscored,281049,Taiwo Awoniyi,Coventry,210156,True,id_map
+whoscored,344259,Pau Torres,Aston Villa,244954,True,id_map
+whoscored,533382,Juan Angulo,Sunderland,661313,True,id_map
+whoscored,532188,Promise David,Brighton,538007,True,id_map
+whoscored,481154,Marco Palestra,Chelsea,620109,True,id_map
+whoscored,505602,Zavier Gozo,Crystal Palace,559152,True,id_map
+whoscored,317804,Richarlison,Tottenham,212319,True,id_map
+whoscored,101856,Christian Nørgaard,Everton,128295,True,id_map
+whoscored,606004,Manuel Ángel,Fulham,500033,True,id_map
+whoscored,429427,Mike Penders,Chelsea,549939,True,id_map
+whoscored,330816,Kevin Danso,Sunderland,135720,True,id_map
+whoscored,344639,Omar Alderete,Sunderland,201895,True,id_map
+fotmob,302783,Ben Wilson,Coventry City,fm_302783,True,id_map
+fotmob,317564,Kepa Arrizabalaga,Arsenal,109745,True,id_map
+fotmob,478357,Matt Grimes,Coventry City,168144,True,id_map
+fotmob,534670,Martin Ødegaard,Arsenal,184029,True,id_map
+fotmob,562727,David Raya,Arsenal,154561,True,id_map
+fotmob,574645,Mikel Merino,Arsenal,195384,True,id_map
+fotmob,643717,Taiwo Awoniyi,Coventry City,210156,True,id_map
+fotmob,654096,Declan Rice,Arsenal,204480,True,id_map
+fotmob,664500,Viktor Gyökeres,Arsenal,224117,True,id_map
+fotmob,749736,Kai Havertz,Arsenal,219847,True,id_map
+fotmob,759814,Jay Dasilva,Coventry City,173878,True,id_map
+fotmob,775355,Gustavo Hamer,Coventry City,196100,True,id_map
+fotmob,776151,Ben White,Arsenal,198869,True,id_map
+fotmob,776184,Brandon Thomas-Asante,Coventry City,230730,True,id_map
+fotmob,795179,Gabriel,Arsenal,226597,True,id_map
+fotmob,818975,Eberechi Eze,Arsenal,232413,True,id_map
+fotmob,845985,Victor Torp,Coventry City,226965,True,id_map
+fotmob,856685,Frank Onyeka,Coventry City,428580,True,id_map
+fotmob,863822,Joel Latibeaudiere,Coventry City,204813,True,id_map
+fotmob,914399,Liam Kitching,Coventry City,436761,True,id_map
+fotmob,961995,Bukayo Saka,Arsenal,223340,True,id_map
+fotmob,962000,Josh Eccles,Coventry City,439668,True,id_map
+fotmob,982284,Ellis Simms,Coventry City,218997,True,id_map
+fotmob,1025603,Tatsuhiro Sakamoto,Coventry City,501459,True,id_map
+fotmob,1030830,Jack Rudoni,Coventry City,480457,True,id_map
+fotmob,1031325,Martín Zubimendi,Arsenal,481655,True,id_map
+fotmob,1074750,Milan van Ewijk,Coventry City,451284,True,id_map
+fotmob,1084981,Noni Madueke,Arsenal,248857,True,id_map
+fotmob,1105912,Riccardo Calafiori,Arsenal,466075,True,id_map
+fotmob,1137667,Piero Hincapié,Arsenal,448104,True,id_map
+fotmob,1157237,Christos Tzolis,Arsenal,439509,True,id_map
+fotmob,1161885,Bobby Thomas,Coventry City,461102,True,id_map
+fotmob,1187236,Carl Rushworth,Coventry City,ws_421944,True,id_map
+fotmob,1254234,Ethan Nwaneri,Arsenal,499175,True,id_map
+fotmob,1257648,Aurèle Amenda,Coventry City,539142,True,id_map
+fotmob,1283034,Loum Tchaouna,Coventry City,469272,True,id_map
+fotmob,1298907,Cristhian Mosquera,Arsenal,500040,True,id_map
+fotmob,1406436,Myles Lewis-Skelly,Arsenal,499169,True,id_map
+fotmob,1615927,Caleb Yirenkyi,Coventry City,661888,True,id_map
+fotmob,1635773,Max Dowman,Arsenal,616077,True,id_map
+fotmob,163604,Karl Darlow,Manchester United,59735,True,id_map
+fotmob,255610,Harry Maguire,Manchester United,95658,True,id_map
+fotmob,280507,Matt Crooks,Hull City,101282,True,id_map
+fotmob,295062,John Egan,Hull City,108416,True,id_map
+fotmob,362694,Luke Shaw,Manchester United,106760,True,id_map
+fotmob,410836,Semi Ajayi,Hull City,146426,True,id_map
+fotmob,422685,Bruno Fernandes,Manchester United,141746,True,id_map
+fotmob,465960,Youri Tielemans,Manchester United,166989,True,id_map
+fotmob,509151,Oli McBurnie,Hull City,169432,True,id_map
+fotmob,518500,Dillon Phillips,Hull City,fm_518500,True,id_map
+fotmob,538112,Matt Targett,Hull City,169359,True,id_map
+fotmob,575780,Paddy McNair,Hull City,160817,True,id_map
+fotmob,605262,Kieran Dowell,Hull City,171270,True,id_map
+fotmob,696365,Marcus Rashford,Manchester United,176297,True,id_map
+fotmob,709148,Lewie Coyle,Hull City,193278,True,id_map
+fotmob,751550,Diogo Dalot,Manchester United,216051,True,id_map
+fotmob,775539,Noussair Mazraoui,Manchester United,230001,True,id_map
+fotmob,807930,Regan Slater,Hull City,243413,True,id_map
+fotmob,847983,Lisandro Martínez,Manchester United,221820,True,id_map
+fotmob,863098,Matheus Cunha,Manchester United,430871,True,id_map
+fotmob,923312,Bryan Mbeumo,Manchester United,446008,True,id_map
+fotmob,932308,Liam Millar,Hull City,232905,True,id_map
+fotmob,933635,Ryan Giles,Hull City,232351,True,id_map
+fotmob,950830,Joshua Zirkzee,Manchester United,458249,True,id_map
+fotmob,962046,Cody Drameh,Hull City,433590,True,id_map
+fotmob,1072068,Konstantinos Tzolakis,Hull City,ws_397331,True,id_map
+fotmob,1073977,Benjamin Šeško,Manchester United,485711,True,id_map
+fotmob,1137106,Lucas Gourna-Douath,Hull City,469266,True,id_map
+fotmob,1178602,Senne Lammens,Manchester United,465247,True,id_map
+fotmob,1231090,Mohamed Belloumi,Hull City,540324,True,id_map
+fotmob,1272349,Elliot Stroud,Hull City,608227,True,id_map
+fotmob,1292810,Kobbie Mainoo,Manchester United,516895,True,id_map
+fotmob,1358581,Leny Yoro,Manchester United,550864,True,id_map
+fotmob,1372921,Andrey Santos,Manchester United,532605,True,id_map
+fotmob,1377949,Jens Hjertø-Dahl,Hull City,552946,True,id_map
+fotmob,1428427,Nobel Mendy,Hull City,606930,True,id_map
+fotmob,1436260,Shea Lacey,Manchester United,576628,True,id_map
+fotmob,1526560,Patrick Dorgu,Manchester United,596777,True,id_map
+fotmob,1559639,Ayden Heaven,Manchester United,606745,True,id_map
+fotmob,1686118,Lucas Herrington,Hull City,597462,True,id_map
+fotmob,243138,James Tarkowski,Everton,17761,True,id_map
+fotmob,290410,Michael Keane,Everton,106611,True,id_map
+fotmob,295067,Will Hughes,Crystal Palace,108413,True,id_map
+fotmob,303919,Jordan Pickford,Everton,111234,True,id_map
+fotmob,448897,Walter Benítez,Crystal Palace,121709,True,id_map
+fotmob,621515,Daichi Kamada,Crystal Palace,209400,True,id_map
+fotmob,622091,Borna Sosa,Crystal Palace,218364,True,id_map
+fotmob,664444,Takehiro Tomiyasu,Crystal Palace,223723,True,id_map
+fotmob,706297,Jean-Philippe Mateta,Crystal Palace,231747,True,id_map
+fotmob,719330,Dean Henderson,Crystal Palace,172649,True,id_map
+fotmob,731855,Mark Travers,Everton,fm_731855,True,id_map
+fotmob,821100,Jørgen Strand Larsen,Crystal Palace,247412,True,id_map
+fotmob,859282,Daniel Muñoz,Nottingham Forest,247348,True,id_map
+fotmob,860920,Edward Nketiah,Crystal Palace,fm_860920,True,id_map
+fotmob,874025,Vitaliy Mykolenko,Everton,224967,True,id_map
+fotmob,886016,Kiernan Dewsbury-Hall,Everton,215413,True,id_map
+fotmob,939542,Dwight McNeil,Crystal Palace,433154,True,id_map
+fotmob,950474,James Garner,Everton,232928,True,id_map
+fotmob,950829,Chris Richards,Crystal Palace,427623,True,id_map
+fotmob,952095,Óscar Mingueza,Crystal Palace,242313,True,id_map
+fotmob,965764,Iliman Ndiaye,Manchester City,440993,True,id_map
+fotmob,982394,Hayden Hackney,Everton,244860,True,id_map
+fotmob,1030829,Jarrad Branthwaite,Everton,480455,True,id_map
+fotmob,1047676,Yéremi Pino,Crystal Palace,488024,True,id_map
+fotmob,1076756,Brennan Johnson,Everton,242898,True,id_map
+fotmob,1079485,Beto,Everton,486385,True,id_map
+fotmob,1087966,Evann Guessand,Crystal Palace,485337,True,id_map
+fotmob,1098607,Jake O'Brien,Everton,512462,True,id_map
+fotmob,1112684,Nathan Patterson,Everton,243571,True,id_map
+fotmob,1120224,Tyrick Mitchell,Crystal Palace,244723,True,id_map
+fotmob,1128965,Charly Alcaraz,Everton,502697,True,id_map
+fotmob,1187506,Chadi Riad,Crystal Palace,515621,True,id_map
+fotmob,1210384,Merlin Röhl,Everton,513466,True,id_map
+fotmob,1292833,Tyler Dibling,Everton,496661,True,id_map
+fotmob,1296650,Adam Wharton,Crystal Palace,496221,True,id_map
+fotmob,1398392,Thierno Barry,Everton,586309,True,id_map
+fotmob,1424875,Tyrique George,Everton,550615,True,id_map
+fotmob,1477878,Anan Khalaili,Crystal Palace,570794,True,id_map
+fotmob,1559637,Harrison Armstrong,Everton,609873,True,id_map
+fotmob,1664722,Jaydee Canvot,Crystal Palace,651426,True,id_map
+fotmob,207236,Granit Xhaka,Sunderland,84450,True,id_map
+fotmob,277771,Thomas Meunier,Sunderland,93605,True,id_map
+fotmob,413158,Chuba Akpom,Ipswich Town,147675,True,id_map
+fotmob,480253,Luke O'Nien,Sunderland,167512,True,id_map
+fotmob,512013,Christian Walton,Ipswich Town,ws_140906,True,id_map
+fotmob,556972,Saša Lukić,Ipswich Town,212314,True,id_map
+fotmob,600524,Reinildo,Sunderland,434399,True,id_map
+fotmob,602304,Nordi Mukiele,Sunderland,200834,True,id_map
+fotmob,609733,Darnell Furlong,Ipswich Town,176420,True,id_map
+fotmob,696443,Issa Diop,Ipswich Town,219924,True,id_map
+fotmob,728765,Daizen Maeda,Ipswich Town,442967,True,id_map
+fotmob,751998,Omar Alderete,Sunderland,201895,True,id_map
+fotmob,760398,Cédric Kipré,Ipswich Town,183015,True,id_map
+fotmob,789578,Dara O'Shea,Ipswich Town,216616,True,id_map
+fotmob,796398,Kjell Scherpen,Ipswich Town,ws_361867,True,id_map
+fotmob,887703,Wilson Isidor,Sunderland,437505,True,id_map
+fotmob,914402,Jack Clarke,Ipswich Town,443261,True,id_map
+fotmob,940446,Brian Brobbey,Sunderland,441264,True,id_map
+fotmob,974268,Daniel Ballard,Sunderland,223827,True,id_map
+fotmob,980381,Leif Davis,Ipswich Town,455084,True,id_map
+fotmob,1049999,Enzo Le Fée,Sunderland,484420,True,id_map
+fotmob,1067763,Trai Hume,Sunderland,487676,True,id_map
+fotmob,1073742,Julio Enciso,Ipswich Town,474120,True,id_map
+fotmob,1079103,Jacob Greaves,Ipswich Town,449429,True,id_map
+fotmob,1113915,Kasey McAteer,Ipswich Town,461587,True,id_map
+fotmob,1123947,Romaine Mundle,Sunderland,461199,True,id_map
+fotmob,1125720,Robin Roefs,Sunderland,498016,True,id_map
+fotmob,1129081,Marcelino Núñez,Ipswich Town,501390,True,id_map
+fotmob,1186615,Melker Ellborg,Sunderland,515046,True,id_map
+fotmob,1265626,Abdul Fatawu,Ipswich Town,531442,True,id_map
+fotmob,1285866,Habib Diarra,Sunderland,547027,True,id_map
+fotmob,1287010,Nilson Angulo,Sunderland,536661,True,id_map
+fotmob,1287056,Cameron Humphreys,Ipswich Town,524180,True,id_map
+fotmob,1307961,Sindre Walle Egeli,Ipswich Town,fm_1307961,True,id_map
+fotmob,1320949,Emersonn,Ipswich Town,543968,True,id_map
+fotmob,1327319,Chris Rigg,Sunderland,554197,True,id_map
+fotmob,1343053,Abdoul Ouattara,Ipswich Town,572584,True,id_map
+fotmob,1359649,Noah Sadiki,Sunderland,577669,True,id_map
+fotmob,1368654,Chemsdine Talbi,Sunderland,549912,True,id_map
+fotmob,1690655,Jocelin Ta Bi,Sunderland,699989,True,id_map
+fotmob,169719,Chris Wood,Nottingham Forest,60689,True,id_map
+fotmob,181069,Matz Sels,Nottingham Forest,85633,True,id_map
+fotmob,494417,Harry Wilson,Leeds United,153682,True,id_map
+fotmob,517346,Nico Elvedi,Leeds United,173774,True,id_map
+fotmob,612150,Dominic Calvert-Lewin,Leeds United,177815,True,id_map
+fotmob,620027,Xaver Schlager,Nottingham Forest,204561,True,id_map
+fotmob,637656,Lucas Perri,Leeds United,201595,True,id_map
+fotmob,682548,Ola Aina,Nottingham Forest,159506,True,id_map
+fotmob,710158,James Justin,Leeds United,220627,True,id_map
+fotmob,717174,Joe Rodon,Leeds United,214225,True,id_map
+fotmob,717176,Daniel James,Leeds United,200617,True,id_map
+fotmob,749834,John Victor,Nottingham Forest,221389,True,id_map
+fotmob,766611,Nikola Milenković,Nottingham Forest,227444,True,id_map
+fotmob,780432,Ethan Ampadu,Leeds United,199598,True,id_map
+fotmob,789502,Morgan Gibbs-White,Nottingham Forest,222531,True,id_map
+fotmob,789646,Jayden Bogle,Leeds United,226182,True,id_map
+fotmob,795371,Ibrahim Sangaré,Nottingham Forest,210462,True,id_map
+fotmob,820024,Sean Longstaff,Leeds United,180135,True,id_map
+fotmob,827315,Nicolás Dominguez,Nottingham Forest,250199,True,id_map
+fotmob,846383,Callum Hudson-Odoi,Nottingham Forest,209046,True,id_map
+fotmob,861197,Lukas Nmecha,Leeds United,174594,True,id_map
+fotmob,861805,Jaka Bijol,Leeds United,434752,True,id_map
+fotmob,881735,Anton Stach,Leeds United,466525,True,id_map
+fotmob,915797,Noah Okafor,Leeds United,435997,True,id_map
+fotmob,935728,Ao Tanaka,Leeds United,248056,True,id_map
+fotmob,952322,Brenden Aaronson,Leeds United,427637,True,id_map
+fotmob,1022649,Dan Ndoye,Nottingham Forest,456512,True,id_map
+fotmob,1078788,Neco Williams,Nottingham Forest,215136,True,id_map
+fotmob,1082102,Igor Jesus,Nottingham Forest,482973,True,id_map
+fotmob,1095445,Arnaud Kalimuendo-Muinga,Nottingham Forest,465680,True,id_map
+fotmob,1107648,James McAtee,Nottingham Forest,432714,True,id_map
+fotmob,1155130,Luca Netz,Nottingham Forest,470315,True,id_map
+fotmob,1187213,James Trafford,Leeds United,432720,True,id_map
+fotmob,1250485,Tarik Muharemović,Leeds United,522047,True,id_map
+fotmob,1296769,Zach Abbott,Nottingham Forest,549067,True,id_map
+fotmob,1391209,Jair Cunha,Nottingham Forest,575458,True,id_map
+fotmob,1425182,Ousmane Diomande,Nottingham Forest,568420,True,id_map
+fotmob,1458711,Murillo,Nottingham Forest,575476,True,id_map
+fotmob,1559625,Alfie Cresswell,Leeds United,592740,True,id_map
+fotmob,1797582,Jayden Lienou,Leeds United,643970,True,id_map
+fotmob,72241,Martin Dúbravka,Tottenham Hotspur,67089,True,id_map
+fotmob,184321,Callum Wilson,Brentford,75115,True,id_map
+fotmob,276121,Ben Davies,Tottenham Hotspur,115556,True,id_map
+fotmob,357880,Andrew Robertson,Tottenham Hotspur,122798,True,id_map
+fotmob,493165,James Maddison,Tottenham Hotspur,172780,True,id_map
+fotmob,552718,Kristoffer Ajer,Brentford,191866,True,id_map
+fotmob,562892,Rico Henry,Brentford,194010,True,id_map
+fotmob,591734,Dominic Solanke,Tottenham Hotspur,154566,True,id_map
+fotmob,620618,Rodrigo Bentancur,Tottenham Hotspur,202993,True,id_map
+fotmob,650616,Mathias Jensen,Brentford,207283,True,id_map
+fotmob,654908,Richarlison,Tottenham Hotspur,212319,True,id_map
+fotmob,688273,Vitaly Janelt,Brentford,204580,True,id_map
+fotmob,711357,Ethan Pinnock,Coventry City,231065,True,id_map
+fotmob,754126,Kevin Danso,Sunderland,135720,True,id_map
+fotmob,776689,Caoimhín Kelleher,Brentford,200720,True,id_map
+fotmob,785411,Marcos Senesi,Tottenham Hotspur,221466,True,id_map
+fotmob,850962,Hákon Rafn Valdimarsson,Brentford,507433,True,id_map
+fotmob,867414,Sandro Tonali,Tottenham Hotspur,432422,True,id_map
+fotmob,888912,Mikkel Damsgaard,Brentford,440089,True,id_map
+fotmob,961306,Nathan Collins,Brentford,432830,True,id_map
+fotmob,966027,Conor Gallagher,Tottenham Hotspur,232787,True,id_map
+fotmob,974618,Jan Paul van Hecke,Tottenham Hotspur,469142,True,id_map
+fotmob,1002039,Aaron Hickey,Brentford,472713,True,id_map
+fotmob,1010426,Keane Lewis-Potter,Brentford,249231,True,id_map
+fotmob,1052898,Destiny Udogie,Tottenham Hotspur,487053,True,id_map
+fotmob,1083796,Kevin Schade,Brentford,513418,True,id_map
+fotmob,1157236,Yehor Yarmoliuk,Brentford,508395,True,id_map
+fotmob,1171140,Jaidon Anthony,Brentford,444180,True,id_map
+fotmob,1185211,Mamadou Sangaré,Brentford,513545,True,id_map
+fotmob,1250253,Dango Ouattara,Brentford,533463,True,id_map
+fotmob,1288111,Mathys Tel,Tottenham Hotspur,511499,True,id_map
+fotmob,1302005,Igor Thiago,Brentford,502500,True,id_map
+fotmob,1323305,Archie Gray,Tottenham Hotspur,547701,True,id_map
+fotmob,1341475,Antonín Kinský,Tottenham Hotspur,485055,True,id_map
+fotmob,1356312,Mateus Fernandes,Tottenham Hotspur,551226,True,id_map
+fotmob,1386775,Lucas Bergvall,Tottenham Hotspur,570526,True,id_map
+fotmob,1407250,Mikey Moore,Tottenham Hotspur,499721,True,id_map
+fotmob,1429912,Michael Kayode,Brentford,607464,True,id_map
+fotmob,1572340,Jannik Schuster,Brentford,513086,True,id_map
+fotmob,1636112,Luca Williams-Barnett,Tottenham Hotspur,611917,True,id_map
+fotmob,107917,Jason Steele,Brighton and Hove Albion,fm_107917,True,id_map
+fotmob,167008,Pascal Groß,Brighton and Hove Albion,60307,True,id_map
+fotmob,195782,Marco Bizot,Aston Villa,72147,True,id_map
+fotmob,201690,Lewis Dunk,Brighton and Hove Albion,83299,True,id_map
+fotmob,215384,Ross Barkley,Aston Villa,88894,True,id_map
+fotmob,258269,Victor Nilsson Lindelöf,Aston Villa,184667,True,id_map
+fotmob,356406,John McGinn,Aston Villa,122806,True,id_map
+fotmob,419664,Tyrone Mings,Aston Villa,149484,True,id_map
+fotmob,610184,Emiliano Buendía,Aston Villa,195546,True,id_map
+fotmob,613715,Olivier Boscagli,Brighton and Hove Albion,204120,True,id_map
+fotmob,729731,Matty Cash,Aston Villa,199796,True,id_map
+fotmob,792645,Pau Torres,Aston Villa,244954,True,id_map
+fotmob,796974,Pascal Struijk,Brighton and Hove Albion,222694,True,id_map
+fotmob,816325,Boubacar Kamara,Aston Villa,226944,True,id_map
+fotmob,951921,Michael Svoboda,Brighton and Hove Albion,454490,True,id_map
+fotmob,956925,Georginio Rutter,Brighton and Hove Albion,463067,True,id_map
+fotmob,966026,Ian Maatsen,Aston Villa,441302,True,id_map
+fotmob,970243,Mats Wieffer,Brighton and Hove Albion,467779,True,id_map
+fotmob,1051097,Matteo Ruggeri,Aston Villa,487992,True,id_map
+fotmob,1053679,Zion Suzuki,Aston Villa,433969,True,id_map
+fotmob,1079456,Costinha,Brighton and Hove Albion,451490,True,id_map
+fotmob,1131987,Bart Verbruggen,Brighton and Hove Albion,489639,True,id_map
+fotmob,1134871,Maxim De Cuyper,Brighton and Hove Albion,465730,True,id_map
+fotmob,1168311,Yasin Ayari,Brighton and Hove Albion,509416,True,id_map
+fotmob,1174672,João Gomes,Aston Villa,448089,True,id_map
+fotmob,1190033,Lamare Bogarde,Aston Villa,515597,True,id_map
+fotmob,1203665,Alejandro Garnacho,Aston Villa,493105,True,id_map
+fotmob,1215410,Ibrahim Osman,Brighton and Hove Albion,612855,True,id_map
+fotmob,1251334,Jack Hinshelwood,Brighton and Hove Albion,532529,True,id_map
+fotmob,1252132,Promise David,Brighton and Hove Albion,538007,True,id_map
+fotmob,1354561,Diego Gómez,Brighton and Hove Albion,514254,True,id_map
+fotmob,1413996,Luka Vušković,Brighton and Hove Albion,610799,True,id_map
+fotmob,1442496,Triston Rowe,Aston Villa,569577,True,id_map
+fotmob,1553189,Luka Lynch,Aston Villa,571380,True,id_map
+fotmob,1561249,Charalampos Kostoulas,Brighton and Hove Albion,647850,True,id_map
+fotmob,1602352,Malick Junior Yalcouyé,Brighton and Hove Albion,fm_1602352,True,id_map
+fotmob,1607333,George Hemmings,Aston Villa,577285,True,id_map
+fotmob,1639163,Bradley Burrowes,Aston Villa,645618,True,id_map
+fotmob,1656860,Alysson Edward,Aston Villa,653481,True,id_map
+fotmob,1782648,Zadok Yohanna,Brighton and Hove Albion,700308,True,id_map
+fotmob,160447,Adam Smith,Bournemouth,54469,True,id_map
+fotmob,239219,Mateo Kovačić,Manchester City,91651,True,id_map
+fotmob,245555,Gerónimo Rulli,Manchester City,106921,True,id_map
+fotmob,312765,Jack Grealish,Everton,114283,True,id_map
+fotmob,562724,Lewis Cook,Bournemouth,155408,True,id_map
+fotmob,614006,Rúben Dias,Manchester City,171314,True,id_map
+fotmob,618878,Gianluigi Donnarumma,Manchester City,204936,True,id_map
+fotmob,674014,David Brooks,Bournemouth,111317,True,id_map
+fotmob,729769,Tyler Adams,Bournemouth,200785,True,id_map
+fotmob,737066,Erling Haaland,Manchester City,223094,True,id_map
+fotmob,789630,Marcus Tavernier,Bournemouth,201658,True,id_map
+fotmob,794253,Justin Kluivert,Bournemouth,222683,True,id_map
+fotmob,815006,Phil Foden,Manchester City,209244,True,id_map
+fotmob,839204,Omar Marmoush,Tottenham Hotspur,438234,True,id_map
+fotmob,844425,Marc Guéhi,Manchester City,209036,True,id_map
+fotmob,933576,Antoine Semenyo,Manchester City,437730,True,id_map
+fotmob,933845,Rayan Aït-Nouri,Manchester City,448514,True,id_map
+fotmob,955529,Matheus Nunes,Manchester City,465351,True,id_map
+fotmob,959407,James Hill,Bournemouth,463981,True,id_map
+fotmob,979752,Bafodé Diakité,Bournemouth,242882,True,id_map
+fotmob,1067256,Djordje Petrović,Bournemouth,457569,True,id_map
+fotmob,1070712,Joško Gvardiol,Manchester City,477424,True,id_map
+fotmob,1089691,Elliot Anderson,Manchester City,215379,True,id_map
+fotmob,1096635,Will Dennis,Bournemouth,fm_1096635,True,id_map
+fotmob,1098096,Evanilson,Bournemouth,444102,True,id_map
+fotmob,1104053,Rayan Cherki,Manchester City,466052,True,id_map
+fotmob,1158512,Juanlu Sánchez,Bournemouth,494928,True,id_map
+fotmob,1177358,Adrien Truffert,Bournemouth,494521,True,id_map
+fotmob,1233655,Alex Scott,Bournemouth,503139,True,id_map
+fotmob,1253827,Daniel Jebbison,Bournemouth,523700,True,id_map
+fotmob,1280132,Nico González,Newcastle United,465694,True,id_map
+fotmob,1288450,Rico Lewis,Manchester City,477064,True,id_map
+fotmob,1292092,António Silva,Bournemouth,483067,True,id_map
+fotmob,1300526,Nico O'Reilly,Manchester City,472769,True,id_map
+fotmob,1324871,Ben Gannon-Doak,Bournemouth,496208,True,id_map
+fotmob,1327406,Álvaro Rodriguez,Bournemouth,561245,True,id_map
+fotmob,1362998,Abdukodir Khusanov,Manchester City,578153,True,id_map
+fotmob,1449690,Alex Tóth,Bournemouth,614574,True,id_map
+fotmob,1478295,Rayan,Bournemouth,499604,True,id_map
+fotmob,1580952,Vitor Reis,Manchester City,616222,True,id_map
+fotmob,189982,Fabian Schär,Newcastle United,119471,True,id_map
+fotmob,202643,Wataru Endo,Liverpool,158983,True,id_map
+fotmob,209405,Virgil van Dijk,Liverpool,97032,True,id_map
+fotmob,319784,Alisson Becker,Liverpool,116535,True,id_map
+fotmob,521148,Jacob Murphy,Newcastle United,114243,True,id_map
+fotmob,666857,Yoane Wissa,Newcastle United,216646,True,id_map
+fotmob,671529,Konstantinos Tsimikas,Liverpool,214285,True,id_map
+fotmob,690107,Alexander Isak,Liverpool,219168,True,id_map
+fotmob,760359,Harvey Barnes,Newcastle United,201666,True,id_map
+fotmob,806552,Cody Gakpo,Liverpool,243298,True,id_map
+fotmob,831489,Alexis Mac Allister,Liverpool,243016,True,id_map
+fotmob,846005,Dominik Szoboszlai,Liverpool,424876,True,id_map
+fotmob,860975,Joseph Willock,Newcastle United,200089,True,id_map
+fotmob,921253,Ronald Araujo,Liverpool,445087,True,id_map
+fotmob,948800,Giorgi Mamardashvili,Liverpool,449027,True,id_map
+fotmob,956682,Sven Botman,Newcastle United,220237,True,id_map
+fotmob,956683,Ryan Gravenberch,Liverpool,441266,True,id_map
+fotmob,958010,Amar Dedić,Newcastle United,463726,True,id_map
+fotmob,966018,Jeremie Frimpong,Liverpool,216094,True,id_map
+fotmob,1021929,Jacob Ramsey,Newcastle United,232653,True,id_map
+fotmob,1050166,Anthony Elanga,Newcastle United,449434,True,id_map
+fotmob,1106563,Nick Woltemade,Newcastle United,470313,True,id_map
+fotmob,1137407,Malick Thiaw,Newcastle United,465642,True,id_map
+fotmob,1152455,Florian Wirtz,Liverpool,494595,True,id_map
+fotmob,1186978,Lukás Hornícek,Newcastle United,470551,True,id_map
+fotmob,1195281,Miloš Kerkez,Liverpool,544877,True,id_map
+fotmob,1197655,Lewis Hall,Newcastle United,487838,True,id_map
+fotmob,1231075,James McConnell,Liverpool,491501,True,id_map
+fotmob,1258092,William Osula,Newcastle United,538207,True,id_map
+fotmob,1296763,Lewis Miley,Newcastle United,547719,True,id_map
+fotmob,1364042,Lewis Koumas,Liverpool,514514,True,id_map
+fotmob,1414761,Leo Shahar,Newcastle United,553746,True,id_map
+fotmob,1436258,Trey Nyoni,Liverpool,591386,True,id_map
+fotmob,1438570,Ewen Jaouen,Newcastle United,fm_1438570,True,id_map
+fotmob,1473534,Jérémy Jacquet,Liverpool,606702,True,id_map
+fotmob,1553105,Víctor Muñoz,Liverpool,551499,True,id_map
+fotmob,1597668,Rio Ngumoha,Liverpool,611922,True,id_map
+fotmob,1624586,Bazoumana Touré,Newcastle United,611665,True,id_map
+fotmob,1643770,Sean Steur,Newcastle United,636852,True,id_map
+fotmob,1695681,Aladji Bamba,Newcastle United,632794,True,id_map
+fotmob,113836,Danny Welbeck,Chelsea,50175,True,id_map
+fotmob,210114,Benjamin Lecomte,Fulham,fm_210114,True,id_map
+fotmob,215168,Bernd Leno,Fulham,80201,True,id_map
+fotmob,465750,Timothy Castagne,Fulham,166477,True,id_map
+fotmob,469804,Kenny Tete,Fulham,167074,True,id_map
+fotmob,502420,Harrison Reed,Fulham,153366,True,id_map
+fotmob,540963,Sander Berge,Fulham,207189,True,id_map
+fotmob,604785,Alex Iwobi,Fulham,153133,True,id_map
+fotmob,662428,Antonee Robinson,Fulham,169528,True,id_map
+fotmob,773991,Ryan Sessegnon,Fulham,184349,True,id_map
+fotmob,789571,Robert Sánchez,Chelsea,215059,True,id_map
+fotmob,807729,Reece James,Chelsea,225796,True,id_map
+fotmob,821728,Jorge Cuenca,Fulham,246301,True,id_map
+fotmob,843040,Pedro Neto,Chelsea,247632,True,id_map
+fotmob,877401,Calvin Bassey,Fulham,232892,True,id_map
+fotmob,883080,Morgan Rogers,Chelsea,244850,True,id_map
+fotmob,889534,Emile Smith Rowe,Fulham,209289,True,id_map
+fotmob,950485,Maxence Lacroix,Chelsea,437499,True,id_map
+fotmob,988805,Pep Chavarría,Chelsea,498444,True,id_map
+fotmob,1021382,João Pedro,Chelsea,475168,True,id_map
+fotmob,1096353,Cole Palmer,Chelsea,244851,True,id_map
+fotmob,1096400,Levi Colwill,Chelsea,460028,True,id_map
+fotmob,1113692,Jamie Gittens,Chelsea,463936,True,id_map
+fotmob,1113790,Oscar Bobb,Fulham,477555,True,id_map
+fotmob,1128945,Rodrigo Muniz,Fulham,244042,True,id_map
+fotmob,1137705,Enzo Fernández,Manchester City,448047,True,id_map
+fotmob,1190867,Roméo Lavia,Chelsea,514356,True,id_map
+fotmob,1197250,Malo Gusto,Chelsea,482609,True,id_map
+fotmob,1272440,Valentín Barco,Chelsea,543158,True,id_map
+fotmob,1281452,Shea Charles,Fulham,463210,True,id_map
+fotmob,1318400,Kevin,Fulham,560552,True,id_map
+fotmob,1319972,Mike Penders,Chelsea,549939,True,id_map
+fotmob,1399943,Luc De Fougerolles,Fulham,547686,True,id_map
+fotmob,1400216,Josh Acheampong,Chelsea,577016,True,id_map
+fotmob,1403691,César Palacios,Fulham,571779,True,id_map
+fotmob,1413846,Jorrel Hato,Chelsea,551210,True,id_map
+fotmob,1413847,Gonzalo García,Fulham,551466,True,id_map
+fotmob,1422593,Joshua King,Fulham,577725,True,id_map
+fotmob,1530314,Geovany Quenda,Chelsea,593117,True,id_map
+fotmob,1580774,Estêvão,Chelsea,624773,True,id_map
+fotmob,439369,Ryan Christie,Bournemouth,158499,True,id_map
+fotmob,766062,Michele Di Gregorio,Bournemouth,230650,True,id_map
+fotmob,1203512,Tim Iroegbunam,Hull City,490094,True,id_map
+fotmob,1358655,Julio Soler,Bournemouth,575901,True,id_map
+fotmob,710159,Ezri Konsa,Arsenal,199798,True,id_map
+fotmob,749661,Tammy Abraham,Aston Villa,173879,True,id_map
+fotmob,760320,Aaron Wan-Bissaka,Aston Villa,214590,True,id_map
+fotmob,850354,Bruno Guimarães,Arsenal,208706,True,id_map
+fotmob,1197347,Nicolas Jackson,Aston Villa,517052,True,id_map
+fotmob,268375,Emiliano Martínez,Chelsea,98980,True,id_map
+fotmob,774448,Ferdi Kadıoğlu,Brighton and Hove Albion,231416,True,id_map
+fotmob,866686,Matthew O'Riley,Brighton and Hove Albion,219249,True,id_map
+fotmob,917802,Wesley Fofana,Chelsea,444463,True,id_map
+fotmob,1137668,Moisés Caicedo,Chelsea,486672,True,id_map
+fotmob,1178324,Jaouen Hadjam,Brighton and Hove Albion,512123,True,id_map
+fotmob,1254170,Amario Cozier-Duberry,Brighton and Hove Albion,519324,True,id_map
+fotmob,1526697,Nehemiah Oriola,Brighton and Hove Albion,556637,True,id_map
+fotmob,189103,Daniel Bentley,Coventry City,fm_189103,True,id_map
+fotmob,798654,Ephron Mason-Clark,Coventry City,241293,True,id_map
+fotmob,915102,Hidemasa Morita,Hull City,445028,True,id_map
+fotmob,1180718,Mohamed-Ali Cho,Hull City,490884,True,id_map
+fotmob,466672,Jefferson Lerma,Crystal Palace,152551,True,id_map
+fotmob,696646,Axel Disasi,Crystal Palace,220362,True,id_map
+fotmob,1455818,Zavier Gozo,Crystal Palace,559152,True,id_map
+fotmob,1486264,Claudio Echeverri,Manchester City,575204,True,id_map
+fotmob,1561552,Ayyoub Bouaddi,Manchester City,637238,True,id_map
+fotmob,1680328,Ryan McAidoo,Manchester City,616288,True,id_map
+fotmob,1682403,Kaden Braithwaite,Manchester City,554054,True,id_map
+fotmob,279481,Alex Cairns,Leeds United,fm_279481,True,id_map
+fotmob,744494,Gabriel Gudmundsson,Leeds United,243526,True,id_map
+fotmob,963965,Fábio Carvalho,Brentford,244858,True,id_map
+fotmob,1107286,Wilfried Gnonto,Leeds United,492859,True,id_map
+fotmob,1451265,Malick Diouf,Brentford,613804,True,id_map
+fotmob,775614,Ryan Yates,Nottingham Forest,204968,True,id_map
+fotmob,1113903,Liam Delap,Nottingham Forest,463034,True,id_map
+fotmob,693599,Exequiel Palacios,Ipswich Town,218543,True,id_map
+fotmob,503659,Joachim Andersen,Fulham,174874,True,id_map
+fotmob,1631628,Macauley Zepa,Fulham,616069,True,id_map
+fotmob,1811265,Jules Ahoka,Sunderland,696104,True,id_map
+fotmob,891743,Mohammed Kudus,Tottenham Hotspur,460842,True,id_map
+fotmob,941573,Pedro Porro,Tottenham Hotspur,441164,True,id_map
+fotmob,1097466,Micky van de Ven,Tottenham Hotspur,491279,True,id_map
+fotmob,1364069,Malick Fofana,Sunderland,549940,True,id_map
+fotmob,1664716,Dayann Méthalie,Sunderland,638411,True,id_map
+fotmob,432435,Michael Zetterer,Leeds United,155465,True,id_map
+fotmob,1092403,Melvin Bard,Leeds United,437497,True,id_map
+fotmob,1393672,Jean-Mattéo Bahoya,Leeds United,587982,True,id_map
+fotmob,1586552,Chema Andrés,Brighton and Hove Albion,592984,True,id_map
+fotmob,604089,Ainsley Maitland-Niles,Everton,154043,True,id_map
+fotmob,750032,Mason Mount,Manchester United,184341,True,id_map
+fotmob,1589726,Braiden Graham,Everton,629068,True,id_map
+fotmob,672469,Ben Chilwell,Crystal Palace,172850,True,id_map
+fotmob,951954,Cheick Oumar Doucouré,Crystal Palace,438464,True,id_map
+fotmob,970563,Quinten Timber,Crystal Palace,450063,True,id_map
+fotmob,1073980,David Affengruber,Fulham,442299,True,id_map
+fotmob,1329007,Darío Osorio,Crystal Palace,533646,True,id_map
+fotmob,1339269,Hugo Larsson,Fulham,551050,True,id_map
+fotmob,1508427,Manuel Ángel,Fulham,500033,True,id_map
+fotmob,812982,Sorba Thomas,Hull City,243951,True,id_map
+fotmob,1214915,Brooke Norton-Cuffy,Hull City,496181,True,id_map
+fotmob,1574198,Christos Mouzakitis,Hull City,647839,True,id_map
+fotmob,1593857,Ibrahim Mbaye,Aston Villa,638987,True,id_map
+fotmob,1705134,Robinio Vaz,Hull City,631000,True,id_map
+fotmob,793255,Florentino,Ipswich Town,216055,True,id_map
+fotmob,873559,Zian Flemming,Ipswich Town,431639,True,id_map
+fotmob,1297165,Bradley Barcola,Liverpool,482616,True,id_map
+fotmob,1726962,Floyd Samba,Manchester City,595480,True,id_map
+fotmob,280484,Nick Pope,Newcastle United,98747,True,id_map
+fotmob,1107910,Valentino Livramento,Newcastle United,441191,True,id_map
+fotmob,1444231,Matias Fernandez-Pardo,Newcastle United,613221,True,id_map
+fotmob,976506,Mykhaylo Mudryk,Tottenham Hotspur,465920,True,id_map
+fotmob,1174337,Sávio,Tottenham Hotspur,510281,True,id_map
+fotmob,1516030,Gustavo Nunes,Brentford,626464,True,id_map
+fotmob,1520063,Johan Manzambi,Aston Villa,614071,True,id_map
+fotmob,1524069,Sidiki Cherif,Coventry City,627221,True,id_map
+fotmob,1613300,Stephen Mfuni,Coventry City,566213,True,id_map
+fotmob,1720273,Younes Ibrahim,Brighton and Hove Albion,661016,True,id_map
+fotmob,562726,Remi Matthews,Crystal Palace,fm_562726,True,id_map
+fotmob,1089645,Jaden Philogene-Bidace,Ipswich Town,481624,True,id_map
+fotmob,1669629,Honest Ahanor,Crystal Palace,605972,True,id_map
+fotmob,1867092,Mason Miley,Newcastle United,665243,True,id_map
+fotmob,1721789,Allan,Manchester City,624777,True,id_map
+fotmob,942381,Jurriën Timber,Arsenal,445122,True,id_map
+fotmob,581530,Tom King,Everton,fm_581530,True,id_map
+fotmob,683402,Tosin Adarabioyo,Tottenham Hotspur,109646,True,id_map
+fotmob,568571,Joseph Gomez,Liverpool,171287,True,id_map
+fotmob,156008,Jordan Henderson,Chelsea,56979,True,id_map
+fotmob,806579,Ellery Balcombe,Brentford,fm_806579,True,id_map
+fotmob,1478706,Benjamin Fredrick,Brentford,612534,True,id_map
+fotmob,1720243,Mahdi Nicoll-Jazuli,Chelsea,636846,True,id_map
+fotmob,1352713,Carlos Baleba,Manchester United,535301,True,id_map
+fotmob,771294,Ismaïla Sarr,Crystal Palace,232185,True,id_map
+fotmob,1080983,Ilia Gruev,Leeds United,486520,True,id_map
+fotmob,942368,Jérémy Doku,Manchester City,248875,True,id_map
+fotmob,956161,Joe Gelhardt,Hull City,462635,True,id_map
+fotmob,1622265,Vakhtang Salia,Newcastle United,601767,True,id_map
+fotmob,1655958,Miodrag Pivaš,Newcastle United,578512,True,id_map
+fotmob,1693396,Michael Mills,Newcastle United,655585,True,id_map
+fotmob,1816289,Kyran Thompson,Newcastle United,671875,True,id_map
+fotmob,955411,Yann Gboho,Coventry City,242893,True,id_map
+fotmob,966021,Taylor Harwood-Bellis,Aston Villa,245719,True,id_map
+fotmob,1340673,James Wright,Aston Villa,fm_1340673,True,id_map
+fotmob,919435,Sepp van den Berg,Brentford,444765,True,id_map
+fotmob,1473806,Marco Palestra,Chelsea,620109,True,id_map
+fotmob,188058,Daniel Burn,Newcastle United,78916,True,id_map
+fotmob,535936,Joelinton,Newcastle United,180974,True,id_map
+fotmob,266520,Christian Nørgaard,Everton,128295,True,id_map
+fotmob,797594,Azor Matusiwa,Ipswich Town,241117,True,id_map
+fotmob,784510,Federico Chiesa,Liverpool,223541,True,id_map
+fotmob,1070052,Amad Diallo,Manchester United,493250,True,id_map
+fotmob,1829355,Juan Riquelme Angulo,Sunderland,fm_1829355,True,id_map
+fotmob,1079557,Amine Adli,Bournemouth,489888,True,id_map
+fotmob,1421003,Timur Tuterov,Sunderland,604211,True,id_map
+fotmob,182962,Tom Cairney,Fulham,76357,True,id_map
+fotmob,769895,Matthijs de Ligt,Manchester United,209365,True,id_map
+fotmob,1430832,Harry Amass,Manchester United,577974,True,id_map
+fotmob,343748,Leon Goretzka,Aston Villa,119090,True,id_map
+fotmob,1729841,Brian Madjo,Aston Villa,690838,True,id_map
+fotmob,952029,Illan Meslier,Arsenal,fm_952029,True,id_map
+fotmob,935379,Dejan Kulusevski,Tottenham Hotspur,445044,True,id_map
+fotmob,1089686,Kaine Kesler-Hayden,Coventry City,465390,True,id_map
+fotmob,1431275,Callum Olusesi,Tottenham Hotspur,499726,True,id_map
+fotmob,1117871,Teddy Sharman-Lowe,Chelsea,fotmob_new_1117871,False,
+fotmob,1460534,Junior Kroupi,Bournemouth,560262,True,master
+fotmob,1676985,Tyler Fletcher,Manchester United,519913,True,master

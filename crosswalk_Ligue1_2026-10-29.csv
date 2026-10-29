@@ -1,0 +1,1370 @@
+source,source_native_id,source_name,team,canonical_player_id,matched_to_master,match_via
+opta,516211,Abdallah Sima,Lens,516211,True,id_map
+opta,619501,Abdelhamid Aït Boudlal,Rennes,619501,True,id_map
+opta,475344,Abner Vinícius,Lyon,475344,True,id_map
+opta,634263,Aboubakar Nagida,Rennes,634263,True,id_map
+opta,750207,Aboulaye Camara,Nice,750207,True,id_map
+opta,223760,Achraf Hakimi,Paris Saint-Germain,223760,True,id_map
+opta,624926,Adama Camara,Paris FC,624926,True,id_map
+opta,729203,Adil Bourabaa,Le Mans,729203,True,id_map
+opta,672280,Adil Hamdani,Lyon,672280,True,master
+opta,149588,Adrien Monfray,Troyes,149588,True,id_map
+opta,115961,Adrien Thomasson,Rennes,115961,True,id_map
+opta,240864,Ahmed Touba,Le Havre,240864,True,id_map
+opta,154043,Ainsley Maitland-Niles,Lyon,154043,True,id_map
+opta,250182,Aiyegun Tosin,Lorient,250182,True,id_map
+opta,199663,Alec Georgen,Lorient,199663,True,id_map
+opta,161950,Aleksandr Golovin,Monaco,161950,True,id_map
+opta,482549,Alexandre Lauray,Le Mans,482549,True,id_map
+opta,471437,Alexandre Phliponeau,Troyes,471437,True,id_map
+opta,560255,Alexi Koum,Marseille,560255,True,id_map
+opta,616227,Alexis Vossah,Toulouse,616227,True,id_map
+opta,512253,Alexsandro,Lille,512253,True,id_map
+opta,245485,Ali Abdi,Nice,245485,True,id_map
+opta,511344,Alidu Seidu,Nice,511344,True,id_map
+opta,218244,Amadou Haidara,Lens,218244,True,id_map
+opta,501332,Amine El Ouazzani,Angers,501332,True,id_map
+opta,247400,Amine Gouiri,Marseille,247400,True,id_map
+opta,229608,Amine Harit,Marseille,229608,True,id_map
+opta,532112,Amine Sbaï,Angers,532112,True,id_map
+opta,538786,Amir Richardson,Le Havre,538786,True,id_map
+opta,466404,Andrew Omobamidele,Strasbourg,466404,True,id_map
+opta,622024,Andrija Bulatovic,Lens,622024,True,id_map
+opta,209041,Angel Gomes,Marseille,209041,True,id_map
+opta,619036,Angel Yondjo,Lille,619036,True,id_map
+opta,703779,Anis Ouzenadji,Troyes,703779,True,id_map
+opta,722369,Anis Soubeir,Monaco,722369,True,id_map
+opta,465607,Ansu Fati,Monaco,465607,True,id_map
+opta,634346,Anthony Bermont,Angers,634346,True,id_map
+opta,59957,Anthony Lopes,Angers,59957,True,id_map
+opta,489887,Anthony Rouault,Rennes,489887,True,id_map
+opta,538452,Antoine Mendy,Nice,538452,True,id_map
+opta,444395,Antoine Mille,Troyes,444395,True,id_map
+opta,221456,Antoine Rabillard,Le Mans,221456,True,id_map
+opta,669341,Aristide Zossou,Auxerre,669341,True,id_map
+opta,235050,Arnaud Nordin,Rennes,235050,True,id_map
+opta,247417,Aron Dønnum,Toulouse,247417,True,id_map
+opta,651819,Arsène Kouassi,Lorient,651819,True,id_map
+opta,606371,Arthur Avom,Lorient,606371,True,id_map
+opta,549914,Arthur Piedfort,Auxerre,549914,True,id_map
+opta,548831,Axel Camblan,Brest,548831,True,id_map
+opta,180804,Axel Tuanzebe,Auxerre,180804,True,id_map
+opta,41189,Axel Witsel,Nice,41189,True,id_map
+opta,451341,Ayase Ueda,Lille,451341,True,id_map
+opta,672306,Aymen Amaaouch,Toulouse,672306,True,id_map
+opta,219268,Ayumu Seko,Le Havre,219268,True,id_map
+opta,544099,Bamo Meïté,Marseille,544099,True,id_map
+opta,465681,Bandiougou Fadiga,Lorient,465681,True,id_map
+opta,737638,Bané Diatta,Angers,737638,True,id_map
+opta,574035,Basar Önal,Lille,574035,True,id_map
+opta,55948,Benjamin André,Lille,55948,True,id_map
+opta,648131,Benjamin Brantlind,Strasbourg,648131,True,id_map
+opta,534317,Beraldo,Paris Saint-Germain,534317,True,id_map
+opta,424992,Berke Özer,Lille,424992,True,id_map
+opta,437670,Billal Brahimi,Le Mans,437670,True,id_map
+opta,468488,Boulaye Dia,Rennes,468488,True,id_map
+opta,619372,Brad-Hamilton Mantsounga,Nice,619372,True,id_map
+opta,546635,Bradley Locko,Brest,546635,True,id_map
+opta,174969,Branco van den Boomen,Angers,174969,True,id_map
+opta,102836,Brice Samba,Rennes,102836,True,id_map
+opta,223353,Bryan Reynolds,Rennes,223353,True,id_map
+opta,432711,CJ Egan-Riley,Marseille,432711,True,id_map
+opta,180182,Calvin Verdonk,Lille,180182,True,id_map
+opta,433979,Cameron Archer,Auxerre,433979,True,id_map
+opta,209171,Carlens Arcus,Angers,209171,True,id_map
+opta,477682,Casper Tengstedt,Toulouse,477682,True,id_map
+opta,492373,Charlie Cresswell,Rennes,492373,True,id_map
+opta,672304,Christ Batola,Troyes,672304,True,id_map
+opta,620069,Christ Makosso,Auxerre,620069,True,id_map
+opta,659285,Christ Tapé,Toulouse,659285,True,id_map
+opta,578500,Christian Mawissa,Monaco,578500,True,id_map
+opta,189781,Clinton Mata,Lyon,189781,True,id_map
+opta,584863,Clément Akpa,Auxerre,584863,True,id_map
+opta,621481,Conrad Harder,Strasbourg,621481,True,id_map
+opta,168568,Corentin Tolisso,Lyon,168568,True,id_map
+opta,446090,Cristian Cásseres,Toulouse,446090,True,id_map
+opta,222862,Dame Gueye,Le Mans,222862,True,id_map
+opta,725822,Daniel Semedo,Lorient,725822,True,id_map
+opta,209049,Danny Namaso,Auxerre,209049,True,id_map
+opta,587082,Daouda Traoré,Le Mans,587082,True,id_map
+opta,664882,Daren Mosengo,Le Havre,664882,True,id_map
+opta,669615,David Boly,Paris Saint-Germain,669615,True,master
+opta,571290,David Odogu,Toulouse,571290,True,id_map
+opta,591255,Dembo Sylla,Lorient,591255,True,id_map
+opta,212701,Denis Zakaria,Monaco,212701,True,id_map
+opta,228760,Derek Cornelius,Marseille,228760,True,id_map
+opta,544821,Dermane Karim,Troyes,544821,True,id_map
+opta,550090,Diego Coppola,Paris FC,550090,True,id_map
+opta,476887,Dilane Bakwa,Lille,476887,True,id_map
+opta,569691,Diogo Sousa,Strasbourg,569691,True,id_map
+opta,606701,Djaoui Cissé,Rennes,606701,True,id_map
+opta,751514,Djelan Morana,Nice,751514,True,id_map
+opta,658332,Djibril Coulibaly,Nice,658332,True,id_map
+opta,750309,Djibril Ouziad,Le Havre,750309,True,id_map
+opta,102747,Djibril Sidibé,Le Mans,102747,True,id_map
+opta,640621,Djylian N'Guessan,Brest,640621,True,id_map
+opta,212873,Dominik Greif,Lyon,212873,True,id_map
+opta,619825,Dro Fernández,Paris Saint-Germain,619825,True,id_map
+opta,491007,Dário Essugo,Strasbourg,491007,True,id_map
+opta,570810,Désiré Doué,Paris Saint-Germain,570810,True,id_map
+opta,586257,Edan Diop,Monaco,586257,True,id_map
+opta,477192,Egil Selvik,Brest,477192,True,id_map
+opta,555929,Elias Jelert,Le Havre,555929,True,id_map
+opta,564406,Eliezer Mayenda,Rennes,564406,True,id_map
+opta,697407,Elikya Legros,Auxerre,697407,True,id_map
+opta,477724,Elye Wahi,Nice,477724,True,id_map
+opta,692877,Elías Legendre,Rennes,692877,True,id_map
+opta,109533,Emerson,Marseille,109533,True,id_map
+opta,606929,Emmanuel Biumla,Angers,606929,True,id_map
+opta,640646,Emmanuel Mbemba,Paris FC,640646,True,id_map
+opta,711491,Enzo Koffi,Le Havre,711491,True,id_map
+opta,736842,Enzo Monchatre,Brest,736842,True,id_map
+opta,668881,Enísio Carneiro,Troyes,668881,True,id_map
+opta,93264,Eric Dier,Monaco,93264,True,id_map
+opta,564992,Ernest Nuamah,Lyon,564992,True,id_map
+opta,563115,Erwan Colas,Le Mans,563115,True,id_map
+opta,468658,Estéban Lepaul,Rennes,468658,True,id_map
+opta,499450,Ethan Mbappé,Lille,499450,True,id_map
+opta,673089,Evan Mailly,Brest,673089,True,id_map
+opta,632699,Everton Pereira,Nice,632699,True,id_map
+opta,498382,Ewan Hatfout,,498382,True,id_map
+opta,576786,Fabio Baldé,Strasbourg,576786,True,id_map
+opta,201379,Fabián Ruiz,Paris Saint-Germain,201379,True,id_map
+opta,457269,Faris Moumbagna,Marseille,457269,True,id_map
+opta,459633,Felix Bacher,Lyon,459633,True,id_map
+opta,224444,Ferran Torres,Paris Saint-Germain,224444,True,id_map
+opta,508479,Filip Jörgensen,Strasbourg,508479,True,id_map
+opta,204188,Florian Sotoca,Lens,204188,True,id_map
+opta,95434,Florian Thauvin,Lens,95434,True,id_map
+opta,483078,Flávio Nazinho,Monaco,483078,True,id_map
+opta,512759,Fodé Doucouré,Le Havre,512759,True,id_map
+opta,232223,Folarin Balogun,Monaco,232223,True,id_map
+opta,515168,Franjo Ivanovic,Lens,515168,True,id_map
+opta,464984,Fredrik Oppegård,Auxerre,464984,True,id_map
+opta,449991,Félix Correia,Lille,449991,True,id_map
+opta,665234,Gabin Bernardeau,Lorient,665234,True,id_map
+opta,167455,Gauthier Gallon,Le Havre,167455,True,id_map
+opta,232182,Gauthier Hein,Nice,232182,True,id_map
+opta,141109,Gautier Lloris,Brest,141109,True,id_map
+opta,220560,Gaëtan Perrin,Lille,220560,True,id_map
+opta,591382,Genesis Antwi,Strasbourg,591382,True,id_map
+opta,88754,Geoffrey Kondogbia,Marseille,88754,True,id_map
+opta,645598,Gessime Yassine,Strasbourg,645598,True,id_map
+opta,691255,Ghianny Kodia,Strasbourg,691255,True,id_map
+opta,612865,Giovani Versini,Brest,612865,True,id_map
+opta,427420,Giovanni Reyna,Strasbourg,427420,True,id_map
+opta,500168,Gonçalo Oliveira,Rennes,500168,True,id_map
+opta,546172,Guillaume Restes,Toulouse,546172,True,id_map
+opta,664883,Guy Noël Zohouri,Le Havre,664883,True,id_map
+opta,503720,Guéla Doué,Strasbourg,503720,True,id_map
+opta,214254,Habib Diallo,Le Mans,214254,True,id_map
+opta,753673,Hakim Dongopandji,Le Havre,753673,True,id_map
+opta,174528,Hamari Traoré,Paris FC,174528,True,id_map
+opta,641036,Hamidou Makalou,Brest,641036,True,id_map
+opta,619512,Hamza Koutoune,Nice,619512,True,id_map
+opta,193411,Haris Belkebla,Angers,193411,True,id_map
+opta,225893,Harold Voyer,Le Mans,225893,True,id_map
+opta,619025,Harouna Djibirin,Angers,619025,True,id_map
+opta,684058,Henrick Do Marcolino,Rennes,684058,True,id_map
+opta,480779,Hicham Boudaoui,Nice,480779,True,id_map
+opta,193080,Hillel Konaté,,opta_new_193080,False,
+opta,462609,Himad Abdelli,Marseille,462609,True,id_map
+opta,243741,Hugo Magnetti,Brest,243741,True,id_map
+opta,554580,Hugo Picard,Troyes,554580,True,id_map
+opta,484842,Hákon Haraldsson,Lille,484842,True,id_map
+opta,652158,Ibrahim Kanté,Brest,652158,True,id_map
+opta,546613,Ibrahima Baldé,Lorient,546613,True,id_map
+opta,749560,Idrissa Soukouna,Troyes,749560,True,id_map
+opta,483320,Igor Paixão,Marseille,483320,True,id_map
+opta,511182,Ilan Kebbal,Paris FC,511182,True,id_map
+opta,633698,Ilane Touré,Monaco,633698,True,id_map
+opta,477580,Illia Zabarnyi,Paris Saint-Germain,477580,True,id_map
+opta,616245,Ilyas Azizi,Toulouse,616245,True,id_map
+opta,480469,Iron Gomis,Troyes,480469,True,id_map
+opta,669390,Isaac Cossier,Lille,669390,True,id_map
+opta,512745,Isaak Touré,Lorient,512745,True,id_map
+opta,469169,Isak Jansson,Nice,469169,True,id_map
+opta,513456,Isak Jensen,Lorient,513456,True,id_map
+opta,511975,Ismaël Doukouré,Strasbourg,511975,True,id_map
+opta,596121,Ismaëlo Ganiou,Lens,596121,True,id_map
+opta,620407,Ismaïl Bouneb,Le Havre,620407,True,id_map
+opta,664866,Ismaïl Diallo,Toulouse,664866,True,id_map
+opta,495382,Issa Soumaré,Rennes,495382,True,id_map
+opta,632701,Issiaga Camara,Nice,632701,True,id_map
+opta,448010,Jacen Russell-Rowe,Toulouse,448010,True,id_map
+opta,499360,Jacobo Ortega,Strasbourg,499360,True,id_map
+opta,564920,Jacques Ekomié,Angers,564920,True,id_map
+opta,477712,Jean Vercruysse,Le Mans,477712,True,id_map
+opta,462116,Jean-Clair Todibo,Lens,462116,True,id_map
+opta,424920,Jean-Philippe Krasso,Paris FC,424920,True,id_map
+opta,199666,Jean-Victor Makengo,Lorient,199666,True,id_map
+opta,216272,Jeffrey de Lange,Marseille,216272,True,id_map
+opta,622116,Jeyland Mitchell,Strasbourg,622116,True,id_map
+opta,473389,Jim Allevinah,Angers,473389,True,id_map
+opta,221095,Jonathan Clauss,Nice,221095,True,id_map
+opta,176501,Jonathan Gradit,Lens,176501,True,id_map
+opta,199672,Jonathan Ikoné,Paris FC,199672,True,id_map
+opta,228289,Jordan Lefort,Angers,228289,True,id_map
+opta,222695,Jordan Teze,Monaco,222695,True,id_map
+opta,477711,Joris Chotard,Brest,477711,True,id_map
+opta,633077,Joseph Kalulu,Angers,633077,True,id_map
+opta,549915,Joseph Nonge,Brest,549915,True,id_map
+opta,195480,Josh Maja,Le Havre,195480,True,id_map
+opta,509284,Josué Casimir,Auxerre,509284,True,id_map
+opta,551150,João Neves,Paris Saint-Germain,551150,True,id_map
+opta,749741,Jules Bouffandeau,Angers,749741,True,id_map
+opta,560114,Julien Duranville,Lyon,560114,True,id_map
+opta,648413,Julián Vignolo,Toulouse,648413,True,id_map
+opta,592507,Junior Diaz,Troyes,592507,True,id_map
+opta,503721,Junior Kadile,Lens,503721,True,id_map
+opta,578052,Junior Mwanga,Le Havre,578052,True,id_map
+opta,659788,Justin Bourgault,Brest,659788,True,id_map
+opta,511593,Jérémy Le Douaron,Troyes,511593,True,id_map
+opta,547866,Kaito Mizuta,Le Havre,547866,True,id_map
+opta,559827,Kamory Doumbia,Brest,559827,True,id_map
+opta,496521,Kandet Diawara,Troyes,496521,True,id_map
+opta,628995,Karim Coulibaly,Strasbourg,628995,True,id_map
+opta,632700,Kaïl Boudache,Lyon,632700,True,id_map
+opta,219274,Keito Nakamura,Lyon,219274,True,id_map
+opta,633742,Kelyann Bezahaf,Marseille,633742,True,id_map
+opta,92527,Kenny Lala,Brest,92527,True,id_map
+opta,52482,Kevin Trapp,Paris FC,52482,True,id_map
+opta,634422,Keyliane Abdallah,Marseille,634422,True,id_map
+opta,695367,Khalis Merah,Lyon,695367,True,id_map
+opta,440668,Khvicha Kvaratskhelia,Paris Saint-Germain,440668,True,id_map
+opta,634871,Kyllian Antonio,Lens,634871,True,id_map
+opta,545272,Kévin Danois,Auxerre,545272,True,id_map
+opta,725053,Lamfia Dioubaté,Auxerre,725053,True,id_map
+opta,585597,Lamine Camara,Monaco,585597,True,id_map
+opta,641810,Lamine N'Diaye,Le Havre,641810,True,id_map
+opta,552015,Lamine Sy,Auxerre,552015,True,id_map
+opta,753795,Lassana Simakha,Troyes,753795,True,id_map
+opta,445970,Lassine Sinayoko,Paris FC,445970,True,id_map
+opta,544908,Lasso Coulibaly,Auxerre,544908,True,id_map
+opta,648401,Lenny Videira,Le Mans,opta_new_648401,False,
+opta,608246,Lilian Raolisoa,Angers,608246,True,id_map
+opta,196111,Lionel Mpasi,Le Havre,196111,True,id_map
+opta,442793,Louis Mafouta,Le Mans,442793,True,id_map
+opta,565877,Louis Mouton,Angers,565877,True,id_map
+opta,621219,Loun Srdanovic,Lille,621219,True,id_map
+opta,235084,Loïs Openda,Lyon,235084,True,id_map
+opta,487702,Luca Koleosho,Paris FC,487702,True,id_map
+opta,560489,Lucas Bretelle,Le Mans,560489,True,id_map
+opta,433731,Lucas Buadés,Le Mans,433731,True,id_map
+opta,561736,Lucas Calodat,Le Mans,561736,True,id_map
+opta,101188,Lucas Digne,Paris Saint-Germain,101188,True,id_map
+opta,174888,Lucas Hernández,Paris Saint-Germain,174888,True,id_map
+opta,614167,Lucas Høgsberg,Strasbourg,614167,True,id_map
+opta,554582,Lucas Maronnier,Troyes,554582,True,id_map
+opta,203349,Lucas Tousart,Brest,203349,True,id_map
+opta,622398,Luck Zogbé,Brest,622398,True,id_map
+opta,168539,Ludovic Ajorque,Brest,168539,True,id_map
+opta,213940,Ludovic Blas,Rennes,213940,True,id_map
+opta,68675,Lukás Hrádecky,Monaco,68675,True,id_map
+opta,481405,Mads Bidstrup,Lyon,481405,True,id_map
+opta,555894,Maghnes Akliouche,Paris Saint-Germain,555894,True,id_map
+opta,442264,Mahdi Camara,Rennes,442264,True,id_map
+opta,484668,Maik Nawrocki,Lens,484668,True,id_map
+opta,549940,Malick Fofana,Lyon,549940,True,id_map
+opta,430510,Mama Baldé,Brest,430510,True,id_map
+opta,604124,Mamadou Coulibaly,Monaco,604124,True,id_map
+opta,587304,Mamadou Diop,Auxerre,587304,True,id_map
+opta,724962,Mamadou Koné,Lorient,724962,True,id_map
+opta,524040,Mamady Diambou,Brest,524040,True,id_map
+opta,723038,Mamoudou Cissokho,Auxerre,723038,True,id_map
+opta,658062,Marius Louër,Angers,658062,True,id_map
+opta,201401,Mark McKenzie,Toulouse,201401,True,id_map
+opta,116406,Marquinhos,Paris Saint-Germain,116406,True,id_map
+opta,573062,Martial Godo,Strasbourg,573062,True,master
+opta,569598,Mateo del Blanco,Strasbourg,569598,True,id_map
+opta,609640,Mathis Amougou,Toulouse,609640,True,id_map
+opta,669911,Mathis Lainé,Brest,669911,True,id_map
+opta,638416,Mathis Saka,Toulouse,638416,True,id_map
+opta,652152,Mathys Detourbet,Monaco,652152,True,id_map
+opta,620411,Mathys Niflore,Toulouse,620411,True,id_map
+opta,633103,Mathys de Carvalho,Lyon,633103,True,id_map
+opta,221987,Matthieu Udol,Lens,221987,True,id_map
+opta,503726,Matthis Abline,Monaco,503726,True,id_map
+opta,242194,Matvey Safonov,Paris Saint-Germain,242194,True,id_map
+opta,481503,Maurits Kjærgaard,Lille,481503,True,id_map
+opta,669414,Maxima Goffi,Lille,669414,True,id_map
+opta,213965,Maxime Lopez,Paris FC,213965,True,id_map
+opta,672283,Maël Gernigon,Angers,672283,True,id_map
+opta,217487,Mbwana Samatta,Le Havre,217487,True,id_map
+opta,437497,Melvin Bard,Nice,437497,True,id_map
+opta,628026,Merwan Ifnaoui,Troyes,628026,True,id_map
+opta,713719,Mezian Mesloub,Lens,713719,True,id_map
+opta,484672,Michal Skóras,Lens,484672,True,id_map
+opta,204730,Michaël Cuisance,Lens,204730,True,id_map
+opta,444880,Mika Biereth,Monaco,444880,True,id_map
+opta,568465,Mika Godts,Paris Saint-Germain,568465,True,id_map
+opta,208557,Milan Robin,Le Mans,208557,True,id_map
+opta,510136,Mohamed Abdelmonem,Nice,510136,True,id_map
+opta,624682,Mohamed Ouédraogo,Lyon,624682,True,id_map
+opta,490884,Mohamed-Ali Cho,Nice,490884,True,id_map
+opta,533339,Mohammed Amoura,Nice,533339,True,id_map
+opta,450527,Mohammed Salisu,Monaco,450527,True,id_map
+opta,422480,Montassar Talbi,Lorient,422480,True,id_map
+opta,122775,Morgan Sanson,Nice,122775,True,id_map
+opta,181441,Moses Simon,Paris FC,181441,True,id_map
+opta,550567,Mouhamed Diop,Troyes,550567,True,id_map
+opta,426342,Mousa Al Tamari,Rennes,426342,True,id_map
+opta,199170,Moussa Niakhaté,Lyon,199170,True,id_map
+opta,476404,Moustapha Mbow,Paris FC,476404,True,id_map
+opta,539135,Mário Sauer,Toulouse,539135,True,id_map
+opta,126407,Nabil Bentaleb,Lille,126407,True,id_map
+opta,466117,Naouirou Ahamada,Auxerre,466117,True,id_map
+opta,469323,Nathan Ngoumou,Nice,469323,True,id_map
+opta,538078,Nathan Ngoy,Lille,538078,True,id_map
+opta,476391,Nathaniel Adjei,Lorient,476391,True,id_map
+opta,210494,Nayef Aguerd,Marseille,210494,True,id_map
+opta,115382,Neal Maupay,Marseille,115382,True,id_map
+opta,586855,Ngal'ayel Mukau,Lille,586855,True,id_map
+opta,222388,Nicolas Kocik,,222388,True,id_map
+opta,206935,Nicolas Lemaître,Rennes,206935,True,id_map
+opta,86479,Nicolás Tagliafico,Lyon,86479,True,id_map
+opta,634897,Nidal Celik,Lens,634897,True,id_map
+opta,495542,Niels Nkounkou,Nice,495542,True,id_map
+opta,204584,Niklas Schmidt,Toulouse,204584,True,id_map
+opta,618956,Niko Sigur,Toulouse,618956,True,id_map
+opta,665236,Noa Boissé,Le Mans,665236,True,id_map
+opta,533146,Noah Cadiou,Lorient,533146,True,id_map
+opta,719331,Noah Donkor,Troyes,719331,True,id_map
+opta,628698,Noah Edjouma,Brest,628698,True,id_map
+opta,530081,Noah Mbamba,Lorient,530081,True,id_map
+opta,578610,Noah Nartey,Lyon,578610,True,id_map
+opta,669580,Noham Kamara,Lyon,669580,True,id_map
+opta,551410,Nosa Obaretin,Lorient,551410,True,id_map
+opta,633075,Nouhoum Kamissoko,Marseille,633075,True,id_map
+opta,465206,Nuno Mendes,Paris Saint-Germain,465206,True,id_map
+opta,502436,Obed Nkambadio,Paris FC,502436,True,master
+opta,199670,Odsonne Édouard,Lens,199670,True,id_map
+opta,44346,Olivier Giroud,Lille,44346,True,id_map
+opta,630700,Omar Sissoko,Paris FC,630700,True,id_map
+opta,549068,Omari Kellyman,Strasbourg,549068,True,id_map
+opta,473197,Orlando Gill,Lille,473197,True,id_map
+opta,471203,Osame Sahraoui,Lille,471203,True,id_map
+opta,637705,Oso,Strasbourg,637705,True,id_map
+opta,448093,Otávio,Paris FC,448093,True,id_map
+opta,659292,Oumar Konaté,Monaco,659292,True,id_map
+opta,512126,Ousmane Camara,Angers,512126,True,id_map
+opta,219438,Ousmane Dembélé,Paris Saint-Germain,219438,True,id_map
+opta,551976,Pablo Pagis,Paris FC,551976,True,id_map
+opta,624764,Panos Katseris,Lorient,624764,True,id_map
+opta,248667,Paolo Gozzi,Troyes,248667,True,id_map
+opta,633711,Pape Cabral,Monaco,633711,True,id_map
+opta,601946,Pape Diop,Strasbourg,601946,True,id_map
+opta,569020,Paris Brunner,Monaco,569020,True,id_map
+opta,586343,Pathé Mboup,Brest,586343,True,id_map
+opta,568146,Patrick Beach,,568146,True,id_map
+opta,683822,Patrick Zabi,Paris FC,683822,True,id_map
+opta,107098,Paul Nardi,Auxerre,107098,True,id_map
+opta,465954,Pavel Sulc,Lyon,465954,True,id_map
+opta,458297,Pierre Ekwah,Auxerre,458297,True,id_map
+opta,212325,Pierre Lees-Melou,Paris FC,212325,True,id_map
+opta,132015,Pierre-Emile Højbjerg,Marseille,132015,True,id_map
+opta,695695,Prosper Peter,Angers,695695,True,id_map
+opta,140040,Przemyslaw Frankowski,Rennes,140040,True,id_map
+opta,531003,Quentin Merlin,Rennes,531003,True,id_map
+opta,592883,Quentin Ndjantou,Paris Saint-Germain,592883,True,id_map
+opta,450063,Quinten Timber,Marseille,450063,True,id_map
+opta,656314,Rafik Messali,Toulouse,656314,True,id_map
+opta,678291,Raphaël Le Guen,Brest,678291,True,id_map
+opta,228955,Rasmus Nicolaisen,Toulouse,228955,True,id_map
+opta,490330,Rassoul Ndiaye,Le Havre,490330,True,id_map
+opta,653530,Rayan Bamba,Le Mans,653530,True,id_map
+opta,634376,Rayan Fofana,Le Havre,634376,True,id_map
+opta,645666,Rayan Mandengue,Auxerre,645666,True,id_map
+opta,519534,Raúl Torrente,Le Mans,519534,True,id_map
+opta,121150,Renaud Ripart,Troyes,121150,True,id_map
+opta,584845,Robin Risser,Lens,584845,True,id_map
+opta,219873,Romain Del Castillo,Brest,219873,True,id_map
+opta,441240,Romain Faivre,Auxerre,441240,True,id_map
+opta,244560,Romain Perraud,Lille,244560,True,id_map
+opta,115327,Ruben Aguilar,Lens,115327,True,id_map
+opta,501735,Ruben Kluivert,Lyon,501735,True,id_map
+opta,694358,Rudy Matondo,Paris FC,694358,True,id_map
+opta,640619,Rémi Himbert,Lyon,640619,True,id_map
+opta,213199,Rémy Descamps,Lyon,213199,True,id_map
+opta,592515,Rémy Labeau Lascary,Auxerre,592515,True,id_map
+opta,612589,Sadibou Sané,Monaco,612589,True,id_map
+opta,708057,Safouane Benzahra,Monaco,708057,True,id_map
+opta,750163,Salimou Danfakha,Auxerre,750163,True,id_map
+opta,499724,Sam Amo-Ameyaw,Strasbourg,499724,True,id_map
+opta,482380,Samir Chergui,Paris FC,482380,True,id_map
+opta,643307,Samir El Mourabet,Strasbourg,643307,True,id_map
+opta,757975,Samir Haribou,Lorient,757975,True,id_map
+opta,503543,Samson Baidoo,Lens,503543,True,id_map
+opta,213576,Samuel Yohou,Le Mans,213576,True,id_map
+opta,575453,Santiago Hidalgo,Toulouse,575453,True,id_map
+opta,468266,Saud Abdulhamid,Lens,468266,True,id_map
+opta,484405,Sebastian Nanasi,Strasbourg,484405,True,id_map
+opta,234516,Sebastian Szymanski,Rennes,234516,True,id_map
+opta,499448,Senny Mayulu,Paris Saint-Germain,499448,True,id_map
+opta,632582,Seny Koumbassa,Toulouse,632582,True,id_map
+opta,587583,Simon Ebonog,Le Havre,587583,True,id_map
+opta,492975,Sinaly Diomandé,Auxerre,492975,True,id_map
+opta,685398,Sion Oppong,Toulouse,685398,True,id_map
+opta,460267,Sofiane Diop,Nice,460267,True,id_map
+opta,669409,Soriba Diaoune,Lille,669409,True,id_map
+opta,685433,Sota Nakamura,Le Havre,685433,True,id_map
+opta,482432,Souleymane Faye,Lorient,482432,True,id_map
+opta,634379,Souleymane Sagnan,Lens,634379,True,id_map
+opta,584940,Srdjan Kuzmic,Lorient,584940,True,id_map
+opta,549946,Stanis Idumbo,Monaco,549946,True,id_map
+opta,627208,Sékou Fofana,Auxerre,627208,True,id_map
+opta,476888,Sékou Mara,Strasbourg,476888,True,id_map
+opta,653269,Tadjidine Mmadi,Marseille,653269,True,id_map
+opta,157882,Takumi Minamino,Monaco,157882,True,id_map
+opta,465691,Tanguy Nianzou,Lille,465691,True,id_map
+opta,426634,Tanner Tessmann,Lyon,426634,True,id_map
+opta,695285,Telli Siwe,Auxerre,695285,True,id_map
+opta,421350,Theo Bair,Auxerre,421350,True,id_map
+opta,241059,Thibault De Smet,Paris FC,241059,True,id_map
+opta,201057,Thilo Kehrer,Monaco,201057,True,id_map
+opta,592867,Thomas Jørgensen,Toulouse,592867,True,id_map
+opta,97471,Thorgan Hazard,Lens,97471,True,id_map
+opta,511500,Théo Eyoum,Le Mans,511500,True,id_map
+opta,549737,Théo Le Bris,Lorient,549737,True,id_map
+opta,588181,Tiago Santos,Lille,588181,True,id_map
+opta,659392,Tidiane Devernois,Auxerre,659392,True,id_map
+opta,215473,Timothy Weah,Marseille,215473,True,id_map
+opta,482140,Timothé Nkada,Troyes,482140,True,id_map
+opta,465702,Timothée Pembélé,Le Havre,465702,True,id_map
+opta,582399,Tochukwu Nnadi,Marseille,582399,True,id_map
+opta,440148,Tyler Morton,Lyon,440148,True,id_map
+opta,631877,Tyrese Noubissie,Strasbourg,631877,True,id_map
+opta,184943,Ulisses Garcia,Marseille,184943,True,id_map
+opta,523895,Usman Simbakoli,Angers,523895,True,id_map
+opta,193539,Valentin Rongier,Rennes,193539,True,id_map
+opta,520403,Vanderson,Monaco,520403,True,id_map
+opta,209874,Vincent Marchetti,Paris FC,209874,True,id_map
+opta,73954,Vincent Sasso,Le Havre,73954,True,id_map
+opta,437858,Vitinha,Paris Saint-Germain,437858,True,id_map
+opta,550840,Warren Zaïre-Emery,Paris Saint-Germain,550840,True,id_map
+opta,701214,William Harhouz,Le Mans,701214,True,id_map
+opta,448102,Willian Pacho,Paris Saint-Germain,448102,True,id_map
+opta,672279,Xavier Mandza,Nice,672279,True,id_map
+opta,562049,Yacine Titraoui,Lens,562049,True,id_map
+opta,749559,Yacouba Koné,Troyes,749559,True,id_map
+opta,628017,Yanis Zouaoui,Le Havre,628017,True,id_map
+opta,242893,Yann Gboho,Toulouse,242893,True,id_map
+opta,432990,Yasser Larouci,Le Mans,432990,True,id_map
+opta,574193,Yassin Belkhdim,Angers,574193,True,id_map
+opta,619081,Yaya Diémé,Strasbourg,619081,True,id_map
+opta,546199,Yoan Koré,Paris FC,546199,True,id_map
+opta,689870,Yoann Becker,Strasbourg,689870,True,id_map
+opta,758153,Youssef Khoudda,Auxerre,758153,True,id_map
+opta,420566,Youssouf Ndayishimiye,Nice,420566,True,id_map
+opta,620415,Yvann Titi,Troyes,620415,True,id_map
+opta,100952,Yvon Mvogo,Lorient,100952,True,id_map
+opta,231875,Yéhvann Diouf,Nice,231875,True,id_map
+opta,622748,Zachary Athekame,Lyon,622748,True,id_map
+opta,578498,Zoumana Diallo,Nice,578498,True,id_map
+whoscored,99143,Florian Thauvin,Lens,95434,True,id_map
+whoscored,360502,Cristian Cásseres,Toulouse,446090,True,id_map
+whoscored,431346,Lassine Sinayoko,Paris FC,445970,True,id_map
+whoscored,444816,Isaak Touré,Lorient,512745,True,id_map
+whoscored,232581,Hillel Konaté,Troyes,whoscored_new_232581,False,
+whoscored,447025,Tiago Santos,Lille,588181,True,id_map
+whoscored,499996,Zachary Athekame,Lyon,622748,True,id_map
+whoscored,234364,Ludovic Ajorque,Brest,168539,True,id_map
+whoscored,515577,Estéban Lepaul,Rennes,468658,True,id_map
+whoscored,513409,Gessime Yassine,Strasbourg,645598,True,id_map
+whoscored,71833,Anthony Lopes,Angers,59957,True,id_map
+whoscored,461465,Lionel Mpasi,Le Havre,196111,True,id_map
+whoscored,607609,Adil Bourabaa,Le Mans,729203,True,id_map
+whoscored,438897,Alexsandro,Lille,512253,True,id_map
+whoscored,348654,Amine Gouiri,Marseille,247400,True,id_map
+whoscored,539085,Abdelhamid Aït Boudlal,Rennes,619501,True,id_map
+whoscored,408033,Vanderson,Monaco,520403,True,id_map
+whoscored,383094,Dominik Greif,Lyon,212873,True,id_map
+whoscored,117973,Eric Dier,Monaco,93264,True,id_map
+whoscored,463147,Ernest Nuamah,Lyon,564992,True,id_map
+whoscored,395221,Nuno Mendes,Paris Saint-Germain,465206,True,id_map
+whoscored,399826,Illia Zabarnyi,Paris Saint-Germain,477580,True,id_map
+whoscored,384887,Vitinha,Paris Saint-Germain,437858,True,id_map
+whoscored,436553,Igor Paixão,Marseille,483320,True,id_map
+whoscored,572174,Lamine N'Diaye,Le Havre,641810,True,id_map
+whoscored,319594,Sebastian Szymanski,Rennes,234516,True,id_map
+whoscored,342857,Danny Namaso,Auxerre,209049,True,id_map
+whoscored,422186,Ilan Kebbal,Paris FC,511182,True,id_map
+whoscored,361797,Montassar Talbi,Lorient,422480,True,id_map
+whoscored,101955,Emerson,Marseille,109533,True,id_map
+whoscored,416149,Anthony Rouault,Rennes,489887,True,id_map
+whoscored,447689,Lamine Camara,Monaco,585597,True,id_map
+whoscored,231144,Valentin Rongier,Rennes,193539,True,id_map
+whoscored,101859,Pierre-Emile Højbjerg,Marseille,132015,True,id_map
+whoscored,382363,Cameron Archer,Auxerre,433979,True,id_map
+whoscored,492419,Paris Brunner,Monaco,569020,True,id_map
+whoscored,300291,Romain Del Castillo,Brest,219873,True,id_map
+whoscored,339671,Aron Dønnum,Toulouse,247417,True,id_map
+whoscored,288883,Maxime Lopez,Paris FC,213965,True,id_map
+whoscored,456795,Ismaëlo Ganiou,Lens,596121,True,id_map
+whoscored,349368,Romain Faivre,Auxerre,441240,True,id_map
+whoscored,433183,Désiré Doué,Paris Saint-Germain,570810,True,id_map
+whoscored,244560,Aleksandr Golovin,Monaco,161950,True,id_map
+whoscored,402059,Rasmus Nicolaisen,Toulouse,228955,True,id_map
+whoscored,134894,Corentin Tolisso,Lyon,168568,True,id_map
+whoscored,444755,Kévin Danois,Auxerre,545272,True,id_map
+whoscored,515492,Nathaniel Adjei,Lorient,476391,True,id_map
+whoscored,330614,Hugo Magnetti,Brest,243741,True,id_map
+whoscored,386262,Niels Nkounkou,Nice,495542,True,id_map
+whoscored,516051,Stanis Idumbo,Monaco,549946,True,id_map
+whoscored,414495,Nathan Ngoy,Lille,538078,True,id_map
+whoscored,322668,Amine Harit,Marseille,229608,True,id_map
+whoscored,364214,Clinton Mata,Lyon,189781,True,id_map
+whoscored,492430,Pathé Mboup,Brest,586343,True,id_map
+whoscored,361843,Berke Özer,Lille,424992,True,id_map
+whoscored,319888,Rémy Descamps,Lyon,213199,True,id_map
+whoscored,286443,Matthieu Udol,Lens,221987,True,id_map
+whoscored,476822,Dembo Sylla,Lorient,591255,True,id_map
+whoscored,355122,Mark McKenzie,Toulouse,201401,True,id_map
+whoscored,301869,Jonathan Clauss,Nice,221095,True,id_map
+whoscored,400646,Charlie Cresswell,Rennes,492373,True,id_map
+whoscored,101949,Marquinhos,Paris Saint-Germain,116406,True,id_map
+whoscored,426271,Casper Tengstedt,Toulouse,477682,True,id_map
+whoscored,468859,Ethan Mbappé,Lille,499450,True,id_map
+whoscored,404201,Abdallah Sima,Lens,516211,True,id_map
+whoscored,502951,Aboubakar Nagida,Rennes,634263,True,id_map
+whoscored,402130,Dilane Bakwa,Lille,476887,True,id_map
+whoscored,427362,Kamory Doumbia,Brest,559827,True,id_map
+whoscored,482583,Thomas Jørgensen,Toulouse,592867,True,id_map
+whoscored,467223,Amine Sbaï,Angers,532112,True,id_map
+whoscored,301243,Pierre Lees-Melou,Paris FC,212325,True,id_map
+whoscored,236546,Ruben Aguilar,Lens,115327,True,id_map
+whoscored,556058,Arsène Kouassi,Lorient,651819,True,id_map
+whoscored,294193,Fabián Ruiz,Paris Saint-Germain,201379,True,id_map
+whoscored,411913,Flávio Nazinho,Monaco,483078,True,id_map
+whoscored,528204,Mohamed Ouédraogo,Lyon,624682,True,id_map
+whoscored,380645,Joris Chotard,Brest,477711,True,id_map
+whoscored,511638,Joseph Kalulu,Angers,633077,True,id_map
+whoscored,353991,Timothy Weah,Marseille,215473,True,id_map
+whoscored,105198,Brice Samba,Rennes,102836,True,id_map
+whoscored,447045,Himad Abdelli,Marseille,462609,True,id_map
+whoscored,379703,Jeffrey de Lange,Marseille,216272,True,id_map
+whoscored,412171,Pavel Sulc,Lyon,465954,True,id_map
+whoscored,300634,Jean-Victor Makengo,Lorient,199666,True,id_map
+whoscored,299271,Axel Tuanzebe,Auxerre,180804,True,id_map
+whoscored,349760,Ferran Torres,Paris Saint-Germain,224444,True,id_map
+whoscored,425574,CJ Egan-Riley,Marseille,432711,True,id_map
+whoscored,113747,Adrien Thomasson,Rennes,115961,True,id_map
+whoscored,363618,Loïs Openda,Lyon,235084,True,id_map
+whoscored,429023,Lucas Calodat,Le Mans,561736,True,id_map
+whoscored,108105,Paul Nardi,Auxerre,107098,True,id_map
+whoscored,424252,Hákon Haraldsson,Lille,484842,True,id_map
+whoscored,370984,Khvicha Kvaratskhelia,Paris Saint-Germain,440668,True,id_map
+whoscored,349960,Mahdi Camara,Rennes,442264,True,id_map
+whoscored,139299,Branco van den Boomen,Angers,174969,True,id_map
+whoscored,361839,Jordan Teze,Monaco,222695,True,id_map
+whoscored,513665,Senny Mayulu,Paris Saint-Germain,499448,True,id_map
+whoscored,429683,Diego Coppola,Paris FC,550090,True,id_map
+whoscored,457103,Saud Abdulhamid,Lens,468266,True,id_map
+whoscored,431641,Louis Mafouta,Le Mans,442793,True,id_map
+whoscored,426648,Maghnes Akliouche,Paris Saint-Germain,555894,True,id_map
+whoscored,327685,Mbwana Samatta,Le Havre,217487,True,id_map
+whoscored,511551,Lucas Bretelle,Le Mans,560489,True,id_map
+whoscored,553350,Soriba Diaoune,Lille,669409,True,id_map
+whoscored,499993,Franjo Ivanovic,Lens,515168,True,id_map
+whoscored,621717,Kelyann Bezahaf,Marseille,633742,True,id_map
+whoscored,438102,Malick Fofana,Lyon,549940,True,id_map
+whoscored,432173,Ismaël Doukouré,Strasbourg,511975,True,id_map
+whoscored,236497,Adrien Monfray,Troyes,149588,True,id_map
+whoscored,432378,Willian Pacho,Paris Saint-Germain,448102,True,id_map
+whoscored,296319,Moussa Niakhaté,Lyon,199170,True,id_map
+whoscored,431667,Pablo Pagis,Paris FC,551976,True,id_map
+whoscored,444148,Edan Diop,Monaco,586257,True,id_map
+whoscored,313385,Carlens Arcus,Angers,209171,True,id_map
+whoscored,364716,Bryan Reynolds,Rennes,223353,True,id_map
+whoscored,444597,Robin Risser,Lens,584845,True,id_map
+whoscored,43415,Benjamin André,Lille,55948,True,id_map
+whoscored,517344,Jeyland Mitchell,Strasbourg,622116,True,id_map
+whoscored,407661,Elye Wahi,Nice,477724,True,id_map
+whoscored,511493,Amine El Ouazzani,Angers,501332,True,id_map
+whoscored,511559,Adama Camara,Paris FC,624926,True,id_map
+whoscored,404749,Filip Jörgensen,Strasbourg,508479,True,id_map
+whoscored,468190,Arthur Avom,Lorient,606371,True,id_map
+whoscored,377288,Ayase Ueda,Lille,451341,True,id_map
+whoscored,584953,Pape Cabral,Monaco,633711,True,id_map
+whoscored,620098,Nouhoum Kamissoko,Marseille,633075,True,id_map
+whoscored,339500,Przemyslaw Frankowski,Rennes,140040,True,id_map
+whoscored,554952,Souleymane Sagnan,Lens,634379,True,id_map
+whoscored,602817,Anis Ouzenadji,Troyes,703779,True,id_map
+whoscored,24444,Olivier Giroud,Lille,44346,True,id_map
+whoscored,494264,Panos Katseris,Lorient,624764,True,id_map
+whoscored,438654,Ousmane Camara,Angers,512126,True,id_map
+whoscored,422187,Bradley Locko,Brest,546635,True,id_map
+whoscored,137521,Nabil Bentaleb,Lille,126407,True,id_map
+whoscored,331466,Romain Perraud,Lille,244560,True,id_map
+whoscored,511597,Noah Cadiou,Lorient,533146,True,id_map
+whoscored,486033,Simon Ebonog,Le Havre,587583,True,id_map
+whoscored,64846,Lukás Hrádecky,Monaco,68675,True,id_map
+whoscored,362434,Nayef Aguerd,Marseille,210494,True,id_map
+whoscored,89925,Lucas Digne,Paris Saint-Germain,101188,True,id_map
+whoscored,484837,Niko Sigur,Toulouse,618956,True,id_map
+whoscored,512097,Antoine Mille,Troyes,444395,True,id_map
+whoscored,410457,Mads Bidstrup,Lyon,481405,True,id_map
+whoscored,405310,Raúl Torrente,Le Mans,519534,True,id_map
+whoscored,329019,Matvey Safonov,Paris Saint-Germain,242194,True,id_map
+whoscored,511679,Christ Makosso,Auxerre,620069,True,id_map
+whoscored,469372,Lamine Sy,Auxerre,552015,True,id_map
+whoscored,123253,Gautier Lloris,Brest,141109,True,id_map
+whoscored,431067,Mohamed Abdelmonem,Nice,510136,True,id_map
+whoscored,511490,Lucas Maronnier,Troyes,554582,True,id_map
+whoscored,423962,Théo Le Bris,Lorient,549737,True,id_map
+whoscored,361815,Yann Gboho,Toulouse,242893,True,id_map
+whoscored,302841,Nicolas Kocik,Le Mans,ws_302841,True,id_map
+whoscored,299513,Ousmane Dembélé,Paris Saint-Germain,219438,True,id_map
+whoscored,320834,Achraf Hakimi,Paris Saint-Germain,223760,True,id_map
+whoscored,465388,João Neves,Paris Saint-Germain,551150,True,id_map
+whoscored,274934,Florian Sotoca,Lens,204188,True,id_map
+whoscored,534281,Felix Bacher,Lyon,459633,True,id_map
+whoscored,389087,Giovanni Reyna,Strasbourg,427420,True,id_map
+whoscored,431045,Mohammed Amoura,Nice,533339,True,id_map
+whoscored,300705,Lucas Tousart,Brest,203349,True,id_map
+whoscored,399608,Ahmed Touba,Le Havre,240864,True,id_map
+whoscored,525757,Rafik Messali,Toulouse,656314,True,id_map
+whoscored,319767,Yéhvann Diouf,Nice,231875,True,id_map
+whoscored,345396,Mama Baldé,Brest,430510,True,id_map
+whoscored,103542,Yvon Mvogo,Lorient,100952,True,id_map
+whoscored,468899,Guillaume Restes,Toulouse,546172,True,id_map
+whoscored,362357,Mohammed Salisu,Monaco,450527,True,id_map
+whoscored,635418,Christ Tapé,Toulouse,659285,True,id_map
+whoscored,462099,Mika Godts,Paris Saint-Germain,568465,True,id_map
+whoscored,377583,Hicham Boudaoui,Nice,480779,True,id_map
+whoscored,438959,Luca Koleosho,Paris FC,487702,True,id_map
+whoscored,575108,Khalis Merah,Lyon,695367,True,id_map
+whoscored,361284,Sofiane Diop,Nice,460267,True,id_map
+whoscored,641142,Xavier Mandza,Nice,672279,True,id_map
+whoscored,372297,Egil Selvik,Brest,477192,True,id_map
+whoscored,455515,Amir Richardson,Le Havre,538786,True,id_map
+whoscored,91978,Geoffrey Kondogbia,Marseille,88754,True,id_map
+whoscored,365122,Boulaye Dia,Rennes,468488,True,id_map
+whoscored,66424,Kevin Trapp,Paris FC,52482,True,id_map
+whoscored,425234,Sebastian Nanasi,Strasbourg,484405,True,id_map
+whoscored,467216,Mamadou Diop,Auxerre,587304,True,id_map
+whoscored,252419,Denis Zakaria,Monaco,212701,True,id_map
+whoscored,236553,Haris Belkebla,Angers,193411,True,id_map
+whoscored,414249,Matthis Abline,Monaco,503726,True,id_map
+whoscored,649901,Hakim Dongopandji,Le Havre,753673,True,id_map
+whoscored,83809,Nicolás Tagliafico,Lyon,86479,True,id_map
+whoscored,414601,Noah Mbamba,Lorient,530081,True,id_map
+whoscored,493103,Sadibou Sané,Monaco,612589,True,id_map
+whoscored,455470,Rémy Labeau Lascary,Auxerre,592515,True,id_map
+whoscored,511064,Oso,Strasbourg,637705,True,id_map
+whoscored,438655,Samir Chergui,Paris FC,482380,True,id_map
+whoscored,471064,Lilian Raolisoa,Angers,608246,True,id_map
+whoscored,602813,Merwan Ifnaoui,Troyes,628026,True,id_map
+whoscored,462111,Pape Diop,Strasbourg,601946,True,id_map
+whoscored,548299,Raphaël Le Guen,Brest,678291,True,id_map
+whoscored,602812,Yvann Titi,Troyes,620415,True,id_map
+whoscored,482049,Mamadou Coulibaly,Monaco,604124,True,id_map
+whoscored,105151,Kenny Lala,Brest,92527,True,id_map
+whoscored,402207,Otávio,Paris FC,448093,True,id_map
+whoscored,468938,Ngal'ayel Mukau,Lille,586855,True,id_map
+whoscored,575106,Maxima Goffi,Lille,669414,True,id_map
+whoscored,383816,Mousa Al Tamari,Rennes,426342,True,id_map
+whoscored,391542,Youssouf Ndayishimiye,Nice,420566,True,id_map
+whoscored,313693,Alec Georgen,Lorient,199663,True,id_map
+whoscored,547554,Gabin Bernardeau,Lorient,665234,True,id_map
+whoscored,457785,Yacine Titraoui,Lens,562049,True,id_map
+whoscored,299562,Ludovic Blas,Rennes,213940,True,id_map
+whoscored,439236,Jacen Russell-Rowe,Toulouse,448010,True,id_map
+whoscored,438297,Dermane Karim,Troyes,544821,True,id_map
+whoscored,275036,Nicolas Lemaître,Rennes,206935,True,id_map
+whoscored,139186,Lucas Hernández,Paris Saint-Germain,174888,True,id_map
+whoscored,403097,Fredrik Oppegård,Auxerre,464984,True,id_map
+whoscored,645115,Djibril Ouziad,Le Havre,750309,True,id_map
+whoscored,289018,Hamari Traoré,Paris FC,174528,True,id_map
+whoscored,538927,Andrija Bulatovic,Lens,622024,True,id_map
+whoscored,401354,Michal Skóras,Lens,484672,True,id_map
+whoscored,482895,Sam Amo-Ameyaw,Strasbourg,499724,True,id_map
+whoscored,438951,Julien Duranville,Lyon,560114,True,id_map
+whoscored,430710,Jacques Ekomié,Angers,564920,True,id_map
+whoscored,536415,Daren Mosengo,Le Havre,664882,True,id_map
+whoscored,422188,Jim Allevinah,Angers,473389,True,id_map
+whoscored,412831,Félix Correia,Lille,449991,True,id_map
+whoscored,422864,Issa Soumaré,Rennes,495382,True,id_map
+whoscored,423273,Maik Nawrocki,Lens,484668,True,id_map
+whoscored,555021,Genesis Antwi,Strasbourg,591382,True,id_map
+whoscored,296372,Habib Diallo,Le Mans,214254,True,id_map
+whoscored,541331,Kyllian Antonio,Lens,634871,True,id_map
+whoscored,511492,Hugo Picard,Troyes,554580,True,id_map
+whoscored,411914,Dário Essugo,Strasbourg,491007,True,id_map
+whoscored,322671,Gauthier Hein,Nice,232182,True,id_map
+whoscored,440085,Beraldo,Paris Saint-Germain,534317,True,id_map
+whoscored,344198,Michaël Cuisance,Lens,204730,True,id_map
+whoscored,511225,Luck Zogbé,Brest,622398,True,id_map
+whoscored,372889,Alexandre Lauray,Le Mans,482549,True,id_map
+whoscored,566483,Tochukwu Nnadi,Marseille,582399,True,id_map
+whoscored,642119,Sion Oppong,Toulouse,685398,True,id_map
+whoscored,25191,Axel Witsel,Nice,41189,True,id_map
+whoscored,570092,Sota Nakamura,Le Havre,685433,True,id_map
+whoscored,101537,Thorgan Hazard,Lens,97471,True,id_map
+whoscored,605076,Mamadou Koné,Lorient,724962,True,id_map
+whoscored,444679,Warren Zaïre-Emery,Paris Saint-Germain,550840,True,id_map
+whoscored,497764,Diogo Sousa,Strasbourg,569691,True,id_map
+whoscored,289331,Vincent Marchetti,Paris FC,209874,True,id_map
+whoscored,584098,Enzo Koffi,Le Havre,711491,True,id_map
+whoscored,422891,Kaito Mizuta,Le Havre,547866,True,id_map
+whoscored,325156,Josh Maja,Le Havre,195480,True,id_map
+whoscored,424805,Maurits Kjærgaard,Lille,481503,True,id_map
+whoscored,425568,Tyler Morton,Lyon,440148,True,id_map
+whoscored,559360,Prosper Peter,Angers,695695,True,id_map
+whoscored,540684,Orlando Gill,Lille,473197,True,id_map
+whoscored,559897,Ilyas Azizi,Toulouse,616245,True,id_map
+whoscored,361890,Jordan Lefort,Angers,228289,True,id_map
+whoscored,399773,Timothée Pembélé,Le Havre,465702,True,id_map
+whoscored,379228,Abner Vinícius,Lyon,475344,True,id_map
+whoscored,513551,Rayan Mandengue,Auxerre,645666,True,id_map
+whoscored,296246,Samuel Yohou,Le Mans,213576,True,id_map
+whoscored,303292,Dame Gueye,Le Mans,222862,True,id_map
+whoscored,236552,Jonathan Gradit,Lens,176501,True,id_map
+whoscored,232582,Renaud Ripart,Troyes,121150,True,id_map
+whoscored,520975,Rayan Bamba,Le Mans,653530,True,id_map
+whoscored,538807,Conrad Harder,Strasbourg,621481,True,id_map
+whoscored,382492,Tanguy Nianzou,Lille,465691,True,id_map
+whoscored,399003,Fodé Doucouré,Le Havre,512759,True,id_map
+whoscored,262838,Takumi Minamino,Monaco,157882,True,id_map
+whoscored,338497,Angel Gomes,Marseille,209041,True,id_map
+whoscored,457079,Ayumu Seko,Le Havre,219268,True,id_map
+whoscored,302333,Antoine Rabillard,Le Mans,221456,True,id_map
+whoscored,532237,Basar Önal,Lille,574035,True,id_map
+whoscored,372824,Paolo Gozzi,Troyes,248667,True,id_map
+whoscored,549160,Djibril Coulibaly,Nice,658332,True,id_map
+whoscored,363569,Lucas Buadés,Le Mans,433731,True,id_map
+whoscored,605151,Ilane Touré,Monaco,633698,True,id_map
+whoscored,554519,Rayan Fofana,Le Havre,634376,True,id_map
+whoscored,464921,Isak Jensen,Lorient,513456,True,id_map
+whoscored,578793,Julián Vignolo,Toulouse,648413,True,id_map
+whoscored,560493,Quentin Ndjantou,Paris Saint-Germain,592883,True,master
+whoscored,120590,Vincent Sasso,Le Havre,73954,True,id_map
+whoscored,438661,Rassoul Ndiaye,Le Havre,490330,True,id_map
+whoscored,10454,Djibril Sidibé,Le Mans,102747,True,id_map
+whoscored,455459,Junior Diaz,Troyes,592507,True,id_map
+whoscored,428532,Ibrahima Baldé,Lorient,546613,True,id_map
+whoscored,398398,Jérémy Le Douaron,Troyes,511593,True,id_map
+whoscored,513547,Kaïl Boudache,Lyon,632700,True,id_map
+whoscored,511380,Clément Akpa,Auxerre,584863,True,id_map
+whoscored,425916,Mamady Diambou,Brest,524040,True,id_map
+whoscored,641375,Jacobo Ortega,Strasbourg,499360,True,id_map
+whoscored,541108,Isaac Cossier,Lille,669390,True,id_map
+whoscored,549006,Mathys Detourbet,Monaco,652152,True,id_map
+whoscored,538873,Noah Nartey,Lyon,578610,True,id_map
+whoscored,443655,Elias Jelert,Le Havre,555929,True,id_map
+whoscored,572375,Dro Fernández,Paris Saint-Germain,619825,True,id_map
+whoscored,547547,Harold Voyer,Le Mans,225893,True,id_map
+whoscored,469506,Emmanuel Biumla,Angers,606929,True,id_map
+whoscored,535185,Ibrahim Kanté,Brest,652158,True,id_map
+whoscored,574367,Alexis Vossah,Toulouse,616227,True,id_map
+whoscored,531773,Lasso Coulibaly,Auxerre,544908,True,id_map
+whoscored,328265,Niklas Schmidt,Toulouse,204584,True,id_map
+whoscored,499785,Souleymane Faye,Lorient,482432,True,id_map
+whoscored,393096,Tanner Tessmann,Lyon,426634,True,id_map
+whoscored,399490,Andrew Omobamidele,Strasbourg,466404,True,id_map
+whoscored,547546,Noa Boissé,Le Mans,665236,True,id_map
+whoscored,409440,Naouirou Ahamada,Auxerre,466117,True,id_map
+whoscored,366886,Osame Sahraoui,Lille,471203,True,id_map
+whoscored,558190,Mathys de Carvalho,Lyon,633103,True,id_map
+whoscored,497721,Nosa Obaretin,Lorient,551410,True,id_map
+whoscored,523964,Keyliane Abdallah,Marseille,634422,True,id_map
+whoscored,591723,Harouna Djibirin,Angers,619025,True,id_map
+whoscored,487109,Kandet Diawara,Troyes,496521,True,id_map
+whoscored,301326,Gaëtan Perrin,Lille,220560,True,id_map
+whoscored,317504,Odsonne Édouard,Lens,199670,True,id_map
+whoscored,546936,Everton Pereira,Nice,632699,True,id_map
+whoscored,468829,Djaoui Cissé,Rennes,606701,True,id_map
+whoscored,422192,Alidu Seidu,Nice,511344,True,id_map
+whoscored,202185,Moses Simon,Paris FC,181441,True,id_map
+whoscored,547375,Jean Vercruysse,Le Mans,477712,True,id_map
+whoscored,416242,Moustapha Mbow,Paris FC,476404,True,id_map
+whoscored,494670,Eliezer Mayenda,Rennes,564406,True,id_map
+whoscored,298837,Amadou Haidara,Lens,218244,True,id_map
+whoscored,512414,Ismaïl Bouneb,Le Havre,620407,True,id_map
+whoscored,454749,Martial Godo,Strasbourg,573062,True,master
+whoscored,602708,William Harhouz,Le Mans,701214,True,id_map
+whoscored,361710,Jean-Clair Todibo,Lens,462116,True,id_map
+whoscored,443871,Mouhamed Diop,Troyes,550567,True,id_map
+whoscored,372721,Timothé Nkada,Troyes,482140,True,id_map
+whoscored,389064,Melvin Bard,Nice,437497,True,id_map
+whoscored,434710,Yassin Belkhdim,Angers,574193,True,id_map
+whoscored,475137,Giovani Versini,Brest,612865,True,id_map
+whoscored,467303,Obed Nkambadio,Paris FC,502436,True,master
+whoscored,371549,Iron Gomis,Troyes,480469,True,id_map
+whoscored,577894,Elikya Legros,Auxerre,697407,True,id_map
+whoscored,411087,Quentin Merlin,Rennes,531003,True,id_map
+whoscored,454321,Samson Baidoo,Lens,503543,True,id_map
+whoscored,437775,Junior Mwanga,Le Havre,578052,True,id_map
+whoscored,386971,Yasser Larouci,Le Mans,432990,True,id_map
+whoscored,485928,Arthur Piedfort,Auxerre,549914,True,id_map
+whoscored,642597,Anis Soubeir,Monaco,722369,True,id_map
+whoscored,362801,Billal Brahimi,Le Mans,437670,True,id_map
+whoscored,486042,Josué Casimir,Auxerre,509284,True,id_map
+whoscored,382234,Ansu Fati,Monaco,465607,True,id_map
+whoscored,408914,Usman Simbakoli,Angers,523895,True,id_map
+whoscored,547548,Théo Eyoum,Le Mans,511500,True,id_map
+whoscored,619609,Bané Diatta,Angers,737638,True,id_map
+whoscored,557883,Rudy Matondo,Paris FC,694358,True,id_map
+whoscored,604989,Mathis Lainé,Brest,669911,True,id_map
+whoscored,371029,Derek Cornelius,Marseille,228760,True,id_map
+whoscored,432217,Junior Kadile,Lens,503721,True,id_map
+whoscored,550549,Patrick Zabi,Paris FC,683822,True,id_map
+whoscored,469984,Daouda Traoré,Le Mans,587082,True,id_map
+whoscored,638607,Emmanuel Mbemba,Paris FC,640646,True,id_map
+whoscored,271086,Calvin Verdonk,Lille,180182,True,id_map
+whoscored,414501,Ruben Kluivert,Lyon,501735,True,id_map
+whoscored,468853,Joseph Nonge,Brest,549915,True,id_map
+whoscored,644960,Aboulaye Camara,Nice,750207,True,id_map
+whoscored,536414,Guy Noël Zohouri,Le Havre,664883,True,id_map
+whoscored,367207,Alexandre Phliponeau,Troyes,471437,True,id_map
+whoscored,395595,Faris Moumbagna,Marseille,457269,True,id_map
+whoscored,622003,Mezian Mesloub,Lens,713719,True,id_map
+whoscored,255167,Thilo Kehrer,Monaco,201057,True,id_map
+whoscored,415277,Antoine Mendy,Nice,538452,True,id_map
+whoscored,621852,Yaya Diémé,Strasbourg,619081,True,id_map
+whoscored,430909,Mika Biereth,Monaco,444880,True,id_map
+whoscored,437747,Santiago Hidalgo,Toulouse,575453,True,id_map
+whoscored,532224,Yanis Zouaoui,Le Havre,628017,True,id_map
+whoscored,328433,Thibault De Smet,Paris FC,241059,True,id_map
+whoscored,547433,Ismaïl Diallo,Toulouse,664866,True,id_map
+whoscored,555179,Lucas Høgsberg,Strasbourg,614167,True,id_map
+whoscored,396585,Jean-Philippe Krasso,Paris FC,424920,True,id_map
+whoscored,602815,Noah Donkor,Troyes,719331,True,id_map
+whoscored,456749,Christian Mawissa,Monaco,578500,True,id_map
+whoscored,575110,Rémi Himbert,Lyon,640619,True,id_map
+whoscored,535020,Fabio Baldé,Strasbourg,576786,True,id_map
+whoscored,431302,Louis Mouton,Angers,565877,True,id_map
+whoscored,499186,Srdjan Kuzmic,Lorient,whoscored_new_499186,False,
+whoscored,511557,Omar Sissoko,Paris FC,630700,True,id_map
+whoscored,397366,Sinaly Diomandé,Auxerre,492975,True,id_map
+whoscored,470779,Erwan Colas,Le Mans,563115,True,id_map
+whoscored,428531,Omari Kellyman,Strasbourg,whoscored_new_428531,False,
+whoscored,388499,Ewan Hatfout,Le Mans,ws_388499,True,id_map
+whoscored,496170,Noah Edjouma,Brest,628698,True,id_map
+whoscored,574364,Seny Koumbassa,Toulouse,632582,True,id_map
+whoscored,604987,Maël Gernigon,Angers,672283,True,id_map
+whoscored,598152,Tadjidine Mmadi,Marseille,653269,True,id_map
+whoscored,554472,Karim Coulibaly,Strasbourg,628995,True,id_map
+whoscored,539650,Aristide Zossou,Auxerre,669341,True,id_map
+whoscored,431184,Pierre Ekwah,Auxerre,458297,True,id_map
+whoscored,575454,Hamza Koutoune,Nice,619512,True,id_map
+whoscored,149348,Ulisses Garcia,Marseille,184943,True,id_map
+whoscored,119822,Neal Maupay,Marseille,115382,True,id_map
+whoscored,384065,Folarin Balogun,Monaco,232223,True,id_map
+whoscored,232278,Ali Abdi,Nice,245485,True,id_map
+whoscored,549576,Djylian N'Guessan,Brest,640621,True,id_map
+whoscored,423356,Axel Camblan,Brest,548831,True,id_map
+whoscored,605419,Angel Yondjo,Lille,whoscored_new_605419,False,
+whoscored,514544,Anthony Bermont,Angers,634346,True,id_map
+whoscored,551153,Justin Bourgault,Brest,659788,True,id_map
+whoscored,115508,Morgan Sanson,Nice,122775,True,id_map
+whoscored,402855,Sékou Mara,Strasbourg,476888,True,id_map
+whoscored,405227,Aiyegun Tosin,Lorient,250182,True,id_map
+whoscored,605150,Lamfia Dioubaté,Auxerre,725053,True,id_map
+whoscored,550830,Henrick Do Marcolino,Rennes,684058,True,id_map
+whoscored,644957,Yacouba Koné,Troyes,749559,True,id_map
+whoscored,407884,Isak Jansson,Nice,469169,True,id_map
+whoscored,411078,Quinten Timber,Marseille,450063,True,id_map
+whoscored,552235,Zoumana Diallo,Nice,578498,True,id_map
+whoscored,375341,Nathan Ngoumou,Nice,469323,True,id_map
+whoscored,234371,Gauthier Gallon,Le Havre,167455,True,id_map
+whoscored,599694,Patrick Beach,Troyes,ws_599694,True,id_map
+whoscored,379700,Keito Nakamura,Lyon,219274,True,id_map
+whoscored,547569,Milan Robin,Le Mans,208557,True,id_map
+whoscored,399014,Mohamed-Ali Cho,Nice,490884,True,id_map
+whoscored,322094,Jonathan Ikoné,Paris FC,199672,True,id_map
+whoscored,531677,Mathis Saka,Toulouse,638416,True,id_map
+whoscored,648498,Djelan Morana,Nice,751514,True,id_map
+whoscored,655209,Youssef Khoudda,Auxerre,758153,True,id_map
+whoscored,605071,Christ Batola,Troyes,672304,True,id_map
+whoscored,432471,Mateo del Blanco,Strasbourg,569598,True,id_map
+whoscored,374853,Theo Bair,Auxerre,421350,True,id_map
+whoscored,642598,Oumar Konaté,Monaco,659292,True,id_map
+whoscored,642596,Safouane Benzahra,Monaco,708057,True,id_map
+whoscored,512740,Samir El Mourabet,Strasbourg,643307,True,id_map
+whoscored,328288,Arnaud Nordin,Rennes,235050,True,id_map
+whoscored,542892,Marius Louër,Angers,658062,True,id_map
+whoscored,542894,Mathys Niflore,Toulouse,620411,True,id_map
+whoscored,447449,Guéla Doué,Strasbourg,503720,True,id_map
+fotmob,46469,Olivier Giroud,Lille,44346,True,id_map
+fotmob,167035,Anthony Lopes,Angers,59957,True,id_map
+fotmob,492116,Jordan Lefort,Angers,228289,True,id_map
+fotmob,500520,Nabil Bentaleb,Lille,126407,True,id_map
+fotmob,505059,Branco van den Boomen,Angers,174969,True,id_map
+fotmob,622137,Calvin Verdonk,Lille,180182,True,id_map
+fotmob,634110,Carlens Arcus,Angers,209171,True,id_map
+fotmob,708435,Gaëtan Perrin,Lille,220560,True,id_map
+fotmob,815465,Romain Perraud,Lille,244560,True,id_map
+fotmob,815912,Berke Özer,Lille,424992,True,id_map
+fotmob,841705,Arnaud Bodart,Le Havre,422215,True,id_map
+fotmob,942358,Félix Correia,Lille,449991,True,id_map
+fotmob,988160,Osame Sahraoui,Lille,471203,True,id_map
+fotmob,1011026,Jim Allevinah,Angers,473389,True,id_map
+fotmob,1044470,Hákon Arnar Haraldsson,Lille,484842,True,id_map
+fotmob,1123505,Amine El Ouazzani,Angers,501332,True,id_map
+fotmob,1169692,Usman Simbakoli,Angers,523895,True,id_map
+fotmob,1177482,Melvin Zinga,Angers,476882,True,id_map
+fotmob,1178325,Ousmane Camara,Angers,512126,True,id_map
+fotmob,1186553,Alexsandro Ribeiro,Lille,512253,True,id_map
+fotmob,1242587,Amine Sbaï,Angers,532112,True,id_map
+fotmob,1252070,Nathan Ngoy,Lille,538078,True,id_map
+fotmob,1327156,Jacques Ekomié,Angers,564920,True,id_map
+fotmob,1347229,Başar Önal,Lille,574035,True,id_map
+fotmob,1347791,Yassin Belkhdim,Angers,574193,True,id_map
+fotmob,1397857,Tiago Santos,Lille,588181,True,id_map
+fotmob,1426809,Ethan Mbappé,Lille,499450,True,id_map
+fotmob,1428153,Ngal Ayel Mukau,Lille,586855,True,id_map
+fotmob,1428420,Emmanuel Biumla,Angers,606929,True,id_map
+fotmob,1431818,Lilian Rao-Lisoa,Angers,608246,True,id_map
+fotmob,1573544,Anthony Bermont,Angers,634346,True,id_map
+fotmob,1603990,Noah Edjouma,Brest,628698,True,id_map
+fotmob,1610106,Joseph Kalulu,Angers,633077,True,id_map
+fotmob,1660370,Loun Srdanovic,Lille,621219,True,id_map
+fotmob,1680590,Isaac Cossier,Lille,669390,True,id_map
+fotmob,1684579,Soriba Diaoune,Lille,669409,True,id_map
+fotmob,1748405,Prosper Peter,Angers,695695,True,id_map
+fotmob,1832893,Harouna Djibirin,Angers,619025,True,id_map
+fotmob,1946407,Mael Gernigon,Angers,672283,True,id_map
+fotmob,1958964,Bane Diatta,Angers,737638,True,id_map
+fotmob,66757,Lukás Hrádecky,Monaco,68675,True,id_map
+fotmob,210443,Vincent Sasso,Le Havre,73954,True,id_map
+fotmob,361315,Eric Dier,Monaco,93264,True,id_map
+fotmob,437329,Mbwana Samatta,Le Havre,217487,True,id_map
+fotmob,466436,Mory Diaw,Le Havre,176357,True,id_map
+fotmob,586388,Aleksandr Golovin,Monaco,161950,True,id_map
+fotmob,598355,Denis Zakaria,Monaco,212701,True,id_map
+fotmob,604088,Thilo Kehrer,Monaco,201057,True,id_map
+fotmob,791805,Josh Maja,Le Havre,195480,True,id_map
+fotmob,857120,Ayumu Seko,Le Havre,219268,True,id_map
+fotmob,872934,Philipp Köhn,Monaco,428266,True,id_map
+fotmob,912286,Lionel Mpasi-Nzau,Le Havre,196111,True,id_map
+fotmob,1072117,Kaito Mizuta,Le Havre,547866,True,id_map
+fotmob,1073905,Rassoul Ndiaye,Le Havre,490330,True,id_map
+fotmob,1098243,Yanis Zouaoui,Le Havre,628017,True,id_map
+fotmob,1108603,Timothée Pembélé,Le Havre,465702,True,id_map
+fotmob,1113809,Mika Biereth,Monaco,444880,True,id_map
+fotmob,1180696,Fodé Doucouré,Le Havre,512759,True,id_map
+fotmob,1207992,Vanderson,Monaco,520403,True,id_map
+fotmob,1239590,Flávio Nazinho,Monaco,483078,True,id_map
+fotmob,1255860,Amir Richardson,Le Havre,538786,True,id_map
+fotmob,1305787,Elias Jelert,Le Havre,555929,True,id_map
+fotmob,1362622,Junior Mwanga,Le Havre,578052,True,id_map
+fotmob,1366936,Stanis Idumbo,Monaco,549946,True,id_map
+fotmob,1412956,Paris Brunner,Monaco,569020,True,id_map
+fotmob,1436305,Lamine Camara,Monaco,585597,True,id_map
+fotmob,1469758,Simon Ebonog,Le Havre,587583,True,id_map
+fotmob,1487952,Ismaïl Bouneb,Le Havre,620407,True,id_map
+fotmob,1523208,Sadibou Sané,Monaco,612589,True,id_map
+fotmob,1524548,Mamadou Coulibaly,Monaco,604124,True,id_map
+fotmob,1651122,Oumar Konaté,Monaco,659292,True,id_map
+fotmob,1667649,Daren Mosengo,Le Havre,664882,True,id_map
+fotmob,1709473,Mathys Detourbet,Monaco,652152,True,id_map
+fotmob,1714197,Sota Nakamura,Le Havre,685433,True,id_map
+fotmob,1791739,Pape Cabral,Monaco,633711,True,id_map
+fotmob,1815791,Ilane Touré,Monaco,633698,True,id_map
+fotmob,1816726,Enzo Koffi,Le Havre,711491,True,id_map
+fotmob,1845327,Safouane Benzahra,Monaco,708057,True,id_map
+fotmob,2130847,Anis Soubeir,Monaco,722369,True,id_map
+fotmob,2156004,Djibril Ouziad,Le Havre,750309,True,id_map
+fotmob,242156,Djibril Sidibé,Le Mans,102747,True,id_map
+fotmob,279461,Kenny Lala,Brest,92527,True,id_map
+fotmob,420731,Gautier Lloris,Brest,141109,True,id_map
+fotmob,471153,Ludovic Ajorque,Brest,168539,True,id_map
+fotmob,541933,Mama Baldé,Brest,430510,True,id_map
+fotmob,612277,Lucas Tousart,Brest,203349,True,id_map
+fotmob,631757,Egil Selvik,Brest,477192,True,id_map
+fotmob,696263,Romain Del Castillo,Brest,219873,True,id_map
+fotmob,717270,Antoine Rabillard,Le Mans,221456,True,id_map
+fotmob,722531,Nicolas Kocik,Le Mans,ws_302841,True,id_map
+fotmob,725256,Dame Gueye,Le Mans,222862,True,id_map
+fotmob,807955,Louis Mafouta,Le Mans,442793,True,id_map
+fotmob,820010,Romain Cagnon,Brest,fm_820010,True,id_map
+fotmob,874319,Lucas Buadés,Le Mans,433731,True,id_map
+fotmob,961770,Billal Brahimi,Le Mans,437670,True,id_map
+fotmob,1039807,Alexandre Lauray,Le Mans,482549,True,id_map
+fotmob,1068902,Yasser Larouci,Le Mans,432990,True,id_map
+fotmob,1079548,Joris Chotard,Brest,477711,True,id_map
+fotmob,1114371,Ewan Hatfout,Le Mans,ws_388499,True,id_map
+fotmob,1202891,Raúl Torrente,Le Mans,519534,True,id_map
+fotmob,1231909,Mamady Diambou,Brest,524040,True,id_map
+fotmob,1285784,Bradley Locko,Brest,546635,True,id_map
+fotmob,1289641,Axel Camblan,Brest,548831,True,id_map
+fotmob,1310270,Kamory Doumbia,Brest,559827,True,id_map
+fotmob,1317318,Lucas Calodat,Le Mans,561736,True,id_map
+fotmob,1359270,Milan Robin,Le Mans,208557,True,id_map
+fotmob,1420942,Théo Eyoum,Le Mans,511500,True,id_map
+fotmob,1427018,Joseph Boende,Brest,fm_1427018,True,id_map
+fotmob,1438609,Erwan Colas,Le Mans,563115,True,id_map
+fotmob,1514456,Pathé Mboup,Brest,586343,True,id_map
+fotmob,1523312,Lucas Bretelle,Le Mans,560489,True,id_map
+fotmob,1581744,Hamidou Makalou,Brest,641036,True,id_map
+fotmob,1592417,Luck Zogbé,Brest,622398,True,id_map
+fotmob,1632788,Rayan Bamba,Le Mans,653530,True,id_map
+fotmob,1668295,Noa Boissé,Le Mans,665236,True,id_map
+fotmob,1699556,Raphaël Le Guen,Brest,678291,True,id_map
+fotmob,1791882,William Harhouz,Le Mans,701214,True,id_map
+fotmob,1827757,Evan Mailly,Brest,673089,True,id_map
+fotmob,1900516,Adil Bourabaa,Le Mans,729203,True,id_map
+fotmob,2155246,Mathis Laine,Brest,669911,True,id_map
+fotmob,186811,Mathieu Gorgelin,Lens,59956,True,id_map
+fotmob,254308,Florian Thauvin,Lens,95434,True,id_map
+fotmob,264190,Thorgan Hazard,Lens,97471,True,id_map
+fotmob,291643,Paul Nardi,Auxerre,107098,True,id_map
+fotmob,612699,Florian Sotoca,Lens,204188,True,id_map
+fotmob,637746,Odsonne Édouard,Lens,199670,True,id_map
+fotmob,660326,Matthieu Udol,Lens,221987,True,id_map
+fotmob,688830,Amadou Haidara,Lens,218244,True,id_map
+fotmob,817724,Danny Namaso,Auxerre,209049,True,id_map
+fotmob,861445,Michaël Cuisance,Lens,204730,True,id_map
+fotmob,904021,Romain Faivre,Auxerre,441240,True,id_map
+fotmob,954190,Michał Skóras,Lens,484672,True,id_map
+fotmob,1002617,Saud Abdulhamid,Lens,468266,True,id_map
+fotmob,1053713,Maik Nawrocki,Lens,484668,True,id_map
+fotmob,1133081,Sinaly Diomandé,Auxerre,492975,True,id_map
+fotmob,1189856,Abdallah Sima,Lens,516211,True,id_map
+fotmob,1192854,Naouirou Ahamada,Auxerre,466117,True,id_map
+fotmob,1199382,Josué Casimir,Auxerre,509284,True,id_map
+fotmob,1203189,Fredrik Oppegård,Auxerre,464984,True,id_map
+fotmob,1276685,Lasso Coulibaly,Auxerre,544908,True,id_map
+fotmob,1288907,Yacine Titraoui,Lens,562049,True,id_map
+fotmob,1305543,Kévin Danois,Auxerre,545272,True,id_map
+fotmob,1334805,Lamine Sy,Auxerre,552015,True,id_map
+fotmob,1387237,Mamadou Diop,Auxerre,587304,True,id_map
+fotmob,1388678,Clément Akpa,Auxerre,584863,True,id_map
+fotmob,1390336,Robin Risser,Lens,584845,True,id_map
+fotmob,1406419,Franjo Ivanović,Lens,515168,True,id_map
+fotmob,1406645,Ismaëlo Ganiou,Lens,596121,True,id_map
+fotmob,1441582,Arthur Piedfort,Auxerre,549914,True,id_map
+fotmob,1474555,Christ Makosso,Auxerre,620069,True,id_map
+fotmob,1586559,Rayan Fofana,Le Havre,634376,True,id_map
+fotmob,1634789,Andrija Bulatović,Lens,622024,True,id_map
+fotmob,1679978,Aristide Zossou,Auxerre,669341,True,id_map
+fotmob,1690114,Elikya Legros,Auxerre,697407,True,id_map
+fotmob,1727044,Souleymane Sagnan,Lens,634379,True,id_map
+fotmob,1810011,Rayan Mandengue,Auxerre,645666,True,id_map
+fotmob,1813437,Tidiane Devernois,Auxerre,659392,True,id_map
+fotmob,1980586,Mezian Soares,Lens,713719,True,id_map
+fotmob,1988951,Lamfia Dioubate,Auxerre,725053,True,id_map
+fotmob,2155074,Salimou Danfakha,Auxerre,750163,True,id_map
+fotmob,214972,Geoffrey Kondogbia,Marseille,88754,True,id_map
+fotmob,266523,Pierre-Emile Højbjerg,Marseille,132015,True,id_map
+fotmob,267371,Emerson,Marseille,109533,True,id_map
+fotmob,391064,Neal Maupay,Marseille,115382,True,id_map
+fotmob,520979,Ulisses Garcia,Marseille,184943,True,id_map
+fotmob,617310,Nayef Aguerd,Marseille,210494,True,id_map
+fotmob,687868,Jeffrey De Lange,Marseille,216272,True,id_map
+fotmob,780815,Amine Harit,Marseille,229608,True,id_map
+fotmob,844437,Amine Gouiri,Marseille,247400,True,id_map
+fotmob,847629,Derek Cornelius,Marseille,228760,True,id_map
+fotmob,848667,Angel Gomes,Marseille,209041,True,id_map
+fotmob,889536,Timothy Weah,Marseille,215473,True,id_map
+fotmob,956659,Himad Abdelli,Marseille,462609,True,id_map
+fotmob,1050822,Andrew Omobamidele,Strasbourg,466404,True,id_map
+fotmob,1071179,Giovanni Reyna,Strasbourg,427420,True,id_map
+fotmob,1078904,Théo Vermot,Marseille,fm_1078904,True,id_map
+fotmob,1156569,Sebastian Nanasi,Strasbourg,484405,True,id_map
+fotmob,1177312,Sékou Mara,Strasbourg,476888,True,id_map
+fotmob,1187227,CJ Egan-Riley,Marseille,432711,True,id_map
+fotmob,1200984,Filip Jörgensen,Strasbourg,508479,True,id_map
+fotmob,1265963,Igor Paixão,Marseille,483320,True,id_map
+fotmob,1283393,Miłosz Piekutowski,Strasbourg,fm_1283393,True,id_map
+fotmob,1336846,Mateo Del Blanco,Strasbourg,569598,True,id_map
+fotmob,1340071,Jeyland Mitchell,Strasbourg,622116,True,id_map
+fotmob,1353104,Tochukwu Nnadi,Marseille,582399,True,id_map
+fotmob,1395704,Guéla Doué,Strasbourg,503720,True,id_map
+fotmob,1417802,Pape Demba Diop,Strasbourg,601946,True,id_map
+fotmob,1418073,Samuel Amo-Ameyaw,Strasbourg,499724,True,id_map
+fotmob,1436942,Lucas Høgsberg,Strasbourg,614167,True,id_map
+fotmob,1581053,Mathis Amougou,Toulouse,609640,True,id_map
+fotmob,1598170,Samir El Mourabet,Strasbourg,643307,True,id_map
+fotmob,1603755,Gessime Yassine,Strasbourg,645598,True,id_map
+fotmob,1638922,Keyliane Abdallah,Marseille,634422,True,id_map
+fotmob,1647186,Genesis Antwi,Strasbourg,591382,True,id_map
+fotmob,1666019,Fabio Baldé,Strasbourg,576786,True,id_map
+fotmob,1677224,Jacobo Ortega,Strasbourg,499360,True,id_map
+fotmob,1701117,Diogo Sousa,Strasbourg,569691,True,id_map
+fotmob,1729847,Ghianny Kodia Ladji,Strasbourg,fm_1729847,True,id_map
+fotmob,1814264,Tadjidine Mmadi,Marseille,653269,True,id_map
+fotmob,1843428,Kelyann Bezahaf,Marseille,633742,True,id_map
+fotmob,274787,Yvon Mvogo,Lorient,100952,True,id_map
+fotmob,564571,Bingourou Kamara,Lorient,194188,True,id_map
+fotmob,688285,Alec Georgen,Lorient,199663,True,id_map
+fotmob,699461,Jean-Victor Makengo,Lorient,199666,True,id_map
+fotmob,715301,Jonathan Clauss,Nice,221095,True,id_map
+fotmob,763974,Gauthier Hein,Nice,232182,True,id_map
+fotmob,766574,Yéhvann Diouf,Nice,231875,True,id_map
+fotmob,841395,Aiyegun Tosin,Lorient,250182,True,id_map
+fotmob,846392,Montassar Talbi,Lorient,422480,True,id_map
+fotmob,944385,Isak Jansson,Nice,469169,True,id_map
+fotmob,953812,Sofiane Diop,Nice,460267,True,id_map
+fotmob,979759,Nathan N'Goumou,Nice,469323,True,id_map
+fotmob,1057703,Youssouf Ndayishimiye,Nice,420566,True,id_map
+fotmob,1092403,Melvin Bard,Nice,437497,True,id_map
+fotmob,1097446,Noah Cadiou,Lorient,533146,True,id_map
+fotmob,1107257,Souleymane Faye,Lorient,482432,True,id_map
+fotmob,1179331,Mohamed Abdelmonem,Nice,510136,True,id_map
+fotmob,1180547,Souleymane Touré,Lorient,fm_1180547,True,id_map
+fotmob,1180718,Mohamed-Ali Cho,Nice,490884,True,id_map
+fotmob,1184013,Bandiougou Fadiga,Lorient,465681,True,id_map
+fotmob,1210649,Teddy Boulhendi,Nice,fm_1210649,True,id_map
+fotmob,1225704,Noah Mbamba,Lorient,530081,True,id_map
+fotmob,1254147,Antoine Mendy,Nice,538452,True,id_map
+fotmob,1292354,Théo Le Bris,Lorient,549737,True,id_map
+fotmob,1351065,Nathaniel Adjei,Lorient,476391,True,id_map
+fotmob,1366618,Zoumana Diallo,Nice,578498,True,id_map
+fotmob,1399999,Dembo Sylla,Lorient,591255,True,id_map
+fotmob,1427808,Panos Katseris,Lorient,624764,True,id_map
+fotmob,1565010,Arthur Avom,Lorient,606371,True,id_map
+fotmob,1640832,Arsène Kouassi,Lorient,651819,True,id_map
+fotmob,1644329,Issiaga Camara,Nice,632701,True,id_map
+fotmob,1668294,Gabin Bernardeau,Lorient,665234,True,id_map
+fotmob,1696775,Everton,Nice,632699,True,id_map
+fotmob,1763598,Djibril Coulibaly,Nice,658332,True,id_map
+fotmob,1796096,Hamza Koutoune,Nice,619512,True,id_map
+fotmob,1842657,Brad-Hamilton Mantsounga,Nice,619372,True,id_map
+fotmob,1882686,Daniel Semedo,Lorient,725822,True,id_map
+fotmob,1888816,Mamadou Koné,Lorient,724962,True,id_map
+fotmob,2116938,Xavier Mandza,Nice,672279,True,id_map
+fotmob,2117308,Aboulaye Camara,Nice,750207,True,id_map
+fotmob,195750,Nicolás Tagliafico,Lyon,86479,True,id_map
+fotmob,266105,Clinton Mata,Lyon,189781,True,id_map
+fotmob,473852,Corentin Tolisso,Lyon,168568,True,id_map
+fotmob,637754,Niklas Schmidt,Toulouse,204584,True,id_map
+fotmob,651910,Dominik Greif,Lyon,212873,True,id_map
+fotmob,656491,Rasmus Nicolaisen,Toulouse,228955,True,id_map
+fotmob,747767,Loïs Openda,Lyon,235084,True,id_map
+fotmob,767014,Rémy Descamps,Lyon,213199,True,id_map
+fotmob,845943,Cristian Cásseres,Toulouse,446090,True,id_map
+fotmob,924485,Mark McKenzie,Toulouse,201401,True,id_map
+fotmob,951498,Felix Bacher,Lyon,459633,True,id_map
+fotmob,955411,Yann Gboho,Toulouse,242893,True,id_map
+fotmob,1037539,Pavel Šulc,Lyon,465954,True,id_map
+fotmob,1057433,Tanner Tessmann,Lyon,426634,True,id_map
+fotmob,1081025,Mads Bidstrup,Lyon,481405,True,id_map
+fotmob,1106866,Jacen Russell-Rowe,Toulouse,448010,True,id_map
+fotmob,1113724,Tyler Morton,Lyon,440148,True,id_map
+fotmob,1256224,Mário Sauer,Toulouse,539135,True,id_map
+fotmob,1338390,Ernest Nuamah,Lyon,564992,True,id_map
+fotmob,1362516,Santiago Hidalgo,Toulouse,575453,True,id_map
+fotmob,1364069,Malick Fofana,Lyon,549940,True,id_map
+fotmob,1368304,Julien Duranville,Lyon,560114,True,id_map
+fotmob,1368710,Noah Nartey,Lyon,578610,True,id_map
+fotmob,1469996,David Odogu,Toulouse,571290,True,id_map
+fotmob,1481910,Thomas Jørgensen,Toulouse,592867,True,id_map
+fotmob,1487879,Mathys Niflore,Toulouse,620411,True,id_map
+fotmob,1512829,Mohamed Ouédraogo,Lyon,624682,True,id_map
+fotmob,1524210,Guillaume Restes,Toulouse,546172,True,id_map
+fotmob,1595629,Zachary Athekame,Lyon,622748,True,id_map
+fotmob,1611220,Julián Vignolo,Toulouse,648413,True,id_map
+fotmob,1640973,Rafik Messali,Toulouse,656314,True,id_map
+fotmob,1664718,Mathis Saka,Toulouse,638416,True,id_map
+fotmob,1666482,Christ Tapé,Toulouse,659285,True,id_map
+fotmob,1668299,Ismaïl Diallo,Toulouse,664866,True,id_map
+fotmob,1717493,Sion Oppong,Toulouse,685398,True,id_map
+fotmob,1739906,Mathys de Carvalho,Lyon,633103,True,id_map
+fotmob,1751857,Ilyas Azizi,Toulouse,616245,True,id_map
+fotmob,1791729,Seny Koumbassa,Toulouse,632582,True,id_map
+fotmob,1793704,Rémi Himbert,Lyon,640619,True,id_map
+fotmob,1896949,Kaïl Boudache,Lyon,632700,True,id_map
+fotmob,145550,Kevin Trapp,Paris FC,52482,True,id_map
+fotmob,348420,Renaud Ripart,Troyes,121150,True,id_map
+fotmob,426892,Hamari Traoré,Paris FC,174528,True,id_map
+fotmob,465719,Adrien Monfray,Troyes,149588,True,id_map
+fotmob,467486,Moses Simon,Paris FC,181441,True,id_map
+fotmob,560896,Hillel Konaté,Troyes,fm_560896,True,id_map
+fotmob,614207,Maxime Lopez,Paris FC,213965,True,id_map
+fotmob,640292,Vincent Marchetti,Paris FC,209874,True,id_map
+fotmob,660462,Pierre Lees-Melou,Paris FC,212325,True,id_map
+fotmob,784448,Thibault De Smet,Paris FC,241059,True,id_map
+fotmob,923196,Lassine Sinayoko,Paris FC,445970,True,id_map
+fotmob,992082,Alexandre Phliponeau,Troyes,471437,True,id_map
+fotmob,999690,Ilan Kebbal,Paris FC,511182,True,id_map
+fotmob,1030945,Iron Gomis,Troyes,480469,True,id_map
+fotmob,1039219,Samir Chergui,Paris FC,482380,True,id_map
+fotmob,1039458,Paolo Gozzi,Troyes,248667,True,id_map
+fotmob,1053678,Mamadou Mbow,Paris FC,fm_1053678,True,id_map
+fotmob,1108031,Kandet Diawara,Troyes,496521,True,id_map
+fotmob,1127125,Obed Nkambadio,Paris FC,502436,True,id_map
+fotmob,1190113,Otávio,Paris FC,448093,True,id_map
+fotmob,1276315,Dermane Karim,Troyes,544821,True,id_map
+fotmob,1321149,Mouhamed Diop,Troyes,550567,True,id_map
+fotmob,1321562,Diego Coppola,Paris FC,550090,True,id_map
+fotmob,1331097,Pablo Pagis,Paris FC,551976,True,id_map
+fotmob,1335765,Patrick Beach,Troyes,ws_599694,True,id_map
+fotmob,1342983,Antoine Mille,Troyes,444395,True,id_map
+fotmob,1368318,Luca Koleosho,Paris FC,487702,True,id_map
+fotmob,1401205,Michel Diaz,Troyes,fm_1401205,True,id_map
+fotmob,1411553,Hugo Picard,Troyes,554580,True,id_map
+fotmob,1487935,Yvann Titi,Troyes,620415,True,id_map
+fotmob,1513317,Adama Camara,Paris FC,624926,True,id_map
+fotmob,1523321,Merwan Ifnaou,Troyes,628026,True,id_map
+fotmob,1529204,Omar Sissoko,Paris FC,630700,True,id_map
+fotmob,1709839,Patrick Zabi,Paris FC,683822,True,id_map
+fotmob,1738340,Rudy Matondo,Paris FC,694358,True,id_map
+fotmob,1760691,Christ Batola,Troyes,672304,True,id_map
+fotmob,1797614,Anis Ouzenadji,Troyes,703779,True,id_map
+fotmob,1844131,Noah Donkor,Troyes,719331,True,id_map
+fotmob,2155239,Idrissa Soukouna,Troyes,749560,True,id_map
+fotmob,2155240,Yacouba Kone,Troyes,749559,True,id_map
+fotmob,942893,Thelonius Bair,Auxerre,fm_942893,True,id_map
+fotmob,1113784,Pierre Ekwah,Auxerre,458297,True,id_map
+fotmob,1401248,Rémy Lascary,Auxerre,592515,True,id_map
+fotmob,1607778,Oumar Pona,Angers,645307,True,id_map
+fotmob,1688980,Marius Louër,Angers,658062,True,id_map
+fotmob,1744576,Telli Siwe,Auxerre,695285,True,id_map
+fotmob,2173845,Jules Bouffandeau,Angers,749741,True,id_map
+fotmob,812415,Hugo Magnetti,Brest,243741,True,id_map
+fotmob,1514445,Mathieu Patouillet,Brest,fm_1514445,True,id_map
+fotmob,1791727,Alexis Vossah,Toulouse,616227,True,id_map
+fotmob,2173745,Aymen Amaaouch,Toulouse,672306,True,id_map
+fotmob,1202070,Isak Steiner Jensen,Lorient,fm_1202070,True,id_map
+fotmob,1330942,Lucas Maronnier,Troyes,554582,True,id_map
+fotmob,1526621,Nosa Edward Obaretin,Lorient,fm_1526621,True,id_map
+fotmob,348409,Gauthier Gallon,Le Havre,167455,True,id_map
+fotmob,592102,Moussa Niakhaté,Lyon,199170,True,id_map
+fotmob,604089,Ainsley Maitland-Niles,Lyon,154043,True,id_map
+fotmob,792653,Ahmed Touba,Le Havre,240864,True,id_map
+fotmob,1060604,Abner,Lyon,475344,True,id_map
+fotmob,1793640,Khalis Merah,Lyon,695367,True,id_map
+fotmob,890263,Jordan Teze,Monaco,222695,True,id_map
+fotmob,952325,Faris Moumbagna,Marseille,457269,True,id_map
+fotmob,970563,Quinten Timber,Marseille,450063,True,id_map
+fotmob,1250492,Matthis Abline,Monaco,503726,True,id_map
+fotmob,1406428,Christian Mawissa,Monaco,578500,True,id_map
+fotmob,39591,Axel Witsel,Nice,41189,True,id_map
+fotmob,853108,Jean-Philippe Krasso,Paris FC,424920,True,id_map
+fotmob,1213430,Elye Wahi,Nice,477724,True,id_map
+fotmob,2140393,Djelan Morana,Nice,751514,True,id_map
+fotmob,317062,Adrien Thomasson,Rennes,115961,True,id_map
+fotmob,402419,Przemysław Frankowski,Rennes,140040,True,id_map
+fotmob,562719,Valentin Rongier,Rennes,193539,True,id_map
+fotmob,625422,Nicolas Lemaître,Rennes,206935,True,id_map
+fotmob,693171,Ludovic Blas,Rennes,213940,True,id_map
+fotmob,765466,Sebastian Szymański,Rennes,234516,True,id_map
+fotmob,770321,Mahdi Camara,Rennes,442264,True,id_map
+fotmob,770340,Arnaud Nordin,Rennes,235050,True,id_map
+fotmob,813055,Mousa Tamari,Rennes,426342,True,id_map
+fotmob,924446,Bryan Reynolds,Rennes,223353,True,id_map
+fotmob,1079554,Anthony Rouault,Rennes,489887,True,id_map
+fotmob,1103837,Issa Soumaré,Rennes,495382,True,id_map
+fotmob,1186444,Charlie Cresswell,Rennes,492373,True,id_map
+fotmob,1233931,Quentin Merlin,Rennes,531003,True,id_map
+fotmob,1244864,Jean Vercruysse,Le Mans,477712,True,id_map
+fotmob,1280225,Estéban Lepaul,Rennes,468658,True,id_map
+fotmob,1311670,Harold Voyer,Le Mans,225893,True,id_map
+fotmob,1388072,Daouda Traoré,Le Mans,587082,True,id_map
+fotmob,1391052,Eliezer Mayenda,Rennes,564406,True,id_map
+fotmob,1553514,Mahamadou Nagida,Rennes,fm_1553514,True,id_map
+fotmob,1581722,Abdelhamid Aït Boudlal,Rennes,619501,True,id_map
+fotmob,1707955,Henrick Do Marcolino,Rennes,684058,True,id_map
+fotmob,1841191,Kilian Belazzoug,Rennes,fm_1841191,True,id_map
+fotmob,561046,Ruben Aguilar,Lens,115327,True,id_map
+fotmob,1611469,Benjamin Brantlind,Strasbourg,648131,True,id_map
+fotmob,1643851,Karim Coulibaly,Strasbourg,628995,True,id_map
+fotmob,1657810,Nidal Čelik,Lens,634897,True,id_map
+fotmob,1900030,Tyrese Noubissie,Strasbourg,631877,True,id_map
+fotmob,148830,Benjamin André,Lille,55948,True,id_map
+fotmob,210111,Lucas Digne,Paris Saint-Germain,101188,True,id_map
+fotmob,267365,Marquinhos,Paris Saint-Germain,116406,True,id_map
+fotmob,504606,Lucas Hernández,Paris Saint-Germain,174888,True,id_map
+fotmob,605654,Fabián Ruiz,Paris Saint-Germain,201379,True,id_map
+fotmob,770881,Achraf Hakimi,Paris Saint-Germain,223760,True,id_map
+fotmob,800880,Matvey Safonov,Paris Saint-Germain,242194,True,id_map
+fotmob,881771,Ferrán Torres,Paris Saint-Germain,224444,True,id_map
+fotmob,900433,Khvicha Kvaratskhelia,Paris Saint-Germain,440668,True,id_map
+fotmob,1061249,Vítinha,Paris Saint-Germain,437858,True,id_map
+fotmob,1079539,Dilane Bakwa,Lille,476887,True,id_map
+fotmob,1137670,Willian Pacho,Paris Saint-Germain,448102,True,id_map
+fotmob,1140003,Ilya Zabarnyi,Paris Saint-Germain,477580,True,id_map
+fotmob,1177131,Lucas Chevalier,Paris Saint-Germain,485335,True,id_map
+fotmob,1255209,Lucas Beraldo,Paris Saint-Germain,534317,True,id_map
+fotmob,1305618,Maghnes Akliouche,Paris Saint-Germain,555894,True,id_map
+fotmob,1339208,Désiré Doué,Paris Saint-Germain,570810,True,id_map
+fotmob,1367615,Warren Zaïre-Emery,Paris Saint-Germain,550840,True,id_map
+fotmob,1396372,Mika Godts,Paris Saint-Germain,568465,True,id_map
+fotmob,1574189,Senny Mayulu,Paris Saint-Germain,499448,True,id_map
+fotmob,1662399,Alessandro Longoni,Paris Saint-Germain,fm_1662399,True,id_map
+fotmob,1682313,Dro Fernández,Paris Saint-Germain,619825,True,id_map
+fotmob,279714,Brice Samba,Rennes,102836,True,id_map
+fotmob,972120,Boulaye Dia,Rennes,468488,True,id_map
+fotmob,1692872,Gonçalo Oliveira,Rennes,500168,True,id_map
+fotmob,1441955,Giovani Versini,Brest,612865,True,id_map
+fotmob,1668289,Justin Bourgault,Brest,659788,True,id_map
+fotmob,1703371,Djylian N'Guessan,Brest,640621,True,id_map
+fotmob,513072,Jonathan Gradit,Lens,176501,True,id_map
+fotmob,1282665,Ibrahima Baldé,Lorient,546613,True,id_map
+fotmob,1685514,Kyllian Antonio,Lens,634871,True,id_map
+fotmob,1086647,Cameron Archer,Auxerre,433979,True,id_map
+fotmob,1125076,Ruben Kluivert,Lyon,501735,True,id_map
+fotmob,1283024,Yoan Koré,Paris FC,546199,True,id_map
+fotmob,1287489,Bamo Meité,Marseille,544099,True,id_map
+fotmob,1698484,Nouhoum Kamissoko,Marseille,633075,True,id_map
+fotmob,566187,Ali Abdi,Nice,245485,True,id_map
+fotmob,601145,Habibou Mouhamadou Diallo,Le Mans,fm_601145,True,id_map
+fotmob,660565,Samuel Yohou,Le Mans,213576,True,id_map
+fotmob,1104441,Niels Nkounkou,Nice,495542,True,id_map
+fotmob,1134206,Mohamed Amoura,Nice,533339,True,id_map
+fotmob,1388045,Augustin Delbecque,Le Mans,fm_1388045,True,id_map
+fotmob,692984,Ousmane Dembélé,Paris Saint-Germain,219438,True,id_map
+fotmob,1342757,João Neves,Paris Saint-Germain,551150,True,id_map
+fotmob,942393,Ayase Ueda,Lille,451341,True,id_map
+fotmob,1070404,Maurits Kjærgaard,Lille,481503,True,id_map
+fotmob,1102240,Casper Tengstedt,Toulouse,477682,True,id_map
+fotmob,1494508,Niko Sigur,Toulouse,618956,True,id_map
+fotmob,1683391,Orlando Gill,Lille,473197,True,id_map
+fotmob,917808,Jérémy Le Douaron,Troyes,511593,True,id_map
+fotmob,1038058,Timothé Nkada,Troyes,482140,True,id_map
+fotmob,1178332,Ismaël Doukouré,Strasbourg,511975,True,id_map
+fotmob,1239595,Dário Essugo,Strasbourg,491007,True,id_map
+fotmob,1315477,Omari Kellyman,Strasbourg,549068,True,id_map
+fotmob,1482294,Conrad Harder,Strasbourg,621481,True,id_map
+fotmob,1575945,Oso,Strasbourg,637705,True,id_map
+fotmob,2189695,Enisio Carneiro,Troyes,668881,True,id_map
+fotmob,690149,Axel Tuanzebe,Auxerre,180804,True,id_map
+fotmob,1033099,Hicham Boudaoui,Nice,480779,True,id_map
+fotmob,1158945,Nuno Mendes,Paris Saint-Germain,465206,True,id_map
+fotmob,1669616,Ibrahim Kanté,Brest,652158,True,id_map
+fotmob,1945732,Enzo Monchatre,Brest,736842,True,id_map
+fotmob,1329255,Louis Mouton,Angers,565877,True,id_map
+fotmob,1667648,Guy Zohouri,Le Havre,664883,True,id_map
+fotmob,1735851,Alex Teixeira,Le Havre,fm_1735851,True,id_map
+fotmob,1787357,Lamine N'Diaye,Le Havre,641810,True,id_map
+fotmob,2221625,Hakim Dongopandji,Le Havre,753673,True,id_map
+fotmob,955214,Jean-Clair Todibo,Lens,462116,True,id_map
+fotmob,1334534,Junior Kadile,Lens,503721,True,id_map
+fotmob,1070617,Tanguy Nianzou,Lille,465691,True,id_map
+fotmob,2222106,Lassana Simakha,Troyes,753795,True,id_map
+fotmob,2221627,Theo Collin,Toulouse,fm_2221627,True,id_map
+fotmob,637745,Jonathan Ikoné,Paris FC,199672,True,id_map
+fotmob,887704,Keito Nakamura,Lyon,219274,True,id_map
+fotmob,938247,Mohammed Salisu,Monaco,450527,True,id_map
+fotmob,561869,Haris Belkebla,Angers,193411,True,id_map
+fotmob,1273881,Sékou Fofana,Auxerre,627208,True,id_map
+fotmob,1382364,Srdjan Kuzmić,Lorient,584940,True,id_map
+fotmob,408943,Takumi Minamino,Monaco,157882,True,id_map
+fotmob,982677,Folarin Balogun,Monaco,232223,True,id_map
+fotmob,1385897,Edan Diop,Monaco,586257,True,id_map
+fotmob,1177779,Alidu Seidu,Nice,511344,True,id_map
+fotmob,1975804,Yaya Dieme,Strasbourg,619081,True,id_map
+fotmob,823293,Aron Dønnum,Toulouse,247417,True,id_map
+fotmob,1669618,Alexi Koum,Marseille,560255,True,id_map
+fotmob,1276626,Samson Baidoo,Lens,503543,True,id_map
+fotmob,1744188,Noham Kamara,Lyon,669580,True,id_map
+fotmob,1793784,Maxima Goffi,Lille,669414,True,id_map
+fotmob,1830661,Emmanuel Mbemba,Paris FC,640646,True,id_map
+fotmob,2357100,Samir Haribou,Lorient,757975,True,id_map
+fotmob,1086012,Ansu Fati,Monaco,465607,True,id_map
+fotmob,1901862,Yoann Becker,Strasbourg,689870,True,id_map
+fotmob,1699549,Quentin Ndjantou,Paris Saint-Germain,592883,True,id_map
+fotmob,1553515,Djaoui Cissé,Rennes,606701,True,id_map
+fotmob,2357741,Youssef Khoudda,Auxerre,758153,True,id_map
+fotmob,1863770,Mamoudou Cissokho,Auxerre,723038,True,id_map
+fotmob,1867240,Zadig Lanssade,Lille,fm_1867240,True,id_map
+fotmob,1882264,Angel Yondjo,Lille,619036,True,id_map
+fotmob,355901,Morgan Sanson,Nice,122775,True,id_map
+fotmob,2409733,Lenny Videira,Le Mans,fotmob_new_2409733,False,
+fotmob,2406287,Ibrahim Meite,Paris FC,fotmob_new_2406287,False,
+fotmob,1302715,Martial Godo,Strasbourg,573062,True,master
+fotmob,1830689,David Boly,Paris Saint-Germain,669615,True,master
+fotmob,1853988,Adil Hamdani,Lyon,672280,True,master
+fotmob,1858591,Elías Legendre,Rennes,692877,True,id_map
