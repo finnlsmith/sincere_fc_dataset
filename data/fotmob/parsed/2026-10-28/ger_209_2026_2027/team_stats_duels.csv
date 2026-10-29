@@ -1,0 +1,177 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Duels won,37,48
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Ground duels won,30 (43%),39 (57%)
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Aerial duels won,7 (44%),9 (56%)
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Successful dribbles,2 (13%),9 (45%)
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Duels won,43,43
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Ground duels won,38 (50%),38 (50%)
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Aerial duels won,5 (50%),5 (50%)
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Successful dribbles,2 (22%),14 (48%)
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Duels won,28,31
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Ground duels won,18 (46%),21 (54%)
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Aerial duels won,10 (50%),10 (50%)
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Successful dribbles,3 (75%),2 (25%)
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Duels won,40,50
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Ground duels won,23 (42%),32 (58%)
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Aerial duels won,17 (49%),18 (51%)
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Successful dribbles,3 (33%),4 (31%)
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Duels won,45,33
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Ground duels won,36 (57%),27 (43%)
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Aerial duels won,9 (60%),6 (40%)
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Successful dribbles,9 (64%),7 (70%)
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Duels won,36,41
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Ground duels won,31 (49%),32 (51%)
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Aerial duels won,5 (36%),9 (64%)
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Successful dribbles,6 (40%),14 (54%)
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Duels won,68,47
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Ground duels won,57 (61%),36 (39%)
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Aerial duels won,11 (50%),11 (50%)
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Successful dribbles,8 (40%),6 (27%)
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Duels won,52,45
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Ground duels won,44 (56%),34 (44%)
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Aerial duels won,8 (42%),11 (58%)
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Successful dribbles,7 (78%),17 (47%)
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Duels won,36,54
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Ground duels won,27 (38%),44 (62%)
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Aerial duels won,9 (47%),10 (53%)
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Successful dribbles,4 (29%),5 (45%)
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Duels won,50,49
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Ground duels won,34 (49%),35 (51%)
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Aerial duels won,16 (53%),14 (47%)
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Successful dribbles,10 (59%),5 (45%)
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Duels won,39,33
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Ground duels won,31 (60%),21 (40%)
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Aerial duels won,8 (40%),12 (60%)
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Successful dribbles,5 (56%),7 (41%)
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Duels won,44,62
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Ground duels won,33 (47%),37 (53%)
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Aerial duels won,11 (31%),25 (69%)
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Successful dribbles,3 (27%),5 (71%)
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Duels won,33,39
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Ground duels won,21 (47%),24 (53%)
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Aerial duels won,12 (44%),15 (56%)
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Successful dribbles,1 (100%),3 (50%)
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Duels won,32,34
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Ground duels won,22 (49%),23 (51%)
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Aerial duels won,10 (48%),11 (52%)
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Successful dribbles,2 (20%),2 (29%)
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Duels won,55,55
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Ground duels won,42 (53%),37 (47%)
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Aerial duels won,13 (42%),18 (58%)
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Successful dribbles,12 (55%),4 (27%)
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Duels won,47,42
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Ground duels won,35 (51%),33 (49%)
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Aerial duels won,12 (57%),9 (43%)
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Successful dribbles,5 (50%),11 (42%)
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Duels won,37,40
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Ground duels won,33 (48%),36 (52%)
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Aerial duels won,4 (50%),4 (50%)
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Successful dribbles,8 (33%),9 (50%)
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Duels won,41,38
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Ground duels won,38 (55%),31 (45%)
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Aerial duels won,3 (30%),7 (70%)
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Successful dribbles,3 (60%),10 (42%)
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Duels won,22,50
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Ground duels won,15 (31%),34 (69%)
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Aerial duels won,7 (30%),16 (70%)
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Successful dribbles,3 (38%),9 (60%)
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Duels won,37,37
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Ground duels won,25 (47%),28 (53%)
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Aerial duels won,12 (57%),9 (43%)
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Successful dribbles,2 (20%),2 (17%)
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Duels won,63,52
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Ground duels won,50 (59%),35 (41%)
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Aerial duels won,13 (43%),17 (57%)
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Successful dribbles,11 (65%),12 (80%)
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Duels won,42,32
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Ground duels won,37 (64%),21 (36%)
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Aerial duels won,5 (31%),11 (69%)
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Successful dribbles,5 (45%),4 (27%)
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Duels won,54,50
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Ground duels won,40 (53%),35 (47%)
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Aerial duels won,14 (48%),15 (52%)
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Successful dribbles,6 (67%),7 (64%)
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Duels won,49,60
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Ground duels won,31 (45%),38 (55%)
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Aerial duels won,18 (45%),22 (55%)
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Successful dribbles,10 (43%),3 (100%)
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Duels won,41,35
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Ground duels won,27 (54%),23 (46%)
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Aerial duels won,14 (54%),12 (46%)
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Successful dribbles,6 (67%),1 (33%)
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Duels won,70,52
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Ground duels won,56 (63%),33 (37%)
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Aerial duels won,14 (42%),19 (58%)
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Successful dribbles,7 (70%),6 (40%)
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Duels won,41,40
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Ground duels won,28 (51%),27 (49%)
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Aerial duels won,13 (50%),13 (50%)
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Successful dribbles,5 (38%),8 (53%)
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Duels won,49,44
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Ground duels won,33 (50%),33 (50%)
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Aerial duels won,16 (59%),11 (41%)
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Successful dribbles,2 (17%),6 (40%)
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Duels won,39,48
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Ground duels won,32 (48%),35 (52%)
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Aerial duels won,7 (35%),13 (65%)
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Successful dribbles,5 (45%),10 (53%)
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Duels won,62,76
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Ground duels won,39 (47%),44 (53%)
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Aerial duels won,23 (42%),32 (58%)
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Successful dribbles,10 (43%),6 (67%)
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Duels won,33,40
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Ground duels won,28 (44%),35 (56%)
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Aerial duels won,5 (50%),5 (50%)
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Successful dribbles,3 (23%),11 (44%)
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Duels won,44,46
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Ground duels won,36 (48%),39 (52%)
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Aerial duels won,8 (53%),7 (47%)
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Successful dribbles,9 (47%),15 (56%)
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Duels won,30,32
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Ground duels won,23 (51%),22 (49%)
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Aerial duels won,7 (41%),10 (59%)
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Successful dribbles,1 (20%),5 (50%)
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Duels won,46,52
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Ground duels won,25 (45%),31 (55%)
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Aerial duels won,21 (50%),21 (50%)
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Successful dribbles,5 (42%),3 (27%)
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Duels won,51,45
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Ground duels won,29 (48%),31 (52%)
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Aerial duels won,22 (61%),14 (39%)
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Successful dribbles,6 (43%),6 (50%)
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Duels won,34,44
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Ground duels won,23 (43%),30 (57%)
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Aerial duels won,11 (44%),14 (56%)
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Successful dribbles,9 (41%),6 (67%)
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Duels won,38,44
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Ground duels won,24 (44%),31 (56%)
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Aerial duels won,14 (52%),13 (48%)
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Successful dribbles,1 (11%),8 (80%)
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Duels won,46,38
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Ground duels won,31 (53%),28 (47%)
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Aerial duels won,15 (60%),10 (40%)
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Successful dribbles,11 (65%),5 (45%)
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Duels won,58,54
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Ground duels won,41 (56%),32 (44%)
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Aerial duels won,17 (44%),22 (56%)
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Successful dribbles,8 (50%),9 (45%)
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Duels won,67,55
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Ground duels won,50 (56%),39 (44%)
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Aerial duels won,17 (52%),16 (48%)
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Successful dribbles,7 (41%),12 (43%)
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Duels won,39,39
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Ground duels won,28 (54%),24 (46%)
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Aerial duels won,11 (42%),15 (58%)
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Successful dribbles,2 (29%),7 (50%)
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Duels won,49,48
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Ground duels won,25 (53%),22 (47%)
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Aerial duels won,24 (48%),26 (52%)
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Successful dribbles,4 (40%),2 (50%)
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Duels won,60,74
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Ground duels won,37 (39%),58 (61%)
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Aerial duels won,23 (59%),16 (41%)
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Successful dribbles,2 (11%),19 (61%)
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Duels won,40,45
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Ground duels won,31 (46%),36 (54%)
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Aerial duels won,9 (50%),9 (50%)
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Successful dribbles,12 (46%),5 (71%)

@@ -1,0 +1,46 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Passes,190,556
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Accurate passes,111 (58%),486 (87%)
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Own half,78,189
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Opposition half,33,297
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Accurate long balls,13 (22%),48 (75%)
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Accurate crosses,0 (0%),8 (36%)
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Throws,15,22
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Touches in opposition box,2,43
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Offsides,2,4
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Passes,217,699
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Accurate passes,160 (74%),638 (91%)
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Own half,98,265
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Opposition half,62,373
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Accurate long balls,20 (45%),52 (74%)
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Accurate crosses,1 (6%),4 (25%)
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Throws,18,19
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Touches in opposition box,9,47
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Offsides,1,3
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Passes,132,589
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Accurate passes,60 (45%),533 (90%)
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Own half,40,172
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Opposition half,20,361
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Accurate long balls,16 (25%),43 (77%)
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Accurate crosses,0 (0%),9 (29%)
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Throws,8,25
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Touches in opposition box,2,55
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Offsides,0,2
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Passes,396,789
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Accurate passes,273 (69%),674 (85%)
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Own half,134,307
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Opposition half,139,367
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Accurate long balls,35 (37%),28 (47%)
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Accurate crosses,3 (17%),13 (32%)
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Throws,24,25
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Touches in opposition box,17,49
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Offsides,0,1
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Passes,276,458
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Accurate passes,140 (51%),321 (70%)
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Own half,62,140
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Opposition half,78,181
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Accurate long balls,25 (24%),36 (31%)
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Accurate crosses,8 (24%),11 (31%)
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Throws,38,37
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Touches in opposition box,17,42
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Offsides,1,1

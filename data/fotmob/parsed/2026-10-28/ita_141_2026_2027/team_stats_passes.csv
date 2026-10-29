@@ -1,0 +1,217 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Passes,340,636
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Accurate passes,300 (88%),572 (90%)
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Own half,180,339
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Opposition half,120,233
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Accurate long balls,9 (39%),25 (61%)
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Accurate crosses,3 (50%),4 (20%)
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Throws,12,17
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Touches in opposition box,19,15
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Offsides,1,2
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Passes,341,462
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Accurate passes,292 (86%),394 (85%)
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Own half,160,203
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Opposition half,132,191
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Accurate long balls,23 (66%),19 (54%)
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Accurate crosses,3 (23%),6 (33%)
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Throws,15,17
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Touches in opposition box,26,24
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Offsides,0,0
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Passes,526,410
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Accurate passes,463 (88%),358 (87%)
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Own half,222,170
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Opposition half,241,188
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Accurate long balls,35 (64%),13 (38%)
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Accurate crosses,5 (25%),1 (6%)
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Throws,14,15
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Touches in opposition box,37,22
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Offsides,3,0
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Passes,355,559
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Accurate passes,321 (90%),518 (93%)
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Own half,145,250
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Opposition half,176,268
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Accurate long balls,16 (50%),31 (78%)
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Accurate crosses,5 (45%),3 (16%)
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Throws,14,14
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Touches in opposition box,21,17
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Offsides,2,1
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Passes,452,373
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Accurate passes,391 (87%),314 (84%)
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Own half,229,214
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Opposition half,162,100
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Accurate long balls,34 (56%),11 (37%)
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Accurate crosses,1 (13%),0 (0%)
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Throws,15,17
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Touches in opposition box,22,15
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Offsides,1,1
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Passes,493,544
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Accurate passes,424 (86%),466 (86%)
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Own half,188,293
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Opposition half,236,173
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Accurate long balls,34 (61%),37 (55%)
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Accurate crosses,3 (27%),9 (43%)
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Throws,14,10
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Touches in opposition box,32,21
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Offsides,0,4
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Passes,507,315
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Accurate passes,450 (89%),256 (81%)
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Own half,190,173
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Opposition half,260,83
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Accurate long balls,23 (52%),22 (47%)
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Accurate crosses,6 (24%),1 (13%)
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Throws,17,18
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Touches in opposition box,29,17
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Offsides,0,2
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Passes,733,281
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Accurate passes,680 (93%),221 (79%)
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Own half,374,140
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Opposition half,306,81
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Accurate long balls,10 (40%),24 (53%)
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Accurate crosses,5 (31%),5 (50%)
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Throws,15,10
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Touches in opposition box,19,10
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Offsides,0,1
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Passes,435,382
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Accurate passes,373 (86%),317 (83%)
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Own half,205,190
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Opposition half,168,127
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Accurate long balls,25 (60%),19 (45%)
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Accurate crosses,3 (25%),3 (43%)
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Throws,17,16
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Touches in opposition box,38,23
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Offsides,2,1
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Passes,339,553
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Accurate passes,278 (82%),482 (87%)
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Own half,142,229
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Opposition half,136,253
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Accurate long balls,18 (42%),35 (60%)
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Accurate crosses,7 (44%),0 (0%)
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Throws,17,19
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Touches in opposition box,27,18
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Offsides,2,1
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Passes,455,378
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Accurate passes,392 (86%),306 (81%)
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Own half,245,180
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Opposition half,147,126
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Accurate long balls,25 (48%),27 (56%)
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Accurate crosses,6 (29%),2 (10%)
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Throws,13,20
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Touches in opposition box,18,21
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Offsides,2,3
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Passes,636,278
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Accurate passes,550 (86%),209 (75%)
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Own half,216,129
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Opposition half,334,80
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Accurate long balls,6 (29%),21 (39%)
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Accurate crosses,8 (33%),3 (50%)
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Throws,23,13
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Touches in opposition box,32,14
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Offsides,1,4
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Passes,466,314
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Accurate passes,395 (85%),221 (70%)
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Own half,241,150
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Opposition half,154,71
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Accurate long balls,17 (39%),17 (31%)
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Accurate crosses,2 (17%),3 (25%)
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Throws,30,31
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Touches in opposition box,21,13
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Offsides,0,0
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Passes,517,374
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Accurate passes,460 (89%),322 (86%)
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Own half,243,177
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Opposition half,217,145
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Accurate long balls,25 (56%),19 (50%)
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Accurate crosses,4 (33%),5 (33%)
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Throws,21,17
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Touches in opposition box,31,22
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Offsides,0,0
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Passes,534,500
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Accurate passes,484 (91%),451 (90%)
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Own half,338,298
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Opposition half,146,153
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Accurate long balls,19 (53%),33 (61%)
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Accurate crosses,2 (25%),2 (15%)
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Throws,16,18
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Touches in opposition box,11,9
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Offsides,0,5
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Passes,360,413
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Accurate passes,290 (81%),348 (84%)
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Own half,194,160
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Opposition half,96,188
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Accurate long balls,20 (40%),17 (44%)
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Accurate crosses,3 (33%),8 (25%)
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Throws,21,31
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Touches in opposition box,21,30
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Offsides,3,3
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Passes,507,470
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Accurate passes,458 (90%),412 (88%)
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Own half,168,302
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Opposition half,290,110
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Accurate long balls,24 (53%),24 (50%)
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Accurate crosses,7 (21%),1 (10%)
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Throws,10,13
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Touches in opposition box,38,8
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Offsides,4,2
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Passes,338,440
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Accurate passes,257 (76%),366 (83%)
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Own half,150,163
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Opposition half,107,203
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Accurate long balls,22 (39%),26 (49%)
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Accurate crosses,0 (0%),1 (13%)
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Throws,20,15
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Touches in opposition box,16,20
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Offsides,2,6
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Passes,382,329
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Accurate passes,305 (80%),258 (78%)
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Own half,157,117
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Opposition half,148,141
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Accurate long balls,18 (33%),16 (31%)
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Accurate crosses,6 (25%),4 (24%)
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Throws,23,23
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Touches in opposition box,31,35
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Offsides,0,3
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Passes,459,500
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Accurate passes,408 (89%),442 (88%)
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Own half,203,284
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Opposition half,205,158
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Accurate long balls,14 (44%),20 (42%)
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Accurate crosses,9 (23%),0 (0%)
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Throws,16,12
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Touches in opposition box,23,17
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Offsides,9,0
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Passes,642,422
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Accurate passes,567 (88%),355 (84%)
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Own half,350,224
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Opposition half,217,131
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Accurate long balls,13 (46%),12 (35%)
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Accurate crosses,7 (30%),4 (40%)
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Throws,28,12
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Touches in opposition box,25,17
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Offsides,2,1
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Passes,345,373
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Accurate passes,275 (80%),313 (84%)
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Own half,175,154
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Opposition half,100,159
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Accurate long balls,24 (50%),22 (50%)
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Accurate crosses,2 (22%),3 (20%)
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Throws,16,12
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Touches in opposition box,20,41
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Offsides,0,3
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Passes,308,581
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Accurate passes,239 (78%),516 (89%)
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Own half,129,346
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Opposition half,110,170
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Accurate long balls,16 (33%),25 (54%)
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Accurate crosses,3 (19%),2 (15%)
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Throws,10,20
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Touches in opposition box,18,14
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Offsides,2,2
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Passes,601,533
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Accurate passes,561 (93%),468 (88%)
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Own half,237,313
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Opposition half,324,155
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Accurate long balls,19 (70%),26 (53%)
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Accurate crosses,2 (12%),1 (9%)
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Throws,13,20
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Touches in opposition box,19,14
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Offsides,1,0

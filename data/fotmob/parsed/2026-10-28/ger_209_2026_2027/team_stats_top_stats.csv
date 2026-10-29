@@ -1,0 +1,441 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Ball possession,25,75
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Expected goals (xG),0.24,5.59
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Total shots,3,29
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Shots on target,0,19
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Touches in opposition box,2,61
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Big chances,1,10
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Big chances missed,1,3
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Accurate passes,153 (67%),591 (87%)
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Yellow cards,0,1
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Corners,2,8
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Ball possession,28,72
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Expected goals (xG),0.62,4.51
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Total shots,7,28
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Shots on target,2,11
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Touches in opposition box,4,59
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Big chances,1,5
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Big chances missed,1,1
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Accurate passes,185 (75%),556 (89%)
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Yellow cards,1,1
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Corners,2,11
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Ball possession,44,56
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Expected goals (xG),0.84,2.97
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Total shots,5,17
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Shots on target,2,10
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Touches in opposition box,12,36
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Big chances,1,7
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Big chances missed,0,2
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Accurate passes,342 (82%),417 (82%)
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Yellow cards,1,1
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Corners,3,9
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Ball possession,28,72
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Expected goals (xG),1.58,2.83
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Total shots,9,26
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Shots on target,5,8
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Touches in opposition box,25,40
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Big chances,2,3
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Big chances missed,0,1
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Accurate passes,136 (59%),486 (85%)
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Yellow cards,1,2
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Corners,2,11
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Ball possession,60,40
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Expected goals (xG),1.05,1.65
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Total shots,21,20
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Shots on target,6,7
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Touches in opposition box,25,32
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Big chances,1,3
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Big chances missed,1,2
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Accurate passes,340 (80%),190 (71%)
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Yellow cards,2,3
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Corners,8,6
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Ball possession,28,72
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Expected goals (xG),0.32,8.05
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Total shots,7,48
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Shots on target,1,24
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Touches in opposition box,7,95
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Big chances,0,13
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Big chances missed,0,5
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Accurate passes,173 (68%),570 (90%)
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Yellow cards,1,0
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Corners,0,14
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Ball possession,46,54
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Expected goals (xG),2.77,1.15
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Total shots,21,11
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Shots on target,6,5
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Touches in opposition box,28,22
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Big chances,6,2
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Big chances missed,5,2
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Accurate passes,436 (80%),566 (87%)
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Yellow cards,3,2
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Corners,8,7
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Ball possession,28,72
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Expected goals (xG),0.05,2.76
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Total shots,2,24
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Shots on target,0,8
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Touches in opposition box,1,43
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Big chances,0,6
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Big chances missed,0,4
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Accurate passes,193 (66%),651 (91%)
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Yellow cards,0,1
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Corners,1,10
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Ball possession,47,53
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Expected goals (xG),0.86,1.46
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Total shots,10,13
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Shots on target,5,5
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Touches in opposition box,17,22
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Big chances,1,3
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Big chances missed,1,2
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Accurate passes,313 (77%),358 (78%)
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Yellow cards,2,0
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Corners,5,5
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Ball possession,24,76
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Expected goals (xG),1.42,3.07
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Total shots,9,35
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Shots on target,5,17
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Touches in opposition box,21,62
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Big chances,3,2
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Big chances missed,1,1
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Accurate passes,190 (66%),791 (89%)
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Yellow cards,2,2
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Corners,3,16
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Ball possession,35,65
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Expected goals (xG),0.40,3.36
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Total shots,5,28
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Shots on target,1,12
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Touches in opposition box,9,66
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Big chances,1,5
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Big chances missed,1,1
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Accurate passes,260 (77%),550 (87%)
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Yellow cards,1,0
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Corners,2,15
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Ball possession,39,61
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Expected goals (xG),1.92,1.41
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Total shots,19,7
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Shots on target,7,2
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Touches in opposition box,23,15
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Big chances,3,2
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Big chances missed,1,2
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Accurate passes,169 (64%),326 (76%)
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Yellow cards,2,2
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Corners,7,1
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Ball possession,29,71
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Expected goals (xG),0.23,1.93
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Total shots,7,19
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Shots on target,1,8
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Touches in opposition box,7,22
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Big chances,0,3
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Big chances missed,0,1
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Accurate passes,195 (74%),597 (89%)
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Yellow cards,2,0
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Corners,4,3
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Ball possession,29,71
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Expected goals (xG),0.83,3.79
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Total shots,10,30
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Shots on target,2,12
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Touches in opposition box,6,49
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Big chances,1,8
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Big chances missed,1,1
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Accurate passes,177 (69%),550 (90%)
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Yellow cards,0,1
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Corners,3,9
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Ball possession,44,56
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Expected goals (xG),0.36,1.53
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Total shots,8,15
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Shots on target,3,6
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Touches in opposition box,15,24
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Big chances,0,3
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Big chances missed,0,2
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Accurate passes,271 (76%),376 (83%)
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Yellow cards,0,1
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Corners,3,8
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Ball possession,39,61
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Expected goals (xG),1.23,1.56
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Total shots,13,14
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Shots on target,3,6
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Touches in opposition box,16,25
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Big chances,2,4
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Big chances missed,2,1
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Accurate passes,248 (74%),441 (83%)
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Yellow cards,1,1
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Corners,3,3
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Ball possession,57,43
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Expected goals (xG),0.60,0.97
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Total shots,13,10
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Shots on target,4,6
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Touches in opposition box,15,14
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Big chances,0,5
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Big chances missed,0,2
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Accurate passes,495 (87%),357 (82%)
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Yellow cards,1,1
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Corners,2,1
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Ball possession,37,63
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Expected goals (xG),0.93,3.72
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Total shots,7,18
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Shots on target,2,9
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Touches in opposition box,14,23
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Big chances,0,8
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Big chances missed,0,5
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Accurate passes,199 (68%),439 (86%)
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Yellow cards,3,0
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Corners,2,4
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Ball possession,27,73
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Expected goals (xG),0.08,1.96
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Total shots,3,19
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Shots on target,1,8
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Touches in opposition box,5,37
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Big chances,0,2
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Big chances missed,0,0
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Accurate passes,199 (71%),673 (89%)
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Yellow cards,0,0
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Corners,1,11
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Ball possession,35,65
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Expected goals (xG),0.96,1.86
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Total shots,10,14
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Shots on target,2,6
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Touches in opposition box,11,24
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Big chances,2,3
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Big chances missed,1,1
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Accurate passes,230 (77%),501 (88%)
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Yellow cards,1,1
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Corners,5,5
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Ball possession,63,37
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Expected goals (xG),0.74,2.24
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Total shots,16,17
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Shots on target,6,10
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Touches in opposition box,24,36
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Big chances,0,3
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Big chances missed,0,0
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Accurate passes,422 (85%),198 (73%)
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Yellow cards,1,3
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Corners,7,9
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Ball possession,22,78
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Expected goals (xG),0.12,4.49
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Total shots,4,30
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Shots on target,1,13
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Touches in opposition box,5,64
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Big chances,0,8
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Big chances missed,0,5
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Accurate passes,134 (61%),693 (91%)
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Yellow cards,0,1
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Corners,1,8
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Ball possession,53,47
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Expected goals (xG),1.86,1.44
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Total shots,21,13
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Shots on target,7,5
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Touches in opposition box,30,25
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Big chances,3,1
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Big chances missed,2,1
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Accurate passes,484 (81%),443 (81%)
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Yellow cards,5,1
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Corners,8,7
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Ball possession,26,74
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Expected goals (xG),0.70,4.18
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Total shots,10,26
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Shots on target,5,12
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Touches in opposition box,16,42
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Big chances,2,7
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Big chances missed,1,2
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Accurate passes,160 (58%),697 (85%)
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Yellow cards,4,2
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Corners,3,9
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Ball possession,65,35
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Expected goals (xG),1.60,0.43
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Total shots,22,6
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Shots on target,4,3
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Touches in opposition box,39,8
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Big chances,2,1
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Big chances missed,1,1
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Accurate passes,429 (84%),223 (76%)
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Yellow cards,2,2
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Corners,11,1
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Ball possession,37,63
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Expected goals (xG),0.26,3.19
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Total shots,7,33
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Shots on target,2,9
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Touches in opposition box,15,67
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Big chances,0,3
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Big chances missed,0,3
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Accurate passes,279 (71%),554 (85%)
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Yellow cards,2,3
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Corners,5,11
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Ball possession,25,75
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Expected goals (xG),0.71,2.14
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Total shots,9,21
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Shots on target,6,8
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Touches in opposition box,22,47
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Big chances,1,3
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Big chances missed,1,0
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Accurate passes,175 (70%),694 (90%)
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Yellow cards,1,1
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Corners,4,8
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Ball possession,39,61
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Expected goals (xG),0.33,1.80
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Total shots,10,15
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Shots on target,3,4
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Touches in opposition box,11,19
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Big chances,0,2
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Big chances missed,0,0
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Accurate passes,175 (67%),337 (81%)
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Yellow cards,1,4
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Corners,6,5
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Ball possession,37,63
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Expected goals (xG),1.21,2.71
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Total shots,15,24
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Shots on target,7,10
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Touches in opposition box,16,43
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Big chances,2,3
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Big chances missed,2,1
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Accurate passes,210 (68%),459 (86%)
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Yellow cards,1,2
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Corners,8,9
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Ball possession,47,53
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Expected goals (xG),1.11,2.47
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Total shots,18,22
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Shots on target,5,5
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Touches in opposition box,23,30
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Big chances,1,5
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Big chances missed,1,5
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Accurate passes,319 (75%),361 (76%)
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Yellow cards,7,6
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Corners,5,15
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Ball possession,23,77
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Expected goals (xG),0.05,2.87
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Total shots,2,36
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Shots on target,1,12
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Touches in opposition box,3,101
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Big chances,0,6
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Big chances missed,0,5
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Accurate passes,121 (63%),568 (91%)
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Yellow cards,1,0
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Corners,2,17
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Ball possession,33,67
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Expected goals (xG),0.13,3.11
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Total shots,5,22
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Shots on target,2,9
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Touches in opposition box,8,48
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Big chances,0,5
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Big chances missed,0,2
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Accurate passes,296 (78%),711 (91%)
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Yellow cards,0,0
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Corners,0,8
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Ball possession,36,64
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Expected goals (xG),0.72,0.89
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Total shots,4,15
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Shots on target,3,4
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Touches in opposition box,9,23
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Big chances,2,0
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Big chances missed,0,0
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Accurate passes,242 (73%),502 (85%)
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Yellow cards,0,0
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Corners,1,6
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Ball possession,48,52
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Expected goals (xG),1.41,0.50
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Total shots,8,9
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Shots on target,3,5
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Touches in opposition box,12,25
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Big chances,1,1
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Big chances missed,0,1
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Accurate passes,345 (78%),370 (79%)
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Yellow cards,3,1
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Corners,5,6
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Ball possession,57,43
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Expected goals (xG),1.37,1.53
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Total shots,12,12
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Shots on target,4,6
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Touches in opposition box,41,22
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Big chances,2,2
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Big chances missed,1,1
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Accurate passes,526 (86%),393 (82%)
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Yellow cards,2,2
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Corners,4,3
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Ball possession,74,26
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Expected goals (xG),1.65,0.52
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Total shots,26,7
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Shots on target,6,2
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Touches in opposition box,55,7
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Big chances,1,0
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Big chances missed,1,0
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Accurate passes,580 (89%),159 (67%)
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Yellow cards,1,2
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Corners,18,2
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Ball possession,55,45
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Expected goals (xG),2.96,1.04
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Total shots,14,17
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Shots on target,8,4
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Touches in opposition box,26,32
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Big chances,5,1
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Big chances missed,2,1
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Accurate passes,417 (86%),321 (81%)
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Yellow cards,1,3
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Corners,3,4
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Ball possession,61,39
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Expected goals (xG),1.64,1.42
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Total shots,17,6
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Shots on target,3,2
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Touches in opposition box,38,12
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Big chances,2,3
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Big chances missed,1,1
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Accurate passes,437 (86%),270 (80%)
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Yellow cards,2,3
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Corners,7,2
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Ball possession,40,60
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Expected goals (xG),0.74,1.50
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Total shots,11,19
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Shots on target,4,9
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Touches in opposition box,13,30
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Big chances,2,2
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Big chances missed,0,1
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Accurate passes,240 (71%),428 (82%)
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Yellow cards,2,1
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Corners,2,5
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Ball possession,48,52
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Expected goals (xG),2.95,1.69
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Total shots,15,12
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Shots on target,6,5
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Touches in opposition box,29,14
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Big chances,6,3
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Big chances missed,5,0
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Accurate passes,318 (76%),373 (81%)
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Yellow cards,0,4
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Corners,5,3
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Ball possession,30,70
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Expected goals (xG),0.90,3.12
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Total shots,6,33
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Shots on target,0,4
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Touches in opposition box,9,62
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Big chances,1,6
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Big chances missed,1,5
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Accurate passes,166 (66%),504 (86%)
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Yellow cards,1,0
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Corners,1,14
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Ball possession,37,63
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Expected goals (xG),0.84,3.16
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Total shots,17,19
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Shots on target,5,5
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Touches in opposition box,19,39
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Big chances,1,6
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Big chances missed,1,5
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Accurate passes,246 (72%),490 (85%)
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Yellow cards,1,2
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Corners,4,6
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Ball possession,37,63
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Expected goals (xG),1.34,2.31
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Total shots,9,11
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Shots on target,1,2
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Touches in opposition box,19,25
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Big chances,1,4
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Big chances missed,0,2
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Accurate passes,189 (63%),396 (77%)
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Yellow cards,2,3
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Corners,5,7
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Ball possession,52,48
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Expected goals (xG),0.74,0.72
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Total shots,10,8
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Shots on target,2,4
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Touches in opposition box,18,22
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Big chances,3,2
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Big chances missed,1,2
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Accurate passes,491 (85%),439 (84%)
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Yellow cards,2,5
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Corners,2,4

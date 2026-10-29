@@ -1,0 +1,133 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Yellow cards,0,1
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Red cards,0,0
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Fouls committed,6,10
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Yellow cards,1,1
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Red cards,0,0
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Fouls committed,6,9
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Yellow cards,1,1
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Red cards,0,0
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Fouls committed,15,4
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Yellow cards,1,2
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Red cards,0,0
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Fouls committed,10,8
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Yellow cards,2,3
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Red cards,0,0
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Fouls committed,10,14
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Yellow cards,1,0
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Red cards,0,0
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Fouls committed,4,4
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Yellow cards,3,2
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Red cards,0,0
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Fouls committed,15,17
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Yellow cards,0,1
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Red cards,0,0
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Fouls committed,9,8
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Yellow cards,2,0
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Red cards,0,0
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Fouls committed,16,5
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Yellow cards,2,2
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Red cards,0,0
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Fouls committed,13,9
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Yellow cards,1,0
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Red cards,0,0
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Fouls committed,4,6
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Yellow cards,2,2
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Red cards,0,0
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Fouls committed,17,17
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Yellow cards,2,0
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Red cards,0,0
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Fouls committed,15,12
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Yellow cards,0,1
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Red cards,0,0
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Fouls committed,6,10
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Yellow cards,0,1
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Red cards,1,0
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Fouls committed,13,8
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Yellow cards,1,1
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Red cards,0,0
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Fouls committed,11,9
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Yellow cards,1,1
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Red cards,0,0
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Fouls committed,8,11
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Yellow cards,3,0
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Red cards,0,0
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Fouls committed,16,12
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Yellow cards,0,0
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Red cards,0,0
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Fouls committed,8,1
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Yellow cards,1,1
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Red cards,0,0
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Fouls committed,11,8
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Yellow cards,1,3
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Red cards,0,0
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Fouls committed,6,18
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Yellow cards,0,1
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Red cards,0,0
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Fouls committed,5,11
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Yellow cards,5,1
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Red cards,0,1
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Fouls committed,15,15
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Yellow cards,4,2
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Red cards,0,0
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Fouls committed,11,11
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Yellow cards,2,2
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Red cards,0,0
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Fouls committed,12,14
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Yellow cards,2,3
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Red cards,0,0
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Fouls committed,16,20
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Yellow cards,1,1
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Red cards,0,0
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Fouls committed,6,5
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Yellow cards,1,4
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Red cards,0,0
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Fouls committed,16,17
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Yellow cards,1,2
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Red cards,0,0
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Fouls committed,17,10
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Yellow cards,7,6
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Red cards,0,0
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Fouls committed,16,21
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Yellow cards,1,0
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Red cards,0,0
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Fouls committed,10,7
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Yellow cards,0,0
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Red cards,0,0
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Fouls committed,6,9
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Yellow cards,0,0
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Red cards,1,0
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Fouls committed,7,11
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Yellow cards,3,1
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Red cards,0,0
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Fouls committed,13,5
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Yellow cards,2,2
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Red cards,0,0
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Fouls committed,14,9
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Yellow cards,1,2
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Red cards,0,0
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Fouls committed,11,7
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Yellow cards,1,3
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Red cards,0,0
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Fouls committed,8,16
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Yellow cards,2,3
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Red cards,0,0
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Fouls committed,11,14
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Yellow cards,2,1
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Red cards,0,0
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Fouls committed,10,11
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Yellow cards,0,4
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Red cards,0,0
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Fouls committed,9,15
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Yellow cards,1,0
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Red cards,0,0
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Fouls committed,8,8
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Yellow cards,1,2
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Red cards,1,0
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Fouls committed,9,13
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Yellow cards,2,3
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Red cards,0,1
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Fouls committed,15,10
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Yellow cards,2,5
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Red cards,0,0
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Fouls committed,12,10

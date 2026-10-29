@@ -1,0 +1,225 @@
+source,source_native_id,source_name,team,canonical_player_id,matched_to_master,match_via
+fotmob,91395,Alberto Abengózar Martínez,Sporting Alcázar,fotmob_new_91395,False,
+fotmob,243378,Davison Lemus Nagles,Sporting Alcázar,fotmob_new_243378,False,
+fotmob,441442,Juanjo,Sporting Alcázar,fotmob_new_441442,False,
+fotmob,461674,Néstor Alan Otto Ruefli,Sporting Alcázar,fotmob_new_461674,False,
+fotmob,510608,Gilson Figueiredo Maria Junior,Sporting Alcázar,fotmob_new_510608,False,
+fotmob,516803,Einar Galilea,Málaga,138041,True,id_map
+fotmob,639039,Héctor Iván Prada Moncada,Sporting Alcázar,fotmob_new_639039,False,
+fotmob,639043,Ángel Contento García,Sporting Alcázar,fotmob_new_639043,False,
+fotmob,639055,José Luis Moreno Nieto,Sporting Alcázar,fotmob_new_639055,False,
+fotmob,722830,Eneko Jauregi,Málaga,216473,True,id_map
+fotmob,760933,Matías Enmanuel Barrios Alvariza,Sporting Alcázar,fotmob_new_760933,False,
+fotmob,760935,Rodolfo Bruno Ferraris,Sporting Alcázar,fotmob_new_760935,False,
+fotmob,760959,Antonio Avilés Ransanz,Sporting Alcázar,fotmob_new_760959,False,
+fotmob,760965,Raúl Moreno Nieto,Sporting Alcázar,fotmob_new_760965,False,
+fotmob,760973,Carlos Quiñones Moratalla,Sporting Alcázar,fotmob_new_760973,False,
+fotmob,760975,Walter Oscar Cáceres,Sporting Alcázar,fotmob_new_760975,False,
+fotmob,760977,John Esteban Zapata Loaiza,Sporting Alcázar,fotmob_new_760977,False,
+fotmob,760979,Carlos Romo Alberca,Sporting Alcázar,fotmob_new_760979,False,
+fotmob,760981,Andrew Gabriel Da Silva Castro,Sporting Alcázar,fotmob_new_760981,False,
+fotmob,760983,Moussa Traoré,Sporting Alcázar,fotmob_new_760983,False,
+fotmob,760985,Ángel Sánchez García,Sporting Alcázar,fotmob_new_760985,False,
+fotmob,760995,Emir Alejandro Ávila,Sporting Alcázar,fotmob_new_760995,False,
+fotmob,760997,Dionisio Delgado Lucas,Sporting Alcázar,fotmob_new_760997,False,
+fotmob,765541,Eduardo Minguez,Sporting Alcázar,fotmob_new_765541,False,
+fotmob,801120,Jens-Lys Cajuste,Málaga,454667,True,id_map
+fotmob,839232,Fernando Calero,Málaga,241869,True,id_map
+fotmob,873838,Juan Berrocal,Málaga,433632,True,id_map
+fotmob,1082957,Ramón Enríquez,Málaga,490733,True,id_map
+fotmob,1108863,David Larrubia,Málaga,495391,True,id_map
+fotmob,1187478,José Salinas,Málaga,515611,True,id_map
+fotmob,1209421,Carlos Dotor,Málaga,448178,True,id_map
+fotmob,1220748,Haitam Abaida,Málaga,482236,True,id_map
+fotmob,1256463,Álex Pastor,Málaga,521429,True,id_map
+fotmob,1260010,Ángel Recio,Málaga,539602,True,id_map
+fotmob,1317624,Dani Lorenzo,Málaga,561391,True,id_map
+fotmob,1403695,Adrián Niño,Málaga,593196,True,id_map
+fotmob,1426161,Carlos López,Málaga,fm_1426161,True,id_map
+fotmob,1434474,Rafa Rodríguez,Málaga,608484,True,id_map
+fotmob,1573563,Adam Aznou,Málaga,499300,True,id_map
+fotmob,1668274,Carlos Puga,Málaga,562075,True,id_map
+fotmob,1669619,Izan Merino,Málaga,620616,True,id_map
+fotmob,1669622,Chupe,Málaga,620045,True,id_map
+fotmob,1678287,Andrés Céspedes,Málaga,fm_1678287,True,id_map
+fotmob,1839193,Juan Fernandez,Málaga,fm_1839193,True,id_map
+fotmob,246438,Gerard Moreno,Villarreal,93721,True,id_map
+fotmob,434868,Fernando Albert Sanz,Manacor,fotmob_new_434868,False,
+fotmob,464517,Agustín Giaquinto,Manacor,fotmob_new_464517,False,
+fotmob,479020,Ayoze Pérez,Villarreal,168580,True,id_map
+fotmob,562114,Antoni Florit Tarongí,Manacor,fotmob_new_562114,False,
+fotmob,575735,Nicolas Pépé,Villarreal,195735,True,id_map
+fotmob,602459,Sergi Vecina Rosal,Manacor,fotmob_new_602459,False,
+fotmob,602466,Joan Mari Torrejón,Manacor,fotmob_new_602466,False,
+fotmob,602489,Josep Cardona Seguí,Manacor,fotmob_new_602489,False,
+fotmob,609609,César Bonafé,Villarreal,fotmob_new_609609,False,
+fotmob,671865,Santi Comesaña,Villarreal,230071,True,id_map
+fotmob,675637,Ayoub El Mkadmi,Manacor,fotmob_new_675637,False,
+fotmob,675683,Miki Capellà,Manacor,fotmob_new_675683,False,
+fotmob,709246,Joan Sorell Llull,Manacor,fotmob_new_709246,False,
+fotmob,710715,Sergio Barrera Martín,Villarreal,fotmob_new_710715,False,
+fotmob,716097,Pau Oliver Muntaner,Manacor,fotmob_new_716097,False,
+fotmob,721827,Nikolay Stoyanov Strashnikov Sch,Manacor,fotmob_new_721827,False,
+fotmob,721992,Alejandro Hurtado Giner,Manacor,fotmob_new_721992,False,
+fotmob,725126,Juan Carlos Gárdeñas Guerrero,Manacor,fotmob_new_725126,False,
+fotmob,761507,Adrián Marín Beltrán,Manacor,fotmob_new_761507,False,
+fotmob,761509,Álex Franco Singeorzan,Manacor,fotmob_new_761509,False,
+fotmob,761517,Guillem Caldentey Frau,Manacor,fotmob_new_761517,False,
+fotmob,761525,Iker Vives Hidalgo,Manacor,fotmob_new_761525,False,
+fotmob,761527,Lluís Ballester Martorell,Manacor,fotmob_new_761527,False,
+fotmob,761537,Pedro Miguel Marín Moncada,Manacor,fotmob_new_761537,False,
+fotmob,761539,Matías Ferrer Gallegos,Manacor,fotmob_new_761539,False,
+fotmob,761547,Bartomeu Amengual Frau,Manacor,fotmob_new_761547,False,
+fotmob,761549,Antonio Fresneda Rigo,Manacor,fotmob_new_761549,False,
+fotmob,763983,Raúl Acedo Ortega,Manacor,fotmob_new_763983,False,
+fotmob,833219,Juan Foyth,Villarreal,234908,True,id_map
+fotmob,844544,Pape Gueye,Villarreal,422453,True,id_map
+fotmob,922877,Logan Costa,Villarreal,445956,True,id_map
+fotmob,1026135,Tajon Buchanan,Villarreal,424622,True,id_map
+fotmob,1059657,Sergi Cardona,Villarreal,484693,True,id_map
+fotmob,1117069,Georges Mikautadze,Villarreal,499209,True,id_map
+fotmob,1184694,Alberto Moleiro,Villarreal,513956,True,id_map
+fotmob,1187044,Luíz Júnior,Villarreal,514664,True,id_map
+fotmob,1338696,Alex Freeman,Villarreal,484917,True,id_map
+fotmob,1338740,Tani Oluwaseyi,Villarreal,565686,True,id_map
+fotmob,1407468,Santiago Mouriño,Villarreal,536642,True,id_map
+fotmob,1408547,Rubén Gómez,Villarreal,fm_1408547,True,id_map
+fotmob,1531887,Pau Navarro,Villarreal,629907,True,id_map
+fotmob,1695966,Alassane Diatta,Villarreal,665522,True,id_map
+fotmob,1834463,Mauro Roca,Villarreal,fotmob_new_1834463,False,
+fotmob,1841906,Carlos Maciá,Villarreal,710081,True,id_map
+fotmob,1897470,Nizar El Jmili,Villarreal,fm_1897470,True,id_map
+fotmob,176628,Hicham Khaloua,UD Pinatar,fotmob_new_176628,False,
+fotmob,291635,Pedro Bigas,Elche,91393,True,id_map
+fotmob,493216,Ezequiel Ponce,Elche,172845,True,id_map
+fotmob,563195,Dani Dani,UD Pinatar,fotmob_new_563195,False,
+fotmob,592412,Matías Dituro,Elche,98448,True,id_map
+fotmob,602319,Hafid Rachiq El Kharraz,UD Pinatar,fotmob_new_602319,False,
+fotmob,623982,Josan,Elche,199195,True,id_map
+fotmob,654091,Grady Diangana,Elche,179830,True,id_map
+fotmob,759405,Alberto Vázquez,UD Pinatar,fotmob_new_759405,False,
+fotmob,759407,Fran Martínez,UD Pinatar,fotmob_new_759407,False,
+fotmob,759411,Pablo Tárraga,UD Pinatar,fotmob_new_759411,False,
+fotmob,759413,Joseda,UD Pinatar,fotmob_new_759413,False,
+fotmob,759425,Ismael Sánchez,UD Pinatar,fotmob_new_759425,False,
+fotmob,759431,Chipi,UD Pinatar,fotmob_new_759431,False,
+fotmob,759439,Mohammed Benhallou,UD Pinatar,fotmob_new_759439,False,
+fotmob,759447,Iván Jiménez,UD Pinatar,fotmob_new_759447,False,
+fotmob,760041,Jesús Martínez,UD Pinatar,fotmob_new_760041,False,
+fotmob,760043,Manuel Tárraga,UD Pinatar,fotmob_new_760043,False,
+fotmob,760045,Riky,UD Pinatar,fotmob_new_760045,False,
+fotmob,760047,Iván Vilches,UD Pinatar,fotmob_new_760047,False,
+fotmob,760053,Max Webb,UD Pinatar,fotmob_new_760053,False,
+fotmob,760061,Joselu,UD Pinatar,fotmob_new_760061,False,
+fotmob,760065,Salvador Piernas,UD Pinatar,fotmob_new_760065,False,
+fotmob,760067,Oualid Bennouna,UD Pinatar,fotmob_new_760067,False,
+fotmob,760069,Kerru,UD Pinatar,fotmob_new_760069,False,
+fotmob,762165,Jaime Llinares,UD Pinatar,fotmob_new_762165,False,
+fotmob,762169,Juan Martínez,UD Pinatar,fotmob_new_762169,False,
+fotmob,765417,Borja Gómez Calcerrada Aparicio,UD Pinatar,fotmob_new_765417,False,
+fotmob,801213,Tete Morente,Elche,429644,True,id_map
+fotmob,881773,Gonzalo Villar,Elche,450782,True,id_map
+fotmob,884383,Bambo Diaby,Elche,246800,True,master
+fotmob,1102708,Germán Valera,Elche,467020,True,id_map
+fotmob,1137497,Yago Santiago,Elche,492779,True,master
+fotmob,1206583,Kevin Lomónaco,Elche,479203,True,id_map
+fotmob,1226189,Martim Neto,Elche,483083,True,id_map
+fotmob,1277343,Federico Redondo,Elche,536884,True,id_map
+fotmob,1280756,Lucas Cepeda,Elche,541759,True,id_map
+fotmob,1311126,Alejandro Iturbe,Elche,fm_1311126,True,id_map
+fotmob,1330035,Rubén Sánchez,Elche,539600,True,id_map
+fotmob,1336566,Facundo Buonanotte,Elche,536916,True,id_map
+fotmob,1343195,Abiel Osorio,Elche,572662,True,id_map
+fotmob,1577912,Adam Boayar,Elche,fotmob_new_1577912,False,
+fotmob,1670276,Matia Barzić,Elche,593181,True,id_map
+fotmob,1670281,Ali Houary,Elche,631382,True,id_map
+fotmob,1732412,Javi Morcillo,Elche,714598,True,id_map
+fotmob,1959218,Alvaro Padilla,Elche,748535,True,id_map
+fotmob,184521,Florian Lejeune,Rayo Vallecano,77359,True,id_map
+fotmob,264885,Iván Balliu,Rayo Vallecano,97624,True,id_map
+fotmob,280871,Manuel Bonaque,Recreativo,fotmob_new_280871,False,
+fotmob,304361,Aitor García,Recreativo,fotmob_new_304361,False,
+fotmob,352364,Alex Bernal,Recreativo,fotmob_new_352364,False,
+fotmob,474658,Álvaro Garcia,Rayo Vallecano,165682,True,id_map
+fotmob,530537,José Carlos,Recreativo,fotmob_new_530537,False,
+fotmob,571615,Unai López,Rayo Vallecano,183462,True,id_map
+fotmob,602845,Emil Audero,Rayo Vallecano,193509,True,id_map
+fotmob,632056,Mikel Montero,Recreativo,fotmob_new_632056,False,
+fotmob,675555,Álex Carrasco,Recreativo,fotmob_new_675555,False,
+fotmob,715069,Pedro Díaz,Rayo Vallecano,435065,True,id_map
+fotmob,765501,Fernando Padilla Pasión,Recreativo,fotmob_new_765501,False,
+fotmob,765505,Iván Benito Mancera,Recreativo,fotmob_new_765505,False,
+fotmob,765511,Manuel Fernández,Recreativo,fotmob_new_765511,False,
+fotmob,797901,Jorge de Frutos,Rayo Vallecano,241153,True,id_map
+fotmob,872362,Marash Kumbulla,Rayo Vallecano,433059,True,id_map
+fotmob,872396,Pathé Ciss,Rayo Vallecano,441175,True,id_map
+fotmob,915264,Randy Nteka,Rayo Vallecano,449300,True,id_map
+fotmob,924300,Alemão,Rayo Vallecano,483116,True,id_map
+fotmob,926744,Pol Prats,Recreativo,fotmob_new_926744,False,
+fotmob,927646,Adrià Pedrosa,Rayo Vallecano,446990,True,id_map
+fotmob,939061,Giorgi Tsitaishvili,Rayo Vallecano,451017,True,id_map
+fotmob,939427,Mujaid Sadick,Rayo Vallecano,436027,True,id_map
+fotmob,956622,Óscar Valentín,Rayo Vallecano,433161,True,id_map
+fotmob,980422,Sergio Camello,Rayo Vallecano,248507,True,id_map
+fotmob,1041445,Dani Cárdenas,Rayo Vallecano,491436,True,id_map
+fotmob,1100274,Nacho Ruiz,Recreativo,fotmob_new_1100274,False,
+fotmob,1255090,Jozhua Vertrouwd,Rayo Vallecano,538671,True,id_map
+fotmob,1284430,Fran Pérez,Rayo Vallecano,466057,True,id_map
+fotmob,1293799,Néstor Senra,Recreativo,fotmob_new_1293799,False,
+fotmob,1323036,Roan Riera,Recreativo,fotmob_new_1323036,False,
+fotmob,1351016,Lulo Dasilva,Recreativo,fotmob_new_1351016,False,
+fotmob,1362969,Ale Marín,Recreativo,fotmob_new_1362969,False,
+fotmob,1411818,Pelayo Fernández,Rayo Vallecano,493085,True,id_map
+fotmob,1437511,Charbel Wehbe,Recreativo,fotmob_new_1437511,False,
+fotmob,1553404,Rayane Belaid,Rayo Vallecano,621927,True,id_map
+fotmob,1677235,Samu Cortés,Recreativo,fotmob_new_1677235,False,
+fotmob,1700530,David Pecellin,Recreativo,fotmob_new_1700530,False,
+fotmob,1711733,Mateo Izaguirre,Recreativo,fotmob_new_1711733,False,
+fotmob,1845978,Ivan Alonso,Rayo Vallecano,499356,True,id_map
+fotmob,1889232,Gnangoro Bouare,Rayo Vallecano,fm_1889232,True,id_map
+fotmob,1889243,Paolo Romero,Recreativo,fotmob_new_1889243,False,
+fotmob,169586,Leandro Cabrera,Espanyol,64662,True,id_map
+fotmob,280818,Marko Dmitrović,Espanyol,94618,True,id_map
+fotmob,358135,Markel Etxeberría,Sestao River,fotmob_new_358135,False,
+fotmob,484431,Paulino Miguélez Fernández,Sestao River,fotmob_new_484431,False,
+fotmob,503473,Anton Efremov,Sestao River,fotmob_new_503473,False,
+fotmob,561832,Adrián Carrión Rodríguez,Sestao River,fotmob_new_561832,False,
+fotmob,612296,Andoni Arzak,Sestao River,fotmob_new_612296,False,
+fotmob,633249,Ibon Urrosolo,Sestao River,fotmob_new_633249,False,
+fotmob,636555,Andoni Ugarte,Sestao River,fotmob_new_636555,False,
+fotmob,643637,Iñaki Saenz,Sestao River,fotmob_new_643637,False,
+fotmob,653961,Oier Maroto,Sestao River,fotmob_new_653961,False,
+fotmob,669563,Pablo Nistal,Sestao River,fotmob_new_669563,False,
+fotmob,675195,Issa Boiro,Sestao River,fotmob_new_675195,False,
+fotmob,680676,Mikel Zearreta,Sestao River,fotmob_new_680676,False,
+fotmob,750031,Pol Lozano,Espanyol,227172,True,id_map
+fotmob,765419,Ander Bengoetxea Uriarte,Sestao River,fotmob_new_765419,False,
+fotmob,837089,Edu Expósito,Espanyol,420909,True,id_map
+fotmob,846966,Javi Puado,Espanyol,431434,True,id_map
+fotmob,938244,Josemi Castañeda,Sestao River,fotmob_new_938244,False,
+fotmob,955204,Vanja Drkušić,Espanyol,462097,True,id_map
+fotmob,1181101,Tyrhys Dolan,Espanyol,420926,True,id_map
+fotmob,1184772,Ángel Fortuno,Espanyol,513951,True,id_map
+fotmob,1187767,Urko González,Espanyol,514204,True,id_map
+fotmob,1197634,Jon Rojo,Sestao River,fotmob_new_1197634,False,
+fotmob,1202525,Bryan Zaragoza,Espanyol,522601,True,id_map
+fotmob,1208708,Omar El Hilali,Espanyol,517929,True,id_map
+fotmob,1226757,Ander Iruarrizaga,Sestao River,fotmob_new_1226757,False,
+fotmob,1252373,Roberto Fernández,Espanyol,537940,True,id_map
+fotmob,1279557,Clemens Riedel,Espanyol,514968,True,id_map
+fotmob,1300457,Álex Calatrava,Espanyol,fm_1300457,True,id_map
+fotmob,1322888,Gonzalo Zorrilla,Sestao River,fotmob_new_1322888,False,
+fotmob,1323038,Eneko Delgado,Sestao River,fotmob_new_1323038,False,
+fotmob,1393669,Quilindschy Hartman,Espanyol,494960,True,id_map
+fotmob,1407741,Marcos Fernández,Espanyol,604116,True,id_map
+fotmob,1427828,Javi Hernández,Espanyol,628184,True,id_map
+fotmob,1432923,Gaizka Argente,Sestao River,fotmob_new_1432923,False,
+fotmob,1439553,Carlos González,Sestao River,fotmob_new_1439553,False,
+fotmob,1503655,Gabriel Moscardo,Espanyol,617127,True,id_map
+fotmob,1537614,Ander Laka,Sestao River,fotmob_new_1537614,False,
+fotmob,1609364,Rafel Bauzà,Espanyol,654680,True,id_map
+fotmob,1624106,Llorenç Serred,Espanyol,fm_1624106,True,id_map
+fotmob,1687255,José Ángel,Espanyol,623680,True,id_map
+fotmob,1727689,Roger Hinojo,Espanyol,690618,True,id_map
+fotmob,1816771,Ander Castillo,Sestao River,fotmob_new_1816771,False,
+fotmob,2387467,Markel Peral,Sestao River,fotmob_new_2387467,False,

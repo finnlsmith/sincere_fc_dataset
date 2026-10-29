@@ -1,0 +1,21 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Duels won,43,62
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Ground duels won,35 (47%),40 (53%)
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Aerial duels won,8 (27%),22 (73%)
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Successful dribbles,1 (20%),11 (52%)
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Duels won,36,54
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Ground duels won,29 (40%),44 (60%)
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Aerial duels won,7 (41%),10 (59%)
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Successful dribbles,1 (11%),21 (60%)
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Duels won,57,54
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Ground duels won,47 (55%),38 (45%)
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Aerial duels won,10 (38%),16 (62%)
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Successful dribbles,3 (50%),16 (37%)
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Duels won,53,66
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Ground duels won,49 (52%),45 (48%)
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Aerial duels won,4 (16%),21 (84%)
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Successful dribbles,5 (36%),16 (50%)
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Duels won,76,51
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Ground duels won,59 (61%),37 (39%)
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Aerial duels won,17 (55%),14 (45%)
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Successful dribbles,9 (60%),4 (18%)

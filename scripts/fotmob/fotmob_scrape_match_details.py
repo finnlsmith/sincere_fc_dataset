@@ -46,8 +46,15 @@ def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: s
         print("No finished matches to scrape.")
         return {"success": 0, "failed": 0, "skipped": 0}
 
-    sample_match    = finished[0]
-    sample_page_url = f"https://www.fotmob.com{sample_match['pageUrl'].split('#')[0]}"
+    # The token is captured by opening one match page and listening for its
+    # matchDetails API call. Some pages (e.g. amateur cup ties with no data)
+    # never make that call, so try a few spread-out matches before giving up:
+    # first, last, then evenly spaced through the list.
+    picks = [0, len(finished) - 1] + [len(finished) * k // 6 for k in range(1, 6)]
+    candidates = []
+    for i in picks:
+        if 0 <= i < len(finished) and finished[i] not in candidates:
+            candidates.append(finished[i])
 
     # ─── Step 2: Playwright intercepts token ───────────────────────────────────
     captured = {}
@@ -64,14 +71,24 @@ def scrape_match_details(fixtures_filename: str, output_dir: str, league_name: s
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context()
-        page    = context.new_page()
-        page.on("request", handle_request)
-        print(f"Opening {sample_page_url} to intercept token ...")
-        page.goto(sample_page_url, wait_until="networkidle", timeout=30000)
+        for attempt, sample_match in enumerate(candidates, start=1):
+            sample_page_url = f"https://www.fotmob.com{sample_match['pageUrl'].split('#')[0]}"
+            page = context.new_page()
+            page.on("request", handle_request)
+            print(f"Opening {sample_page_url} to intercept token ...")
+            try:
+                page.goto(sample_page_url, wait_until="networkidle", timeout=30000)
+            except Exception as e:
+                print(f"  (page load issue: {e.__class__.__name__}; checking for token anyway)")
+            page.close()
+            if captured.get("x-mas"):
+                break
+            if attempt < len(candidates):
+                print(f"  No token from that page, trying another match ({attempt}/{len(candidates)}) ...")
         browser.close()
 
     if not captured.get("x-mas"):
-        raise RuntimeError("Failed to capture x-mas token — try a different match page URL")
+        raise RuntimeError(f"Failed to capture x-mas token after trying {len(candidates)} match pages")
 
     def build_headers(referer):
         return {

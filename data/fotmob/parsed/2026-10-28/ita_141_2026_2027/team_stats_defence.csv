@@ -1,0 +1,121 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Tackles,20,16
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Interceptions,16,10
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Blocks,2,3
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Clearances,17,7
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Keeper saves,2,6
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Tackles,17,26
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Interceptions,13,10
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Blocks,5,4
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Clearances,24,9
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Keeper saves,3,2
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Tackles,21,14
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Interceptions,12,8
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Blocks,2,7
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Clearances,9,33
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Keeper saves,1,2
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Tackles,8,11
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Interceptions,7,5
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Blocks,3,1
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Clearances,12,7
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Keeper saves,3,3
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Tackles,11,11
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Interceptions,8,4
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Blocks,3,2
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Clearances,16,18
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Keeper saves,1,2
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Tackles,10,18
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Interceptions,7,7
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Blocks,3,4
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Clearances,19,17
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Keeper saves,0,1
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Tackles,13,11
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Interceptions,16,5
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Blocks,1,6
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Clearances,7,21
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Keeper saves,2,6
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Tackles,15,20
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Interceptions,10,7
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Blocks,2,2
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Clearances,10,12
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Keeper saves,3,2
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Tackles,16,6
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Interceptions,4,8
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Blocks,2,5
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Clearances,5,20
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Keeper saves,6,2
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Tackles,20,14
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Interceptions,13,10
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Blocks,6,6
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Clearances,8,11
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Keeper saves,1,5
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Tackles,16,25
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Interceptions,14,10
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Blocks,3,3
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Clearances,22,18
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Keeper saves,2,2
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Tackles,7,12
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Interceptions,8,14
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Blocks,3,6
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Clearances,7,36
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Keeper saves,5,3
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Tackles,17,20
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Interceptions,5,2
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Blocks,2,1
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Clearances,17,12
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Keeper saves,2,4
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Tackles,15,17
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Interceptions,9,12
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Blocks,1,4
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Clearances,10,15
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Keeper saves,5,5
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Tackles,4,9
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Interceptions,5,8
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Blocks,1,1
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Clearances,13,10
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Keeper saves,3,1
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Tackles,19,13
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Interceptions,5,10
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Blocks,6,1
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Clearances,26,23
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Keeper saves,3,3
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Tackles,30,24
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Interceptions,7,5
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Blocks,2,8
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Clearances,15,38
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Keeper saves,2,5
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Tackles,26,19
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Interceptions,8,11
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Blocks,0,1
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Clearances,21,24
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Keeper saves,6,4
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Tackles,19,21
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Interceptions,9,11
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Blocks,4,8
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Clearances,33,37
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Keeper saves,7,0
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Tackles,11,14
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Interceptions,13,14
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Blocks,3,2
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Clearances,15,32
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Keeper saves,4,2
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Tackles,9,31
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Interceptions,3,10
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Blocks,2,7
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Clearances,18,33
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Keeper saves,3,3
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Tackles,21,21
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Interceptions,3,10
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Blocks,3,1
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Clearances,27,27
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Keeper saves,6,2
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Tackles,20,8
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Interceptions,12,16
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Blocks,1,2
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Clearances,21,17
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Keeper saves,3,6
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Tackles,20,18
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Interceptions,9,6
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Blocks,1,3
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Clearances,12,21
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Keeper saves,0,4

@@ -1,0 +1,842 @@
+source,source_native_id,source_name,team,canonical_player_id,matched_to_master,match_via
+fotmob,78516,Salvatore Caturano,Catania,fotmob_new_78516,False,
+fotmob,155249,Francesco Di Tacchio,Catania,fotmob_new_155249,False,
+fotmob,282756,Daniele Donnarumma,Catania,fotmob_new_282756,False,
+fotmob,282763,Marco Perrotta,Catania,fotmob_new_282763,False,
+fotmob,470800,Emanuele Cicerelli,Catania,fotmob_new_470800,False,
+fotmob,490840,Alex Rolfini,Catania,fotmob_new_490840,False,
+fotmob,633209,Catello Amendola,Catania,fotmob_new_633209,False,
+fotmob,656557,Andrea Allegretto,Catania,fotmob_new_656557,False,
+fotmob,656811,Michael Liguori,Catania,fotmob_new_656811,False,
+fotmob,671955,Mario Ierardi,Catania,fotmob_new_671955,False,
+fotmob,681205,Cristian De Falco,Catania,fotmob_new_681205,False,
+fotmob,748299,Antonio Vitali,Catania,fotmob_new_748299,False,
+fotmob,748300,Nicolò Catania,Catania,fotmob_new_748300,False,
+fotmob,773502,Andrea Dini,Catania,fotmob_new_773502,False,
+fotmob,819884,Alessandro Quaini,Catania,fotmob_new_819884,False,
+fotmob,822589,Pontus Almqvist,Parma,248755,True,id_map
+fotmob,864668,Gabriel Lunetta,Catania,fotmob_new_864668,False,
+fotmob,867377,Alessandro Raimo,Catania,fotmob_new_867377,False,
+fotmob,867789,Emanuele Valeri,Parma,430529,True,id_map
+fotmob,935380,Enrico Del Prato,Parma,449321,True,id_map
+fotmob,951714,Adrián Bernabé,Parma,449926,True,id_map
+fotmob,968029,Lautaro Valenti,Parma,462487,True,id_map
+fotmob,1042024,Giovanni Bruzzaniti,Catania,fotmob_new_1042024,False,
+fotmob,1053676,Abdoulaye Ndiaye,Parma,484743,True,id_map
+fotmob,1054114,El Bilal Touré,Parma,476489,True,id_map
+fotmob,1097009,Oliver Sørensen,Parma,494784,True,id_map
+fotmob,1117310,Edoardo Corvi,Parma,488616,True,id_map
+fotmob,1189391,Andrea Corbari,Catania,fotmob_new_1189391,False,
+fotmob,1190288,Gabriele Pagliai,Catania,fotmob_new_1190288,False,
+fotmob,1190371,Matija Frigan,Parma,521472,True,id_map
+fotmob,1197339,Filippo Rinaldi,Catania,495227,True,master
+fotmob,1199360,Franco Carboni,Parma,505185,True,id_map
+fotmob,1239749,Mandela Keita,Parma,534913,True,id_map
+fotmob,1300473,Kaleb Jimenez,Catania,fotmob_new_1300473,False,
+fotmob,1318686,Alessandro Circati,Parma,497908,True,master
+fotmob,1393542,Christian Ordóñez,Parma,575886,True,id_map
+fotmob,1439776,Rachid Kouda,Mantova,625908,True,id_map
+fotmob,1519035,Giovanni Daffara,Parma,fm_1519035,True,id_map
+fotmob,1520184,Mariano Troilo,Parma,626942,True,id_map
+fotmob,1604019,Simone Leonardi,Catania,fotmob_new_1604019,False,
+fotmob,1684415,Ousmane Diallo,Parma,633419,True,id_map
+fotmob,1693531,Sascha Britschgi,Parma,678583,True,id_map
+fotmob,1820280,Aymen Zouin,Parma,fotmob_new_1820280,False,
+fotmob,1843609,Simone Lontani,Parma,631127,True,id_map
+fotmob,1844134,Abdou-Salam Konate,Parma,604265,True,id_map
+fotmob,1891769,Dominik Drobnic,Parma,577976,True,id_map
+fotmob,1997571,Alessandro Mazzocchi,Parma,fm_1997571,True,id_map
+fotmob,150464,Andrea Seculin,Arezzo,fotmob_new_150464,False,
+fotmob,168727,Artur Ionita,Arezzo,fotmob_new_168727,False,
+fotmob,282772,Marco Chiosa,Arezzo,fotmob_new_282772,False,
+fotmob,435684,Boris Radunović,Cagliari,fm_435684,True,id_map
+fotmob,449283,Alessandro Deiola,Cagliari,162330,True,id_map
+fotmob,526237,Mauro Coppolaro,Arezzo,fotmob_new_526237,False,
+fotmob,528453,Harry Winks,Cagliari,157668,True,id_map
+fotmob,571454,Julián Illanes,Arezzo,fotmob_new_571454,False,
+fotmob,818778,Shaka Mawuli,Arezzo,fotmob_new_818778,False,
+fotmob,903079,Andrea Cagnano,Arezzo,fotmob_new_903079,False,
+fotmob,931689,Mattia Viviani,Arezzo,fotmob_new_931689,False,
+fotmob,936164,Michel Ndary Adopo,Cagliari,449470,True,id_map
+fotmob,949731,Gabriele Zappa,Cagliari,235584,True,id_map
+fotmob,953637,Emiliano Pattarello,Arezzo,fotmob_new_953637,False,
+fotmob,957107,Zé Pedro,Cagliari,545932,True,id_map
+fotmob,958422,Elia Caprile,Cagliari,463912,True,id_map
+fotmob,1021302,Mattia Felici,Cagliari,476933,True,id_map
+fotmob,1030646,Gennaro Borrelli,Cagliari,480374,True,id_map
+fotmob,1072054,Daniel Maldini,Cagliari,488253,True,id_map
+fotmob,1078477,Alessandro Arena,Arezzo,fotmob_new_1078477,False,
+fotmob,1083015,Matteo Cortesi,Arezzo,fotmob_new_1083015,False,
+fotmob,1127035,Samuele Righetti,Arezzo,fotmob_new_1127035,False,
+fotmob,1165232,Giuseppe Aurelio,Cagliari,508629,True,id_map
+fotmob,1178779,Alen Sherri,Cagliari,fm_1178779,True,id_map
+fotmob,1190053,Camillo Tavernelli,Arezzo,fotmob_new_1190053,False,
+fotmob,1228979,Luca Chierico,Arezzo,fotmob_new_1228979,False,
+fotmob,1289961,Adam Obert,Cagliari,484995,True,id_map
+fotmob,1290613,Nicolò Cavuoti,Cagliari,549167,True,id_map
+fotmob,1305226,Ivan Sulev,Cagliari,572156,True,id_map
+fotmob,1329487,Jacopo Fazzini,Cagliari,550095,True,id_map
+fotmob,1396084,Raphael Kofler,Cagliari,587803,True,id_map
+fotmob,1396089,Matteo Prati,Cagliari,588222,True,id_map
+fotmob,1403339,Gennaro Iaccarino,Arezzo,fotmob_new_1403339,False,
+fotmob,1410621,Matteo Gilli,Arezzo,fotmob_new_1410621,False,
+fotmob,1428181,Muhamed Varela Djamanca,Arezzo,fotmob_new_1428181,False,
+fotmob,1477567,Alessandro Nunziante,Arezzo,fotmob_new_1477567,False,
+fotmob,1489117,Alessandro Renzi,Arezzo,fotmob_new_1489117,False,
+fotmob,1498718,Kingstone Mutandwa,Cagliari,612704,True,id_map
+fotmob,1616142,Mattia Sala,Arezzo,fotmob_new_1616142,False,
+fotmob,1621219,Juan Rodríguez,Cagliari,617160,True,id_map
+fotmob,1668212,Kevin Leone,Arezzo,fotmob_new_1668212,False,
+fotmob,1705649,Alessando Romano,Cagliari,620568,True,id_map
+fotmob,1724391,Demi Akarakiri,Cagliari,644145,True,id_map
+fotmob,1806027,Marlon Mena,Arezzo,612425,True,master
+fotmob,1807301,Joseph Liteta,Cagliari,618927,True,id_map
+fotmob,1817272,Nicola Grandu,Cagliari,620811,True,id_map
+fotmob,1861022,Yael Trepy,Cagliari,612234,True,master
+fotmob,1902196,Paul Mendy,Cagliari,687995,True,id_map
+fotmob,2074678,Gianmarco Cipriani,Arezzo,fotmob_new_2074678,False,
+fotmob,2139573,Francesco Serban,Arezzo,fotmob_new_2139573,False,
+fotmob,190281,Antony Iannarilli,Avellino,fotmob_new_190281,False,
+fotmob,299934,Tommaso Cancellotti,Avellino,fotmob_new_299934,False,
+fotmob,301023,Armando Izzo,Avellino,fotmob_new_301023,False,
+fotmob,365268,Dimitrios Sounas,Avellino,fotmob_new_365268,False,
+fotmob,413160,Andrea Petagna,Monza,fotmob_new_413160,False,
+fotmob,482419,Tommaso Biasci,Avellino,fotmob_new_482419,False,
+fotmob,488525,Luca Palmiero,Avellino,fotmob_new_488525,False,
+fotmob,607149,Andrea Favilli,Avellino,fotmob_new_607149,False,
+fotmob,634244,Lorenco Simic,Avellino,fotmob_new_634244,False,
+fotmob,639671,Patrick Cutrone,Monza,209353,True,id_map
+fotmob,737339,Dany Mota,Monza,225452,True,id_map
+fotmob,772683,Luca Pandolfi,Avellino,fotmob_new_772683,False,
+fotmob,799497,Samuele Birindelli,Monza,241711,True,id_map
+fotmob,805743,Arvid Brorsson,Monza,fotmob_new_805743,False,
+fotmob,814284,Filippo Delli Carri,Monza,244397,True,id_map
+fotmob,824655,Ricardo Mangas,Monza,176490,True,id_map
+fotmob,860272,Marco Sala,Avellino,fotmob_new_860272,False,
+fotmob,899649,Valentin Antov,Monza,235001,True,id_map
+fotmob,917464,Semuel Pizzignacco,Monza,ws_351408,True,id_map
+fotmob,937462,Andrea Colpani,Monza,449739,True,id_map
+fotmob,954422,Michael Venturi,Avellino,fotmob_new_954422,False,
+fotmob,955947,Demba Thiam,Monza,ws_362543,True,id_map
+fotmob,1034330,Raffaele Russo,Avellino,fotmob_new_1034330,False,
+fotmob,1123969,Andrea Carboni,Monza,501395,True,id_map
+fotmob,1146635,Martin Palumbo,Avellino,fotmob_new_1146635,False,
+fotmob,1172045,Patrick Enrici,Avellino,fotmob_new_1172045,False,
+fotmob,1189402,Nicolas Galazzi,Monza,516018,True,id_map
+fotmob,1190023,Omari Forson,Monza,487828,True,id_map
+fotmob,1203212,Daniel Fila,Avellino,fotmob_new_1203212,False,
+fotmob,1359390,Jacopo Sassi,Avellino,fotmob_new_1359390,False,
+fotmob,1368381,Luca Di Maggio,Avellino,fotmob_new_1368381,False,
+fotmob,1384360,Alessandro Fontanarosa,Avellino,fotmob_new_1384360,False,
+fotmob,1384625,Giacomo Faticanti,Avellino,fotmob_new_1384625,False,
+fotmob,1391528,Michele Besaggio,Avellino,fotmob_new_1391528,False,
+fotmob,1420260,Tommaso Martinelli,Avellino,fotmob_new_1420260,False,
+fotmob,1425693,Adam Bakoune,Monza,578303,True,id_map
+fotmob,1453338,Jay Robinson,Monza,495024,True,id_map
+fotmob,1524139,Lorenzo Lucchesi,Monza,629287,True,id_map
+fotmob,1560409,Brando Moruzzi,Avellino,fotmob_new_1560409,False,
+fotmob,1577900,Foe Ondoa,Monza,fm_1577900,True,id_map
+fotmob,1585676,Gustavo Varela,Monza,561812,True,id_map
+fotmob,1668173,Solomon Loubao,Monza,664879,True,id_map
+fotmob,1676901,Eddy Kouadio,Monza,654936,True,id_map
+fotmob,1691435,Francesco Maisto,Avellino,fotmob_new_1691435,False,
+fotmob,1804416,Aljaz Strajnar,Monza,fm_1804416,True,id_map
+fotmob,1879542,Mathis Mout,Monza,598561,True,id_map
+fotmob,154245,Luca Caldirola,Benevento,fotmob_new_154245,False,
+fotmob,182917,David de Gea,Fiorentina,51940,True,id_map
+fotmob,187360,Simone Verdi,Benevento,fotmob_new_187360,False,
+fotmob,282059,Luca Lezzerini,Fiorentina,fm_282059,True,id_map
+fotmob,282700,Stefano Scognamillo,Benevento,fotmob_new_282700,False,
+fotmob,478081,Mattia Maita,Benevento,fotmob_new_478081,False,
+fotmob,491222,Gianmarco Vannucchi,Benevento,fotmob_new_491222,False,
+fotmob,665188,Albert Gudmundsson,Fiorentina,215147,True,id_map
+fotmob,665312,Francesco Paolo Salvemini,Benevento,fotmob_new_665312,False,
+fotmob,665313,Leonardo Sernicola,Benevento,223967,True,master
+fotmob,740161,David Okereke,Benevento,221781,True,master
+fotmob,747926,Moise Kean,Fiorentina,242058,True,id_map
+fotmob,750734,Dodô,Fiorentina,218445,True,id_map
+fotmob,806972,Oliver Christensen,Fiorentina,243349,True,id_map
+fotmob,831474,Marin Pongračić,Fiorentina,421634,True,id_map
+fotmob,864770,Pietro Beruatto,Benevento,fotmob_new_864770,False,
+fotmob,912369,Christian Kouan,Benevento,fotmob_new_912369,False,
+fotmob,935406,Luca Ranieri,Fiorentina,215983,True,id_map
+fotmob,950596,Marco Brescianini,Fiorentina,458059,True,id_map
+fotmob,951712,Nicolò Fagioli,Fiorentina,226270,True,id_map
+fotmob,958421,João Mário,Fiorentina,437860,True,id_map
+fotmob,1130473,Christian Dalle Mura,Benevento,fotmob_new_1130473,False,
+fotmob,1189161,Davide Lamesta,Benevento,fotmob_new_1189161,False,
+fotmob,1203661,Radu Drăgușin,Fiorentina,493125,True,id_map
+fotmob,1204343,Edoardo Pierozzi,Benevento,fotmob_new_1204343,False,
+fotmob,1209977,Pietro Saio,Benevento,fotmob_new_1209977,False,
+fotmob,1246009,Cher Ndour,Fiorentina,536474,True,id_map
+fotmob,1276505,Giovanni Fabbian,Fiorentina,511444,True,id_map
+fotmob,1283069,Antonis Siatounis,Benevento,fotmob_new_1283069,False,
+fotmob,1289955,Angelo Talia,Benevento,fotmob_new_1289955,False,
+fotmob,1328627,Antonio Prisco,Benevento,fotmob_new_1328627,False,
+fotmob,1428426,Arthur Atta,Fiorentina,606931,True,id_map
+fotmob,1501917,Viery,Fiorentina,624094,True,id_map
+fotmob,1607566,Franco Mastantuono,Fiorentina,576550,True,id_map
+fotmob,1642351,Niccolò Fortini,Fiorentina,602122,True,id_map
+fotmob,1666494,Christ Inao Oulaï,Fiorentina,660728,True,id_map
+fotmob,1678624,Guglielmo Mignani,Benevento,fotmob_new_1678624,False,
+fotmob,1712399,Valde,Fiorentina,669473,True,id_map
+fotmob,1784179,Eman Kospo,Fiorentina,634069,True,id_map
+fotmob,1835436,Brando Mazzeo,Fiorentina,682910,True,id_map
+fotmob,1950605,Logan,Benevento,fotmob_new_1950605,False,
+fotmob,2018923,Federico Croci,Fiorentina,665767,True,id_map
+fotmob,2091131,Alioune Sylla,Benevento,fotmob_new_2091131,False,
+fotmob,2137080,Manuel Esposito,Benevento,fotmob_new_2137080,False,
+fotmob,2155258,Marco Giugliano,Benevento,fotmob_new_2155258,False,
+fotmob,182836,Marco D'Alessandro,Catanzaro,fotmob_new_182836,False,
+fotmob,282437,Mirko Pigliacelli,Catanzaro,fotmob_new_282437,False,
+fotmob,299393,Salvatore Molina,Südtirol,fotmob_new_299393,False,
+fotmob,299949,Pietro Iemmello,Catanzaro,fotmob_new_299949,False,
+fotmob,300239,Daniele Casiraghi,Südtirol,fotmob_new_300239,False,
+fotmob,566683,Fabian Tait,Südtirol,fotmob_new_566683,False,
+fotmob,575731,Jacopo Petriccione,Catanzaro,fotmob_new_575731,False,
+fotmob,652910,Marius Adamonis,Südtirol,fotmob_new_652910,False,
+fotmob,674031,Elias Schrott,Südtirol,fotmob_new_674031,False,
+fotmob,684082,Marco Iuliano,Südtirol,fotmob_new_684082,False,
+fotmob,746831,Nicola Mosti,Catanzaro,fotmob_new_746831,False,
+fotmob,776937,Marco Varnier,Südtirol,fotmob_new_776937,False,
+fotmob,783635,Alessandro Plizzari,Südtirol,fotmob_new_783635,False,
+fotmob,813711,Matias Antonini Lui,Catanzaro,fotmob_new_813711,False,
+fotmob,814400,Antonio Candela,Catanzaro,fotmob_new_814400,False,
+fotmob,942203,Bjarki Steinn Bjarkason,Südtirol,fotmob_new_942203,False,
+fotmob,960601,Nicoló Buso,Catanzaro,fotmob_new_960601,False,
+fotmob,1050190,Marco Ruggero,Catanzaro,fotmob_new_1050190,False,
+fotmob,1078781,Christian Marietta,Catanzaro,fotmob_new_1078781,False,
+fotmob,1083430,Simone Davì,Südtirol,fotmob_new_1083430,False,
+fotmob,1100598,Niklas Pyyhtiä,Südtirol,fotmob_new_1100598,False,
+fotmob,1183741,Simone Tronchin,Südtirol,fotmob_new_1183741,False,
+fotmob,1189399,Giovanni Volpe,Catanzaro,fotmob_new_1189399,False,
+fotmob,1189492,Aljosa Vasic,Südtirol,fotmob_new_1189492,False,
+fotmob,1219024,Marco Frigerio,Südtirol,fotmob_new_1219024,False,
+fotmob,1241308,Vasco Lopes,Südtirol,fotmob_new_1241308,False,
+fotmob,1285144,Gonçalo Esteves,Catanzaro,fotmob_new_1285144,False,
+fotmob,1286272,Rareş Burnete,Südtirol,fotmob_new_1286272,False,
+fotmob,1327978,Riccardo Stivanello,Südtirol,fotmob_new_1327978,False,
+fotmob,1366034,Simone Pafundi,Catanzaro,fotmob_new_1366034,False,
+fotmob,1391712,Federico Davi,Südtirol,fotmob_new_1391712,False,
+fotmob,1391722,Mehdi Dorval,Catanzaro,fotmob_new_1391722,False,
+fotmob,1401612,Davide Veroli,Südtirol,fotmob_new_1401612,False,
+fotmob,1413759,Gabriele Alesi,Catanzaro,fotmob_new_1413759,False,
+fotmob,1441894,Ruggero Frosinini,Catanzaro,fotmob_new_1441894,False,
+fotmob,1455441,Bruno Verrengia,Catanzaro,fotmob_new_1455441,False,
+fotmob,1507646,Kenny Mixtur,Südtirol,fotmob_new_1507646,False,
+fotmob,1518564,Giacomo Stabile,Südtirol,fotmob_new_1518564,False,
+fotmob,1525690,Edoardo Borrelli,Catanzaro,fotmob_new_1525690,False,
+fotmob,1557497,Jacopo Martini,Südtirol,fotmob_new_1557497,False,
+fotmob,1675658,Dhirar Brik,Südtirol,fotmob_new_1675658,False,
+fotmob,1681817,Nicolò Postiglione,Catanzaro,fotmob_new_1681817,False,
+fotmob,1690597,Ervin Bashi,Catanzaro,fotmob_new_1690597,False,
+fotmob,1741069,Gabriel Arditi,Catanzaro,fotmob_new_1741069,False,
+fotmob,1784560,Sayha Seha,Catanzaro,fotmob_new_1784560,False,
+fotmob,1807590,Franky Tchaouna,Catanzaro,fotmob_new_1807590,False,
+fotmob,1897331,Francesco Reita,Catanzaro,fotmob_new_1897331,False,
+fotmob,2124830,Rok Vadjunec,Südtirol,fotmob_new_2124830,False,
+fotmob,2139259,Raul Tassoni,Catanzaro,fotmob_new_2139259,False,
+fotmob,2139281,Alejo Garnica,Catanzaro,fotmob_new_2139281,False,
+fotmob,42692,Daniele Padelli,Udinese,18377,True,id_map
+fotmob,149219,Christian Kabasele,Udinese,85624,True,id_map
+fotmob,252650,Gianluca Caprari,Padova,fotmob_new_252650,False,
+fotmob,299886,Kevin Lasagna,Padova,fotmob_new_299886,False,
+fotmob,322003,Jesper Karlström,Udinese,160602,True,id_map
+fotmob,488415,Hassane Kamara,Udinese,171099,True,id_map
+fotmob,500759,Francesco Di Mariano,Padova,fotmob_new_500759,False,
+fotmob,557346,Sandi Lovric,Udinese,191794,True,id_map
+fotmob,557396,Adam Buksa,Udinese,186734,True,master
+fotmob,560945,Mërgim Vojvoda,Udinese,212667,True,id_map
+fotmob,591809,Mattia Bortolussi,Padova,fotmob_new_591809,False,
+fotmob,617057,Kevin Varas,Padova,fotmob_new_617057,False,
+fotmob,689987,Jakub Piotrowski,Udinese,219155,True,id_map
+fotmob,701801,Filippo Sgarbi,Padova,fotmob_new_701801,False,
+fotmob,724368,Keinan Davis,Udinese,221239,True,id_map
+fotmob,769167,Enzo Ebosse,Udinese,208554,True,id_map
+fotmob,776970,Lorenzo Carissoni,Padova,fotmob_new_776970,False,
+fotmob,782695,Luca Zanimacchia,Padova,fotmob_new_782695,False,
+fotmob,818893,Nicolò Zaniolo,Udinese,245414,True,id_map
+fotmob,820736,Marco Pompetti,Padova,fotmob_new_820736,False,
+fotmob,866708,Oumar Solet,Udinese,432649,True,id_map
+fotmob,934156,Jurgen Ekkelenkamp,Udinese,220238,True,id_map
+fotmob,952496,Pietro Fusi,Padova,fotmob_new_952496,False,
+fotmob,1047570,Matteo Lovato,Padova,fotmob_new_1047570,False,
+fotmob,1050184,Christian Pastina,Padova,fotmob_new_1050184,False,
+fotmob,1083606,Alessandro Sorrentino,Padova,fotmob_new_1083606,False,
+fotmob,1091193,Maduka Okoye,Udinese,492443,True,id_map
+fotmob,1106916,Oier Zarraga,Udinese,245018,True,id_map
+fotmob,1121796,Emanuele Zuelli,Padova,fotmob_new_1121796,False,
+fotmob,1146636,Edoardo Piana,Udinese,fm_1146636,True,id_map
+fotmob,1258292,Nicolò Bertola,Udinese,539223,True,id_map
+fotmob,1269329,James Abankwah,Udinese,491266,True,id_map
+fotmob,1306108,Alessandro Capelli,Padova,fotmob_new_1306108,False,
+fotmob,1310477,Carlo Faedo,Padova,fotmob_new_1310477,False,
+fotmob,1395738,Giovanni Giunti,Padova,fotmob_new_1395738,False,
+fotmob,1399969,Lennon Miller,Udinese,568793,True,id_map
+fotmob,1405339,Simone Scaglia,Padova,fotmob_new_1405339,False,
+fotmob,1436270,Unai Gómez,Udinese,619506,True,id_map
+fotmob,1450999,Juan Arizala,Udinese,614790,True,id_map
+fotmob,1480713,David Pejicic,Udinese,577947,True,id_map
+fotmob,1517673,Louis Mouquet,Padova,fotmob_new_1517673,False,
+fotmob,1532261,Idrissa Gueye,Udinese,632811,True,id_map
+fotmob,1560751,Matteo Cocchi,Padova,577693,True,master
+fotmob,1640961,Alessandro Dellavalle,Padova,fotmob_new_1640961,False,
+fotmob,1645922,Matteo Palma,Udinese,647151,True,id_map
+fotmob,1697238,Jacopo Bacci,Padova,fotmob_new_1697238,False,
+fotmob,1712223,Branimir Mlacic,Udinese,685714,True,id_map
+fotmob,1721395,Abdoulaye Camara,Udinese,632602,True,master
+fotmob,1728482,Enrico Silletti,Padova,fotmob_new_1728482,False,
+fotmob,2066364,Tommaso Bordoni,Padova,fotmob_new_2066364,False,
+fotmob,163805,Leandro Chichizola,Modena,fotmob_new_163805,False,
+fotmob,267260,Gastón Brugman,Modena,fotmob_new_267260,False,
+fotmob,414232,Ridgeciano Haps,Venezia,148435,True,id_map
+fotmob,414924,Francesco Zampano,Modena,fotmob_new_414924,False,
+fotmob,415091,Matteo Grandi,Venezia,fm_415091,True,id_map
+fotmob,553401,Davide Adorni,Modena,fotmob_new_553401,False,
+fotmob,680391,Treasure Egharevba,Modena,fotmob_new_680391,False,
+fotmob,845368,John Yeboah,Venezia,241243,True,id_map
+fotmob,863130,Pedro Mendes,Modena,fotmob_new_863130,False,
+fotmob,866165,Lion Lauberbach,Venezia,428364,True,id_map
+fotmob,879064,Simone Santoro,Modena,fotmob_new_879064,False,
+fotmob,879393,Alessio Pozzi,Venezia,fotmob_new_879393,False,
+fotmob,888167,Kike Pérez,Venezia,241865,True,id_map
+fotmob,924431,Gianluca Busio,Venezia,427168,True,id_map
+fotmob,939593,Thórir Helgason,Venezia,449122,True,id_map
+fotmob,951765,Armel Bella-Kotchap,Venezia,477386,True,id_map
+fotmob,958640,Akor Adams,Venezia,484640,True,id_map
+fotmob,975242,Simon Sohm,Venezia,449790,True,id_map
+fotmob,979789,Giuseppe Caso,Modena,fotmob_new_979789,False,
+fotmob,992052,Thierry Correia,Venezia,222629,True,id_map
+fotmob,1050821,Simone Panada,Venezia,487989,True,id_map
+fotmob,1072710,Bartol Franjic,Venezia,240996,True,id_map
+fotmob,1130600,Filip Stankovic,Venezia,ws_391573,True,id_map
+fotmob,1158934,Giacomo Olzer,Modena,fotmob_new_1158934,False,
+fotmob,1162514,Marko Lawk Farji,Venezia,fm_1162514,True,id_map
+fotmob,1228840,Alessandro Bianco,Modena,fotmob_new_1228840,False,
+fotmob,1290968,Antoine Hainaut,Venezia,588403,True,id_map
+fotmob,1298186,Redouane Halhal,Venezia,552173,True,id_map
+fotmob,1310608,Steven Nador,Modena,fotmob_new_1310608,False,
+fotmob,1316205,Giuseppe Ambrosino,Modena,561219,True,master
+fotmob,1320317,Kleis Bozhanaj,Modena,fotmob_new_1320317,False,
+fotmob,1338946,Daniele Montevago,Modena,fotmob_new_1338946,False,
+fotmob,1352744,Joël Schingtienne,Venezia,585392,True,id_map
+fotmob,1357947,Alvin Okoro,Südtirol,577193,True,id_map
+fotmob,1379468,Albion Rrahmani,Venezia,543173,True,id_map
+fotmob,1388039,Richie Sagrado,Venezia,513537,True,id_map
+fotmob,1388163,Stênio,Modena,fotmob_new_1388163,False,
+fotmob,1401758,Bryant Nieling,Modena,fotmob_new_1401758,False,
+fotmob,1432542,Antonio Imputato,Modena,fotmob_new_1432542,False,
+fotmob,1451177,Daniel Tonoli,Modena,fotmob_new_1451177,False,
+fotmob,1460862,Lamine Fanne,Venezia,617693,True,id_map
+fotmob,1529483,Kornel Lisman,Venezia,639018,True,id_map
+fotmob,1605748,Matías Moreno,Venezia,622127,True,id_map
+fotmob,1669642,Gady Beyuku,Modena,fotmob_new_1669642,False,
+fotmob,1685576,Luca Bacchin,Modena,fotmob_new_1685576,False,
+fotmob,1842921,Ale Gomes,Venezia,712678,True,id_map
+fotmob,1910768,Tito Fabbri,Modena,fotmob_new_1910768,False,
+fotmob,1962178,Pietro Arnaboldi,Modena,fotmob_new_1962178,False,
+fotmob,1980580,Andrea Maran,Modena,fotmob_new_1980580,False,
+fotmob,2065272,Leonardo Consiglio,Modena,fotmob_new_2065272,False,
+fotmob,2065285,Martino Odero,Modena,fotmob_new_2065285,False,
+fotmob,49541,Vincenzo Fiorillo,Carrarese,fotmob_new_49541,False,
+fotmob,239350,Cristiano Biraghi,Torino,88432,True,id_map
+fotmob,413546,Niccolò Belloni,Carrarese,fotmob_new_413546,False,
+fotmob,415137,Alberto Paleari,Torino,152934,True,id_map
+fotmob,469615,Giovanni Simeone,Torino,166016,True,id_map
+fotmob,557677,Nikola Vlasic,Torino,180151,True,id_map
+fotmob,599353,Ché Adams,Torino,200439,True,id_map
+fotmob,625427,Mattia Finotto,Carrarese,fotmob_new_625427,False,
+fotmob,641362,Giulio Baroncelli,Carrarese,fotmob_new_641362,False,
+fotmob,678835,Mattia Bencaster,Carrarese,fotmob_new_678835,False,
+fotmob,705484,Eray Cömert,Torino,220327,True,id_map
+fotmob,720091,Niccolò Romagnoli,Carrarese,fotmob_new_720091,False,
+fotmob,750880,Ardian Ismajli,Torino,229912,True,id_map
+fotmob,823113,Sandro Kulenovic,Torino,235740,True,id_map
+fotmob,846761,Zakaria Aboukhlal,Torino,219263,True,id_map
+fotmob,935622,Marcus Holmgren Pedersen,Torino,450444,True,id_map
+fotmob,941953,Saúl Coco,Torino,451565,True,id_map
+fotmob,1032823,Filippo Oliana,Carrarese,fotmob_new_1032823,False,
+fotmob,1110045,Gaetano Oristanio,Torino,465628,True,id_map
+fotmob,1189424,Fabio Abiuso,Carrarese,fotmob_new_1189424,False,
+fotmob,1211242,Giovanni Garofani,Carrarese,fotmob_new_1211242,False,
+fotmob,1218556,Kian Fitz-Jim,Torino,492771,True,id_map
+fotmob,1301633,Emirhan Ilkhan,Torino,551286,True,id_map
+fotmob,1339372,Cesare Casadei,Torino,505187,True,id_map
+fotmob,1344928,Moustapha Cissé,Carrarese,fotmob_new_1344928,False,
+fotmob,1367616,Tommaso Guercio,Carrarese,fotmob_new_1367616,False,
+fotmob,1421505,Gvidas Gineitis,Torino,561003,True,id_map
+fotmob,1427017,Jonas Rouhi,Carrarese,551140,True,master
+fotmob,1429871,Ali Dembélé,Torino,607395,True,id_map
+fotmob,1444197,Fabio Ruggeri,Carrarese,fotmob_new_1444197,False,
+fotmob,1529222,Pietro Comuzzo,Torino,628413,True,id_map
+fotmob,1577119,Diego Mascardi,Torino,596959,True,id_map
+fotmob,1596404,Gabriele Parlanti,Carrarese,fotmob_new_1596404,False,
+fotmob,1689725,Yanis Khafi,Carrarese,608244,True,master_transfer
+fotmob,1690267,Tommaso Rubino,Carrarese,fotmob_new_1690267,False,
+fotmob,1742992,Lorenzo Romani,Carrarese,fotmob_new_1742992,False,
+fotmob,1746591,Alessio Cacciamani,Torino,643622,True,id_map
+fotmob,1762472,Andrea Luongo,Torino,635773,True,id_map
+fotmob,1783599,Giacomo Marconi,Carrarese,fotmob_new_1783599,False,
+fotmob,1791781,Pietro Pinelli,Carrarese,604278,True,master
+fotmob,1817264,Lapo Siviero,Torino,fm_1817264,True,id_map
+fotmob,1879686,Mattia Pellini,Südtirol,667790,True,id_map
+fotmob,2017721,Filippo Liberati,Carrarese,fotmob_new_2017721,False,
+fotmob,73873,Matteo Baldi,Juve Stabia,fotmob_new_73873,False,
+fotmob,353519,Kevin Akpoguma,Frosinone,120002,True,id_map
+fotmob,415425,Matteo Pisseri,Frosinone,fm_415425,True,id_map
+fotmob,723575,Alessandro Confente,Juve Stabia,fotmob_new_723575,False,
+fotmob,743743,Leonardo Candellone,Juve Stabia,fotmob_new_743743,False,
+fotmob,746829,Giacomo Calò,Frosinone,226522,True,id_map
+fotmob,749488,Romano Schmid,Frosinone,228564,True,id_map
+fotmob,843153,Davide Buglio,Juve Stabia,fotmob_new_843153,False,
+fotmob,850295,Alessio Zerbin,Frosinone,247099,True,id_map
+fotmob,867796,Marco Bellich,Juve Stabia,fotmob_new_867796,False,
+fotmob,881770,Kevin Piscopo,Juve Stabia,fotmob_new_881770,False,
+fotmob,937460,Emanuele Torrasi,Juve Stabia,fotmob_new_937460,False,
+fotmob,959858,Davide Bettella,Juve Stabia,fotmob_new_959858,False,
+fotmob,1031127,Thomas Battistella,Juve Stabia,fotmob_new_1031127,False,
+fotmob,1033343,Terrence Douglas,Juve Stabia,fotmob_new_1033343,False,
+fotmob,1112769,Manuel Ricciardi,Juve Stabia,fotmob_new_1112769,False,
+fotmob,1117058,Ilario Monterisi,Frosinone,499207,True,id_map
+fotmob,1165467,Christian Pierobon,Juve Stabia,fotmob_new_1165467,False,
+fotmob,1183746,Pietro Boer,Juve Stabia,fotmob_new_1183746,False,
+fotmob,1188316,Ilias Koutsoupias,Frosinone,492199,True,id_map
+fotmob,1189214,Tommaso Maggioni,Juve Stabia,fotmob_new_1189214,False,
+fotmob,1189223,Patrizio Masini,Frosinone,588118,True,id_map
+fotmob,1198009,Luigi Caccavo,Juve Stabia,fotmob_new_1198009,False,
+fotmob,1235421,Anthony Oyono,Frosinone,520025,True,id_map
+fotmob,1256534,Antonio Raimondo,Frosinone,538734,True,id_map
+fotmob,1280112,Sebastiano Desplanches,Frosinone,fm_1280112,True,id_map
+fotmob,1285119,Anouar El Azzouzi,Frosinone,464965,True,id_map
+fotmob,1289655,Lorenzo Palmisani,Frosinone,ws_447439,True,id_map
+fotmob,1326861,Justin Kumi,Juve Stabia,fotmob_new_1326861,False,
+fotmob,1327513,Giorgio Cittadini,Frosinone,493261,True,id_map
+fotmob,1342748,Giorgi Kvernadze,Frosinone,558122,True,id_map
+fotmob,1387381,Omar Correia,Juve Stabia,fotmob_new_1387381,False,
+fotmob,1396091,Gabriele Bracaglia,Frosinone,588664,True,id_map
+fotmob,1402924,Luis Hasa,Frosinone,550269,True,id_map
+fotmob,1415326,Gabriele Calvani,Frosinone,594346,True,id_map
+fotmob,1523327,Farès Ghedjemis,Frosinone,607330,True,id_map
+fotmob,1529149,Nicola Patanè,Juve Stabia,fotmob_new_1529149,False,
+fotmob,1532181,Saná Fernandes,Juve Stabia,631716,True,master
+fotmob,1668164,Alessandro Signorini,Juve Stabia,fotmob_new_1668164,False,
+fotmob,1670272,Matteo Cichella,Frosinone,576530,True,id_map
+fotmob,1714709,Francesco D'Amore,Juve Stabia,fotmob_new_1714709,False,
+fotmob,1876050,Francesco Gallea,Juve Stabia,fotmob_new_1876050,False,
+fotmob,1897605,Giulio Scuderi,Juve Stabia,fotmob_new_1897605,False,
+fotmob,1900185,Daniel Perin,Juve Stabia,fotmob_new_1900185,False,
+fotmob,2097157,Romeo Sandrucci,Juve Stabia,fotmob_new_2097157,False,
+fotmob,364104,Stefano Sabelli,Genoa,126488,True,id_map
+fotmob,365448,Gennaro Acampora,Ascoli,fotmob_new_365448,False,
+fotmob,566560,Marcos Curado,Ascoli,fotmob_new_566560,False,
+fotmob,577914,Daniele Sommariva,Genoa,195561,True,id_map
+fotmob,684981,Aarón Martín,Genoa,234369,True,id_map
+fotmob,707970,Djibril Sow,Genoa,185524,True,id_map
+fotmob,718625,Rocco Dente,Ascoli,fotmob_new_718625,False,
+fotmob,718647,Antonio Russo,Ascoli,fotmob_new_718647,False,
+fotmob,718673,Filippo Diamanti,Ascoli,fotmob_new_718673,False,
+fotmob,721533,Justin Bijlow,Genoa,184933,True,id_map
+fotmob,740944,Leo Østigard,Genoa,462026,True,id_map
+fotmob,743597,Chec Bebel Doumbia,Genoa,fotmob_new_743597,False,
+fotmob,746835,Samuele Damiani,Ascoli,fotmob_new_746835,False,
+fotmob,794245,Don Bolsius,Ascoli,fotmob_new_794245,False,
+fotmob,914103,Johan Vásquez,Genoa,431026,True,id_map
+fotmob,921543,Morten Frendrup,Genoa,445733,True,id_map
+fotmob,935405,Gabriele Gori,Ascoli,fotmob_new_935405,False,
+fotmob,942193,Mikael Egill Ellertsson,Genoa,488006,True,id_map
+fotmob,951238,Franz Stolz,Genoa,fm_951238,True,id_map
+fotmob,956291,Federico Gattoni,Ascoli,456943,True,master_transfer
+fotmob,970922,Abdoul Guiébré,Ascoli,fotmob_new_970922,False,
+fotmob,1003368,Junior Messias,Genoa,432070,True,id_map
+fotmob,1050163,Lorenzo Colombo,Genoa,450025,True,id_map
+fotmob,1066581,Nicholas Rizzo,Ascoli,fotmob_new_1066581,False,
+fotmob,1184458,Mario Mitaj,Genoa,474900,True,id_map
+fotmob,1186242,Gian Crespi,Ascoli,fotmob_new_1186242,False,
+fotmob,1200591,Tommaso Baldanzi,Genoa,518908,True,id_map
+fotmob,1201000,Tommaso Milanese,Ascoli,fotmob_new_1201000,False,
+fotmob,1201803,Samuele Vitale,Ascoli,fotmob_new_1201803,False,
+fotmob,1214915,Brooke Norton-Cuffy,Genoa,496181,True,id_map
+fotmob,1215057,Vítinha,Genoa,522479,True,id_map
+fotmob,1217159,Amine Chakir,Ascoli,fotmob_new_1217159,False,
+fotmob,1231904,Elias Havel,Genoa,492911,True,id_map
+fotmob,1254184,Andrea Silipo,Ascoli,fotmob_new_1254184,False,
+fotmob,1270264,Simone D'Uffizi,Ascoli,fotmob_new_1270264,False,
+fotmob,1289940,Giovanni Corradini,Ascoli,fotmob_new_1289940,False,
+fotmob,1305760,Andrea Oliveri,Ascoli,fotmob_new_1305760,False,
+fotmob,1404077,Sebastian Otoa,Genoa,594234,True,id_map
+fotmob,1405996,David Puczka,Genoa,520217,True,id_map
+fotmob,1432741,Luca Lo Scalzo,Ascoli,fotmob_new_1432741,False,
+fotmob,1436436,Alessandro Marcandalli,Genoa,624931,True,id_map
+fotmob,1469120,Amorim,Genoa,610163,True,id_map
+fotmob,1483108,Giacomo De Pieri,Ascoli,fotmob_new_1483108,False,
+fotmob,1670284,Adam Zulevic,Genoa,662323,True,id_map
+fotmob,1700207,Sergiu Perciun,Ascoli,598060,True,master
+fotmob,1902062,Samuel Wiafe,Genoa,613692,True,id_map
+fotmob,1910652,Mamedi Doucouré,Genoa,656992,True,id_map
+fotmob,128803,Simone Colombi,Virtus Entella,fotmob_new_128803,False,
+fotmob,213299,Nicola Leali,Verona,87968,True,master
+fotmob,364515,Simone Perilli,Verona,161060,True,master
+fotmob,365447,Francesco Forte,Virtus Entella,fotmob_new_365447,False,
+fotmob,506248,Ivan Marconi,Virtus Entella,fotmob_new_506248,False,
+fotmob,518522,Andrea Tiritiello,Virtus Entella,fotmob_new_518522,False,
+fotmob,624591,Luca Parodi,Virtus Entella,fotmob_new_624591,False,
+fotmob,625797,Grigoris Kastanos,Verona,199637,True,master
+fotmob,670050,Noe Tagne,Verona,fotmob_new_670050,False,
+fotmob,767013,Antoine Bernede,Verona,225903,True,master
+fotmob,774643,Federico Del Frate,Virtus Entella,fotmob_new_774643,False,
+fotmob,815733,Francesco Mezzoni,Virtus Entella,fotmob_new_815733,False,
+fotmob,846006,Andrias Edmundsson,Verona,435641,True,master
+fotmob,867418,Leonardo Benedetti,Virtus Entella,fotmob_new_867418,False,
+fotmob,909030,Abdou Harroui,Verona,234506,True,master
+fotmob,921594,Domagoj Bradaric,Verona,458681,True,master
+fotmob,923222,Samuele Mulattieri,Verona,445971,True,master
+fotmob,959370,Lucas Felippe,Virtus Entella,fotmob_new_959370,False,
+fotmob,1055824,Seid Korač,Verona,fotmob_new_1055824,False,
+fotmob,1059658,Bernat Guiu,Virtus Entella,fotmob_new_1059658,False,
+fotmob,1098817,Daniel Oyegoke,Verona,450547,True,master
+fotmob,1128077,Mattia Tirelli,Virtus Entella,fotmob_new_1128077,False,
+fotmob,1156568,Amin Sarr,Verona,507930,True,master
+fotmob,1169327,Kacper Sezonienko,Verona,fotmob_new_1169327,False,
+fotmob,1169352,Mattia Compagnon,Verona,fotmob_new_1169352,False,
+fotmob,1197040,Niccolò Squizzato,Virtus Entella,fotmob_new_1197040,False,
+fotmob,1309634,Dailon Livramento,Verona,558499,True,master
+fotmob,1326806,Giacomo Toniolo,Verona,fotmob_new_1326806,False,
+fotmob,1359124,Riccardo Turicchia,Virtus Entella,fotmob_new_1359124,False,
+fotmob,1367915,Tobias Slotsager,Verona,559042,True,master
+fotmob,1396052,Mattia Motolese,Virtus Entella,fotmob_new_1396052,False,
+fotmob,1504804,Charlys,Verona,612222,True,master
+fotmob,1562973,Nicolò Calabrese,Verona,fotmob_new_1562973,False,
+fotmob,1566363,Nicolas Previtali,Virtus Entella,fotmob_new_1566363,False,
+fotmob,1572463,Andrea Franzoni,Virtus Entella,fotmob_new_1572463,False,
+fotmob,1603723,Giacomo Corona,Virtus Entella,fotmob_new_1603723,False,
+fotmob,1682173,Leorat Bega,Verona,fotmob_new_1682173,False,
+fotmob,1685569,Stefano Di Mario,Virtus Entella,fotmob_new_1685569,False,
+fotmob,1690112,Ruben Akalé,Verona,fotmob_new_1690112,False,
+fotmob,1775258,Ioan Vermesan,Verona,566421,True,master
+fotmob,1784312,Mattia Valori,Virtus Entella,fotmob_new_1784312,False,
+fotmob,1805105,Fallou Cham,Verona,704944,True,master
+fotmob,1810881,Mattia Alborghetti,Virtus Entella,fotmob_new_1810881,False,
+fotmob,1816329,Davide De Battisti,Verona,621845,True,master
+fotmob,1920299,Salvatore Cerbone,Verona,fotmob_new_1920299,False,
+fotmob,2139261,Edoardo Torrielli,Virtus Entella,fotmob_new_2139261,False,
+fotmob,2139262,Tommaso Annoni,Virtus Entella,fotmob_new_2139262,False,
+fotmob,181920,Francesco Bardi,Mantova,fotmob_new_181920,False,
+fotmob,478447,Adam Marusic,Lazio,169107,True,id_map
+fotmob,517829,Ettore Gliozzi,Mantova,fotmob_new_517829,False,
+fotmob,541555,Mattia Zaccagni,Lazio,157008,True,id_map
+fotmob,629594,Alfonso Pedraza,Lazio,208380,True,id_map
+fotmob,662205,Manuel Lazzari,Lazio,156323,True,id_map
+fotmob,724196,Danilho Doekhi,Lazio,216257,True,id_map
+fotmob,749268, Yassin,Mantova,fotmob_new_749268,False,
+fotmob,774812,Andrea Meroni,Mantova,fotmob_new_774812,False,
+fotmob,807148,Luca Pellegrini,Lazio,215981,True,id_map
+fotmob,815431,Davide Frattesi,Lazio,235453,True,id_map
+fotmob,899993,Manuel Gasparini,Mantova,fotmob_new_899993,False,
+fotmob,915156,Christos Mandas,Lazio,436416,True,id_map
+fotmob,970565,Kenneth Taylor,Lazio,441278,True,id_map
+fotmob,972120,Boulaye Dia,Lazio,468488,True,id_map
+fotmob,976226,Stefano Cella,Mantova,fotmob_new_976226,False,
+fotmob,1005792,Luca Gemello,Mantova,fotmob_new_1005792,False,
+fotmob,1019019,Simone Trimboli,Mantova,fotmob_new_1019019,False,
+fotmob,1020963,Nicolò Rovella,Lazio,450024,True,id_map
+fotmob,1091907,Fisayo Dele-Bashiru,Lazio,215814,True,id_map
+fotmob,1146500,Matteo Cancellieri,Lazio,466149,True,id_map
+fotmob,1190208,Rares Ilie,Mantova,fotmob_new_1190208,False,
+fotmob,1209246,David Wieser,Mantova,fotmob_new_1209246,False,
+fotmob,1226778,Francesco Ruocco,Mantova,fotmob_new_1226778,False,
+fotmob,1282285,Tijjani Noslin,Lazio,544865,True,id_map
+fotmob,1302821,Petar Ratkov,Lazio,530193,True,id_map
+fotmob,1307957,Romano Floriani Mussolini,Lazio,556998,True,id_map
+fotmob,1333331,Oliver Provstgaard,Lazio,497891,True,id_map
+fotmob,1388071,Reda Belahyane,Lazio,585579,True,id_map
+fotmob,1429907,Flavio Paoletti,Mantova,fotmob_new_1429907,False,
+fotmob,1432581,Davide Bragantini,Mantova,fotmob_new_1432581,False,
+fotmob,1435833,Adrian Przyborek,Lazio,609683,True,id_map
+fotmob,1444195,Davide Renzetti,Lazio,fm_1444195,True,id_map
+fotmob,1485381,Lorenzo Ignacchiti,Mantova,fotmob_new_1485381,False,
+fotmob,1520368,Fahem Benaïssa-Yahia,Mantova,fotmob_new_1520368,False,
+fotmob,1592431,Federico Chinetti,Mantova,fotmob_new_1592431,False,
+fotmob,1603822,Jean-Pierre Longonda,Mantova,fotmob_new_1603822,False,
+fotmob,1613261,Alessio Castellini,Mantova,fotmob_new_1613261,False,
+fotmob,1621082,Edoardo Motta,Lazio,596827,True,id_map
+fotmob,1639413,Jonathan Silva,Mantova,fotmob_new_1639413,False,
+fotmob,1659853,Bodin Tomasevic,Mantova,624306,True,master
+fotmob,1711283,Federico Serra,Lazio,633962,True,id_map
+fotmob,1792563,Sambaly Keita,Mantova,fotmob_new_1792563,False,
+fotmob,1816668,Valerio Farcomeni,Lazio,638709,True,id_map
+fotmob,1821785,Ismale Cajazzo,Mantova,fotmob_new_1821785,False,
+fotmob,1842381,Bruno Galassi,Lazio,fotmob_new_1842381,False,
+fotmob,1879692,Cristian Marai,Mantova,fotmob_new_1879692,False,
+fotmob,2140499,Badr Bayou,Mantova,fotmob_new_2140499,False,
+fotmob,2159101,Ricardo Bordon,Lazio,681438,True,id_map
+fotmob,111739,Simone Romagnoli,Empoli,fotmob_new_111739,False,
+fotmob,195416,Antonio Caracciolo,Pisa,80931,True,master
+fotmob,506776,Stefano Moreo,Pisa,193206,True,master
+fotmob,583659,Arturo Calabresi,Pisa,155895,True,master
+fotmob,636872,Samuele Tavanti,Empoli,fotmob_new_636872,False,
+fotmob,636949,Samuele Perisan,Empoli,fotmob_new_636949,False,
+fotmob,718850,Cristian Cauz,Empoli,fotmob_new_718850,False,
+fotmob,747079,Adrian Semper,Pisa,218362,True,master
+fotmob,754438,Joseph Ceesay,Empoli,fotmob_new_754438,False,
+fotmob,769341,Leonardo Loria,Pisa,fotmob_new_769341,False,
+fotmob,790725,Marco Curto,Empoli,fotmob_new_790725,False,
+fotmob,819874,Luca Magnino,Empoli,fotmob_new_819874,False,
+fotmob,847357,Mehdi Léris,Pisa,423768,True,master
+fotmob,864006,Mattéo Tramoni,Pisa,429453,True,master
+fotmob,897315,Simone Canestrelli,Pisa,440297,True,master
+fotmob,953590,Simone Zanon,Pisa,fotmob_new_953590,False,
+fotmob,1015263,Luca Belardinelli,Empoli,fotmob_new_1015263,False,
+fotmob,1077237,Tomás Esteves,Pisa,465187,True,master
+fotmob,1170996,Flavio Bianchi,Empoli,fotmob_new_1170996,False,
+fotmob,1280172,Giuseppe Leone,Pisa,fotmob_new_1280172,False,
+fotmob,1289054,Gerard Yepes,Empoli,fotmob_new_1289054,False,
+fotmob,1289520,Gabriele Piccinini,Pisa,546127,True,master
+fotmob,1296413,Henrik Meister,Pisa,553986,True,master
+fotmob,1315426,Filippo Distefano,Empoli,fotmob_new_1315426,False,
+fotmob,1343374,Felipe Loyola,Pisa,540373,True,master
+fotmob,1354820,Rosen Bozhinov,Pisa,578992,True,master
+fotmob,1396088,Gabriele Indragoli,Empoli,fotmob_new_1396088,False,
+fotmob,1400859,İsak Vural,Pisa,577295,True,master
+fotmob,1402629,Stiven Shpendi,Empoli,fotmob_new_1402629,False,
+fotmob,1414496,Jacopo Seghetti,Empoli,fotmob_new_1414496,False,
+fotmob,1428560,Ichem Ferrah,Pisa,fotmob_new_1428560,False,
+fotmob,1434429,Emanuele Rao,Pisa,fotmob_new_1434429,False,
+fotmob,1440966,Edoardo Saporiti,Empoli,fotmob_new_1440966,False,
+fotmob,1470404,Ante Vukovic,Pisa,fotmob_new_1470404,False,
+fotmob,1666015,Andrea Primasso,Pisa,fotmob_new_1666015,False,
+fotmob,1667686,Tommaso Marras,Pisa,fotmob_new_1667686,False,
+fotmob,1669644,Lorenzo Tosto,Empoli,fotmob_new_1669644,False,
+fotmob,1669645,Bogdan Popov,Empoli,fotmob_new_1669645,False,
+fotmob,1700209,Thomas Campaniello,Empoli,fotmob_new_1700209,False,
+fotmob,1717609,Louis Buffon,Pisa,640029,True,master
+fotmob,1795392,Jeremy Mbambi,Pisa,651256,True,master
+fotmob,1804333,Andrea Orlandi,Empoli,fotmob_new_1804333,False,
+fotmob,1837406,Lapo Deli,Empoli,602123,True,master
+fotmob,2013009,Edoardo Biondini,Empoli,fotmob_new_2013009,False,
+fotmob,2139530,Emiliano Filippis,Empoli,fotmob_new_2139530,False,
+fotmob,2139531,Salvatore Monaco,Empoli,fotmob_new_2139531,False,
+fotmob,2139601,Jacopo Frosali,Pisa,fotmob_new_2139601,False,
+fotmob,2155260,Matteo Egan,Empoli,fotmob_new_2155260,False,
+fotmob,2155269,Mattia Huqi,Empoli,fotmob_new_2155269,False,
+fotmob,2155270,Samsondeen Babalola,Empoli,fotmob_new_2155270,False,
+fotmob,115067,Nemanja Matic,Sassuolo,62398,True,id_map
+fotmob,242711,Dimitri Bisoli,Cesena,fotmob_new_242711,False,
+fotmob,665723,Tommaso Mazzi,Cesena,fotmob_new_665723,False,
+fotmob,669708,Gabriel Kulla,Sassuolo,fotmob_new_669708,False,
+fotmob,674625,Enea Casadei,Cesena,fotmob_new_674625,False,
+fotmob,695494,Matteo Casadei,Cesena,fotmob_new_695494,False,
+fotmob,702395,Massimiliano Mangraviti,Cesena,fotmob_new_702395,False,
+fotmob,720649,Nicholas Pierini,Sassuolo,221800,True,id_map
+fotmob,760752,Arijanet Muric,Sassuolo,232917,True,id_map
+fotmob,869054,Stefano Turati,Sassuolo,433128,True,id_map
+fotmob,878860,Andrea Ciofi,Cesena,fotmob_new_878860,False,
+fotmob,935769,Armand Laurienté,Sassuolo,449431,True,id_map
+fotmob,937412,Jay Idzes,Sassuolo,449722,True,id_map
+fotmob,982617,Kieron Bowie,Sassuolo,470692,True,id_map
+fotmob,1022843,Luca Moro,Sassuolo,463781,True,master
+fotmob,1055183,Andrea Ghion,Sassuolo,485264,True,id_map
+fotmob,1079501,Cas Odenthal,Sassuolo,219252,True,id_map
+fotmob,1130330,Josh Doig,Sassuolo,487997,True,id_map
+fotmob,1164361,Matteo Piacentini,Cesena,fotmob_new_1164361,False,
+fotmob,1167529,Rafael Obrador,Sassuolo,500047,True,id_map
+fotmob,1189692,Edoardo Iannoni,Sassuolo,513353,True,id_map
+fotmob,1190051,Luca Schirone,Cesena,fotmob_new_1190051,False,
+fotmob,1210653,Riccardo Ciervo,Cagliari,515593,True,id_map
+fotmob,1217271,Mark Natta,Cesena,fotmob_new_1217271,False,
+fotmob,1280137,Cristian Shpendi,Cesena,fotmob_new_1280137,False,
+fotmob,1280142,Matteo Francesconi,Cesena,fotmob_new_1280142,False,
+fotmob,1307979,Filippo Missori,Sassuolo,550264,True,id_map
+fotmob,1308909,Cristian Volpato,Sassuolo,558973,True,id_map
+fotmob,1316088,Benja Domínguez,Sassuolo,561201,True,id_map
+fotmob,1343910,Mihajlo Ilic,Cesena,fotmob_new_1343910,False,
+fotmob,1369279,Luca Lipani,Sassuolo,578990,True,id_map
+fotmob,1382375,Vasilije Adzic,Sassuolo,585201,True,id_map
+fotmob,1398350,Patrick Nuamah,Sassuolo,588203,True,id_map
+fotmob,1459763,Matteo Guidi,Cesena,fotmob_new_1459763,False,
+fotmob,1484827,Riccardo Pagano,Cesena,fotmob_new_1484827,False,
+fotmob,1515133,Vittorio Magni,Cesena,fotmob_new_1515133,False,
+fotmob,1553106,Antonio Fiori,Cesena,fotmob_new_1553106,False,
+fotmob,1639457,Maat Caprini,Cesena,fotmob_new_1639457,False,
+fotmob,1641041,Darryl Bakola,Sassuolo,634416,True,id_map
+fotmob,1642587,Alessandro Debenedetti,Cesena,fotmob_new_1642587,False,
+fotmob,1668235,Alessandro Siano,Cesena,fotmob_new_1668235,False,
+fotmob,1694382,Xavello Druiventak,Cesena,fotmob_new_1694382,False,
+fotmob,1707509,Niccolò Fontana,Cesena,fotmob_new_1707509,False,
+fotmob,1735847,Simone Cinquegrano,Sassuolo,704987,True,id_map
+fotmob,1816282,Alessandro Di Bitonto,Sassuolo,666360,True,id_map
+fotmob,1832898,Filippo Bertaccini,Cesena,fotmob_new_1832898,False,
+fotmob,1839106,Lorenzo Nyarko,Sassuolo,fm_1839106,True,id_map
+fotmob,1858596,Tommaso Macchioni,Sassuolo,594993,True,id_map
+fotmob,2139516,Antonio David,Cesena,fotmob_new_2139516,False,
+fotmob,108381,Milan Djuric,Cremonese,49203,True,master
+fotmob,279820,Matteo Bianchetti,Cremonese,103063,True,master
+fotmob,395651,Stefan Gartenmann,Sampdoria,fotmob_new_395651,False,
+fotmob,410411,Andrea Fulignati,Cremonese,fotmob_new_410411,False,
+fotmob,447488,Alex Ferrari,Sampdoria,fotmob_new_447488,False,
+fotmob,465404,Gennaro Tutino,Sampdoria,fotmob_new_465404,False,
+fotmob,466113,Jari Vandeputte,Cremonese,167737,True,master
+fotmob,469939,Liam Henderson,Sampdoria,fotmob_new_469939,False,
+fotmob,491798,Alessandro Bellemo,Sampdoria,fotmob_new_491798,False,
+fotmob,543306,Federico Bonazzoli,Cremonese,161932,True,master
+fotmob,574850,Fabio Gerli,Cremonese,fotmob_new_574850,False,
+fotmob,575364,Alberto Grassi,Cremonese,195516,True,master
+fotmob,604330,Sebastiano Luperto,Cremonese,168618,True,master
+fotmob,612526,Simone Pontisso,Cremonese,fotmob_new_612526,False,
+fotmob,630278,Tobias Lauritsen,Sampdoria,fotmob_new_630278,False,
+fotmob,665297,Manuel Cicconi,Sampdoria,fotmob_new_665297,False,
+fotmob,665339,Marco Festa,Cremonese,fotmob_new_665339,False,
+fotmob,670928,Giuseppe Pezzella,Cremonese,215312,True,master
+fotmob,675023,Danel Sinani,Sampdoria,217245,True,master
+fotmob,678161,Peter Vindahl Jensen,Sampdoria,fotmob_new_678161,False,
+fotmob,774716,Michele Collocolo,Cremonese,454646,True,master
+fotmob,793048,Manuel De Luca,Cremonese,235885,True,master
+fotmob,823626,Simone Ghidotti,Sampdoria,fm_823626,True,id_map
+fotmob,933838,Salvatore Esposito,Sampdoria,fotmob_new_933838,False,
+fotmob,951711,Alessandro Di Pardo,Sampdoria,437791,True,master
+fotmob,958401,Alessandro Vogliacco,Cremonese,fotmob_new_958401,False,
+fotmob,1116749,Mattia Viti,Sampdoria,499156,True,master
+fotmob,1200629,Alessandro Pio Riccio,Sampdoria,fotmob_new_1200629,False,
+fotmob,1256178,Bjorn Meijer,Sampdoria,fotmob_new_1256178,False,
+fotmob,1280158,Tommaso Berti,Cremonese,fotmob_new_1280158,False,
+fotmob,1357949,Federico Agazzi,Cremonese,fotmob_new_1357949,False,
+fotmob,1386005,Marco Nasti,Cremonese,fotmob_new_1386005,False,
+fotmob,1536509,Yuri Rocchetti,Cremonese,fotmob_new_1536509,False,
+fotmob,1596106,Francesco Folino,Cremonese,659946,True,master
+fotmob,1668221,David Stückler,Cremonese,fotmob_new_1668221,False,
+fotmob,1668225,Dachi Lordkipanidze,Cremonese,596430,True,master
+fotmob,1677221,Fellipe Jack,Cremonese,577110,True,master
+fotmob,1717226,Andrey Krastev,Sampdoria,fotmob_new_1717226,False,
+fotmob,1876015,Leo Rodella,Sampdoria,fotmob_new_1876015,False,
+fotmob,1901618,Karim Diop,Sampdoria,fotmob_new_1901618,False,
+fotmob,1958786,Simone Lottici Tessadri,Cremonese,646531,True,master
+fotmob,1980593,Stefan Amarandei,Sampdoria,fotmob_new_1980593,False,
+fotmob,2156596,Giuseppe Forte,Sampdoria,fotmob_new_2156596,False,
+fotmob,2156601,Lorenzo Paratici,Sampdoria,642262,True,id_map
+fotmob,267374,Hernani,Palermo,157717,True,master
+fotmob,290604,Joel Pohjanpalo,Palermo,fotmob_new_290604,False,
+fotmob,362200,Wladimiro Falcone,Lecce,126486,True,id_map
+fotmob,365624,Federico Barba,Palermo,fotmob_new_365624,False,
+fotmob,415017,Mattia Bani,Palermo,fotmob_new_415017,False,
+fotmob,436563,Jesse Joronen,Palermo,fotmob_new_436563,False,
+fotmob,480014,Pietro Ceccaroni,Palermo,fotmob_new_480014,False,
+fotmob,571306,Antonio Palumbo,Palermo,fotmob_new_571306,False,
+fotmob,664587,Lassana Coulibaly,Lecce,215047,True,id_map
+fotmob,671163,Christian Lupo,Lecce,fotmob_new_671163,False,
+fotmob,693160,Tommaso Augello,Palermo,fotmob_new_693160,False,
+fotmob,789243,Youssef Maleh,Lecce,232066,True,id_map
+fotmob,815366,Nahuel Estévez,Palermo,214064,True,master
+fotmob,818162,Jacopo Segre,Palermo,fotmob_new_818162,False,
+fotmob,822236,Dennis Tørset Johnsen,Palermo,246875,True,master
+fotmob,836436,Gabriel Strefezza,Palermo,420879,True,master
+fotmob,879065,Antonino Gallo,Lecce,462484,True,id_map
+fotmob,883824,Willem Geubbels,Lecce,242894,True,id_map
+fotmob,917808,Jérémy Le Douaron,Palermo,511593,True,id_map
+fotmob,940440,Filippo Ranocchia,Palermo,fotmob_new_940440,False,
+fotmob,1027594,Konan N’Dri,Lecce,477240,True,id_map
+fotmob,1039403,Santiago Pierotti,Lecce,482466,True,id_map
+fotmob,1041508,Corrie Ndaba,Lecce,246265,True,id_map
+fotmob,1070046,Tommaso Cassandro,Palermo,fotmob_new_1070046,False,
+fotmob,1178314,Nikola Stulic,Lecce,509685,True,id_map
+fotmob,1202114,Omri Gandelman,Lecce,491445,True,id_map
+fotmob,1206806,Kialonda Gaspar,Lecce,520242,True,id_map
+fotmob,1245669,Patryk Peda,Palermo,fotmob_new_1245669,False,
+fotmob,1285732,Sadik Fofana,Lecce,546761,True,id_map
+fotmob,1289946,Mattia Fortin,Palermo,fotmob_new_1289946,False,
+fotmob,1299869,Mohamed Kaba,Lecce,545711,True,id_map
+fotmob,1300387,Niccolò Pierozzi,Palermo,fotmob_new_1300387,False,
+fotmob,1306664,Danilo Veiga,Lecce,503566,True,id_map
+fotmob,1332538,Oumar Ngom,Lecce,566980,True,id_map
+fotmob,1388474,Gaby Jean,Lecce,587293,True,id_map
+fotmob,1414124,Olaf Gorter,Lecce,551214,True,id_map
+fotmob,1417101,Paco Esteban,Lecce,598675,True,id_map
+fotmob,1425695,Andrea Bozzolan,Palermo,fotmob_new_1425695,False,
+fotmob,1528828,Manfredi Nespola,Palermo,fotmob_new_1528828,False,
+fotmob,1574492,Tiago Gabriel,Lecce,647210,True,id_map
+fotmob,1666063,Hjalte Laerke,Lecce,670530,True,id_map
+fotmob,1668965,Dominic Vavassori,Palermo,656606,True,master
+fotmob,1879688,Plamen Penev,Lecce,fm_1879688,True,id_map
+fotmob,2132595,Francesco Balsamo,Palermo,fotmob_new_2132595,False,
+fotmob,161328,Stephan El Shaarawy,Genoa,58928,True,id_map
+fotmob,586474,Kingsley Ehizibue,Genoa,198081,True,id_map
+fotmob,875672,Hamed Traorè,Genoa,424044,True,id_map
+fotmob,936603,Milutin Osmajić,Genoa,449327,True,id_map
+fotmob,962046,Cody Drameh,Genoa,433590,True,id_map
+fotmob,1340806,Andrea Giorgini,Südtirol,fotmob_new_1340806,False,
+fotmob,1412943,Lorenzo Anghelè,Südtirol,551139,True,master
+fotmob,1446625,Kevin Zeroli,Südtirol,fotmob_new_1446625,False,
+fotmob,1586275,Fabio Rispoli,Südtirol,fotmob_new_1586275,False,
+fotmob,1677025,Franz-Ethan Meichtry,Genoa,661006,True,id_map
+fotmob,2155177,Marco Iuliano,Südtirol,fotmob_new_2155177,False,
+fotmob,2155178,Elias Schrott,Südtirol,fotmob_new_2155178,False,
+fotmob,2175273,Tommaso Laureti,Südtirol,fotmob_new_2175273,False,
+fotmob,181910,Mattia Perin,Palermo,87995,True,id_map
+fotmob,566776,Alessandro Gabrielloni,Palermo,170015,True,master
+fotmob,834956,Giangiacomo Magnani,Palermo,fotmob_new_834956,False,
+fotmob,887689,Claudio Gomes,Palermo,fotmob_new_887689,False,
+fotmob,1337926,Vanja Vlahovic,Mantova,fotmob_new_1337926,False,
+fotmob,1489556,Tommaso Del Lungo,Mantova,fotmob_new_1489556,False,
+fotmob,116555,Duván Zapata,Torino,103086,True,id_map
+fotmob,637656,Lucas Perri,Torino,201595,True,id_map
+fotmob,731600,Idrissa Touré,Monza,224336,True,id_map
+fotmob,822440,Michael Folorunsho,Monza,247050,True,id_map
+fotmob,983199,Tino Anjorin,Torino,223332,True,id_map
+fotmob,1122424,Noel Törnqvist,Monza,ws_426515,True,id_map
+fotmob,1415623,Leonardo Colombo,Monza,601201,True,id_map
+fotmob,1481909,Ebenezer Akinsanmiro,Monza,621432,True,id_map
+fotmob,1511063,Jan Ziólkowski,Monza,609659,True,id_map
+fotmob,1830551,Yvan Kouadio Maye,Monza,614416,True,id_map
+fotmob,1895810,Zalán Kugyela,Torino,636473,True,master
+fotmob,2182262,Manuel Carrascosa,Torino,684238,True,id_map
+fotmob,439148,Morten Thorsby,Cremonese,179296,True,master
+fotmob,934873,Salvatore Elia,Cremonese,fotmob_new_934873,False,
+fotmob,1233748,David Romero,Parma,482766,True,id_map
+fotmob,1354177,Benjamín Cremaschi,Parma,541690,True,id_map
+fotmob,1460253,Nesta Elphege,Parma,617559,True,id_map
+fotmob,1645665,Adin Licina,Cremonese,fotmob_new_1645665,False,
+fotmob,1797278,Thomás de Martis,Parma,659246,True,id_map
+fotmob,2023433,Karlo Pajsar,Parma,fotmob_new_2023433,False,
+fotmob,2172461,Riccardo Liberal,Cremonese,fotmob_new_2172461,False,
+fotmob,485634,Roberto Gagliardini,Cagliari,171152,True,id_map
+fotmob,846647,Nunzio Lella,Verona,fotmob_new_846647,False,
+fotmob,1159233,Alieu Fadera,Cagliari,509026,True,id_map
+fotmob,1382392,Yanis Massolin,Cagliari,582822,True,id_map
+fotmob,1663296,Alessandro Sugamele,Cagliari,657746,True,id_map
+fotmob,1790181,Andréa Le Borgne,Verona,635152,True,master
+fotmob,2185260,Noe Tagne,Verona,fotmob_new_2185260,False,
+fotmob,364520,Domenico Berardi,Sassuolo,116796,True,id_map
+fotmob,557799,Duje Caleta-Car,Sassuolo,173271,True,id_map
+fotmob,617044,Florian Grillitsch,Frosinone,210159,True,id_map
+fotmob,727654,Giacomo Satalino,Sassuolo,fm_727654,True,id_map
+fotmob,921921,Kristian Thorstvedt,Sassuolo,445043,True,id_map
+fotmob,992025,Aleksa Terzic,Frosinone,430847,True,id_map
+fotmob,1024946,Tomás Bobcek,Frosinone,484998,True,id_map
+fotmob,1030212,Sebastiano Esposito,Sassuolo,465661,True,id_map
+fotmob,1082597,Ignace Van Der Brempt,Sassuolo,248882,True,id_map
+fotmob,1135820,Daniel Bîrligea,Frosinone,567663,True,id_map
+fotmob,1163273,Laurs Skjellerup,Sassuolo,508870,True,id_map
+fotmob,1203195,Fedde Leysen,Sassuolo,519635,True,id_map
+fotmob,1250568,Wisdom Amey,Frosinone,537503,True,id_map
+fotmob,1332850,Enzo Tchato,Frosinone,531301,True,id_map
+fotmob,1396375,Ibrahim Sulemana,Sassuolo,588753,True,id_map
+fotmob,1445163,Seydou Fini,Frosinone,589998,True,id_map
+fotmob,1510384,Omar Fayed,Frosinone,591123,True,id_map
+fotmob,2022716,Gabriel Kulla,Sassuolo,669708,True,id_map
+fotmob,197352,Juan Jesus,Venezia,91990,True,id_map
+fotmob,491784,Lorenzo Montipò,Venezia,156245,True,id_map
+fotmob,644738,Vakoun Issouf Bayo,Udinese,210464,True,id_map
+fotmob,675327,Pasquale Mazzocchi,Venezia,428237,True,id_map
+fotmob,770994,Bartosz Mrozek,Udinese,fm_770994,True,id_map
+fotmob,1592168,Matteo Dagasso,Venezia,628209,True,id_map
+fotmob,1803901,Lorenzo Berardi,Venezia,703653,True,id_map
+fotmob,1805112,Giulio Vinciati,Udinese,683686,True,id_map
+fotmob,423223,Simone Scuffet,Pisa,151804,True,master
+fotmob,875133,Pote,Fiorentina,433145,True,id_map
+fotmob,1079485,Beto,Fiorentina,486385,True,id_map
+fotmob,1107286,Wilfried Gnonto,Fiorentina,492859,True,id_map
+fotmob,1195358,Filippo Pittarello,Pisa,fotmob_new_1195358,False,
+fotmob,1224237,Mateo Pellegrino,Fiorentina,524463,True,id_map
+fotmob,1289942,Samuele Angori,Pisa,546853,True,master
+fotmob,1481098,Francesco Coppola,Pisa,621287,True,master
+fotmob,1526689,Álex Jiménez,Fiorentina,551483,True,id_map
+fotmob,1607014,Alieu Njie,Fiorentina,629450,True,id_map
+fotmob,1676885,Daniel Denoon,Pisa,666657,True,master

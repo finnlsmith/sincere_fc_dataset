@@ -106,7 +106,7 @@ def fotmob_json_to_csv(input_dir: str, output_base_dir: str | None = None) -> Pa
             shots = content["shotmap"]["shots"]
             for shot in shots:
                 all_shots.append({**meta, **shot})
-        except (KeyError, TypeError):
+        except (KeyError, TypeError, AttributeError):
             warnings.append(f"No shotmap: {path.name}")
 
         # --- Team stats ---
@@ -123,12 +123,16 @@ def fotmob_json_to_csv(input_dir: str, output_base_dir: str | None = None) -> Pa
                         "home": stat["stats"][0],
                         "away": stat["stats"][1],
                     })
-        except (KeyError, TypeError):
+        except (KeyError, TypeError, AttributeError):
             warnings.append(f"No team stats: {path.name}")
 
         # --- Player stats (one row per player per match) ---
         try:
             player_stats = content["playerStats"]
+            if not player_stats:
+                # Lower-league cup matches often have no player data at all
+                # (FotMob sends null). Skip the match, keep the rest.
+                raise KeyError("playerStats empty")
             for player_id, player in player_stats.items():
                 row = {
                     **meta,
@@ -138,14 +142,14 @@ def fotmob_json_to_csv(input_dir: str, output_base_dir: str | None = None) -> Pa
                     "team_id":       player["teamId"],
                     "is_goalkeeper": player["isGoalkeeper"],
                 }
-                for section in player["stats"]:
-                    for stat_name, stat_info in section["stats"].items():
+                for section in (player.get("stats") or []):
+                    for stat_name, stat_info in (section.get("stats") or {}).items():
                         stat_obj = stat_info["stat"]
                         row[stat_name] = stat_obj.get("value")
                         if stat_obj.get("total") is not None:
                             row[f"{stat_name}_total"] = stat_obj["total"]
                 all_player_stats.append(row)
-        except (KeyError, TypeError):
+        except (KeyError, TypeError, AttributeError):
             warnings.append(f"No player stats: {path.name}")
 
     if warnings:

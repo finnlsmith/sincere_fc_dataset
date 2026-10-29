@@ -1,0 +1,121 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Expected goals (xG),2.08,0.42
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,xG open play,1.34,0.33
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,xG set play,0.75,0.09
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,xG non-penalty,2.08,0.42
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,xG on target (xGOT),2.61,0.47
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Expected goals (xG),1.55,0.62
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,xG open play,0.76,0.42
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,xG set play,0.00,0.19
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,xG non-penalty,0.76,0.62
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,xG on target (xGOT),1.20,0.47
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Expected goals (xG),2.29,0.50
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,xG open play,2.04,0.49
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,xG set play,0.24,0.01
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,xG non-penalty,2.29,0.50
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,xG on target (xGOT),3.46,0.06
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Expected goals (xG),2.04,0.99
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,xG open play,1.31,0.54
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,xG set play,0.73,0.44
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,xG non-penalty,2.04,0.99
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,xG on target (xGOT),2.46,0.58
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Expected goals (xG),1.13,0.97
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,xG open play,1.13,0.93
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,xG set play,0.00,0.04
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,xG non-penalty,1.13,0.97
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,xG on target (xGOT),1.32,1.13
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Expected goals (xG),0.57,0.46
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,xG open play,0.57,0.32
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,xG set play,0.00,0.15
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,xG non-penalty,0.57,0.46
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,xG on target (xGOT),0.84,0.00
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Expected goals (xG),1.92,1.34
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,xG open play,1.75,1.21
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,xG set play,0.17,0.13
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,xG non-penalty,1.92,1.34
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,xG on target (xGOT),3.13,2.35
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Expected goals (xG),1.56,0.42
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,xG open play,1.35,0.40
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,xG set play,0.21,0.02
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,xG non-penalty,1.56,0.42
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,xG on target (xGOT),1.25,0.63
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Expected goals (xG),2.65,1.51
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,xG open play,2.56,1.42
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,xG set play,0.09,0.09
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,xG non-penalty,2.65,1.51
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,xG on target (xGOT),2.79,1.81
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Expected goals (xG),1.83,0.42
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,xG open play,1.53,0.42
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,xG set play,0.29,0.00
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,xG non-penalty,1.83,0.42
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,xG on target (xGOT),2.82,0.41
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Expected goals (xG),1.33,1.50
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,xG open play,1.12,0.57
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,xG set play,0.21,0.15
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,xG non-penalty,1.33,0.71
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,xG on target (xGOT),1.15,1.80
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Expected goals (xG),2.20,2.28
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,xG open play,1.88,2.17
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,xG set play,0.32,0.11
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,xG non-penalty,2.20,2.28
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,xG on target (xGOT),0.40,2.39
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Expected goals (xG),1.16,0.84
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,xG open play,1.00,0.73
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,xG set play,0.17,0.12
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,xG non-penalty,1.16,0.84
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,xG on target (xGOT),1.84,1.01
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Expected goals (xG),1.50,0.75
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,xG open play,1.36,0.69
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,xG set play,0.14,0.06
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,xG non-penalty,1.50,0.75
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,xG on target (xGOT),2.98,0.97
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Expected goals (xG),0.66,0.96
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,xG open play,0.61,0.15
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,xG set play,0.05,0.02
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,xG non-penalty,0.66,0.17
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,xG on target (xGOT),1.50,0.95
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Expected goals (xG),1.19,3.10
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,xG open play,0.61,2.96
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,xG set play,0.58,0.14
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,xG non-penalty,1.19,3.10
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,xG on target (xGOT),0.66,1.15
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Expected goals (xG),1.94,0.38
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,xG open play,1.21,0.34
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,xG set play,0.74,0.04
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,xG non-penalty,1.94,0.38
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,xG on target (xGOT),2.07,0.44
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Expected goals (xG),3.48,0.95
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,xG open play,2.61,0.70
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,xG set play,0.08,0.24
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,xG non-penalty,2.69,0.95
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,xG on target (xGOT),3.89,1.94
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Expected goals (xG),1.09,1.99
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,xG open play,0.97,1.83
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,xG set play,0.12,0.16
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,xG non-penalty,1.09,1.99
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,xG on target (xGOT),0.00,1.31
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Expected goals (xG),0.72,1.68
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,xG open play,0.13,1.65
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,xG set play,0.59,0.03
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,xG non-penalty,0.72,1.68
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,xG on target (xGOT),0.55,1.48
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Expected goals (xG),0.79,0.98
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,xG open play,0.42,0.86
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,xG set play,0.37,0.12
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,xG non-penalty,0.79,0.98
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,xG on target (xGOT),1.01,1.20
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Expected goals (xG),1.30,1.98
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,xG open play,1.22,1.83
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,xG set play,0.09,0.15
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,xG non-penalty,1.30,1.98
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,xG on target (xGOT),0.87,1.29
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Expected goals (xG),1.31,1.09
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,xG open play,1.20,1.09
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,xG set play,0.11,0.00
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,xG non-penalty,1.31,1.09
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,xG on target (xGOT),2.04,1.57
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Expected goals (xG),1.24,0.39
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,xG open play,0.96,0.38
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,xG set play,0.28,0.01
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,xG non-penalty,1.24,0.39
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,xG on target (xGOT),2.27,0.00
