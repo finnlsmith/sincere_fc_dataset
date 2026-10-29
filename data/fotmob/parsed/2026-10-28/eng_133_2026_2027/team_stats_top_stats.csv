@@ -1,0 +1,761 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Ball possession,49,51
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Expected goals (xG),1.63,1.59
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Total shots,13,11
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Shots on target,3,2
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Touches in opposition box,26,17
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Big chances,2,4
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Big chances missed,2,4
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Accurate passes,396 (84%),433 (85%)
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Yellow cards,1,4
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Corners,7,3
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Ball possession,29,71
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Expected goals (xG),0.83,2.76
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Total shots,8,18
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Shots on target,2,10
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Touches in opposition box,19,25
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Big chances,1,5
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Big chances missed,1,1
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Accurate passes,208 (71%),671 (89%)
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Yellow cards,2,0
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Corners,1,2
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Ball possession,60,40
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Expected goals (xG),0.91,2.79
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Total shots,11,13
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Shots on target,4,8
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Touches in opposition box,23,32
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Big chances,1,5
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Big chances missed,0,4
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Accurate passes,323 (75%),177 (64%)
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Yellow cards,1,0
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Corners,9,6
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Ball possession,50,50
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Expected goals (xG),0.43,2.67
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Total shots,7,20
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Shots on target,2,4
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Touches in opposition box,16,37
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Big chances,0,4
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Big chances missed,0,2
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Accurate passes,302 (75%),298 (73%)
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Yellow cards,2,1
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Corners,5,3
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Ball possession,73,27
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Expected goals (xG),0.93,0.37
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Total shots,19,8
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Shots on target,9,1
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Touches in opposition box,19,12
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Big chances,2,2
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Big chances missed,1,1
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Accurate passes,599 (88%),165 (67%)
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Yellow cards,0,1
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Corners,6,8
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Ball possession,45,55
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Expected goals (xG),1.18,1.74
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Total shots,13,11
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Shots on target,3,1
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Touches in opposition box,26,28
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Big chances,2,3
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Big chances missed,1,3
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Accurate passes,285 (77%),371 (83%)
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Yellow cards,1,2
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Corners,6,5
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Ball possession,30,70
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Expected goals (xG),0.55,1.10
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Total shots,5,15
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Shots on target,2,1
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Touches in opposition box,10,33
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Big chances,1,1
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Big chances missed,0,1
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Accurate passes,179 (66%),544 (86%)
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Yellow cards,3,2
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Corners,7,9
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Ball possession,50,50
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Expected goals (xG),2.05,1.31
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Total shots,15,16
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Shots on target,3,4
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Touches in opposition box,21,25
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Big chances,3,1
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Big chances missed,1,1
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Accurate passes,244 (68%),245 (69%)
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Yellow cards,0,3
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Corners,1,6
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Ball possession,60,40
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Expected goals (xG),1.79,0.93
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Total shots,11,9
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Shots on target,3,4
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Touches in opposition box,28,19
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Big chances,4,3
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Big chances missed,4,3
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Accurate passes,332 (82%),180 (68%)
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Yellow cards,2,1
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Corners,3,3
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Ball possession,69,31
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Expected goals (xG),1.44,2.34
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Total shots,16,11
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Shots on target,7,3
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Touches in opposition box,23,19
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Big chances,3,3
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Big chances missed,1,3
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Accurate passes,477 (87%),196 (80%)
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Yellow cards,1,1
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Corners,8,5
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Ball possession,74,26
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Expected goals (xG),0.99,0.39
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Total shots,12,6
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Shots on target,4,2
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Touches in opposition box,18,12
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Big chances,1,0
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Big chances missed,0,0
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Accurate passes,585 (89%),169 (73%)
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Yellow cards,1,4
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Corners,4,3
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Ball possession,71,29
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Expected goals (xG),0.37,1.26
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Total shots,8,14
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Shots on target,4,4
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Touches in opposition box,13,24
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Big chances,0,2
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Big chances missed,0,1
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Accurate passes,460 (86%),148 (67%)
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Yellow cards,1,2
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Corners,3,6
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Ball possession,52,48
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Expected goals (xG),2.89,0.86
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Total shots,23,9
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Shots on target,11,2
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Touches in opposition box,51,18
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Big chances,6,2
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Big chances missed,4,2
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Accurate passes,309 (78%),295 (77%)
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Yellow cards,0,2
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Corners,10,2
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Ball possession,36,64
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Expected goals (xG),1.75,3.89
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Total shots,17,27
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Shots on target,7,7
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Touches in opposition box,22,41
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Big chances,4,6
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Big chances missed,3,5
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Accurate passes,215 (76%),422 (85%)
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Yellow cards,2,1
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Corners,6,9
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Ball possession,72,28
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Expected goals (xG),1.99,0.74
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Total shots,21,11
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Shots on target,5,3
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Touches in opposition box,40,19
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Big chances,4,3
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Big chances missed,4,2
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Accurate passes,545 (88%),156 (64%)
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Yellow cards,2,2
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Corners,8,2
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Ball possession,50,50
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Expected goals (xG),0.63,1.42
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Total shots,13,10
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Shots on target,8,4
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Touches in opposition box,27,18
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Big chances,3,3
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Big chances missed,3,1
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Accurate passes,237 (66%),290 (77%)
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Yellow cards,0,1
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Corners,13,4
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Ball possession,46,54
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Expected goals (xG),0.87,0.64
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Total shots,10,10
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Shots on target,3,2
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Touches in opposition box,25,23
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Big chances,2,4
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Big chances missed,1,3
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Accurate passes,256 (75%),327 (82%)
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Yellow cards,2,3
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Corners,7,6
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Ball possession,56,44
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Expected goals (xG),0.97,1.16
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Total shots,12,6
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Shots on target,3,3
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Touches in opposition box,38,12
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Big chances,0,1
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Big chances missed,0,0
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Accurate passes,377 (81%),281 (77%)
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Yellow cards,0,0
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Corners,6,1
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Ball possession,46,54
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Expected goals (xG),0.86,1.11
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Total shots,7,17
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Shots on target,2,9
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Touches in opposition box,9,27
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Big chances,1,2
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Big chances missed,0,1
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Accurate passes,357 (80%),454 (83%)
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Yellow cards,1,0
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Corners,2,3
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Ball possession,34,66
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Expected goals (xG),0.26,3.12
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Total shots,7,17
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Shots on target,2,11
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Touches in opposition box,13,30
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Big chances,0,6
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Big chances missed,0,3
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Accurate passes,152 (60%),392 (80%)
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Yellow cards,1,1
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Corners,2,9
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Ball possession,61,39
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Expected goals (xG),2.52,1.36
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Total shots,15,13
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Shots on target,4,1
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Touches in opposition box,34,26
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Big chances,4,3
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Big chances missed,2,2
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Accurate passes,450 (84%),232 (72%)
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Yellow cards,1,0
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Corners,6,3
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Ball possession,72,28
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Expected goals (xG),2.76,1.51
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Total shots,32,8
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Shots on target,9,5
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Touches in opposition box,53,12
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Big chances,2,4
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Big chances missed,2,3
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Accurate passes,618 (88%),203 (73%)
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Yellow cards,0,3
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Corners,13,4
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Ball possession,63,37
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Expected goals (xG),2.52,0.67
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Total shots,21,8
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Shots on target,6,1
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Touches in opposition box,34,12
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Big chances,4,1
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Big chances missed,2,1
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Accurate passes,265 (73%),111 (51%)
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Yellow cards,0,2
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Corners,9,3
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Ball possession,46,54
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Expected goals (xG),1.15,1.81
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Total shots,20,9
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Shots on target,4,3
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Touches in opposition box,30,24
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Big chances,1,4
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Big chances missed,1,3
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Accurate passes,201 (64%),259 (70%)
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Yellow cards,1,3
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Corners,2,5
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Ball possession,61,39
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Expected goals (xG),4.35,0.74
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Total shots,36,9
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Shots on target,11,3
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Touches in opposition box,61,13
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Big chances,7,1
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Big chances missed,7,1
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Accurate passes,392 (84%),223 (76%)
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Yellow cards,2,3
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Corners,12,1
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Ball possession,51,49
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Expected goals (xG),1.41,1.95
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Total shots,13,17
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Shots on target,7,6
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Touches in opposition box,22,31
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Big chances,1,3
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Big chances missed,0,3
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Accurate passes,178 (59%),163 (56%)
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Yellow cards,1,2
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Corners,5,4
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Ball possession,65,35
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Expected goals (xG),3.52,1.04
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Total shots,25,8
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Shots on target,7,5
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Touches in opposition box,45,12
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Big chances,7,2
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Big chances missed,4,2
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Accurate passes,398 (83%),168 (66%)
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Yellow cards,4,1
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Corners,7,3
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Ball possession,26,74
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Expected goals (xG),1.21,3.20
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Total shots,11,25
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Shots on target,4,5
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Touches in opposition box,20,46
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Big chances,2,6
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Big chances missed,2,4
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Accurate passes,177 (70%),659 (90%)
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Yellow cards,0,0
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Corners,1,5
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Ball possession,51,49
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Expected goals (xG),0.78,0.46
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Total shots,12,6
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Shots on target,3,2
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Touches in opposition box,20,14
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Big chances,1,0
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Big chances missed,0,0
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Accurate passes,283 (75%),281 (75%)
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Yellow cards,1,1
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Corners,7,2
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Ball possession,59,41
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Expected goals (xG),1.85,1.00
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Total shots,13,13
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Shots on target,3,5
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Touches in opposition box,32,15
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Big chances,4,2
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Big chances missed,4,0
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Accurate passes,391 (82%),246 (75%)
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Yellow cards,2,4
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Corners,4,3
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Ball possession,41,59
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Expected goals (xG),1.67,2.39
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Total shots,15,16
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Shots on target,3,5
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Touches in opposition box,28,36
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Big chances,2,3
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Big chances missed,1,3
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Accurate passes,173 (65%),286 (78%)
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Yellow cards,1,1
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Corners,5,10
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Ball possession,62,38
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Expected goals (xG),1.37,0.59
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Total shots,14,6
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Shots on target,2,1
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Touches in opposition box,24,17
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Big chances,2,1
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Big chances missed,2,0
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Accurate passes,362 (74%),191 (64%)
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Yellow cards,2,0
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Corners,6,4
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Ball possession,45,55
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Expected goals (xG),2.07,0.60
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Total shots,12,12
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Shots on target,7,4
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Touches in opposition box,23,15
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Big chances,7,0
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Big chances missed,5,0
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Accurate passes,281 (83%),331 (81%)
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Yellow cards,1,2
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Corners,3,7
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Ball possession,61,39
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Expected goals (xG),0.95,1.55
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Total shots,16,14
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Shots on target,5,4
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Touches in opposition box,22,26
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Big chances,2,2
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Big chances missed,2,2
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Accurate passes,262 (72%),139 (62%)
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Yellow cards,2,1
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Corners,7,5
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Ball possession,77,23
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Expected goals (xG),0.49,0.80
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Total shots,8,4
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Shots on target,3,2
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Touches in opposition box,20,8
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Big chances,2,1
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Big chances missed,1,1
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Accurate passes,759 (93%),169 (74%)
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Yellow cards,4,1
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Corners,7,5
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Ball possession,44,56
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Expected goals (xG),0.93,1.94
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Total shots,10,18
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Shots on target,4,6
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Touches in opposition box,19,27
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Big chances,1,2
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Big chances missed,0,2
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Accurate passes,366 (84%),498 (88%)
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Yellow cards,1,1
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Corners,1,4
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Ball possession,56,44
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Expected goals (xG),2.61,1.46
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Total shots,16,13
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Shots on target,7,3
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Touches in opposition box,38,17
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Big chances,4,2
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Big chances missed,1,1
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Accurate passes,461 (89%),330 (83%)
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Yellow cards,2,3
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Corners,6,2
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Ball possession,50,50
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Expected goals (xG),0.69,2.15
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Total shots,9,16
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Shots on target,5,5
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Touches in opposition box,18,33
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Big chances,2,4
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Big chances missed,2,2
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Accurate passes,364 (79%),381 (79%)
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Yellow cards,0,0
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Corners,6,4
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Ball possession,50,50
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Expected goals (xG),0.83,2.02
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Total shots,8,13
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Shots on target,3,5
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Touches in opposition box,17,22
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Big chances,1,5
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Big chances missed,1,3
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Accurate passes,344 (76%),368 (82%)
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Yellow cards,4,3
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Corners,3,2
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Ball possession,34,66
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Expected goals (xG),1.38,2.58
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Total shots,12,24
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Shots on target,5,8
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Touches in opposition box,22,39
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Big chances,0,3
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Big chances missed,0,1
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Accurate passes,237 (78%),521 (89%)
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Yellow cards,2,2
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Corners,1,7
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Ball possession,66,34
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Expected goals (xG),2.13,1.75
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Total shots,30,16
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Shots on target,8,9
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Touches in opposition box,41,14
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Big chances,2,3
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Big chances missed,2,1
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Accurate passes,381 (81%),151 (62%)
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Yellow cards,2,0
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Corners,20,7
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Ball possession,32,68
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Expected goals (xG),0.35,4.13
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Total shots,5,29
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Shots on target,1,10
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Touches in opposition box,14,34
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Big chances,0,5
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Big chances missed,0,1
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Accurate passes,227 (75%),610 (93%)
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Yellow cards,0,0
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Corners,3,5
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Ball possession,38,62
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Expected goals (xG),0.75,1.35
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Total shots,8,14
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Shots on target,3,9
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Touches in opposition box,22,24
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Big chances,1,3
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Big chances missed,1,0
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Accurate passes,294 (80%),520 (89%)
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Yellow cards,2,1
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Corners,1,1
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Ball possession,48,52
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Expected goals (xG),0.39,1.03
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Total shots,11,13
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Shots on target,3,3
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Touches in opposition box,11,30
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Big chances,0,1
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Big chances missed,0,0
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Accurate passes,362 (82%),389 (84%)
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Yellow cards,1,1
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Corners,2,6
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Ball possession,32,68
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Expected goals (xG),0.78,1.17
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Total shots,16,22
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Shots on target,4,6
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Touches in opposition box,21,38
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Big chances,0,1
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Big chances missed,0,1
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Accurate passes,170 (70%),459 (86%)
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Yellow cards,2,0
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Corners,5,14
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Ball possession,45,55
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Expected goals (xG),0.93,0.88
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Total shots,8,11
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Shots on target,3,4
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Touches in opposition box,13,15
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Big chances,2,0
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Big chances missed,0,0
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Accurate passes,294 (74%),385 (79%)
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Yellow cards,1,3
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Corners,3,7
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Ball possession,39,61
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Expected goals (xG),1.21,1.28
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Total shots,13,20
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Shots on target,4,5
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Touches in opposition box,28,25
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Big chances,1,1
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Big chances missed,1,1
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Accurate passes,298 (79%),505 (86%)
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Yellow cards,2,1
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Corners,2,8
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Ball possession,42,58
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Expected goals (xG),1.23,1.98
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Total shots,15,22
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Shots on target,9,8
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Touches in opposition box,21,28
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Big chances,3,3
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Big chances missed,2,2
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Accurate passes,307 (83%),448 (86%)
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Yellow cards,3,2
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Corners,5,3
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Ball possession,65,35
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Expected goals (xG),0.50,1.60
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Total shots,11,12
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Shots on target,3,3
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Touches in opposition box,26,25
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Big chances,0,4
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Big chances missed,0,2
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Accurate passes,507 (85%),245 (79%)
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Yellow cards,3,1
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Corners,5,3
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Ball possession,57,43
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Expected goals (xG),0.57,1.62
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Total shots,13,10
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Shots on target,3,5
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Touches in opposition box,20,19
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Big chances,3,4
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Big chances missed,3,1
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Accurate passes,446 (85%),307 (78%)
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Yellow cards,2,2
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Corners,5,5
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Ball possession,44,56
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Expected goals (xG),0.34,0.79
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Total shots,8,10
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Shots on target,1,4
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Touches in opposition box,18,22
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Big chances,0,1
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Big chances missed,0,1
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Accurate passes,258 (74%),367 (77%)
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Yellow cards,2,0
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Corners,4,1
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Ball possession,31,69
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Expected goals (xG),0.40,1.98
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Total shots,8,18
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Shots on target,2,8
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Touches in opposition box,7,32
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Big chances,1,4
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Big chances missed,1,0
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Accurate passes,155 (67%),436 (84%)
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Yellow cards,2,1
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Corners,4,6
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Ball possession,58,42
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Expected goals (xG),0.87,2.63
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Total shots,12,18
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Shots on target,5,8
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Touches in opposition box,17,29
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Big chances,1,3
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Big chances missed,1,1
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Accurate passes,528 (89%),379 (88%)
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Yellow cards,2,0
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Corners,2,5
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Ball possession,63,37
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Expected goals (xG),1.93,3.32
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Total shots,17,19
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Shots on target,5,10
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Touches in opposition box,21,25
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Big chances,3,6
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Big chances missed,2,2
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Accurate passes,514 (89%),278 (85%)
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Yellow cards,0,1
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Corners,2,2
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Ball possession,79,21
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Expected goals (xG),3.02,0.18
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Total shots,29,5
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Shots on target,8,2
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Touches in opposition box,50,6
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Big chances,4,0
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Big chances missed,2,0
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Accurate passes,673 (91%),116 (62%)
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Yellow cards,1,1
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Corners,10,4
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Ball possession,34,66
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Expected goals (xG),1.45,3.06
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Total shots,11,12
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Shots on target,5,5
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Touches in opposition box,15,24
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Big chances,2,5
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Big chances missed,1,1
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Accurate passes,181 (67%),440 (84%)
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Yellow cards,1,2
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Corners,3,3
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Ball possession,66,34
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Expected goals (xG),2.67,0.39
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Total shots,26,7
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Shots on target,7,1
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Touches in opposition box,44,10
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Big chances,6,0
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Big chances missed,5,0
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Accurate passes,641 (92%),297 (81%)
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Yellow cards,0,1
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Corners,9,3
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Ball possession,72,28
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Expected goals (xG),1.38,0.41
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Total shots,20,6
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Shots on target,11,4
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Touches in opposition box,44,8
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Big chances,2,2
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Big chances missed,0,1
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Accurate passes,557 (90%),172 (74%)
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Yellow cards,1,1
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Corners,11,6
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Ball possession,41,59
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Expected goals (xG),1.11,0.73
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Total shots,8,16
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Shots on target,5,4
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Touches in opposition box,7,53
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Big chances,4,0
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Big chances missed,2,0
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Accurate passes,342 (83%),539 (90%)
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Yellow cards,0,2
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Corners,1,6
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Ball possession,50,50
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Expected goals (xG),1.20,2.14
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Total shots,12,18
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Shots on target,4,5
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Touches in opposition box,17,40
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Big chances,2,4
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Big chances missed,2,1
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Accurate passes,434 (82%),442 (83%)
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Yellow cards,0,4
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Corners,4,3
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Ball possession,66,34
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Expected goals (xG),1.77,0.17
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Total shots,14,4
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Shots on target,6,0
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Touches in opposition box,31,4
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Big chances,4,0
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Big chances missed,1,0
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Accurate passes,707 (93%),315 (82%)
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Yellow cards,0,1
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Corners,2,3
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Ball possession,51,49
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Expected goals (xG),0.81,0.97
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Total shots,13,7
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Shots on target,3,1
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Touches in opposition box,20,15
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Big chances,1,1
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Big chances missed,0,1
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Accurate passes,366 (88%),328 (83%)
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Yellow cards,1,3
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Corners,7,12
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Ball possession,41,59
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Expected goals (xG),0.83,1.00
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Total shots,8,12
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Shots on target,3,6
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Touches in opposition box,17,29
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Big chances,1,4
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Big chances missed,0,1
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Accurate passes,339 (85%),520 (89%)
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Yellow cards,2,0
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Corners,3,2
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Ball possession,43,57
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Expected goals (xG),0.80,2.44
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Total shots,15,18
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Shots on target,5,9
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Touches in opposition box,20,29
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Big chances,0,5
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Big chances missed,0,2
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Accurate passes,318 (82%),449 (87%)
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Yellow cards,3,3
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Corners,2,8
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Ball possession,68,32
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Expected goals (xG),2.51,0.52
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Total shots,36,2
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Shots on target,8,1
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Touches in opposition box,46,8
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Big chances,3,2
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Big chances missed,0,2
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Accurate passes,518 (89%),206 (74%)
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Yellow cards,2,3
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Corners,10,0
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Ball possession,44,56
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Expected goals (xG),1.85,2.24
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Total shots,12,17
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Shots on target,5,6
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Touches in opposition box,22,27
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Big chances,2,4
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Big chances missed,2,3
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Accurate passes,305 (83%),413 (86%)
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Yellow cards,3,2
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Corners,5,9
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Ball possession,37,63
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Expected goals (xG),0.54,1.56
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Total shots,9,25
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Shots on target,2,6
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Touches in opposition box,19,30
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Big chances,1,1
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Big chances missed,1,0
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Accurate passes,203 (74%),392 (84%)
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Yellow cards,2,1
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Corners,1,15
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Ball possession,34,66
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Expected goals (xG),0.69,0.90
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Total shots,11,10
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Shots on target,5,4
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Touches in opposition box,20,24
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Big chances,2,1
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Big chances missed,2,1
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Accurate passes,213 (73%),507 (86%)
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Yellow cards,2,1
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Corners,4,5
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Ball possession,62,38
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Expected goals (xG),1.53,0.31
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Total shots,16,6
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Shots on target,6,2
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Touches in opposition box,41,9
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Big chances,4,0
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Big chances missed,3,0
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Accurate passes,575 (91%),314 (83%)
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Yellow cards,1,2
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Corners,6,2
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Ball possession,53,47
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Expected goals (xG),1.98,2.06
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Total shots,16,17
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Shots on target,4,9
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Touches in opposition box,30,35
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Big chances,5,6
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Big chances missed,5,4
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Accurate passes,265 (71%),227 (68%)
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Yellow cards,3,1
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Corners,8,12
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Ball possession,29,71
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Expected goals (xG),1.48,3.17
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Total shots,17,24
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Shots on target,3,8
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Touches in opposition box,19,31
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Big chances,3,7
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Big chances missed,2,5
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Accurate passes,188 (73%),589 (91%)
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Yellow cards,0,0
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Corners,5,7
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Ball possession,53,47
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Expected goals (xG),2.60,3.52
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Total shots,16,28
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Shots on target,9,15
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Touches in opposition box,30,37
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Big chances,6,7
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Big chances missed,3,5
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Accurate passes,267 (67%),244 (69%)
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Yellow cards,3,3
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Corners,7,1
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Ball possession,50,50
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Expected goals (xG),2.36,2.70
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Total shots,16,18
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Shots on target,8,6
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Touches in opposition box,22,36
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Big chances,5,5
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Big chances missed,1,3
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Accurate passes,392 (81%),399 (82%)
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Yellow cards,1,0
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Corners,3,5
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Ball possession,38,62
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Expected goals (xG),1.98,2.52
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Total shots,11,12
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Shots on target,3,6
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Touches in opposition box,18,26
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Big chances,4,5
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Big chances missed,2,3
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Accurate passes,358 (86%),630 (92%)
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Yellow cards,0,1
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Corners,5,4
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Ball possession,22,78
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Expected goals (xG),0.26,2.21
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Total shots,3,26
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Shots on target,2,7
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Touches in opposition box,8,59
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Big chances,2,6
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Big chances missed,1,5
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Accurate passes,99 (55%),566 (88%)
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Yellow cards,3,0
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Corners,2,5
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Ball possession,50,50
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Expected goals (xG),2.85,1.21
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Total shots,15,16
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Shots on target,8,3
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Touches in opposition box,26,25
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Big chances,4,1
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Big chances missed,3,1
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Accurate passes,246 (69%),234 (67%)
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Yellow cards,6,2
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Corners,8,6

@@ -1,0 +1,73 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Yellow cards,1,2
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Red cards,0,0
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Fouls committed,19,8
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Yellow cards,2,2
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Red cards,0,0
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Fouls committed,17,9
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Yellow cards,0,2
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Red cards,0,0
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Fouls committed,12,15
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Yellow cards,1,1
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Red cards,0,0
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Fouls committed,7,11
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Yellow cards,2,2
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Red cards,0,0
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Fouls committed,13,15
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Yellow cards,3,0
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Red cards,0,0
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Fouls committed,13,13
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Yellow cards,1,2
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Red cards,0,0
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Fouls committed,11,7
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Yellow cards,0,0
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Red cards,0,1
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Fouls committed,14,14
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Yellow cards,1,3
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Red cards,0,1
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Fouls committed,21,10
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Yellow cards,1,1
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Red cards,0,0
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Fouls committed,10,9
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Yellow cards,0,3
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Red cards,0,0
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Fouls committed,9,17
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Yellow cards,3,1
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Red cards,0,0
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Fouls committed,14,13
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Yellow cards,0,3
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Red cards,0,0
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Fouls committed,9,15
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Yellow cards,0,2
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Red cards,0,0
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Fouls committed,6,11
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Yellow cards,3,1
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Red cards,0,0
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Fouls committed,17,9
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Yellow cards,1,1
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Red cards,0,0
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Fouls committed,12,9
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Yellow cards,0,0
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Red cards,0,0
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Fouls committed,10,7
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Yellow cards,1,2
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Red cards,0,0
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Fouls committed,9,14
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Yellow cards,1,1
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Red cards,0,0
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Fouls committed,18,12
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Yellow cards,1,1
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Red cards,0,0
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Fouls committed,9,7
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Yellow cards,1,2
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Red cards,0,0
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Fouls committed,8,17
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Yellow cards,2,2
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Red cards,0,0
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Fouls committed,12,19
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Yellow cards,1,0
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Red cards,0,0
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Fouls committed,18,8
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Yellow cards,2,2
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Red cards,0,0
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Fouls committed,17,9

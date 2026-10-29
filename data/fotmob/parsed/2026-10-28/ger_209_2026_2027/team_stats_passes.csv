@@ -1,0 +1,397 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Passes,230,679
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Accurate passes,153 (67%),591 (87%)
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Own half,112,157
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Opposition half,41,434
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Accurate long balls,22 (39%),21 (62%)
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Accurate crosses,1 (20%),9 (43%)
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Throws,22,24
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Touches in opposition box,2,61
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Offsides,3,3
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Passes,247,626
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Accurate passes,185 (75%),556 (89%)
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Own half,126,266
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Opposition half,59,290
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Accurate long balls,39 (61%),93 (87%)
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Accurate crosses,2 (18%),10 (36%)
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Throws,13,19
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Touches in opposition box,4,59
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Offsides,2,2
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Passes,417,507
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Accurate passes,342 (82%),417 (82%)
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Own half,234,219
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Opposition half,108,198
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Accurate long balls,17 (39%),24 (49%)
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Accurate crosses,2 (20%),8 (29%)
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Throws,23,21
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Touches in opposition box,12,36
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Offsides,2,1
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Passes,230,571
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Accurate passes,136 (59%),486 (85%)
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Own half,64,192
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Opposition half,72,294
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Accurate long balls,25 (32%),57 (74%)
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Accurate crosses,5 (50%),18 (39%)
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Throws,23,27
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Touches in opposition box,25,40
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Offsides,1,3
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Passes,427,269
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Accurate passes,340 (80%),190 (71%)
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Own half,180,74
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Opposition half,160,116
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Accurate long balls,31 (57%),20 (36%)
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Accurate crosses,5 (26%),9 (39%)
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Throws,23,22
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Touches in opposition box,25,32
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Offsides,3,4
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Passes,255,632
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Accurate passes,173 (68%),570 (90%)
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Own half,128,226
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Opposition half,45,344
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Accurate long balls,21 (32%),16 (62%)
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Accurate crosses,1 (25%),11 (42%)
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Throws,21,25
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Touches in opposition box,7,95
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Offsides,2,4
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Passes,544,650
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Accurate passes,436 (80%),566 (87%)
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Own half,324,344
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Opposition half,112,222
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Accurate long balls,34 (43%),32 (47%)
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Accurate crosses,7 (30%),4 (17%)
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Throws,20,24
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Touches in opposition box,28,22
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Offsides,4,0
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Passes,292,713
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Accurate passes,193 (66%),651 (91%)
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Own half,153,232
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Opposition half,40,419
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Accurate long balls,18 (31%),24 (69%)
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Accurate crosses,1 (20%),11 (31%)
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Throws,15,22
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Touches in opposition box,1,43
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Offsides,1,3
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Passes,409,459
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Accurate passes,313 (77%),358 (78%)
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Own half,186,184
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Opposition half,127,174
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Accurate long balls,31 (41%),27 (38%)
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Accurate crosses,5 (20%),5 (25%)
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Throws,20,19
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Touches in opposition box,17,22
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Offsides,2,4
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Passes,290,890
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Accurate passes,190 (66%),791 (89%)
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Own half,104,249
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Opposition half,86,542
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Accurate long balls,33 (40%),55 (73%)
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Accurate crosses,6 (50%),9 (15%)
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Throws,15,21
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Touches in opposition box,21,62
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Offsides,3,2
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Passes,339,631
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Accurate passes,260 (77%),550 (87%)
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Own half,189,235
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Opposition half,71,315
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Accurate long balls,31 (44%),21 (60%)
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Accurate crosses,2 (18%),11 (41%)
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Throws,15,13
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Touches in opposition box,9,66
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Offsides,2,2
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Passes,264,431
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Accurate passes,169 (64%),326 (76%)
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Own half,118,159
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Opposition half,51,167
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Accurate long balls,18 (23%),37 (57%)
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Accurate crosses,7 (30%),0 (0%)
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Throws,30,29
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Touches in opposition box,23,15
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Offsides,3,2
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Passes,264,672
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Accurate passes,195 (74%),597 (89%)
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Own half,98,335
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Opposition half,97,262
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Accurate long balls,34 (53%),32 (57%)
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Accurate crosses,0 (0%),8 (47%)
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Throws,10,17
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Touches in opposition box,7,22
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Offsides,3,4
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Passes,255,614
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Accurate passes,177 (69%),550 (90%)
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Own half,120,158
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Opposition half,57,392
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Accurate long balls,26 (43%),38 (73%)
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Accurate crosses,1 (8%),13 (31%)
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Throws,14,10
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Touches in opposition box,6,49
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Offsides,1,1
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Passes,355,452
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Accurate passes,271 (76%),376 (83%)
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Own half,199,176
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Opposition half,72,200
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Accurate long balls,30 (43%),20 (42%)
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Accurate crosses,4 (40%),5 (22%)
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Throws,19,27
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Touches in opposition box,15,24
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Offsides,2,4
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Passes,333,531
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Accurate passes,248 (74%),441 (83%)
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Own half,157,249
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Opposition half,91,192
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Accurate long balls,26 (41%),19 (40%)
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Accurate crosses,4 (31%),7 (50%)
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Throws,16,26
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Touches in opposition box,16,25
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Offsides,4,0
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Passes,568,434
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Accurate passes,495 (87%),357 (82%)
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Own half,272,226
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Opposition half,223,131
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Accurate long balls,21 (55%),25 (43%)
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Accurate crosses,1 (11%),1 (20%)
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Throws,25,19
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Touches in opposition box,15,14
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Offsides,2,3
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Passes,291,513
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Accurate passes,199 (68%),439 (86%)
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Own half,101,255
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Opposition half,98,184
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Accurate long balls,38 (45%),27 (50%)
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Accurate crosses,3 (20%),6 (43%)
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Throws,22,19
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Touches in opposition box,14,23
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Offsides,0,2
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Passes,282,755
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Accurate passes,199 (71%),673 (89%)
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Own half,139,298
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Opposition half,60,375
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Accurate long balls,15 (32%),27 (60%)
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Accurate crosses,1 (11%),6 (21%)
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Throws,21,14
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Touches in opposition box,5,37
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Offsides,1,0
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Passes,300,571
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Accurate passes,230 (77%),501 (88%)
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Own half,136,300
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Opposition half,94,201
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Accurate long balls,26 (46%),31 (55%)
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Accurate crosses,5 (25%),8 (42%)
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Throws,25,24
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Touches in opposition box,11,24
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Offsides,1,4
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Passes,499,272
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Accurate passes,422 (85%),198 (73%)
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Own half,210,82
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Opposition half,212,116
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Accurate long balls,29 (55%),19 (37%)
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Accurate crosses,1 (6%),13 (45%)
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Throws,20,21
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Touches in opposition box,24,36
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Offsides,0,1
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Passes,219,761
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Accurate passes,134 (61%),693 (91%)
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Own half,78,205
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Opposition half,56,488
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Accurate long balls,12 (23%),30 (68%)
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Accurate crosses,0 (0%),10 (26%)
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Throws,11,19
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Touches in opposition box,5,64
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Offsides,0,0
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Passes,601,547
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Accurate passes,484 (81%),443 (81%)
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Own half,180,237
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Opposition half,304,206
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Accurate long balls,45 (51%),63 (57%)
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Accurate crosses,8 (29%),4 (20%)
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Throws,29,32
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Touches in opposition box,30,25
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Offsides,0,1
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Passes,275,817
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Accurate passes,160 (58%),697 (85%)
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Own half,91,299
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Opposition half,69,398
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Accurate long balls,23 (31%),37 (49%)
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Accurate crosses,5 (28%),9 (24%)
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Throws,36,39
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Touches in opposition box,16,42
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Offsides,4,4
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Passes,511,293
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Accurate passes,429 (84%),223 (76%)
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Own half,175,170
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Opposition half,254,53
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Accurate long balls,39 (60%),18 (32%)
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Accurate crosses,9 (24%),1 (17%)
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Throws,26,12
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Touches in opposition box,39,8
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Offsides,0,3
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Passes,395,655
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Accurate passes,279 (71%),554 (85%)
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Own half,188,266
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Opposition half,91,288
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Accurate long balls,42 (44%),42 (61%)
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Accurate crosses,0 (0%),10 (28%)
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Throws,34,32
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Touches in opposition box,15,67
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Offsides,1,2
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Passes,249,770
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Accurate passes,175 (70%),694 (90%)
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Own half,118,231
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Opposition half,57,463
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Accurate long balls,13 (27%),13 (68%)
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Accurate crosses,2 (20%),6 (38%)
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Throws,9,19
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Touches in opposition box,22,47
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Offsides,1,1
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Passes,260,418
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Accurate passes,175 (67%),337 (81%)
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Own half,106,179
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Opposition half,69,158
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Accurate long balls,23 (40%),30 (43%)
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Accurate crosses,3 (14%),3 (20%)
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Throws,17,22
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Touches in opposition box,11,19
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Offsides,2,1
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Passes,308,536
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Accurate passes,210 (68%),459 (86%)
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Own half,145,235
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Opposition half,65,224
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Accurate long balls,24 (34%),30 (56%)
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Accurate crosses,0 (0%),8 (33%)
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Throws,17,26
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Touches in opposition box,16,43
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Offsides,4,3
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Passes,428,478
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Accurate passes,319 (75%),361 (76%)
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Own half,154,221
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Opposition half,165,140
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Accurate long balls,27 (37%),31 (44%)
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Accurate crosses,1 (4%),11 (33%)
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Throws,30,36
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Touches in opposition box,23,30
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Offsides,2,0
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Passes,191,624
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Accurate passes,121 (63%),568 (91%)
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Own half,103,97
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Opposition half,18,471
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Accurate long balls,14 (30%),22 (85%)
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Accurate crosses,0 (0%),11 (29%)
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Throws,13,21
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Touches in opposition box,3,101
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Offsides,1,4
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Passes,381,781
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Accurate passes,296 (78%),711 (91%)
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Own half,210,244
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Opposition half,86,467
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Accurate long balls,19 (33%),28 (65%)
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Accurate crosses,1 (20%),2 (11%)
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Throws,13,25
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Touches in opposition box,8,48
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Offsides,3,3
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Passes,332,591
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Accurate passes,242 (73%),502 (85%)
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Own half,150,156
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Opposition half,92,346
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Accurate long balls,19 (29%),38 (54%)
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Accurate crosses,2 (25%),5 (28%)
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Throws,20,27
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Touches in opposition box,9,23
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Offsides,0,1
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Passes,443,467
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Accurate passes,345 (78%),370 (79%)
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Own half,215,167
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Opposition half,130,203
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Accurate long balls,38 (49%),31 (44%)
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Accurate crosses,1 (7%),10 (34%)
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Throws,17,23
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Touches in opposition box,12,25
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Offsides,0,1
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Passes,612,480
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Accurate passes,526 (86%),393 (82%)
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Own half,139,281
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Opposition half,387,112
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Accurate long balls,32 (60%),32 (46%)
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Accurate crosses,6 (27%),5 (63%)
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Throws,16,24
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Touches in opposition box,41,22
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Offsides,1,1
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Passes,651,239
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Accurate passes,580 (89%),159 (67%)
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Own half,123,95
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Opposition half,457,64
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Accurate long balls,46 (72%),30 (40%)
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Accurate crosses,8 (16%),2 (40%)
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Throws,24,13
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Touches in opposition box,55,7
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Offsides,2,1
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Passes,487,394
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Accurate passes,417 (86%),321 (81%)
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Own half,222,157
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Opposition half,195,164
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Accurate long balls,33 (52%),27 (46%)
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Accurate crosses,3 (19%),9 (41%)
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Throws,18,23
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Touches in opposition box,26,32
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Offsides,0,1
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Passes,507,337
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Accurate passes,437 (86%),270 (80%)
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Own half,174,191
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Opposition half,263,79
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Accurate long balls,21 (48%),26 (46%)
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Accurate crosses,13 (43%),2 (33%)
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Throws,13,15
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Touches in opposition box,38,12
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Offsides,6,0
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Passes,338,519
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Accurate passes,240 (71%),428 (82%)
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Own half,123,201
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Opposition half,117,227
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Accurate long balls,18 (28%),30 (46%)
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Accurate crosses,3 (16%),4 (20%)
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Throws,15,29
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Touches in opposition box,13,30
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Offsides,1,4
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Passes,421,462
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Accurate passes,318 (76%),373 (81%)
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Own half,189,180
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Opposition half,129,193
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Accurate long balls,24 (35%),18 (34%)
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Accurate crosses,8 (42%),4 (25%)
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Throws,23,24
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Touches in opposition box,29,14
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Offsides,1,2
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Passes,253,587
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Accurate passes,166 (66%),504 (86%)
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Own half,82,142
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Opposition half,84,362
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Accurate long balls,25 (35%),44 (75%)
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Accurate crosses,2 (13%),7 (18%)
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Throws,14,30
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Touches in opposition box,9,62
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Offsides,1,1
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Passes,344,578
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Accurate passes,246 (72%),490 (85%)
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Own half,143,175
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Opposition half,103,315
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Accurate long balls,35 (42%),28 (51%)
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Accurate crosses,2 (14%),12 (31%)
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Throws,23,21
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Touches in opposition box,19,39
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Offsides,0,0
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Passes,301,516
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Accurate passes,189 (63%),396 (77%)
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Own half,83,230
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Opposition half,106,166
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Accurate long balls,37 (42%),31 (39%)
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Accurate crosses,4 (27%),6 (30%)
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Throws,26,36
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Touches in opposition box,19,25
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Offsides,2,2
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Passes,579,521
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Accurate passes,491 (85%),439 (84%)
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Own half,314,247
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Opposition half,177,192
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Accurate long balls,28 (45%),23 (49%)
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Accurate crosses,3 (30%),4 (25%)
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Throws,27,16
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Touches in opposition box,18,22
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Offsides,0,0

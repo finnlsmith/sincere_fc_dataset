@@ -1,0 +1,221 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Tackles,18,24
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Interceptions,16,10
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Blocks,2,2
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Clearances,36,3
+5750671,2026-08-21T16:00:00.000Z,1,DFB Pokal,SC St. Tönis,1175594,Eintracht Frankfurt,9810,Keeper saves,8,0
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Tackles,29,18
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Interceptions,18,12
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Blocks,6,2
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Clearances,25,2
+5750672,2026-08-22T16:00:00.000Z,1,DFB Pokal,Eintracht Trier,7774,RB Leipzig,178475,Keeper saves,5,2
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Tackles,11,5
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Interceptions,14,6
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Blocks,2,0
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Clearances,48,9
+5750673,2026-08-23T16:00:00.000Z,1,DFB Pokal,Fortuna Düsseldorf,8194,Freiburg,8358,Keeper saves,5,1
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Tackles,13,18
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Interceptions,5,9
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Blocks,11,0
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Clearances,37,15
+5750674,2026-08-23T11:00:00.000Z,1,DFB Pokal,SSV Jeddeloh,343377,FC Heidenheim,94937,Keeper saves,6,1
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Tackles,13,11
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Interceptions,5,16
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Blocks,5,7
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Clearances,31,30
+5750675,2026-08-22T11:00:00.000Z,1,DFB Pokal,Energie Cottbus,8398,Augsburg,8406,Keeper saves,5,6
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Tackles,21,14
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Interceptions,9,15
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Blocks,13,0
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Clearances,22,9
+5750676,2026-08-22T13:30:00.000Z,1,DFB Pokal,SV Hemelingen,1073473,Hannover 96,9904,Keeper saves,13,0
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Tackles,32,15
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Interceptions,10,13
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Blocks,3,6
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Clearances,20,33
+5750677,2026-08-22T13:30:00.000Z,1,DFB Pokal,Viktoria Köln 1904,276267,1. FC Nürnberg,8165,Keeper saves,3,4
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Tackles,29,8
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Interceptions,7,18
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Blocks,4,0
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Clearances,40,11
+5750678,2026-08-22T13:30:00.000Z,1,DFB Pokal,FC Hansa Lüneburg,145630,Werder Bremen,8697,Keeper saves,4,0
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Tackles,19,23
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Interceptions,7,6
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Blocks,3,0
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Clearances,23,29
+5750679,2026-08-23T13:30:00.000Z,1,DFB Pokal,Carl Zeiss Jena,8320,Darmstadt,8262,Keeper saves,2,4
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Tackles,16,17
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Interceptions,19,8
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Blocks,9,1
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Clearances,72,14
+5750680,2026-08-24T16:00:00.000Z,1,DFB Pokal,VSG Altglienicke,339999,Wolfsburg,8721,Keeper saves,13,2
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Tackles,20,10
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Interceptions,10,5
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Blocks,10,4
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Clearances,35,10
+5750681,2026-08-22T13:30:00.000Z,1,DFB Pokal,Erzgebirge Aue,8319,Hoffenheim,8226,Keeper saves,7,0
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Tackles,13,17
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Interceptions,10,4
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Blocks,0,5
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Clearances,29,26
+5750682,2026-08-23T16:00:00.000Z,1,DFB Pokal,RW Essen,8296,St. Pauli,8152,Keeper saves,2,6
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Tackles,9,6
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Interceptions,12,8
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Blocks,5,2
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Clearances,19,15
+5750683,2026-08-22T11:00:00.000Z,1,DFB Pokal,Wehen Wiesbaden,8196,Bayer Leverkusen,8178,Keeper saves,4,1
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Tackles,10,15
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Interceptions,10,10
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Blocks,9,3
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Clearances,32,14
+5750684,2026-08-23T13:30:00.000Z,1,DFB Pokal,VfB Krieschow,860781,Mainz 05,9905,Keeper saves,3,2
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Tackles,23,20
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Interceptions,4,7
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Blocks,3,1
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Clearances,28,21
+5750685,2026-08-21T16:00:00.000Z,1,DFB Pokal,Preussen Münster,8171,Karlsruher SC,8295,Keeper saves,4,2
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Tackles,21,11
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Interceptions,13,8
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Blocks,4,4
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Clearances,20,17
+5750686,2026-08-22T13:30:00.000Z,1,DFB Pokal,MSV Duisburg,8293,Elversberg,8232,Keeper saves,3,2
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Tackles,15,19
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Interceptions,12,6
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Blocks,0,3
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Clearances,9,25
+5750687,2026-08-24T16:00:00.000Z,1,DFB Pokal,SC Verl,7783,Hamburger SV,9790,Keeper saves,3,4
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Tackles,25,5
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Interceptions,7,8
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Blocks,5,2
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Clearances,10,26
+5750688,2026-08-23T13:30:00.000Z,1,DFB Pokal,Bahlinger SC,2393,Magdeburg,8188,Keeper saves,4,2
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Tackles,11,17
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Interceptions,18,14
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Blocks,7,1
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Clearances,30,22
+5750689,2026-08-23T13:30:00.000Z,1,DFB Pokal,Westfalia Rhynern,208110,Dynamo Dresden,8480,Keeper saves,2,1
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Tackles,15,15
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Interceptions,9,6
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Blocks,3,0
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Clearances,22,21
+5750690,2026-08-24T16:00:00.000Z,1,DFB Pokal,Würzburger Kickers,145486,1. FC Köln,8722,Keeper saves,4,1
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Tackles,22,17
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Interceptions,14,15
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Blocks,1,4
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Clearances,32,27
+5750691,2026-08-23T13:30:00.000Z,1,DFB Pokal,Eintracht Braunschweig,9776,Union Berlin,8149,Keeper saves,6,4
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Tackles,21,12
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Interceptions,17,8
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Blocks,1,1
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Clearances,32,9
+5750692,2026-08-23T13:30:00.000Z,1,DFB Pokal,TSV Schott Mainz,555501,Borussia Mönchengladbach,9788,Keeper saves,8,1
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Tackles,22,15
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Interceptions,3,17
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Blocks,2,10
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Clearances,48,34
+5750693,2026-08-22T16:00:00.000Z,1,DFB Pokal,Sonnenhof Großaspach,94941,Arminia Bielefeld,9912,Keeper saves,3,5
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Tackles,13,24
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Interceptions,8,8
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Blocks,10,0
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Clearances,56,25
+5750694,2026-08-24T18:45:00.000Z,1,DFB Pokal,Hallescher FC,7761,Schalke 04,10189,Keeper saves,6,3
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Tackles,8,10
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Interceptions,9,11
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Blocks,2,9
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Clearances,7,44
+5750695,2026-08-23T11:00:00.000Z,1,DFB Pokal,Greuther Fürth,8357,Bochum,9911,Keeper saves,1,3
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Tackles,31,13
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Interceptions,13,17
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Blocks,10,4
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Clearances,51,21
+5750696,2026-08-22T13:30:00.000Z,1,DFB Pokal,Saarbrücken,8271,Hertha BSC,8177,Keeper saves,8,1
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Tackles,19,13
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Interceptions,12,8
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Blocks,8,3
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Clearances,25,21
+5750697,2026-08-21T18:45:00.000Z,1,DFB Pokal,Hansa Rostock,8294,VfB Stuttgart,10269,Keeper saves,4,6
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Tackles,14,11
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Interceptions,10,8
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Blocks,5,1
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Clearances,18,18
+5750698,2026-08-22T16:00:00.000Z,1,DFB Pokal,1860 München,9753,Holstein Kiel,8150,Keeper saves,1,3
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Tackles,18,11
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Interceptions,9,9
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Blocks,6,6
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Clearances,21,19
+5750699,2026-08-23T16:00:00.000Z,1,DFB Pokal,1. FC Phönix Lübeck,1072445,Paderborn,8460,Keeper saves,6,4
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Tackles,10,23
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Interceptions,8,14
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Blocks,9,8
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Clearances,51,43
+5750700,2026-08-21T16:00:00.000Z,1,DFB Pokal,Waldhof Mannheim,9743,Kaiserslautern,8350,Keeper saves,3,4
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Tackles,18,14
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Interceptions,10,8
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Blocks,9,0
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Clearances,46,8
+5750701,2026-09-01T18:45:00.000Z,1,DFB Pokal,HEBC Hamburg,946303,Borussia Dortmund,9789,Keeper saves,8,1
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Tackles,19,18
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Interceptions,9,8
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Blocks,6,2
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Clearances,23,3
+5750702,2026-09-02T18:45:00.000Z,1,DFB Pokal,VfL Osnabrück,9775,Bayern München,9823,Keeper saves,5,1
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Tackles,11,10
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Interceptions,9,9
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Blocks,5,0
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Clearances,40,17
+6162736,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Mönchengladbach,9788,Karlsruher SC,8295,Keeper saves,4,1
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Tackles,15,16
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Interceptions,2,13
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Blocks,1,0
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Clearances,44,23
+6162739,2026-10-27T17:00:00.000Z,2,DFB Pokal,Bochum,9911,Mainz 05,9905,Keeper saves,5,1
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Tackles,14,12
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Interceptions,8,11
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Blocks,0,1
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Clearances,11,27
+6162740,2026-10-27T19:45:00.000Z,2,DFB Pokal,Borussia Dortmund,9789,Werder Bremen,8697,Keeper saves,4,1
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Tackles,8,14
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Interceptions,6,8
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Blocks,2,6
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Clearances,7,51
+6162741,2026-10-27T19:45:00.000Z,2,DFB Pokal,Elversberg,8232,Darmstadt,8262,Keeper saves,0,6
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Tackles,8,15
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Interceptions,11,6
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Blocks,6,1
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Clearances,30,28
+6162742,2026-10-27T19:45:00.000Z,2,DFB Pokal,1. FC Köln,8722,Union Berlin,8149,Keeper saves,4,3
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Tackles,8,12
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Interceptions,9,5
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Blocks,1,5
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Clearances,14,35
+6162743,2026-10-28T17:00:00.000Z,2,DFB Pokal,Freiburg,8358,Wolfsburg,8721,Keeper saves,0,0
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Tackles,22,14
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Interceptions,7,10
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Blocks,4,2
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Clearances,22,13
+6162744,2026-10-27T17:00:00.000Z,2,DFB Pokal,Sonnenhof Großaspach,94941,Augsburg,8406,Keeper saves,5,2
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Tackles,29,18
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Interceptions,10,13
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Blocks,3,2
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Clearances,23,38
+6162745,2026-10-27T17:00:00.000Z,2,DFB Pokal,Hamburger SV,9790,Eintracht Frankfurt,9810,Keeper saves,2,5
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Tackles,19,9
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Interceptions,19,11
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Blocks,12,1
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Clearances,34,8
+6162748,2026-10-28T17:00:00.000Z,2,DFB Pokal,SSV Jeddeloh,343377,Hertha BSC,8177,Keeper saves,2,0
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Tackles,10,11
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Interceptions,8,11
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Blocks,2,4
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Clearances,35,33
+6162749,2026-10-28T17:00:00.000Z,2,DFB Pokal,Paderborn,8460,VfB Stuttgart,10269,Keeper saves,4,5
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Tackles,25,26
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Interceptions,9,7
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Blocks,3,2
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Clearances,26,32
+6162750,2026-10-27T17:00:00.000Z,2,DFB Pokal,RW Essen,8296,RB Leipzig,178475,Keeper saves,0,0
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Tackles,9,20
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Interceptions,8,9
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Blocks,3,6
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Clearances,20,20
+6162751,2026-10-28T17:00:00.000Z,2,DFB Pokal,Dynamo Dresden,8480,Schalke 04,10189,Keeper saves,4,0

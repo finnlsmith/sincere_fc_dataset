@@ -1,0 +1,97 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Duels won,37,46
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Ground duels won,35 (44%),44 (56%)
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Aerial duels won,2 (50%),2 (50%)
+5852771,2026-08-14T16:00:00.000Z,1/32,Coppa Italia,Parma,10167,Catania,8530,Successful dribbles,7 (37%),10 (42%)
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Duels won,47,63
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Ground duels won,37 (41%),53 (59%)
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Aerial duels won,10 (50%),10 (50%)
+5852772,2026-08-14T16:30:00.000Z,1/32,Coppa Italia,Cagliari,8529,Arezzo,9849,Successful dribbles,12 (44%),12 (60%)
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Duels won,52,45
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Ground duels won,44 (59%),30 (41%)
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Aerial duels won,8 (35%),15 (65%)
+5852773,2026-08-14T18:45:00.000Z,1/32,Coppa Italia,Monza,6504,Avellino,6722,Successful dribbles,8 (53%),4 (44%)
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Duels won,29,29
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Ground duels won,24 (53%),21 (47%)
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Aerial duels won,5 (38%),8 (62%)
+5852774,2026-08-14T19:15:00.000Z,1/32,Coppa Italia,Fiorentina,8535,Benevento,6266,Successful dribbles,5 (56%),3 (43%)
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Duels won,35,31
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Ground duels won,29 (53%),26 (47%)
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Aerial duels won,6 (55%),5 (45%)
+5852775,2026-08-15T16:00:00.000Z,1/32,Coppa Italia,Catanzaro,10168,Südtirol,189475,Successful dribbles,3 (60%),3 (60%)
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Duels won,32,39
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Ground duels won,25 (44%),32 (56%)
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Aerial duels won,7 (50%),7 (50%)
+5852776,2026-08-15T16:30:00.000Z,1/32,Coppa Italia,Udinese,8600,Padova,583944,Successful dribbles,2 (20%),2 (25%)
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Duels won,32,31
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Ground duels won,26 (51%),25 (49%)
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Aerial duels won,6 (50%),6 (50%)
+5852777,2026-08-15T18:45:00.000Z,1/32,Coppa Italia,Venezia,7881,Modena,9887,Successful dribbles,6 (46%),3 (33%)
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Duels won,40,43
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Ground duels won,31 (48%),33 (52%)
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Aerial duels won,9 (47%),10 (53%)
+5852778,2026-08-15T19:15:00.000Z,1/32,Coppa Italia,Torino,9804,Carrarese,6488,Successful dribbles,4 (25%),0 (0%)
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Duels won,38,41
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Ground duels won,30 (45%),37 (55%)
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Aerial duels won,8 (67%),4 (33%)
+5852779,2026-08-16T16:00:00.000Z,1/32,Coppa Italia,Frosinone,9891,Juve Stabia,6106,Successful dribbles,4 (100%),11 (79%)
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Duels won,41,36
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Ground duels won,35 (53%),31 (47%)
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Aerial duels won,6 (55%),5 (45%)
+5852780,2026-08-16T16:30:00.000Z,1/32,Coppa Italia,Genoa,10233,Ascoli,8522,Successful dribbles,6 (60%),7 (39%)
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Duels won,54,49
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Ground duels won,39 (50%),39 (50%)
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Aerial duels won,15 (60%),10 (40%)
+5852781,2026-08-16T18:45:00.000Z,1/32,Coppa Italia,Hellas Verona,9876,Virtus Entella,208932,Successful dribbles,6 (67%),6 (55%)
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Duels won,40,38
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Ground duels won,23 (46%),27 (54%)
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Aerial duels won,17 (61%),11 (39%)
+5852782,2026-08-16T19:15:00.000Z,1/32,Coppa Italia,Lazio,8543,Mantova,9889,Successful dribbles,6 (67%),1 (33%)
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Duels won,56,40
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Ground duels won,39 (53%),34 (47%)
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Aerial duels won,17 (74%),6 (26%)
+5852783,2026-08-17T16:00:00.000Z,1/32,Coppa Italia,Pisa,6479,Empoli,8534,Successful dribbles,7 (44%),6 (50%)
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Duels won,40,28
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Ground duels won,33 (58%),24 (42%)
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Aerial duels won,7 (64%),4 (36%)
+5852784,2026-08-17T16:30:00.000Z,1/32,Coppa Italia,Sassuolo,7943,Cesena,584022,Successful dribbles,8 (50%),1 (14%)
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Duels won,15,38
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Ground duels won,13 (32%),28 (68%)
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Aerial duels won,2 (17%),10 (83%)
+5852785,2026-08-17T18:45:00.000Z,1/32,Coppa Italia,Cremonese,7801,Sampdoria,9882,Successful dribbles,0 (0%),3 (60%)
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Duels won,52,44
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Ground duels won,38 (55%),31 (45%)
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Aerial duels won,14 (52%),13 (48%)
+5852786,2026-08-17T19:15:00.000Z,1/32,Coppa Italia,Palermo,8540,Lecce,9888,Successful dribbles,10 (63%),6 (50%)
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Duels won,54,47
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Ground duels won,42 (53%),37 (47%)
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Aerial duels won,12 (55%),10 (45%)
+6003652,2026-09-15T16:00:00.000Z,1/16,Coppa Italia,Genoa,10233,Südtirol,189475,Successful dribbles,6 (30%),3 (21%)
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Duels won,64,48
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Ground duels won,48 (58%),35 (42%)
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Aerial duels won,16 (55%),13 (45%)
+6003653,2026-09-03T16:00:00.000Z,1/16,Coppa Italia,Palermo,8540,Mantova,9889,Successful dribbles,9 (50%),9 (53%)
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Duels won,53,64
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Ground duels won,36 (45%),44 (55%)
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Aerial duels won,17 (46%),20 (54%)
+6003654,2026-09-01T19:00:00.000Z,1/16,Coppa Italia,Torino,9804,Monza,6504,Successful dribbles,5 (33%),9 (45%)
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Duels won,28,38
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Ground duels won,20 (39%),31 (61%)
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Aerial duels won,8 (53%),7 (47%)
+6003655,2026-09-01T16:00:00.000Z,1/16,Coppa Italia,Parma,10167,Cremonese,7801,Successful dribbles,2 (29%),9 (53%)
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Duels won,46,55
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Ground duels won,38 (46%),44 (54%)
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Aerial duels won,8 (42%),11 (58%)
+6003656,2026-09-03T19:00:00.000Z,1/16,Coppa Italia,Cagliari,8529,Hellas Verona,9876,Successful dribbles,12 (41%),6 (75%)
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Duels won,63,51
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Ground duels won,54 (57%),41 (43%)
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Aerial duels won,9 (47%),10 (53%)
+6003657,2026-09-02T13:00:00.000Z,1/16,Coppa Italia,Sassuolo,7943,Frosinone,9891,Successful dribbles,15 (65%),9 (41%)
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Duels won,40,36
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Ground duels won,29 (52%),27 (48%)
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Aerial duels won,11 (55%),9 (45%)
+6003658,2026-09-02T16:00:00.000Z,1/16,Coppa Italia,Udinese,8600,Venezia,7881,Successful dribbles,1 (33%),1 (10%)
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Duels won,46,50
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Ground duels won,41 (50%),41 (50%)
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Aerial duels won,5 (36%),9 (64%)
+6003659,2026-09-15T19:00:00.000Z,1/16,Coppa Italia,Fiorentina,8535,Pisa,6479,Successful dribbles,12 (60%),7 (39%)

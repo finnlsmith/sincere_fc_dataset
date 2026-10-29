@@ -1,0 +1,26 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Tackles,22,11
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Interceptions,12,6
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Blocks,6,0
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Clearances,28,14
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Keeper saves,0,0
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Tackles,21,12
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Interceptions,13,4
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Blocks,5,3
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Clearances,19,21
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Keeper saves,6,1
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Tackles,30,10
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Interceptions,2,3
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Blocks,7,1
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Clearances,34,12
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Keeper saves,4,0
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Tackles,26,16
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Interceptions,7,6
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Blocks,9,4
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Clearances,41,19
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Keeper saves,4,4
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Tackles,27,14
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Interceptions,10,5
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Blocks,4,1
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Clearances,51,48
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Keeper saves,2,5

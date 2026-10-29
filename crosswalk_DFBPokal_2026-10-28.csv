@@ -1,0 +1,1383 @@
+source,source_native_id,source_name,team,canonical_player_id,matched_to_master,match_via
+fotmob,177714,Mario Götze,Eintracht Frankfurt,69600,True,id_map
+fotmob,215647,G. Rizzo,St. Tönis,fotmob_new_215647,False,
+fotmob,432435,Michael Zetterer,Eintracht Frankfurt,155465,True,id_map
+fotmob,589391,Bilal Brusdeilins,St. Tönis,fotmob_new_589391,False,
+fotmob,628201,Robin Koch,Eintracht Frankfurt,193645,True,id_map
+fotmob,748993,Eghosa Aaron Ogbeide,St. Tönis,fotmob_new_748993,False,
+fotmob,748994,Fumito Okihara,St. Tönis,fotmob_new_748994,False,
+fotmob,748995,Farid Omorou,St. Tönis,fotmob_new_748995,False,
+fotmob,748998,Julian Andres Florez Suaterna,St. Tönis,fotmob_new_748998,False,
+fotmob,748999,Kohei Nakano,St. Tönis,fotmob_new_748999,False,
+fotmob,749001,Luca Esposito,St. Tönis,fotmob_new_749001,False,
+fotmob,749004,Memlan Darwish,St. Tönis,fotmob_new_749004,False,
+fotmob,749005,Morten Heffungs,St. Tönis,fotmob_new_749005,False,
+fotmob,749006,Maksym Lufarenko,St. Tönis,fotmob_new_749006,False,
+fotmob,749007,Maximilian Pohlig,St. Tönis,fotmob_new_749007,False,
+fotmob,749009,Niklas Withofs,St. Tönis,fotmob_new_749009,False,
+fotmob,749015,Simon Sell,St. Tönis,fotmob_new_749015,False,
+fotmob,749016,Tyler Nkamanyi,St. Tönis,fotmob_new_749016,False,
+fotmob,749473,Lenni Castrop Choi,St. Tönis,fotmob_new_749473,False,
+fotmob,749476,Hiroya Suguro,St. Tönis,fotmob_new_749476,False,
+fotmob,749945,Dominik Dohmen,St. Tönis,fotmob_new_749945,False,
+fotmob,947901,Jonathan Burkardt,Eintracht Frankfurt,225485,True,id_map
+fotmob,1126768,Raphael Onyedika,Eintracht Frankfurt,503548,True,id_map
+fotmob,1175708,Ansgar Knauff,Eintracht Frankfurt,492931,True,id_map
+fotmob,1297598,Jonas Theuerzeit,St. Tönis,fotmob_new_1297598,False,
+fotmob,1336529,Oscar Højlund,Eintracht Frankfurt,578611,True,id_map
+fotmob,1345875,Farès Chaïbi,Eintracht Frankfurt,573379,True,id_map
+fotmob,1367924,Can Uzun,Eintracht Frankfurt,554087,True,id_map
+fotmob,1393672,Jean-Mattéo Bahoya,Eintracht Frankfurt,587982,True,id_map
+fotmob,1408191,Tim Schrick,St. Tönis,fotmob_new_1408191,False,
+fotmob,1418816,Kauã,Eintracht Frankfurt,575549,True,id_map
+fotmob,1421821,Elias Baum,Eintracht Frankfurt,547216,True,id_map
+fotmob,1447050,Younes Ebnoutalib,Eintracht Frankfurt,613801,True,id_map
+fotmob,1627706,Keita Kosugi,Eintracht Frankfurt,623214,True,id_map
+fotmob,1671553,Jeremiaha Maluze,Eintracht Frankfurt,700073,True,id_map
+fotmob,1680173,Ayoube Amaimouni-Echghouyab,Eintracht Frankfurt,702409,True,id_map
+fotmob,1690128,Malik Pimpong,Eintracht Frankfurt,687059,True,id_map
+fotmob,1717491,Love Arrhov,Eintracht Frankfurt,649816,True,id_map
+fotmob,1738366,Otávio,Eintracht Frankfurt,694362,True,id_map
+fotmob,1789643,Julian Etse,Eintracht Frankfurt,fotmob_new_1789643,False,
+fotmob,278856,Willi Orbán,RB Leipzig,101601,True,id_map
+fotmob,450972,Leopold Zingerle,RB Leipzig,fm_450972,True,id_map
+fotmob,463371,Damjan Marčeta,SV Eintracht Trier 05,fotmob_new_463371,False,
+fotmob,536578,Sinan Tekerci,SV Eintracht Trier 05,fotmob_new_536578,False,
+fotmob,571654,Christopher Spang,SV Eintracht Trier 05,fotmob_new_571654,False,
+fotmob,589180,Dimitrios Mitakidis,SV Eintracht Trier 05,fotmob_new_589180,False,
+fotmob,681383,Benjamin Henrichs,RB Leipzig,180167,True,id_map
+fotmob,749716,Matthias Fettes,SV Eintracht Trier 05,fotmob_new_749716,False,
+fotmob,787000,Dominik Kinscher,SV Eintracht Trier 05,fotmob_new_787000,False,
+fotmob,806669,David Raum,RB Leipzig,243309,True,id_map
+fotmob,883087,Ridle Baku,RB Leipzig,428786,True,id_map
+fotmob,972200,Maarten Vandevoordt,RB Leipzig,248866,True,id_map
+fotmob,1024672,Nicolas Seiwald,RB Leipzig,478196,True,id_map
+fotmob,1173788,El Chadaille Bitshiabu,RB Leipzig,510881,True,master
+fotmob,1174726,Rocco Reitz,RB Leipzig,514341,True,id_map
+fotmob,1192402,Jonas Singer,SV Eintracht Trier 05,fotmob_new_1192402,False,
+fotmob,1203194,Johan Bakayoko,RB Leipzig,519638,True,id_map
+fotmob,1248482,Antonio Nusa,RB Leipzig,538980,True,id_map
+fotmob,1253852,Castello Lukeba,RB Leipzig,468657,True,id_map
+fotmob,1276448,Christopher Wähling,SV Eintracht Trier 05,fotmob_new_1276448,False,
+fotmob,1285567,Tim Sausen,SV Eintracht Trier 05,fotmob_new_1285567,False,
+fotmob,1310001,Ezechiel Banzuzi,RB Leipzig,558522,True,id_map
+fotmob,1370838,Fabio Lohei,SV Eintracht Trier 05,fotmob_new_1370838,False,
+fotmob,1387389,Arthur Vermeeren,RB Leipzig,578612,True,id_map
+fotmob,1402330,Jannis Held,SV Eintracht Trier 05,fotmob_new_1402330,False,
+fotmob,1424952,Omer Yavuz,SV Eintracht Trier 05,fotmob_new_1424952,False,
+fotmob,1430151,Brajan Gruda,RB Leipzig,513433,True,id_map
+fotmob,1438565,Shawn Blum,SV Eintracht Trier 05,fotmob_new_1438565,False,
+fotmob,1452681,Thomas Gaida,SV Eintracht Trier 05,fotmob_new_1452681,False,
+fotmob,1482209,Andrija Maksimović,RB Leipzig,620473,True,id_map
+fotmob,1482294,Conrad Harder,RB Leipzig,621481,True,id_map
+fotmob,1482733,Tidiam Gomis,RB Leipzig,560261,True,id_map
+fotmob,1516064,Leon-Oumar Wechsel,SV Eintracht Trier 05,fotmob_new_1516064,False,
+fotmob,1529161,Max Finkgräfe,RB Leipzig,629741,True,id_map
+fotmob,1620629,Mateo Kritzer,SV Eintracht Trier 05,fotmob_new_1620629,False,
+fotmob,1789413,Gianluca Pelzer,SV Eintracht Trier 05,fotmob_new_1789413,False,
+fotmob,1832280,Frederik Rahn,SV Eintracht Trier 05,fotmob_new_1832280,False,
+fotmob,1860819,Samba Konaté,RB Leipzig,712725,True,id_map
+fotmob,1971224,Noah Herber,SV Eintracht Trier 05,fotmob_new_1971224,False,
+fotmob,2064078,Elia Dittrich,SV Eintracht Trier 05,fotmob_new_2064078,False,
+fotmob,182893,Matthias Zimmermann,Fortuna Düsseldorf,fotmob_new_182893,False,
+fotmob,303800,Dominique Heintz,Fortuna Düsseldorf,107590,True,master
+fotmob,303912,Matthias Ginter,Sport-Club Freiburg,111251,True,id_map
+fotmob,307209,Lukas Kübler,Sport-Club Freiburg,112488,True,id_map
+fotmob,355358,Christian Günter,Sport-Club Freiburg,119382,True,id_map
+fotmob,400625,Vincenzo Grifo,Sport-Club Freiburg,137908,True,id_map
+fotmob,467495,Jorrit Hendrix,Fortuna Düsseldorf,fotmob_new_467495,False,
+fotmob,556524,Lucas Höler,Sport-Club Freiburg,192401,True,id_map
+fotmob,602523,Maximilian Eggestein,Sport-Club Freiburg,200850,True,id_map
+fotmob,620563,Philipp Förster,Fortuna Düsseldorf,fotmob_new_620563,False,
+fotmob,643724,Philipp Lienhart,Sport-Club Freiburg,199245,True,id_map
+fotmob,686112,Fabian Schleusener,Fortuna Düsseldorf,fotmob_new_686112,False,
+fotmob,737365,Florian Müller,Sport-Club Freiburg,fm_737365,True,id_map
+fotmob,846014,Eric Hottmann,Fortuna Düsseldorf,fotmob_new_846014,False,
+fotmob,864157,Jan-Niklas Beste,Sport-Club Freiburg,219836,True,id_map
+fotmob,865970,Marcel Benger,Fortuna Düsseldorf,fotmob_new_865970,False,
+fotmob,1073485,Jomaine Consbruch,Fortuna Düsseldorf,fotmob_new_1073485,False,
+fotmob,1075815,Patrick Osterhage,Sport-Club Freiburg,440824,True,id_map
+fotmob,1083322,Tim Oberdorf,Fortuna Düsseldorf,fotmob_new_1083322,False,
+fotmob,1134467,Yuito Suzuki,Sport-Club Freiburg,481035,True,id_map
+fotmob,1180323,Steven van der Sloot,Fortuna Düsseldorf,fotmob_new_1180323,False,
+fotmob,1185509,Andreas Müller,Fortuna Düsseldorf,fotmob_new_1185509,False,
+fotmob,1210893,Igor Matanović,Sport-Club Freiburg,513431,True,id_map
+fotmob,1263671,Sascha Risch,Fortuna Düsseldorf,fotmob_new_1263671,False,
+fotmob,1269497,Yannik Engelhardt,Sport-Club Freiburg,492384,True,id_map
+fotmob,1281090,Philipp Treu,Sport-Club Freiburg,543922,True,id_map
+fotmob,1281108,Jordy Makengo,Sport-Club Freiburg,543921,True,id_map
+fotmob,1286656,Lasse Rieß,Fortuna Düsseldorf,543256,True,master
+fotmob,1292582,Yassine Bouchama,Fortuna Düsseldorf,fotmob_new_1292582,False,
+fotmob,1302666,Derry Scherhant,Sport-Club Freiburg,587831,True,id_map
+fotmob,1352996,Mio Backhaus,Sport-Club Freiburg,513441,True,id_map
+fotmob,1390245,Louis Lord,Fortuna Düsseldorf,fotmob_new_1390245,False,
+fotmob,1436730,Keisuke Goto,Sport-Club Freiburg,587165,True,id_map
+fotmob,1492166,Miguel Gonçalves,Fortuna Düsseldorf,fotmob_new_1492166,False,
+fotmob,1526221,Cyriaque Irié,Sport-Club Freiburg,628884,True,id_map
+fotmob,1577843,Bruno Ogbus,Sport-Club Freiburg,588935,True,id_map
+fotmob,1606589,Jordi Paulina,Fortuna Düsseldorf,fotmob_new_1606589,False,
+fotmob,1609228,Elias Egouli,Fortuna Düsseldorf,fotmob_new_1609228,False,
+fotmob,2100194,Elias Arden,Fortuna Düsseldorf,fotmob_new_2100194,False,
+fotmob,2100198,Anas Slimani,Fortuna Düsseldorf,fotmob_new_2100198,False,
+fotmob,423624,Patrick Mainka,1. FC Heidenheim 1846,153635,True,master
+fotmob,554979,Leart Paçarada,1. FC Heidenheim 1846,fotmob_new_554979,False,
+fotmob,556540,Marcel Costly,1. FC Heidenheim 1846,fotmob_new_556540,False,
+fotmob,557805,Mathias Honsak,1. FC Heidenheim 1846,192049,True,master
+fotmob,571379,Marnon-Thomas Busch,1. FC Heidenheim 1846,193494,True,master
+fotmob,614958,Haris Hyseni,SSV Jeddeloh II,fotmob_new_614958,False,
+fotmob,618672,Gazi Siala,SSV Jeddeloh II,fotmob_new_618672,False,
+fotmob,674242,Budu Zivzivadze,1. FC Heidenheim 1846,196243,True,master
+fotmob,690176,Kamer Krasniqi,SSV Jeddeloh II,fotmob_new_690176,False,
+fotmob,749868,Diego Raykov,SSV Jeddeloh II,fotmob_new_749868,False,
+fotmob,749874,Kingsley Helmut Marcinek,SSV Jeddeloh II,fotmob_new_749874,False,
+fotmob,749886,Thure Oscar Fengler,SSV Jeddeloh II,fotmob_new_749886,False,
+fotmob,939409,Maximilian Breunig,1. FC Heidenheim 1846,fotmob_new_939409,False,
+fotmob,945935,Mikkel Kaufmann,1. FC Heidenheim 1846,449901,True,master
+fotmob,956024,Pascal Steinwender,SSV Jeddeloh II,fotmob_new_956024,False,
+fotmob,956913,Marvin Pieringer,1. FC Heidenheim 1846,523879,True,id_map
+fotmob,959267,Niklas von Aschwege,SSV Jeddeloh II,fotmob_new_959267,False,
+fotmob,1002673,Jan Schöppner,1. FC Heidenheim 1846,486505,True,master
+fotmob,1080534,Affamefuna-Michael Ifeadigo,SSV Jeddeloh II,fotmob_new_1080534,False,
+fotmob,1138311,Paul Tschernuth,1. FC Heidenheim 1846,fotmob_new_1138311,False,
+fotmob,1193815,Julian Niehues,1. FC Heidenheim 1846,543705,True,master
+fotmob,1222166,Luca Kerber,1. FC Heidenheim 1846,515291,True,master
+fotmob,1286010,Fynn Friedrichs,SSV Jeddeloh II,fotmob_new_1286010,False,
+fotmob,1286019,Tim Janßen,SSV Jeddeloh II,fotmob_new_1286019,False,
+fotmob,1296703,Robin Krolikowski,SSV Jeddeloh II,fotmob_new_1296703,False,
+fotmob,1330848,Frank Feller,1. FC Heidenheim 1846,513437,True,master
+fotmob,1352636,Oualid Mhamdi,1. FC Heidenheim 1846,fotmob_new_1352636,False,
+fotmob,1364005,Tom-Julian Kanowski,SSV Jeddeloh II,fotmob_new_1364005,False,
+fotmob,1385832,Moritz Onken,SSV Jeddeloh II,fotmob_new_1385832,False,
+fotmob,1683855,Philip Gramberg,SSV Jeddeloh II,fotmob_new_1683855,False,
+fotmob,1688937,Paul Hennrich,1. FC Heidenheim 1846,fotmob_new_1688937,False,
+fotmob,1743174,Hugo Brandes,SSV Jeddeloh II,fotmob_new_1743174,False,
+fotmob,1791784,Yannik Wagner,1. FC Heidenheim 1846,627581,True,master
+fotmob,1799711,Adam Kölle,1. FC Heidenheim 1846,fotmob_new_1799711,False,
+fotmob,1803900,Tobias Bothe,SSV Jeddeloh II,fotmob_new_1803900,False,
+fotmob,1806078,Keita Taguchi,SSV Jeddeloh II,fotmob_new_1806078,False,
+fotmob,2130071,Marko Zrilic,1. FC Heidenheim 1846,fotmob_new_2130071,False,
+fotmob,2140433,Ole Bottcher,SSV Jeddeloh II,fotmob_new_2140433,False,
+fotmob,2188532,Moritz Brinkmann,SSV Jeddeloh II,fotmob_new_2188532,False,
+fotmob,198316,Michael Gregoritsch,FC Augsburg,62480,True,id_map
+fotmob,488297,Axel Borgmann,FC Energie Cottbus,fotmob_new_488297,False,
+fotmob,555654,Tolcay Ciğerci,FC Energie Cottbus,fotmob_new_555654,False,
+fotmob,556029,Marius Wolf,FC Augsburg,192849,True,id_map
+fotmob,643448,Kristijan Jakić,FC Augsburg,229774,True,master
+fotmob,659081,Ryan Malone,FC Energie Cottbus,fotmob_new_659081,False,
+fotmob,700075,Dominik Pelivan,FC Energie Cottbus,fotmob_new_700075,False,
+fotmob,844431,Yannik Keitel,FC Augsburg,241238,True,id_map
+fotmob,846291,Tim Campulka,FC Energie Cottbus,fotmob_new_846291,False,
+fotmob,900523,Keven Schlotterbeck,FC Augsburg,454030,True,master
+fotmob,926445,Finn Dahmen,FC Augsburg,218361,True,id_map
+fotmob,931614,Julian Guttau,FC Energie Cottbus,fotmob_new_931614,False,
+fotmob,956863,Christian Kinsombi,FC Energie Cottbus,fotmob_new_956863,False,
+fotmob,978378,Moritz Hannemann,FC Energie Cottbus,fotmob_new_978378,False,
+fotmob,978680,Han-Noah Massengo,FC Augsburg,437757,True,id_map
+fotmob,1049799,Nathanaël Mbuku,FC Augsburg,476892,True,id_map
+fotmob,1106859,Henry Rorig,FC Energie Cottbus,fotmob_new_1106859,False,
+fotmob,1161211,Fabian Rieder,FC Augsburg,449787,True,id_map
+fotmob,1162510,Justin Butler,FC Energie Cottbus,fotmob_new_1162510,False,
+fotmob,1178512,Chrislain Matsima,FC Augsburg,465524,True,id_map
+fotmob,1185609,Robin Fellhauer,FC Augsburg,513033,True,id_map
+fotmob,1257828,Marcel Lotka,FC Energie Cottbus,fotmob_new_1257828,False,
+fotmob,1276194,Lucas Copado,FC Energie Cottbus,fotmob_new_1276194,False,
+fotmob,1284464,Nediljko Labrović,FC Augsburg,fm_1284464,True,id_map
+fotmob,1300329,Calvin Brackelmann,FC Augsburg,585070,True,id_map
+fotmob,1310103,Anton Kade,FC Augsburg,513432,True,id_map
+fotmob,1343749,Rodrigo Ribeiro,FC Augsburg,551232,True,id_map
+fotmob,1400168,Jannis Boziaris,FC Energie Cottbus,fotmob_new_1400168,False,
+fotmob,1453218,Mert Kömür,FC Augsburg,550661,True,id_map
+fotmob,1559822,King Manu,FC Energie Cottbus,fotmob_new_1559822,False,
+fotmob,1640793,Dmytro Bogdanov,FC Energie Cottbus,627735,True,master
+fotmob,1641063,Noahkai Banks,FC Augsburg,547187,True,id_map
+fotmob,1669829,Fousseny Doumbia,FC Energie Cottbus,547150,True,master
+fotmob,1678681,Hennes Behrens,FC Augsburg,519073,True,id_map
+fotmob,1701764,Lukas Michelbrink,FC Energie Cottbus,fotmob_new_1701764,False,
+fotmob,1709032,Luca Erlein,FC Energie Cottbus,fotmob_new_1709032,False,
+fotmob,1718174,Uchenna Ogundu,FC Augsburg,679396,True,id_map
+fotmob,1875448,Tim Schnitzer,FC Augsburg,627781,True,id_map
+fotmob,2092491,Kevin Kratzsch,FC Energie Cottbus,fotmob_new_2092491,False,
+fotmob,2130754,Jannis Zaydan,FC Energie Cottbus,fotmob_new_2130754,False,
+fotmob,453908,Marcel Pfaar,Hemelingen,fotmob_new_453908,False,
+fotmob,508528,Abdulla Genaev,Hemelingen,fotmob_new_508528,False,
+fotmob,545807,Florent Berisha,Hemelingen,fotmob_new_545807,False,
+fotmob,572232,Salem Nouwame,Hemelingen,fotmob_new_572232,False,
+fotmob,628433,Dean Hannawald,Hemelingen,fotmob_new_628433,False,
+fotmob,628569,Felix Deou Bauhus,Hemelingen,fotmob_new_628569,False,
+fotmob,628578,Tyron Leon Haake,Hemelingen,fotmob_new_628578,False,
+fotmob,652080,Alvaro Sanchez,Hemelingen,fotmob_new_652080,False,
+fotmob,663056,Boris Kehayov,Hemelingen,fotmob_new_663056,False,
+fotmob,664563,Karem Sahan,Hemelingen,fotmob_new_664563,False,
+fotmob,664810,Benjamin Källman,Hannover 96,fotmob_new_664810,False,
+fotmob,673045,Maurice Neubauer,Hannover 96,fotmob_new_673045,False,
+fotmob,703470,Berkay Isik,Hemelingen,fotmob_new_703470,False,
+fotmob,726692,Marcel Hartel,Hannover 96,fotmob_new_726692,False,
+fotmob,745912,Stefán Thórdarson,Hannover 96,fotmob_new_745912,False,
+fotmob,749434,Felix Liebchen,Hemelingen,fotmob_new_749434,False,
+fotmob,749436,Abdul Koudousse Saibou,Hemelingen,fotmob_new_749436,False,
+fotmob,749437,Diyar Saka,Hemelingen,fotmob_new_749437,False,
+fotmob,749446,Karim Bockau,Hemelingen,fotmob_new_749446,False,
+fotmob,749454,Jerome Albritton,Hemelingen,fotmob_new_749454,False,
+fotmob,782704,Leo Weinkauf,Hannover 96,fotmob_new_782704,False,
+fotmob,803163,Benedikt Pichler,Hannover 96,fotmob_new_803163,False,
+fotmob,834602,Virgil Ghiță,Hannover 96,fotmob_new_834602,False,
+fotmob,860609,Boris Tomiak,Hannover 96,fotmob_new_860609,False,
+fotmob,1080538,Onur Uzun,Hemelingen,fotmob_new_1080538,False,
+fotmob,1081230,Jean Hugonet,Hannover 96,fotmob_new_1081230,False,
+fotmob,1178262,Waniss Taïbi,Hannover 96,fotmob_new_1178262,False,
+fotmob,1221941,Bastian Allgeier,Hannover 96,fotmob_new_1221941,False,
+fotmob,1263675,Lars Gindorf,Hannover 96,fotmob_new_1263675,False,
+fotmob,1270028,Pascal Loretz,Hannover 96,fotmob_new_1270028,False,
+fotmob,1275289,Franz Roggow,Hannover 96,fotmob_new_1275289,False,
+fotmob,1419735,Sadrak-Kalemba Nankishi,Hemelingen,fotmob_new_1419735,False,
+fotmob,1436271,Kolja Oudenne,Hannover 96,fotmob_new_1436271,False,
+fotmob,1484575,Emirhan Çiftçi,Hemelingen,fotmob_new_1484575,False,
+fotmob,1561242,Husseyn Chakroun,Hannover 96,fotmob_new_1561242,False,
+fotmob,1600334,Ime Okon,Hannover 96,fotmob_new_1600334,False,
+fotmob,1689693,Taycan Etçibasi,Hannover 96,fotmob_new_1689693,False,
+fotmob,1804038,Tom Hobrecht,Hannover 96,fotmob_new_1804038,False,
+fotmob,1806109,Yunus Uenal,Hannover 96,fotmob_new_1806109,False,
+fotmob,2155583,Ledjon Fikaj,Hemelingen,fotmob_new_2155583,False,
+fotmob,184556,Adriano Grimaldi,1. FC Nürnberg,fotmob_new_184556,False,
+fotmob,631761,Sigurd Haugen,1. FC Nürnberg,fotmob_new_631761,False,
+fotmob,714645,Giannis Masouras,1. FC Nürnberg,fotmob_new_714645,False,
+fotmob,767802,Kilian Jakob,FC Viktoria Köln,fotmob_new_767802,False,
+fotmob,775269,Taylan Duman,FC Viktoria Köln,fotmob_new_775269,False,
+fotmob,801003,Julian Justvan,1. FC Nürnberg,fotmob_new_801003,False,
+fotmob,906921,David Otto,FC Viktoria Köln,fotmob_new_906921,False,
+fotmob,1062357,Adam Markhiev,1. FC Nürnberg,fotmob_new_1062357,False,
+fotmob,1080764,Tobias Eisenhuth,FC Viktoria Köln,fotmob_new_1080764,False,
+fotmob,1167181,Jan Reichert,1. FC Nürnberg,fotmob_new_1167181,False,
+fotmob,1185155,Alexander Prokopenko,FC Viktoria Köln,fotmob_new_1185155,False,
+fotmob,1185204,Pascal Fallmann,FC Viktoria Köln,fotmob_new_1185204,False,
+fotmob,1187387,Lucas Wolf,FC Viktoria Köln,fotmob_new_1187387,False,
+fotmob,1220576,Verthomy Boboy,FC Viktoria Köln,fotmob_new_1220576,False,
+fotmob,1253090,Alexios Kalogeropoulos,1. FC Nürnberg,fotmob_new_1253090,False,
+fotmob,1257511,Meiko Sponsel,FC Viktoria Köln,fotmob_new_1257511,False,
+fotmob,1285816,Arne Schulz,FC Viktoria Köln,fotmob_new_1285816,False,
+fotmob,1288516,Fynn Otto,1. FC Nürnberg,fotmob_new_1288516,False,
+fotmob,1313923,Mohamed Alì Zoma,1. FC Nürnberg,fotmob_new_1313923,False,
+fotmob,1330880,Niklas Castelle,FC Viktoria Köln,fotmob_new_1330880,False,
+fotmob,1382669,Niklas Jahn,FC Viktoria Köln,fotmob_new_1382669,False,
+fotmob,1514591,Rafael Lubach,1. FC Nürnberg,fotmob_new_1514591,False,
+fotmob,1515982,Marco Pledl,FC Viktoria Köln,fotmob_new_1515982,False,
+fotmob,1517121,Tim Kloss,FC Viktoria Köln,fotmob_new_1517121,False,
+fotmob,1529395,Yannick Tonye,FC Viktoria Köln,fotmob_new_1529395,False,
+fotmob,1531531,Tim Janisch,1. FC Nürnberg,fotmob_new_1531531,False,
+fotmob,1553520,Noah Maboulou,FC Viktoria Köln,fotmob_new_1553520,False,
+fotmob,1560749,Javier Fernández,1. FC Nürnberg,613513,True,master
+fotmob,1663143,Can Moustfa,1. FC Nürnberg,fotmob_new_1663143,False,
+fotmob,1697361,Jakob Sachse,FC Viktoria Köln,fotmob_new_1697361,False,
+fotmob,1700302,Niklas Swider,FC Viktoria Köln,648253,True,master
+fotmob,1728464,Robin Lisewski,1. FC Nürnberg,fotmob_new_1728464,False,
+fotmob,1729588,Piet Scobel,1. FC Nürnberg,fotmob_new_1729588,False,
+fotmob,1755330,Eric Porstner,1. FC Nürnberg,fotmob_new_1755330,False,
+fotmob,1819487,David Wyciok,FC Viktoria Köln,fotmob_new_1819487,False,
+fotmob,1838043,Tobias Hess,1. FC Nürnberg,fotmob_new_1838043,False,
+fotmob,1899554,Marko Soldic,1. FC Nürnberg,fotmob_new_1899554,False,
+fotmob,1980888,Kristian Mandic,1. FC Nürnberg,fotmob_new_1980888,False,
+fotmob,2130162,Jason Amann,FC Viktoria Köln,fotmob_new_2130162,False,
+fotmob,2130761,Marc Kornwachs,1. FC Nürnberg,fotmob_new_2130761,False,
+fotmob,276769,Markus Kolke,SV Werder Bremen,fotmob_new_276769,False,
+fotmob,276791,Niclas Füllkrug,SV Werder Bremen,91889,True,id_map
+fotmob,425767,Nico Hübner,Lüneburger SK Hansa,fotmob_new_425767,False,
+fotmob,450739,Alexander Schlager,SV Werder Bremen,fm_450739,True,id_map
+fotmob,528811,Jens Stage,SV Werder Bremen,222353,True,master
+fotmob,560628,Noah Dahaba,Lüneburger SK Hansa,fotmob_new_560628,False,
+fotmob,570001,Elmin Mekić,Lüneburger SK Hansa,fotmob_new_570001,False,
+fotmob,627379,Julien Gründker,Lüneburger SK Hansa,fotmob_new_627379,False,
+fotmob,638649,Stefan Wolk,Lüneburger SK Hansa,fotmob_new_638649,False,
+fotmob,664350,Tommy Henze,Lüneburger SK Hansa,fotmob_new_664350,False,
+fotmob,668965,Marian Kunze,Lüneburger SK Hansa,fotmob_new_668965,False,
+fotmob,726956,Cedric Itten,SV Werder Bremen,198383,True,id_map
+fotmob,749496,Anton Beer,Lüneburger SK Hansa,fotmob_new_749496,False,
+fotmob,749497,Arne Exner,Lüneburger SK Hansa,fotmob_new_749497,False,
+fotmob,749499,Bo Weishaupt,Lüneburger SK Hansa,fotmob_new_749499,False,
+fotmob,749500,Manimeldura Leon Perera,Lüneburger SK Hansa,fotmob_new_749500,False,
+fotmob,749501,Max Ratzeburg,Lüneburger SK Hansa,fotmob_new_749501,False,
+fotmob,749503,Nevio Scheuer,Lüneburger SK Hansa,fotmob_new_749503,False,
+fotmob,749504,Nick Tappe,Lüneburger SK Hansa,fotmob_new_749504,False,
+fotmob,749506,Raphael Thinius,Lüneburger SK Hansa,fotmob_new_749506,False,
+fotmob,749510,Tjark Dörr,Lüneburger SK Hansa,fotmob_new_749510,False,
+fotmob,749512,Tom Muhlack,Lüneburger SK Hansa,fotmob_new_749512,False,
+fotmob,749514,Wilson,Lüneburger SK Hansa,fotmob_new_749514,False,
+fotmob,765998,Amos Pieper,SV Werder Bremen,436217,True,id_map
+fotmob,767789,Marco Friedl,SV Werder Bremen,225335,True,id_map
+fotmob,869326,Ludovit Reis,SV Werder Bremen,433051,True,id_map
+fotmob,919742,Senne Lynen,SV Werder Bremen,444687,True,id_map
+fotmob,969856,Olivier Deman,SV Werder Bremen,468523,True,id_map
+fotmob,1024292,Marco Grüll,SV Werder Bremen,474605,True,id_map
+fotmob,1137364,Justin Njinmah,SV Werder Bremen,565380,True,id_map
+fotmob,1187973,Malte Meyer,Lüneburger SK Hansa,fotmob_new_1187973,False,
+fotmob,1189792,Lenny Borges,Lüneburger SK Hansa,fotmob_new_1189792,False,
+fotmob,1201408,Julián Malatini,SV Werder Bremen,518758,True,id_map
+fotmob,1315344,Chuki,SV Werder Bremen,587669,True,id_map
+fotmob,1402900,Samuel Mbangula,SV Werder Bremen,513536,True,id_map
+fotmob,1646629,Salim Musah,SV Werder Bremen,589863,True,id_map
+fotmob,1646943,Patrice Čović,SG Dynamo Dresden,627846,True,id_map
+fotmob,1714103,Mick Schmetgens,SV Werder Bremen,627413,True,id_map
+fotmob,1810868,Paul Erevbenagie,SV Werder Bremen,627418,True,id_map
+fotmob,1869761,Kenny Quetant,SV Werder Bremen,579916,True,master_transfer
+fotmob,343763,Marcel Schuhen,SV Darmstadt 98,fotmob_new_343763,False,
+fotmob,423626,Moritz Fritz,FC Carl Zeiss Jena,fotmob_new_423626,False,
+fotmob,553559,Alexander Brunst-Zöllner,SV Darmstadt 98,fotmob_new_553559,False,
+fotmob,566388,Jean Miguel Boog,FC Carl Zeiss Jena,fotmob_new_566388,False,
+fotmob,571365,Nils Butzen,FC Carl Zeiss Jena,fotmob_new_571365,False,
+fotmob,661538,Sören Reddemann,FC Carl Zeiss Jena,fotmob_new_661538,False,
+fotmob,663068,Till Härting,FC Carl Zeiss Jena,fotmob_new_663068,False,
+fotmob,702145,Tristan Sören Teuber,FC Carl Zeiss Jena,fotmob_new_702145,False,
+fotmob,737377,Maurice Hehne,FC Carl Zeiss Jena,fotmob_new_737377,False,
+fotmob,749915,Benno Walter,FC Carl Zeiss Jena,fotmob_new_749915,False,
+fotmob,808148,Aleksandar Vukotić,SV Darmstadt 98,fotmob_new_808148,False,
+fotmob,822832,Raoul Petretta,SV Darmstadt 98,fotmob_new_822832,False,
+fotmob,824692,Kevin Lankford,FC Carl Zeiss Jena,fotmob_new_824692,False,
+fotmob,881740,Christopher Lannert,SV Darmstadt 98,fotmob_new_881740,False,
+fotmob,888632,Manasse Eshele,FC Carl Zeiss Jena,fotmob_new_888632,False,
+fotmob,909433,Carlo Sickinger,SV Darmstadt 98,fotmob_new_909433,False,
+fotmob,951778,Elias Löder,FC Carl Zeiss Jena,fotmob_new_951778,False,
+fotmob,951912,Patric Pfeiffer,SV Darmstadt 98,fotmob_new_951912,False,
+fotmob,954601,Marcel Hoppe,FC Carl Zeiss Jena,fotmob_new_954601,False,
+fotmob,954606,Malik Talabidi,FC Carl Zeiss Jena,fotmob_new_954606,False,
+fotmob,956728,Lance Duijvestijn,SV Darmstadt 98,fotmob_new_956728,False,
+fotmob,959045,Kai Klefisch,SV Darmstadt 98,fotmob_new_959045,False,
+fotmob,1112136,Ibrahim El Kadiri,SV Darmstadt 98,fotmob_new_1112136,False,
+fotmob,1113787,Osazee Aghatise,FC Carl Zeiss Jena,fotmob_new_1113787,False,
+fotmob,1125381,Marius Liesegang,FC Carl Zeiss Jena,fotmob_new_1125381,False,
+fotmob,1140910,Florian Kleinhansl,SV Darmstadt 98,fotmob_new_1140910,False,
+fotmob,1231555,Noah Weißhaupt,SV Darmstadt 98,fotmob_new_1231555,False,
+fotmob,1232390,Ho-Jae Lee,SV Darmstadt 98,fotmob_new_1232390,False,
+fotmob,1281097,Lars Kehl,SV Darmstadt 98,fotmob_new_1281097,False,
+fotmob,1337791,Yosuke Furukawa,SV Darmstadt 98,fotmob_new_1337791,False,
+fotmob,1353053,Milan Smit,SV Darmstadt 98,fotmob_new_1353053,False,
+fotmob,1359641,Luca Wollschläger,FC Carl Zeiss Jena,fotmob_new_1359641,False,
+fotmob,1422122,Timon Burmeister,FC Carl Zeiss Jena,fotmob_new_1422122,False,
+fotmob,1438496,Yannik Lührs,SV Darmstadt 98,554959,True,master
+fotmob,1554137,Nicolas Verkooijen,SV Darmstadt 98,fotmob_new_1554137,False,
+fotmob,1644195,Dion Ajvazi,FC Carl Zeiss Jena,fotmob_new_1644195,False,
+fotmob,1668657,Grayson Dettoni,SV Darmstadt 98,fotmob_new_1668657,False,
+fotmob,1943249,Emilio Munser,FC Carl Zeiss Jena,fotmob_new_1943249,False,
+fotmob,2122746,Jannes Werner,FC Carl Zeiss Jena,fotmob_new_2122746,False,
+fotmob,2130111,Manolo Merx,SV Darmstadt 98,fotmob_new_2130111,False,
+fotmob,118308,Pavao Pervan,VfL Wolfsburg,fotmob_new_118308,False,
+fotmob,278831,John Anthony Brooks,VSG Altglienicke,fotmob_new_278831,False,
+fotmob,298915,Maximilian Arnold,VfL Wolfsburg,109219,True,master
+fotmob,316706,Jonas Nietfeld,VSG Altglienicke,fotmob_new_316706,False,
+fotmob,450976,Yannick Gerhardt,VfL Wolfsburg,164512,True,master
+fotmob,458976,Hauke Wahl,VfL Wolfsburg,166455,True,master
+fotmob,554530,Tim Rieder,VSG Altglienicke,fotmob_new_554530,False,
+fotmob,556515,Damian Roßbach,VSG Altglienicke,fotmob_new_556515,False,
+fotmob,560397,Philip Türpitz,VSG Altglienicke,fotmob_new_560397,False,
+fotmob,585958,David Kebe,VSG Altglienicke,fotmob_new_585958,False,
+fotmob,589677,Noah Can Kardam,VSG Altglienicke,fotmob_new_589677,False,
+fotmob,620136,Luis Maria Zwick,VSG Altglienicke,fotmob_new_620136,False,
+fotmob,647900,Mattias Svanberg,VfL Wolfsburg,210912,True,master
+fotmob,696433,Fabian Reese,VfL Wolfsburg,fotmob_new_696433,False,
+fotmob,759097,Joakim Mæhle,VfL Wolfsburg,229220,True,master
+fotmob,817819,Anthony Barylla,VSG Altglienicke,fotmob_new_817819,False,
+fotmob,839038,Elvis Rexhbeçaj,VfL Wolfsburg,429307,True,master
+fotmob,883545,Ugur Tezel,VSG Altglienicke,fotmob_new_883545,False,
+fotmob,920445,Mohamed Sylla,VSG Altglienicke,fotmob_new_920445,False,
+fotmob,954998,Lennart Czyborra,VSG Altglienicke,fotmob_new_954998,False,
+fotmob,978197,Sven Sonnenberg,VSG Altglienicke,fotmob_new_978197,False,
+fotmob,981044,Nikos Zografakis,SG Sonnenhof Großaspach,fotmob_new_981044,False,
+fotmob,1014688,Alexander Bernhardsson,VfL Wolfsburg,fotmob_new_1014688,False,
+fotmob,1047671,Vini Souza,VfL Wolfsburg,424001,True,master
+fotmob,1163201,Luis Klatte,VSG Altglienicke,fotmob_new_1163201,False,
+fotmob,1187389,Kilian Fischer,VfL Wolfsburg,514716,True,master
+fotmob,1250259,Alessio Besio,VfL Wolfsburg,fotmob_new_1250259,False,
+fotmob,1281257,Emeka Oduah,VSG Altglienicke,fotmob_new_1281257,False,
+fotmob,1302920,Cleiton Santos,VfL Wolfsburg,fotmob_new_1302920,False,
+fotmob,1319404,Mehmet Ibrahimi,VSG Altglienicke,fotmob_new_1319404,False,
+fotmob,1327298,Saël Kumbedi,VfL Wolfsburg,561092,True,master_transfer
+fotmob,1393387,Muhammed Mehmet Damar,VfL Wolfsburg,519117,True,master
+fotmob,1432344,Jonas Adjetey,VfL Wolfsburg,581185,True,master
+fotmob,1482729,Bence Dárdai,VfL Wolfsburg,570038,True,master
+fotmob,1514602,Ali Eren Ersungur,VSG Altglienicke,fotmob_new_1514602,False,
+fotmob,1562896,Jonas Saliger,VSG Altglienicke,fotmob_new_1562896,False,
+fotmob,1611223,Kento Shiogai,VfL Wolfsburg,622186,True,master
+fotmob,1635701,Mathys Angély,VfL Wolfsburg,652153,True,master
+fotmob,1660229,Jakub Zieliński,VfL Wolfsburg,fotmob_new_1660229,False,
+fotmob,1744520,Jonas Hartl,VSG Altglienicke,fotmob_new_1744520,False,
+fotmob,95086,Martin Männel,FC Erzgebirge Aue,fotmob_new_95086,False,
+fotmob,178778,Oliver Baumann,TSG 1899 Hoffenheim,73140,True,id_map
+fotmob,307317,Vladimír Coufal,TSG 1899 Hoffenheim,164555,True,id_map
+fotmob,560579,Simon Skarlatidis,FC Erzgebirge Aue,fotmob_new_560579,False,
+fotmob,578007,Paul Levi Wagner,FC Erzgebirge Aue,fotmob_new_578007,False,
+fotmob,614959,Marcel Bär,FC Erzgebirge Aue,fotmob_new_614959,False,
+fotmob,845990,Ozan Kabak,TSG 1899 Hoffenheim,438277,True,id_map
+fotmob,880598,Patrick Kapp,FC Erzgebirge Aue,fotmob_new_880598,False,
+fotmob,947884,Wouter Burger,TSG 1899 Hoffenheim,438066,True,id_map
+fotmob,969870,Adam Hložek,TSG 1899 Hoffenheim,467008,True,id_map
+fotmob,1035006,Stelios Kokovas,FC Erzgebirge Aue,fotmob_new_1035006,False,
+fotmob,1067768,Aurel Loubongo-M'Boungou,FC Erzgebirge Aue,fotmob_new_1067768,False,
+fotmob,1073498,Patrick Wimmer,TSG 1899 Hoffenheim,486206,True,id_map
+fotmob,1077653,Valentin Gendrey,TSG 1899 Hoffenheim,461415,True,id_map
+fotmob,1095780,Bastian Strietzel,FC Erzgebirge Aue,fotmob_new_1095780,False,
+fotmob,1116819,Nils Lihsek,FC Erzgebirge Aue,fotmob_new_1116819,False,
+fotmob,1124825,Tim Lemperle,TSG 1899 Hoffenheim,470305,True,id_map
+fotmob,1174945,Tim Maciejewski,FC Erzgebirge Aue,fotmob_new_1174945,False,
+fotmob,1175933,Luca Philipp,TSG 1899 Hoffenheim,fm_1175933,True,id_map
+fotmob,1186015,Albian Hajdari,TSG 1899 Hoffenheim,514116,True,id_map
+fotmob,1225995,Robin Hranác,TSG 1899 Hoffenheim,465953,True,id_map
+fotmob,1338957,Bambasé Conté,TSG 1899 Hoffenheim,513565,True,id_map
+fotmob,1353000,Adam Daghim,TSG 1899 Hoffenheim,575415,True,id_map
+fotmob,1368016,Willi Kamm,FC Erzgebirge Aue,fotmob_new_1368016,False,
+fotmob,1382720,Devin Angleberger,FC Erzgebirge Aue,fotmob_new_1382720,False,
+fotmob,1445416,Mats Rots,TSG 1899 Hoffenheim,576750,True,id_map
+fotmob,1478148,Leon Avdullahu,TSG 1899 Hoffenheim,620667,True,id_map
+fotmob,1486537,Max Moerstedt,TSG 1899 Hoffenheim,547426,True,id_map
+fotmob,1613173,Christoph Pauling,FC Erzgebirge Aue,fotmob_new_1613173,False,
+fotmob,1661180,Maxim Burghardt,FC Erzgebirge Aue,fotmob_new_1661180,False,
+fotmob,1663205,Finn Heidrich,FC Erzgebirge Aue,fotmob_new_1663205,False,
+fotmob,1664759,Nathan De Cat,TSG 1899 Hoffenheim,646003,True,id_map
+fotmob,1673681,Linus Queißer,FC Erzgebirge Aue,fotmob_new_1673681,False,
+fotmob,1707487,Hugo Kaps,FC Erzgebirge Aue,fotmob_new_1707487,False,
+fotmob,1789388,Theo Kretschmer,FC Erzgebirge Aue,fotmob_new_1789388,False,
+fotmob,1793498,Cajetan Lenz,TSG 1899 Hoffenheim,695474,True,id_map
+fotmob,1814300,Tristan Spranger,TSG 1899 Hoffenheim,fotmob_new_1814300,False,
+fotmob,1899713,Natnael Abraha,TSG 1899 Hoffenheim,627549,True,id_map
+fotmob,2062759,Leon Prosche,FC Erzgebirge Aue,fotmob_new_2062759,False,
+fotmob,258245,Branimir Hrgota,FC St. Pauli,fotmob_new_258245,False,
+fotmob,361712,Adam Dźwigała,FC St. Pauli,124156,True,master
+fotmob,531327,Eric Smith,FC St. Pauli,182410,True,master
+fotmob,537853,Mathias Rasmussen,FC St. Pauli,184269,True,master
+fotmob,574451,Dimitar Mitov,FC St. Pauli,fotmob_new_574451,False,
+fotmob,639580,Marcus Mathisen,FC St. Pauli,fotmob_new_639580,False,
+fotmob,658831,Ruben Reisig,Rot-Weiss Essen,fotmob_new_658831,False,
+fotmob,812839,Martijn Kaars,FC St. Pauli,243836,True,master
+fotmob,825806,Lars Ritzka,FC St. Pauli,248958,True,master
+fotmob,885870,Connor Metcalfe,FC St. Pauli,431915,True,master
+fotmob,922731,Taichi Hara,FC St. Pauli,224848,True,master
+fotmob,959283,Lucas Brumme,Rot-Weiss Essen,fotmob_new_959283,False,
+fotmob,1001334,José-Enrique Ríos Alonso,Rot-Weiss Essen,fotmob_new_1001334,False,
+fotmob,1002668,David Nemeth,FC St. Pauli,472748,True,master
+fotmob,1005370,Erik Ahlstrand,FC St. Pauli,479618,True,master
+fotmob,1022849,Scott Banks,FC St. Pauli,462831,True,master
+fotmob,1050816,Marvin Obuz,Rot-Weiss Essen,fotmob_new_1050816,False,
+fotmob,1052910,Marek Janssen,Rot-Weiss Essen,fotmob_new_1052910,False,
+fotmob,1073483,Ekin Çelebi,Rot-Weiss Essen,fotmob_new_1073483,False,
+fotmob,1089870,Ricky-Jade Jones,FC St. Pauli,492072,True,master
+fotmob,1092731,Joel Chima Fujita,FC St. Pauli,494865,True,master
+fotmob,1094045,Ben Alexander Voll,FC St. Pauli,fotmob_new_1094045,False,
+fotmob,1112702,Arkadiusz Pyrka,FC St. Pauli,511536,True,master
+fotmob,1185266,Dickson Abiama,Rot-Weiss Essen,fotmob_new_1185266,False,
+fotmob,1185750,Jakob Golz,Rot-Weiss Essen,fotmob_new_1185750,False,
+fotmob,1222134,Max Geschwill,Rot-Weiss Essen,fotmob_new_1222134,False,
+fotmob,1236328,Luca Bazzoli,Rot-Weiss Essen,fotmob_new_1236328,False,
+fotmob,1276474,Semir Telalović,Rot-Weiss Essen,fotmob_new_1276474,False,
+fotmob,1307883,Janne Sietan,Rot-Weiss Essen,fotmob_new_1307883,False,
+fotmob,1315546,Tomoya Andō,FC St. Pauli,567584,True,master
+fotmob,1319716,Felix Wienand,Rot-Weiss Essen,fotmob_new_1319716,False,
+fotmob,1331018,Samuel Klein,FC St. Pauli,fotmob_new_1331018,False,
+fotmob,1428563,Franci Bouebari,Rot-Weiss Essen,fotmob_new_1428563,False,
+fotmob,1445075,Jannik Hofmann,Rot-Weiss Essen,fotmob_new_1445075,False,
+fotmob,1463266,Louis Oppie,FC St. Pauli,623673,True,master
+fotmob,1524023,Tony Menzel,Rot-Weiss Essen,fotmob_new_1524023,False,
+fotmob,1536762,Aiman Dardari,Rot-Weiss Essen,547483,True,master
+fotmob,1585495,Ben Hüning,Rot-Weiss Essen,fotmob_new_1585495,False,
+fotmob,1633419,Jaka Čuber Potočnik,Rot-Weiss Essen,fotmob_new_1633419,False,
+fotmob,1664686,Noah Pesch,Rot-Weiss Essen,fotmob_new_1664686,False,
+fotmob,278814,Janis Blaswich,Bayer 04 Leverkusen,100891,True,id_map
+fotmob,316684,Florian Stritzel,SV Wehen Wiesbaden,fotmob_new_316684,False,
+fotmob,330643,Mark Flekken,Bayer 04 Leverkusen,118342,True,id_map
+fotmob,331542,Jonas Hofmann,Bayer 04 Leverkusen,118876,True,id_map
+fotmob,359193,Lucas Vázquez,Bayer 04 Leverkusen,107593,True,id_map
+fotmob,540097,Patrik Schick,Bayer 04 Leverkusen,196680,True,id_map
+fotmob,642551,Aleix García,Bayer 04 Leverkusen,178871,True,id_map
+fotmob,690316,Gino Fechner,SV Wehen Wiesbaden,fotmob_new_690316,False,
+fotmob,693599,Exequiel Palacios,Bayer 04 Leverkusen,218543,True,id_map
+fotmob,789914,Edmond Tapsoba,Bayer 04 Leverkusen,424969,True,id_map
+fotmob,812652,Facundo Medina,Bayer 04 Leverkusen,224868,True,id_map
+fotmob,866148,Jordy Gillekens,SV Wehen Wiesbaden,fotmob_new_866148,False,
+fotmob,877700,Nathan Tella,Bayer 04 Leverkusen,203389,True,id_map
+fotmob,942379,Miguel Gutiérrez,Bayer 04 Leverkusen,248498,True,id_map
+fotmob,952361,Sinan Karweina,SV Wehen Wiesbaden,fotmob_new_952361,False,
+fotmob,971582,Lukas Schleimer,SV Wehen Wiesbaden,fotmob_new_971582,False,
+fotmob,1035208,Victor Okoh Boniface,Bayer 04 Leverkusen,479052,True,id_map
+fotmob,1045830,Jakob Lewald,SV Wehen Wiesbaden,fotmob_new_1045830,False,
+fotmob,1072223,Fabian Greilinger,SV Wehen Wiesbaden,fotmob_new_1072223,False,
+fotmob,1107620,Jarell Quansah,Bayer 04 Leverkusen,441428,True,id_map
+fotmob,1119461,Loic Badé,Bayer 04 Leverkusen,500267,True,id_map
+fotmob,1126058,Malik Tillman,Bayer 04 Leverkusen,466006,True,id_map
+fotmob,1132300,Simon Stehle,SV Wehen Wiesbaden,fotmob_new_1132300,False,
+fotmob,1146375,Max Brandt,SV Wehen Wiesbaden,fotmob_new_1146375,False,
+fotmob,1180316,Nikolas Agrafiotis,SV Wehen Wiesbaden,fotmob_new_1180316,False,
+fotmob,1188856,Tarik Gözüsirin,SV Wehen Wiesbaden,fotmob_new_1188856,False,
+fotmob,1189797,Niklas May,SV Wehen Wiesbaden,fotmob_new_1189797,False,
+fotmob,1199959,Equi Fernández,Bayer 04 Leverkusen,481237,True,id_map
+fotmob,1283015,Justin Janitzek,SV Wehen Wiesbaden,fotmob_new_1283015,False,
+fotmob,1294751,Moritz Flotho,SV Wehen Wiesbaden,fotmob_new_1294751,False,
+fotmob,1329406,Jeanuël Belocian,Bayer 04 Leverkusen,565992,True,id_map
+fotmob,1367047,Afonso Moreira,Bayer 04 Leverkusen,551191,True,id_map
+fotmob,1435391,David Suárez,SV Wehen Wiesbaden,fotmob_new_1435391,False,
+fotmob,1457626,Ibrahim Maza,Bayer 04 Leverkusen,570052,True,id_map
+fotmob,1515902,Noah Brdar,SV Wehen Wiesbaden,fotmob_new_1515902,False,
+fotmob,1596320,Ben Nink,SV Wehen Wiesbaden,fotmob_new_1596320,False,
+fotmob,1705081,Christian Kofane,Bayer 04 Leverkusen,683068,True,id_map
+fotmob,1709670,Tim Neubert,SV Wehen Wiesbaden,fotmob_new_1709670,False,
+fotmob,1793491,Ayoub Chaikhoun,SV Wehen Wiesbaden,fotmob_new_1793491,False,
+fotmob,1897602,Ibrahim Ati Allah,SV Wehen Wiesbaden,fotmob_new_1897602,False,
+fotmob,85473,Martin Zurawsky,Krieschow,fotmob_new_85473,False,
+fotmob,94661,Alexander Bittroff,Krieschow,fotmob_new_94661,False,
+fotmob,165063,Andy Hebler,Krieschow,fotmob_new_165063,False,
+fotmob,186809,Tobias Gerstmann,Krieschow,fotmob_new_186809,False,
+fotmob,240537,Danny da Costa,1. FSV Mainz 05,92295,True,id_map
+fotmob,248437,Alexander Schwolow,1. FSV Mainz 05,94196,True,id_map
+fotmob,275034,Silvan Widmer,1. FSV Mainz 05,120781,True,id_map
+fotmob,303905,Dominik Kohr,1. FSV Mainz 05,114549,True,id_map
+fotmob,423812,Phillipp Mwene,1. FSV Mainz 05,160158,True,id_map
+fotmob,476074,C. Raak,Krieschow,fotmob_new_476074,False,
+fotmob,495222,Sheraldo Becker,1. FSV Mainz 05,173547,True,id_map
+fotmob,498059,Fritz Pflug,Krieschow,fotmob_new_498059,False,
+fotmob,523749,Jae-Sung Lee,1. FSV Mainz 05,205308,True,id_map
+fotmob,556505,Robin Zentner,1. FSV Mainz 05,192079,True,id_map
+fotmob,578003,Toby Michalski,Krieschow,fotmob_new_578003,False,
+fotmob,614449,Nadiem Amiri,1. FSV Mainz 05,183309,True,id_map
+fotmob,621365,Bastian Dressler,Krieschow,fotmob_new_621365,False,
+fotmob,621367,Aaron Stephan,Krieschow,fotmob_new_621367,False,
+fotmob,686315,Phillip Tietz,1. FSV Mainz 05,223844,True,id_map
+fotmob,704532,Justin Fietz,Krieschow,fotmob_new_704532,False,
+fotmob,749199,Arvin Krautz,Krieschow,fotmob_new_749199,False,
+fotmob,749200,Dominik Müller,Krieschow,fotmob_new_749200,False,
+fotmob,749203,Luis Bürger,Krieschow,fotmob_new_749203,False,
+fotmob,749205,Manuel Seibt,Krieschow,fotmob_new_749205,False,
+fotmob,749206,Maximilian Tesche,Krieschow,fotmob_new_749206,False,
+fotmob,749207,Miguel Rodrigues,Krieschow,fotmob_new_749207,False,
+fotmob,749210,Valentino Schubert,Krieschow,fotmob_new_749210,False,
+fotmob,750293,Florian Schmidt,Krieschow,fotmob_new_750293,False,
+fotmob,750294,Christian Wojenmaster,Krieschow,fotmob_new_750294,False,
+fotmob,771401,Anthony Caci,1. FSV Mainz 05,232240,True,id_map
+fotmob,921197,Lennard Maloney,1. FSV Mainz 05,433156,True,id_map
+fotmob,1033111,Kaishu Sano,1. FSV Mainz 05,567062,True,id_map
+fotmob,1121170,Ransford Königsdörffer,1. FSV Mainz 05,477539,True,id_map
+fotmob,1134759,Sota Kawasaki,1. FSV Mainz 05,565518,True,id_map
+fotmob,1135609,William Bøving,1. FSV Mainz 05,497889,True,master
+fotmob,1347994,Otto Ruoppi,1. FSV Mainz 05,573117,True,id_map
+fotmob,1362417,Fabio Gruber,1. FSV Mainz 05,515169,True,id_map
+fotmob,1730185,Paul Pahlow,Krieschow,fotmob_new_1730185,False,
+fotmob,1800401,Kacper Potulski,1. FSV Mainz 05,627675,True,id_map
+fotmob,2140397,Rael Nakuzola,1. FSV Mainz 05,750292,True,id_map
+fotmob,167065,Sebastian Jung,Karlsruher SC,fotmob_new_167065,False,
+fotmob,208243,Marcel Franke,Karlsruher SC,fotmob_new_208243,False,
+fotmob,312560,Robin Himmelmann,Karlsruher SC,fotmob_new_312560,False,
+fotmob,458998,Marvin Wanitzek,Karlsruher SC,fotmob_new_458998,False,
+fotmob,670395,Rico Preißinger,SC Preußen Münster,fotmob_new_670395,False,
+fotmob,678162,Torge Paetow,SC Preußen Münster,fotmob_new_678162,False,
+fotmob,782701,Haralambos Makridis,SC Preußen Münster,fotmob_new_782701,False,
+fotmob,861662,Christoph Kobald,Karlsruher SC,fotmob_new_861662,False,
+fotmob,932268,Viktor Bergh,Karlsruher SC,fotmob_new_932268,False,
+fotmob,933106,Matthis Harsmann,SC Preußen Münster,fotmob_new_933106,False,
+fotmob,936618,Moritz Broschinski,Karlsruher SC,fotmob_new_936618,False,
+fotmob,942032,Santeri Väänänen,Karlsruher SC,fotmob_new_942032,False,
+fotmob,950831,Ryan Johansson,SC Preußen Münster,fotmob_new_950831,False,
+fotmob,951909,Morten Behrens,SC Preußen Münster,fotmob_new_951909,False,
+fotmob,972732,Hans Christian Bernat,Karlsruher SC,fotmob_new_972732,False,
+fotmob,1030929,Felix Higl,SC Preußen Münster,fotmob_new_1030929,False,
+fotmob,1048791,Niko Koulis,SC Preußen Münster,fotmob_new_1048791,False,
+fotmob,1081862,Lucas Zeller,SC Preußen Münster,fotmob_new_1081862,False,
+fotmob,1214053,Tim Civeja,Karlsruher SC,fotmob_new_1214053,False,
+fotmob,1294810,Mika Stuhlmacher,SC Preußen Münster,fotmob_new_1294810,False,
+fotmob,1307640,Antonio Tikvić,SC Preußen Münster,fotmob_new_1307640,False,
+fotmob,1357382,Kevin Wiethaup,Karlsruher SC,fotmob_new_1357382,False,
+fotmob,1385841,Noel Eichinger,Karlsruher SC,fotmob_new_1385841,False,
+fotmob,1403325,Louis Kolbe,SC Preußen Münster,fotmob_new_1403325,False,
+fotmob,1477956,Shio Fukuda,Karlsruher SC,fotmob_new_1477956,False,
+fotmob,1612441,Montell Ndikom,SC Preußen Münster,fotmob_new_1612441,False,
+fotmob,1620628,Louey Ben Farhat,Karlsruher SC,fotmob_new_1620628,False,
+fotmob,1640966,Rafael Pinto Pedrosa,Karlsruher SC,fotmob_new_1640966,False,
+fotmob,1646628,Wesley Adeh,SC Preußen Münster,627419,True,master
+fotmob,1659519,Jakob Korte,SC Preußen Münster,fotmob_new_1659519,False,
+fotmob,1692032,Leon Tasov,SC Preußen Münster,fotmob_new_1692032,False,
+fotmob,1696428,Paul Scholl,Karlsruher SC,fotmob_new_1696428,False,
+fotmob,1707824,Samuel Althaus,SC Preußen Münster,fotmob_new_1707824,False,
+fotmob,1818951,Danyal Zor,Karlsruher SC,fotmob_new_1818951,False,
+fotmob,1829437,Jason Ponente,Karlsruher SC,fotmob_new_1829437,False,
+fotmob,1845073,Deniz Ofli,Karlsruher SC,620788,True,master
+fotmob,1894254,Marvin Schulz,SC Preußen Münster,fotmob_new_1894254,False,
+fotmob,1910673,Niklas Varelmann,SC Preußen Münster,fotmob_new_1910673,False,
+fotmob,1981020,Mikail Demirhan,SC Preußen Münster,fotmob_new_1981020,False,
+fotmob,2130037,John Meyer,Karlsruher SC,fotmob_new_2130037,False,
+fotmob,458602,Jan Gyamerah,SV 07 Elversberg,164537,True,id_map
+fotmob,459010,Luca Schnellbacher,SV 07 Elversberg,165167,True,id_map
+fotmob,594886,Florian Le Joncour,SV 07 Elversberg,205823,True,id_map
+fotmob,633721,Nicholas Mickelson,SV 07 Elversberg,428442,True,id_map
+fotmob,659051,Tim Boss,SV 07 Elversberg,fm_659051,True,id_map
+fotmob,659093,Max Besuschkow,MSV Duisburg,fotmob_new_659093,False,
+fotmob,763975,Joshua Bitter,MSV Duisburg,fotmob_new_763975,False,
+fotmob,763990,Amara Condé,SV 07 Elversberg,213459,True,id_map
+fotmob,840926,Patrick Sussek,MSV Duisburg,fotmob_new_840926,False,
+fotmob,848670,Christian Viet,MSV Duisburg,fotmob_new_848670,False,
+fotmob,951925,Tobias Fleckstein,MSV Duisburg,fotmob_new_951925,False,
+fotmob,962044,Toni Stahl,MSV Duisburg,fotmob_new_962044,False,
+fotmob,962113,Łukasz Poręba,SV 07 Elversberg,465341,True,id_map
+fotmob,979511,Lex-Tyger Lobinger,MSV Duisburg,fotmob_new_979511,False,
+fotmob,988082,Florian Krüger,MSV Duisburg,fotmob_new_988082,False,
+fotmob,988143,Can Coşkun,MSV Duisburg,fotmob_new_988143,False,
+fotmob,1072817,Dominik Kother,MSV Duisburg,fotmob_new_1072817,False,
+fotmob,1073303,Aljaž Casar,MSV Duisburg,fotmob_new_1073303,False,
+fotmob,1077911,Maximilian Rohr,SV 07 Elversberg,487057,True,id_map
+fotmob,1080482,Rasim Bulić,MSV Duisburg,fotmob_new_1080482,False,
+fotmob,1093782,Lukas Petkov,SV 07 Elversberg,520845,True,id_map
+fotmob,1097361,Luca Sirch,SV 07 Elversberg,545635,True,id_map
+fotmob,1099298,Conor Noß,MSV Duisburg,fotmob_new_1099298,False,
+fotmob,1138725,Noel Futkeu,SV 07 Elversberg,513628,True,id_map
+fotmob,1245692,Lasse Günther,SV 07 Elversberg,493332,True,id_map
+fotmob,1281256,Frederik Schmahl,SV 07 Elversberg,625932,True,id_map
+fotmob,1285926,Nicolas Kristof,SV 07 Elversberg,ws_446532,True,id_map
+fotmob,1288195,Cole Campbell,SV 07 Elversberg,549407,True,id_map
+fotmob,1315815,Maximilian Braune,MSV Duisburg,fotmob_new_1315815,False,
+fotmob,1341317,Niklas Jessen,MSV Duisburg,fotmob_new_1341317,False,
+fotmob,1366338,Felix Keidel,SV 07 Elversberg,524093,True,id_map
+fotmob,1386730,Jakob Bookjans,MSV Duisburg,fotmob_new_1386730,False,
+fotmob,1388062,Ramien Safi,MSV Duisburg,fotmob_new_1388062,False,
+fotmob,1395911,Ben Schlicke,MSV Duisburg,fotmob_new_1395911,False,
+fotmob,1412933,Maurice Krattenmacher,SV 07 Elversberg,522089,True,id_map
+fotmob,1459758,David Mokwa,SV 07 Elversberg,589018,True,id_map
+fotmob,1479921,Noah Darvich,SV 07 Elversberg,554935,True,id_map
+fotmob,1532853,Martin Ens,MSV Duisburg,fotmob_new_1532853,False,
+fotmob,1603681,Francis Onyeka,SV 07 Elversberg,593262,True,id_map
+fotmob,1623772,Jan-Simon Symalla,MSV Duisburg,fotmob_new_1623772,False,
+fotmob,266527,Yussuf Poulsen,Hamburger SV,166028,True,id_map
+fotmob,406501,Daniel Heuer Fernandes,Hamburger SV,141021,True,id_map
+fotmob,615300,Kelvin Ojo,Hamburger SV,fotmob_new_615300,False,
+fotmob,644459,Patson Daka,Hamburger SV,245419,True,id_map
+fotmob,657655,Niko Kijewski,SC Verl,fotmob_new_657655,False,
+fotmob,747764,Yari Otto,SC Verl,fotmob_new_747764,False,
+fotmob,763998,Bakery Jatta,Hamburger SV,228316,True,id_map
+fotmob,901495,Albert Sambi Lokonga,Hamburger SV,437742,True,id_map
+fotmob,922892,Sebastiaan Bornauw,Hamburger SV,437738,True,id_map
+fotmob,1018564,Nicolás Capaldo,Hamburger SV,474094,True,id_map
+fotmob,1072484,Dennis Waidner,SC Verl,fotmob_new_1072484,False,
+fotmob,1079892,Rayan Philippe,Hamburger SV,490190,True,id_map
+fotmob,1133381,Albert Grønbæk,Hamburger SV,494779,True,id_map
+fotmob,1145714,Sander Tangvik,Hamburger SV,449411,True,id_map
+fotmob,1188890,Nicolai Remberg,Hamburger SV,512843,True,id_map
+fotmob,1281105,Amin Farouk,SC Verl,fotmob_new_1281105,False,
+fotmob,1281531,André Leipold,SC Verl,fotmob_new_1281531,False,
+fotmob,1283407,Bilal Nadir,Hamburger SV,546178,True,id_map
+fotmob,1290430,Tim Heike,SC Verl,fotmob_new_1290430,False,
+fotmob,1292579,Fabian Wessig,SC Verl,fotmob_new_1292579,False,
+fotmob,1324082,Martin Adeline,Hamburger SV,493355,True,id_map
+fotmob,1328615,António Fóti,SC Verl,fotmob_new_1328615,False,
+fotmob,1381850,Joshua Eze,SC Verl,fotmob_new_1381850,False,
+fotmob,1383070,Daniel Elfadli,Hamburger SV,584649,True,id_map
+fotmob,1385170,Paul Lehmann,SC Verl,fotmob_new_1385170,False,
+fotmob,1387403,Timo Schlieck,SC Verl,fotmob_new_1387403,False,
+fotmob,1441950,Fabian Pekruhl,SC Verl,fotmob_new_1441950,False,
+fotmob,1474178,Mika Clausen,SC Verl,fotmob_new_1474178,False,
+fotmob,1524021,Raphael Araoye,SC Verl,fotmob_new_1524021,False,
+fotmob,1524549,Moritz Kaube,SC Verl,fotmob_new_1524549,False,
+fotmob,1576487,Otto Stange,Hamburger SV,620851,True,id_map
+fotmob,1580087,Bilal Yalçinkaya,SC Verl,fotmob_new_1580087,False,
+fotmob,1587901,Kofi Amoako,Hamburger SV,550884,True,id_map
+fotmob,1664484,Nick Seidel,SC Verl,fotmob_new_1664484,False,
+fotmob,1691369,Almin Mešanović,SC Verl,fotmob_new_1691369,False,
+fotmob,1711728,Janne Berner,SC Verl,fotmob_new_1711728,False,
+fotmob,1804634,Shafiq Nandja,Hamburger SV,629020,True,id_map
+fotmob,1874946,Felix Vogler,SC Verl,fotmob_new_1874946,False,
+fotmob,1899791,Louis Lemke,Hamburger SV,687635,True,id_map
+fotmob,2264137,Jason Dean Bissi Mouelle,Hamburger SV,fotmob_new_2264137,False,
+fotmob,351156,Hasan Pepić,Bahlinger SC,fotmob_new_351156,False,
+fotmob,428942,Dennis Klose,Bahlinger SC,fotmob_new_428942,False,
+fotmob,430876,Kolja Peter Herrmann,Bahlinger SC,fotmob_new_430876,False,
+fotmob,516273,Ashley Ketterer,Bahlinger SC,fotmob_new_516273,False,
+fotmob,547117,Alexander Echner,Bahlinger SC,fotmob_new_547117,False,
+fotmob,562055,Dominik Reimann,1. FC Magdeburg,fotmob_new_562055,False,
+fotmob,586925,Marin Štefotić,Bahlinger SC,fotmob_new_586925,False,
+fotmob,629562,Barış Atik,1. FC Magdeburg,fotmob_new_629562,False,
+fotmob,635449,Fynn Lienert,Bahlinger SC,fotmob_new_635449,False,
+fotmob,687306,Emmanuel Iyoha,1. FC Magdeburg,fotmob_new_687306,False,
+fotmob,696426,Rico Wehrle,Bahlinger SC,fotmob_new_696426,False,
+fotmob,749539,Christian Cernenchi,Bahlinger SC,fotmob_new_749539,False,
+fotmob,749542,Fabian Schmid,Bahlinger SC,fotmob_new_749542,False,
+fotmob,749546,Logan Fleury Bouebari Kitsamouts,Bahlinger SC,fotmob_new_749546,False,
+fotmob,749548,Luca Volk,Bahlinger SC,fotmob_new_749548,False,
+fotmob,749550,Nikita Ebel,Bahlinger SC,fotmob_new_749550,False,
+fotmob,749551,Nicolas Stein,Bahlinger SC,fotmob_new_749551,False,
+fotmob,749552,Silas Drumm,Bahlinger SC,fotmob_new_749552,False,
+fotmob,814892,Alexander Nollenberger,1. FC Magdeburg,fotmob_new_814892,False,
+fotmob,884276,Moritz-Broni Kwarteng,1. FC Magdeburg,fotmob_new_884276,False,
+fotmob,908847,Mateusz Żukowski,1. FC Magdeburg,fotmob_new_908847,False,
+fotmob,926447,Paul Jaeckel,1. FC Magdeburg,fotmob_new_926447,False,
+fotmob,932852,Tobias Müller,1. FC Magdeburg,fotmob_new_932852,False,
+fotmob,964542,Richmond Tachie,1. FC Magdeburg,fotmob_new_964542,False,
+fotmob,1178504,Roko Šimić,1. FC Magdeburg,fotmob_new_1178504,False,
+fotmob,1190549,Falko Michel,1. FC Magdeburg,fotmob_new_1190549,False,
+fotmob,1235042,Marco Bauer,Bahlinger SC,fotmob_new_1235042,False,
+fotmob,1238697,Eldin Džogović,1. FC Magdeburg,fotmob_new_1238697,False,
+fotmob,1285683,Noah Kruth,1. FC Magdeburg,fotmob_new_1285683,False,
+fotmob,1286190,Anselmo MacNulty,1. FC Magdeburg,fotmob_new_1286190,False,
+fotmob,1323466,Holger Bux,Bahlinger SC,fotmob_new_1323466,False,
+fotmob,1410618,Laurin Tost,Bahlinger SC,fotmob_new_1410618,False,
+fotmob,1412134,Pierre Nadjombe,1. FC Magdeburg,fotmob_new_1412134,False,
+fotmob,1415371,Tony Reitz,1. FC Magdeburg,fotmob_new_1415371,False,
+fotmob,1531833,Luka Hyryläinen,1. FC Magdeburg,fotmob_new_1531833,False,
+fotmob,1666110,Robert Geller,Bahlinger SC,fotmob_new_1666110,False,
+fotmob,1740897,Magnus Baars,1. FC Magdeburg,fotmob_new_1740897,False,
+fotmob,1790008,Leon Mergner,1. FC Magdeburg,fotmob_new_1790008,False,
+fotmob,1932988,Kevin Manthey,1. FC Magdeburg,fotmob_new_1932988,False,
+fotmob,1980792,Rico Wuttke,Bahlinger SC,fotmob_new_1980792,False,
+fotmob,198236,Christopher Balkenhoff,Westfalia Rhynern,fotmob_new_198236,False,
+fotmob,216509,Patrick Franke,Westfalia Rhynern,fotmob_new_216509,False,
+fotmob,467488,Vincent Vermeij,SG Dynamo Dresden,fotmob_new_467488,False,
+fotmob,489881,Connor Mcleod,Westfalia Rhynern,fotmob_new_489881,False,
+fotmob,585268,Lukas Boeder,SG Dynamo Dresden,fotmob_new_585268,False,
+fotmob,616917,Nicolai Rapp,SG Dynamo Dresden,fotmob_new_616917,False,
+fotmob,625383,Akhim Seber,Westfalia Rhynern,fotmob_new_625383,False,
+fotmob,659047,Niklas Hauptmann,SG Dynamo Dresden,fotmob_new_659047,False,
+fotmob,749889,Elias Opoku Boadi,Westfalia Rhynern,fotmob_new_749889,False,
+fotmob,749897,Simon Ole Schilling,Westfalia Rhynern,fotmob_new_749897,False,
+fotmob,749899,Johannes Thiemann,Westfalia Rhynern,fotmob_new_749899,False,
+fotmob,749906,Keanu Diskau,Westfalia Rhynern,fotmob_new_749906,False,
+fotmob,749909,Lamine Kourouma Mohamed,Westfalia Rhynern,fotmob_new_749909,False,
+fotmob,791614,Alexander Rossipal,SG Dynamo Dresden,fotmob_new_791614,False,
+fotmob,815958,Ahmet Muhamedbegović,SG Dynamo Dresden,fotmob_new_815958,False,
+fotmob,854069,Nils Fröling,SG Dynamo Dresden,fotmob_new_854069,False,
+fotmob,880044,Michael Wiese,Westfalia Rhynern,fotmob_new_880044,False,
+fotmob,933544,Luca Herrmann,SG Dynamo Dresden,fotmob_new_933544,False,
+fotmob,978212,Simon Straudi,SG Dynamo Dresden,fotmob_new_978212,False,
+fotmob,980288,Thomas Leon Keller,SG Dynamo Dresden,487142,True,master
+fotmob,1077244,Tim Schreiber,SG Dynamo Dresden,fotmob_new_1077244,False,
+fotmob,1097375,Jakob Lemmer,SG Dynamo Dresden,fotmob_new_1097375,False,
+fotmob,1140913,Jonas Sterner,SG Dynamo Dresden,fotmob_new_1140913,False,
+fotmob,1190503,Brooklyn Ezeh,SG Dynamo Dresden,fotmob_new_1190503,False,
+fotmob,1279694,Ben Bobzien,SG Dynamo Dresden,515392,True,master
+fotmob,1281111,Robert Wagner,SG Dynamo Dresden,fotmob_new_1281111,False,
+fotmob,1386683,Jonas Oehmichen,SG Dynamo Dresden,fotmob_new_1386683,False,
+fotmob,1488479,Henrik Koch,Westfalia Rhynern,fotmob_new_1488479,False,
+fotmob,1606165,Kaan İnanoğlu,SG Dynamo Dresden,fotmob_new_1606165,False,
+fotmob,1663210,Elias Bethke,SG Dynamo Dresden,fotmob_new_1663210,False,
+fotmob,1668516,Lennart Koerdt,Westfalia Rhynern,fotmob_new_1668516,False,
+fotmob,1838930,Melih Sayin,Westfalia Rhynern,fotmob_new_1838930,False,
+fotmob,1843898,Friedrich Müller,SG Dynamo Dresden,fotmob_new_1843898,False,
+fotmob,2119334,Lars Warschewski,Westfalia Rhynern,fotmob_new_2119334,False,
+fotmob,2119350,Elias Kourouma,Westfalia Rhynern,fotmob_new_2119350,False,
+fotmob,2123417,Philipp Ratz,Westfalia Rhynern,fotmob_new_2123417,False,
+fotmob,2139610,Jonah Wagner,Westfalia Rhynern,fotmob_new_2139610,False,
+fotmob,2196428,Finn Schubert,Westfalia Rhynern,fotmob_new_2196428,False,
+fotmob,2231313,Julius Woitaschek,Westfalia Rhynern,fotmob_new_2231313,False,
+fotmob,2243952,Emmanuel De Lemos,Westfalia Rhynern,fotmob_new_2243952,False,
+fotmob,41087,Ron-Robert Zieler,1. FC Köln,fm_41087,True,id_map
+fotmob,553597,David Kinsombi,FC Würzburger Kickers,fotmob_new_553597,False,
+fotmob,560578,Daniel Hägele,FC Würzburger Kickers,fotmob_new_560578,False,
+fotmob,573465,Marvin Schwäbe,1. FC Köln,183095,True,id_map
+fotmob,574642,Ellyes Skhiri,1. FC Köln,195430,True,id_map
+fotmob,626890,Marius Bülter,1. FC Köln,449343,True,id_map
+fotmob,664585,Philipp Ochs,FC Würzburger Kickers,fotmob_new_664585,False,
+fotmob,748620,Alessio Castro-Montes,1. FC Köln,226858,True,id_map
+fotmob,771630,Gideon Mensah,1. FC Köln,229670,True,id_map
+fotmob,772193,Ragnar Ache,1. FC Köln,233325,True,id_map
+fotmob,784175,Luka Lochoshvili,1. FC Köln,211265,True,id_map
+fotmob,859751,Franck Evina,FC Würzburger Kickers,fotmob_new_859751,False,
+fotmob,874002,Ivan Franjić,FC Würzburger Kickers,fotmob_new_874002,False,
+fotmob,885085,Thijs Dallinga,1. FC Köln,438590,True,id_map
+fotmob,889703,Tarsis Bonga,FC Würzburger Kickers,fotmob_new_889703,False,
+fotmob,930035,Linton Maina,1. FC Köln,219846,True,id_map
+fotmob,953100,Johann Hipper,FC Würzburger Kickers,fotmob_new_953100,False,
+fotmob,992060,Tom Krauß,1. FC Köln,449918,True,id_map
+fotmob,1000428,Ísak Jóhannesson,1. FC Köln,479342,True,id_map
+fotmob,1003254,Joël Schmied,1. FC Köln,512524,True,id_map
+fotmob,1029623,Dominik Meisel,FC Würzburger Kickers,fotmob_new_1029623,False,
+fotmob,1119643,Jan Thielmann,1. FC Köln,470311,True,id_map
+fotmob,1141236,Tim Kraus,FC Würzburger Kickers,fotmob_new_1141236,False,
+fotmob,1199391,Rav van den Berg,1. FC Köln,512229,True,id_map
+fotmob,1286423,Jermain Nischalke,FC Würzburger Kickers,fotmob_new_1286423,False,
+fotmob,1294806,Ebrahim Farahnak,FC Würzburger Kickers,fotmob_new_1294806,False,
+fotmob,1387762,Kristijan Taseski,FC Würzburger Kickers,fotmob_new_1387762,False,
+fotmob,1463271,Jahmai Simpson-Pusey,1. FC Köln,554194,True,id_map
+fotmob,1515969,Eliot Muteba,FC Würzburger Kickers,fotmob_new_1515969,False,
+fotmob,1527363,Paul Okon-Engstler,1. FC Köln,550966,True,id_map
+fotmob,1572465,Namrud Embaye,FC Würzburger Kickers,fotmob_new_1572465,False,
+fotmob,1613676,Saïd El Mala,1. FC Köln,649235,True,id_map
+fotmob,1665352,Reigan Heskey,1. FC Köln,580921,True,id_map
+fotmob,1668543,David Abrangao,FC Würzburger Kickers,fotmob_new_1668543,False,
+fotmob,1720279,Liam Omore,FC Würzburger Kickers,fotmob_new_1720279,False,
+fotmob,1794108,Marko Rajkovačić,FC Würzburger Kickers,fotmob_new_1794108,False,
+fotmob,1810280,Leo Eberle,FC Würzburger Kickers,fotmob_new_1810280,False,
+fotmob,1829438,Jonathan Friemel,1. FC Köln,685509,True,id_map
+fotmob,1975563,Xaver Kiefersauer,FC Würzburger Kickers,fotmob_new_1975563,False,
+fotmob,2129957,Burak Karakaya,FC Würzburger Kickers,fotmob_new_2129957,False,
+fotmob,166733,Christopher Trimmel,1. FC Union Berlin,62422,True,id_map
+fotmob,289216,Benjamin Uphoff,Eintracht Braunschweig,fotmob_new_289216,False,
+fotmob,304348,Rani Khedira,1. FC Union Berlin,111450,True,id_map
+fotmob,304354,Janik Haberer,1. FC Union Berlin,111453,True,id_map
+fotmob,451628,Carl Klaus,1. FC Union Berlin,212693,True,id_map
+fotmob,622373,Josip Juranović,1. FC Union Berlin,210791,True,id_map
+fotmob,658440,Tim Skarke,1. FC Union Berlin,212397,True,id_map
+fotmob,687328,Maximilian Entrup,Eintracht Braunschweig,fotmob_new_687328,False,
+fotmob,783585,Emmanuel Latte Lath,1. FC Union Berlin,233581,True,id_map
+fotmob,792756,Michel Aebischer,1. FC Union Berlin,235865,True,id_map
+fotmob,820748,Aaron Opoku,Eintracht Braunschweig,fotmob_new_820748,False,
+fotmob,836726,András Schäfer,1. FC Union Berlin,457734,True,id_map
+fotmob,859752,Ron-Thorben Hoffmann,Eintracht Braunschweig,fotmob_new_859752,False,
+fotmob,860260,Derrick Köhn,1. FC Union Berlin,429524,True,id_map
+fotmob,949673,Woo-Yeong Jeong,1. FC Union Berlin,446215,True,id_map
+fotmob,993786,Noah Katterbach,Eintracht Braunschweig,449913,True,master
+fotmob,1024937,Kevin Ehlers,Eintracht Braunschweig,fotmob_new_1024937,False,
+fotmob,1057432,Johan Gómez,Eintracht Braunschweig,fotmob_new_1057432,False,
+fotmob,1072530,Florian Flick,Eintracht Braunschweig,fotmob_new_1072530,False,
+fotmob,1082491,Lino Tempelmann,Eintracht Braunschweig,fotmob_new_1082491,False,
+fotmob,1156148,Matheo Raab,1. FC Union Berlin,229511,True,id_map
+fotmob,1199947,Leopold Querfeld,1. FC Union Berlin,518058,True,id_map
+fotmob,1231677,Zeno Van Den Bosch,1. FC Union Berlin,531858,True,id_map
+fotmob,1235057,Lukas Frenkert,Eintracht Braunschweig,fotmob_new_1235057,False,
+fotmob,1237634,Mehmet Aydın,Eintracht Braunschweig,fotmob_new_1237634,False,
+fotmob,1242198,Marin Ljubičić,1. FC Union Berlin,523678,True,id_map
+fotmob,1276507,Andi Hoti,Eintracht Braunschweig,fotmob_new_1276507,False,
+fotmob,1280040,Louis Breunig,Eintracht Braunschweig,fotmob_new_1280040,False,
+fotmob,1282582,Tom Rothe,1. FC Union Berlin,513450,True,id_map
+fotmob,1381854,Fabio Di Michele,Eintracht Braunschweig,fotmob_new_1381854,False,
+fotmob,1403332,Aljoscha Kemlein,1. FC Union Berlin,575397,True,id_map
+fotmob,1480622,Junior Zé,Eintracht Braunschweig,fotmob_new_1480622,False,
+fotmob,1515977,Ilyas Ansah,1. FC Union Berlin,626751,True,master
+fotmob,1520061,Yann Sturm,Eintracht Braunschweig,fotmob_new_1520061,False,
+fotmob,1520506,Livan Burcu,1. FC Union Berlin,519095,True,id_map
+fotmob,1532192,Max Marie,Eintracht Braunschweig,fotmob_new_1532192,False,
+fotmob,1541355,Jan Urbich,Eintracht Braunschweig,518864,True,master
+fotmob,1585605,Oluwaseun Ogbemudia,1. FC Union Berlin,589918,True,master
+fotmob,1596360,Samuele Di Benedetto,Eintracht Braunschweig,fotmob_new_1596360,False,
+fotmob,1819406,Tristan Wagner,Eintracht Braunschweig,fotmob_new_1819406,False,
+fotmob,212873,Daniel Batz,Borussia Mönchengladbach,84955,True,id_map
+fotmob,276739,Kevin Stöger,Borussia Mönchengladbach,93293,True,id_map
+fotmob,501543,Franck Honorat,Borussia Mönchengladbach,174655,True,id_map
+fotmob,544055,Takero Itoi,TSV SCHOTT Mainz,fotmob_new_544055,False,
+fotmob,547246,Bennett Kruse,TSV SCHOTT Mainz,fotmob_new_547246,False,
+fotmob,566158,Kevin Diks,Borussia Mönchengladbach,193228,True,id_map
+fotmob,620917,Ko Itakura,Borussia Mönchengladbach,210906,True,id_map
+fotmob,655095,Isac Lidberg,Borussia Mönchengladbach,193806,True,id_map
+fotmob,664342,Robin Balters,TSV SCHOTT Mainz,fotmob_new_664342,False,
+fotmob,664356,Karim Zeghli,TSV SCHOTT Mainz,fotmob_new_664356,False,
+fotmob,664950,Jan Schulz,TSV SCHOTT Mainz,fotmob_new_664950,False,
+fotmob,749414,Jonas Sträßer,TSV SCHOTT Mainz,fotmob_new_749414,False,
+fotmob,749423,Daniel Rudi,TSV SCHOTT Mainz,fotmob_new_749423,False,
+fotmob,749424,Gianni Auletta,TSV SCHOTT Mainz,fotmob_new_749424,False,
+fotmob,749428,Benedikt Patrick Blum,TSV SCHOTT Mainz,fotmob_new_749428,False,
+fotmob,784146,Moritz Nicolas,Borussia Mönchengladbach,215651,True,id_map
+fotmob,878296,Daiki Hashioka,Borussia Mönchengladbach,209293,True,id_map
+fotmob,883185,Jan Just,TSV SCHOTT Mainz,fotmob_new_883185,False,
+fotmob,884919,Robin Hack,Borussia Mönchengladbach,428234,True,id_map
+fotmob,889180,Silas Schwarz,TSV SCHOTT Mainz,fotmob_new_889180,False,
+fotmob,915111,Shuto Machino,Borussia Mönchengladbach,446220,True,id_map
+fotmob,939135,Jost Mairose,TSV SCHOTT Mainz,fotmob_new_939135,False,
+fotmob,951918,Philipp Sander,Borussia Mönchengladbach,452461,True,id_map
+fotmob,1216333,Nils Gans,TSV SCHOTT Mainz,fotmob_new_1216333,False,
+fotmob,1235107,Dominik Ahlbach,TSV SCHOTT Mainz,fotmob_new_1235107,False,
+fotmob,1301517,Enzo Leopold,Borussia Mönchengladbach,543919,True,id_map
+fotmob,1351569,Hugo Bolin,Borussia Mönchengladbach,551048,True,id_map
+fotmob,1356589,David Herold,Borussia Mönchengladbach,493326,True,id_map
+fotmob,1398483,Lukas Ullrich,Borussia Mönchengladbach,513440,True,id_map
+fotmob,1412638,Maurizio Robotta,TSV SCHOTT Mainz,fotmob_new_1412638,False,
+fotmob,1580221,Jan Wiltink,TSV SCHOTT Mainz,fotmob_new_1580221,False,
+fotmob,1659750,Fabián Messina,TSV SCHOTT Mainz,fotmob_new_1659750,False,
+fotmob,1660228,Jan Leszczyński,Borussia Mönchengladbach,626569,True,id_map
+fotmob,1793673,Abdellatif El Mahaoui,TSV SCHOTT Mainz,fotmob_new_1793673,False,
+fotmob,1793679,Sean Horozovic,TSV SCHOTT Mainz,fotmob_new_1793679,False,
+fotmob,1793874,Wael Mohya,Borussia Mönchengladbach,679296,True,id_map
+fotmob,1821389,Righteous Vodi,TSV SCHOTT Mainz,fotmob_new_1821389,False,
+fotmob,1838513,Fritz Fleck,Borussia Mönchengladbach,647875,True,id_map
+fotmob,1904630,Iaia Manco Danfa,Borussia Mönchengladbach,fm_1904630,True,id_map
+fotmob,1975572,Mathieu Nguefack,Borussia Mönchengladbach,648805,True,id_map
+fotmob,391108,Maximilian Reule,SG Sonnenhof Großaspach,fotmob_new_391108,False,
+fotmob,560389,Fabian Eisele,SG Sonnenhof Großaspach,fotmob_new_560389,False,
+fotmob,658423,Marvin Mehlem,DSC Arminia Bielefeld,fotmob_new_658423,False,
+fotmob,690207,Roberts Uldriķis,DSC Arminia Bielefeld,fotmob_new_690207,False,
+fotmob,733965,Joel Felix,DSC Arminia Bielefeld,fotmob_new_733965,False,
+fotmob,734063,Arne Sicker,DSC Arminia Bielefeld,fotmob_new_734063,False,
+fotmob,747765,Sam Schreck,DSC Arminia Bielefeld,fotmob_new_747765,False,
+fotmob,862292,Isaiah Young,DSC Arminia Bielefeld,fotmob_new_862292,False,
+fotmob,865066,Joel Grodowski,DSC Arminia Bielefeld,fotmob_new_865066,False,
+fotmob,872742,Tim Handwerker,DSC Arminia Bielefeld,fotmob_new_872742,False,
+fotmob,929350,Jannik Rochelt,DSC Arminia Bielefeld,fotmob_new_929350,False,
+fotmob,932422,Lukas Kunze,DSC Arminia Bielefeld,fotmob_new_932422,False,
+fotmob,955191,Maximilian Bauer,DSC Arminia Bielefeld,fotmob_new_955191,False,
+fotmob,980236,Antonis Aidonis,SG Sonnenhof Großaspach,fotmob_new_980236,False,
+fotmob,1052360,Stefano Russo,DSC Arminia Bielefeld,fotmob_new_1052360,False,
+fotmob,1140917,Maximilian Großer,DSC Arminia Bielefeld,fotmob_new_1140917,False,
+fotmob,1174734,Jonas Thomas Kersken,DSC Arminia Bielefeld,fotmob_new_1174734,False,
+fotmob,1179897,Leo Oppermann,DSC Arminia Bielefeld,fotmob_new_1179897,False,
+fotmob,1195744,Henri Koudossou,DSC Arminia Bielefeld,fotmob_new_1195744,False,
+fotmob,1288294,Monju Momuluh,DSC Arminia Bielefeld,fotmob_new_1288294,False,
+fotmob,1323479,Tim Rossmann,SG Sonnenhof Großaspach,fotmob_new_1323479,False,
+fotmob,1385154,Marius Wörl,DSC Arminia Bielefeld,fotmob_new_1385154,False,
+fotmob,1415203,Loris Maier,SG Sonnenhof Großaspach,fotmob_new_1415203,False,
+fotmob,1415207,Leon Maier,SG Sonnenhof Großaspach,fotmob_new_1415207,False,
+fotmob,1644174,Benjamin Boakye,DSC Arminia Bielefeld,fotmob_new_1644174,False,
+fotmob,1684433,Deli Hajdini,SG Sonnenhof Großaspach,fotmob_new_1684433,False,
+fotmob,1696601,Marlon Fass,SG Sonnenhof Großaspach,fotmob_new_1696601,False,
+fotmob,1729329,Marius Uhl,SG Sonnenhof Großaspach,fotmob_new_1729329,False,
+fotmob,1735377,Franz Bleicher,SG Sonnenhof Großaspach,fotmob_new_1735377,False,
+fotmob,1793718,Elias Rahn,SG Sonnenhof Großaspach,fotmob_new_1793718,False,
+fotmob,1797460,Lukas Stoppel,SG Sonnenhof Großaspach,fotmob_new_1797460,False,
+fotmob,1813122,Marius Kunde,SG Sonnenhof Großaspach,fotmob_new_1813122,False,
+fotmob,1820646,Niklas Pollex,SG Sonnenhof Großaspach,fotmob_new_1820646,False,
+fotmob,1855880,Luka Molinari,SG Sonnenhof Großaspach,fotmob_new_1855880,False,
+fotmob,2111634,Till Wegener,DSC Arminia Bielefeld,fotmob_new_2111634,False,
+fotmob,2130198,Christian Mistl,SG Sonnenhof Großaspach,fotmob_new_2130198,False,
+fotmob,2130222,Arbnor Nuraj,SG Sonnenhof Großaspach,fotmob_new_2130222,False,
+fotmob,2130229,Tim Schulz,SG Sonnenhof Großaspach,fotmob_new_2130229,False,
+fotmob,2130232,Mark Gashi,SG Sonnenhof Großaspach,fotmob_new_2130232,False,
+fotmob,2130237,Leon Schuerer,SG Sonnenhof Großaspach,fotmob_new_2130237,False,
+fotmob,15403,Edin Džeko,FC Schalke 04,42544,True,id_map
+fotmob,177710,Soufian Benyamina,Hallescher FC,fotmob_new_177710,False,
+fotmob,215159,Kevin Müller,FC Schalke 04,fm_215159,True,id_map
+fotmob,287894,Loris Karius,FC Schalke 04,ws_107176,True,id_map
+fotmob,512149,Robert Berger,Hallescher FC,fotmob_new_512149,False,
+fotmob,518346,Robin Gosens,FC Schalke 04,177901,True,id_map
+fotmob,560976,Janik Bachmann,FC Schalke 04,191906,True,id_map
+fotmob,577618,Stanley Ratifo,Hallescher FC,fotmob_new_577618,False,
+fotmob,588017,Emilio Stobbe,Hallescher FC,fotmob_new_588017,False,
+fotmob,602547,Niklas Landgraf,Hallescher FC,fotmob_new_602547,False,
+fotmob,701149,Maximilian Wöber,FC Schalke 04,fm_701149,True,id_map
+fotmob,725655,Nikola Katić,FC Schalke 04,186348,True,id_map
+fotmob,785739,Timo Becker,FC Schalke 04,228726,True,id_map
+fotmob,787245,Burim Halili,Hallescher FC,fotmob_new_787245,False,
+fotmob,794619,Hasan Kuruçay,FC Schalke 04,240737,True,id_map
+fotmob,820974,Ron Schallenberg,FC Schalke 04,246025,True,id_map
+fotmob,860056,Moussa Sylla,FC Schalke 04,240149,True,id_map
+fotmob,861668,Dejan Ljubičić,FC Schalke 04,429631,True,id_map
+fotmob,882163,Chukwubuike Adamu,FC Schalke 04,fm_882163,True,id_map
+fotmob,938408,Niclas Stierlin,Hallescher FC,fotmob_new_938408,False,
+fotmob,951772,Osman Atilgan,Hallescher FC,fotmob_new_951772,False,
+fotmob,951774,Marius Hauptmann,Hallescher FC,fotmob_new_951774,False,
+fotmob,951782,Fabrice Hartmann,Hallescher FC,fotmob_new_951782,False,
+fotmob,1024936,Max Kulke,Hallescher FC,fotmob_new_1024936,False,
+fotmob,1040889,Junior Dina Ebimbe,FC Schalke 04,438309,True,id_map
+fotmob,1047664,Adil Aouchiche,FC Schalke 04,465676,True,id_map
+fotmob,1072505,Pascal Schmedemann,Hallescher FC,fotmob_new_1072505,False,
+fotmob,1155066,Satoshi Tanaka,FC Schalke 04,494868,True,id_map
+fotmob,1180148,Moritz Schulze,Hallescher FC,fotmob_new_1180148,False,
+fotmob,1249185,Soufian El-Faouzi,FC Schalke 04,537147,True,id_map
+fotmob,1299583,Luca Bendel,Hallescher FC,fotmob_new_1299583,False,
+fotmob,1435522,Julien Damelang,Hallescher FC,fotmob_new_1435522,False,
+fotmob,1515973,Lucas Ehrlich,Hallescher FC,fotmob_new_1515973,False,
+fotmob,1633666,Vin Kastull,Hallescher FC,fotmob_new_1633666,False,
+fotmob,1659420,Vitalie Becker,FC Schalke 04,632766,True,id_map
+fotmob,1663352,Felix Langhammer,Hallescher FC,fotmob_new_1663352,False,
+fotmob,1714771,Bocar Baró,Hallescher FC,fotmob_new_1714771,False,
+fotmob,1755657,Mertcan Ayhan,FC Schalke 04,578554,True,id_map
+fotmob,1842512,Luca Vozar,FC Schalke 04,685541,True,id_map
+fotmob,1973313,Lennard Becker,Hallescher FC,fotmob_new_1973313,False,
+fotmob,212815,Timo Horn,VfL Bochum 1848,fotmob_new_212815,False,
+fotmob,237541,Felix Klaus,SpVgg Greuther Fürth,fotmob_new_237541,False,
+fotmob,290201,Philipp Hofmann,VfL Bochum 1848,fotmob_new_290201,False,
+fotmob,462863,Karol Mets,VfL Bochum 1848,77244,True,master
+fotmob,522139,Dennis Srbeny,SpVgg Greuther Fürth,fotmob_new_522139,False,
+fotmob,556027,Maximilian Wittek,VfL Bochum 1848,fotmob_new_556027,False,
+fotmob,602300,Jannik Dehm,SpVgg Greuther Fürth,fotmob_new_602300,False,
+fotmob,620914,Koji Miyoshi,VfL Bochum 1848,fotmob_new_620914,False,
+fotmob,832736,Gian-Luca Itter,SpVgg Greuther Fürth,fotmob_new_832736,False,
+fotmob,872402,Berkan Taz,VfL Bochum 1848,fotmob_new_872402,False,
+fotmob,891747,Daniel Hanslik,VfL Bochum 1848,fotmob_new_891747,False,
+fotmob,940766,Michael Steinwender,VfL Bochum 1848,fotmob_new_940766,False,
+fotmob,945881,Oliver Olsen,VfL Bochum 1848,fotmob_new_945881,False,
+fotmob,950823,Paul Will,SpVgg Greuther Fürth,fotmob_new_950823,False,
+fotmob,1024688,Jean Manuel Mbom,VfL Bochum 1848,fotmob_new_1024688,False,
+fotmob,1036220,Jannis Heuer,SpVgg Greuther Fürth,fotmob_new_1036220,False,
+fotmob,1039217,Shinta Appelkamp,SpVgg Greuther Fürth,fotmob_new_1039217,False,
+fotmob,1079809,Doni Arifi,SpVgg Greuther Fürth,fotmob_new_1079809,False,
+fotmob,1087596,Enis Çokaj,VfL Bochum 1848,fotmob_new_1087596,False,
+fotmob,1180746,Christian Rasmussen,VfL Bochum 1848,fotmob_new_1180746,False,
+fotmob,1187364,Ole Pohlmann,SpVgg Greuther Fürth,fotmob_new_1187364,False,
+fotmob,1286164,Noah König,SpVgg Greuther Fürth,fotmob_new_1286164,False,
+fotmob,1357381,Yiğit Karademir,VfL Bochum 1848,fotmob_new_1357381,False,
+fotmob,1414649,Krisztián Keresztes,SpVgg Greuther Fürth,fotmob_new_1414649,False,
+fotmob,1437477,Sacha Bansé,SpVgg Greuther Fürth,fotmob_new_1437477,False,
+fotmob,1484933,Maxim Dal,SpVgg Greuther Fürth,fotmob_new_1484933,False,
+fotmob,1516009,Aurel Wagbe,VfL Bochum 1848,fotmob_new_1516009,False,
+fotmob,1520546,Aaron Keller,SpVgg Greuther Fürth,fotmob_new_1520546,False,
+fotmob,1525304,Mats Pannewig,VfL Bochum 1848,fotmob_new_1525304,False,
+fotmob,1617094,Hugo Rölleke,VfL Bochum 1848,fotmob_new_1617094,False,
+fotmob,1641040,Lukas Reich,SpVgg Greuther Fürth,fotmob_new_1641040,False,
+fotmob,1700509,Silas Prüfrock,SpVgg Greuther Fürth,fotmob_new_1700509,False,
+fotmob,1763612,Lasse Isbruch,VfL Bochum 1848,fotmob_new_1763612,False,
+fotmob,1789642,Florian Hellstern,SpVgg Greuther Fürth,fotmob_new_1789642,False,
+fotmob,1838023,Mika Wallentowitz,SpVgg Greuther Fürth,fotmob_new_1838023,False,
+fotmob,1909745,Alessandro Crimaldi,VfL Bochum 1848,fotmob_new_1909745,False,
+fotmob,2070318,Tom Meyer,VfL Bochum 1848,fotmob_new_2070318,False,
+fotmob,2130769,Jakob Krautkramer,SpVgg Greuther Fürth,fotmob_new_2130769,False,
+fotmob,2139545,Olgherto Balliu,SpVgg Greuther Fürth,fotmob_new_2139545,False,
+fotmob,2172226,Leon Sawas,VfL Bochum 1848,fotmob_new_2172226,False,
+fotmob,434259,Marius Gersbeck,Hertha BSC,fotmob_new_434259,False,
+fotmob,520342,Paul Seguin,Hertha BSC,fotmob_new_520342,False,
+fotmob,571069,Kevin Broll,1. FC Saarbrücken,fotmob_new_571069,False,
+fotmob,620154,Florian Pick,1. FC Saarbrücken,fotmob_new_620154,False,
+fotmob,634260,Christian Kühlwetter,1. FC Saarbrücken,fotmob_new_634260,False,
+fotmob,659055,Calogero Rizzuto,1. FC Saarbrücken,fotmob_new_659055,False,
+fotmob,672677,Sebastian Vasiliadis,1. FC Saarbrücken,fotmob_new_672677,False,
+fotmob,688668,Josip Brekalo,Hertha BSC,218368,True,master
+fotmob,748861,Kai Brünker,1. FC Saarbrücken,fotmob_new_748861,False,
+fotmob,759096,Sebastian Grønning,Hertha BSC,fotmob_new_759096,False,
+fotmob,766868,Deyovaisio Zeefuik,Hertha BSC,fotmob_new_766868,False,
+fotmob,796492,Niklas Kolbe,Hertha BSC,fotmob_new_796492,False,
+fotmob,822016,Patrick Sontheimer,1. FC Saarbrücken,fotmob_new_822016,False,
+fotmob,873236,Jón Thorsteinsson,Hertha BSC,fotmob_new_873236,False,
+fotmob,929613,Kevin Sessa,Hertha BSC,fotmob_new_929613,False,
+fotmob,1089910,Siemen Voet,1. FC Saarbrücken,fotmob_new_1089910,False,
+fotmob,1130808,Niko Bretschneider,1. FC Saarbrücken,fotmob_new_1130808,False,
+fotmob,1132183,Luca Schuler,Hertha BSC,fotmob_new_1132183,False,
+fotmob,1153342,Márton Dárdai,Hertha BSC,fotmob_new_1153342,False,
+fotmob,1173789,Abdoulaye Kamara,1. FC Saarbrücken,fotmob_new_1173789,False,
+fotmob,1198557,Abdenego Nankishi,1. FC Saarbrücken,fotmob_new_1198557,False,
+fotmob,1280567,Mladen Cvjetinović,1. FC Saarbrücken,fotmob_new_1280567,False,
+fotmob,1282298,Linus Gechter,Hertha BSC,fotmob_new_1282298,False,
+fotmob,1282970,Philip Fahrner,1. FC Saarbrücken,fotmob_new_1282970,False,
+fotmob,1355089,Oluwaseun Adewumi,Hertha BSC,fotmob_new_1355089,False,
+fotmob,1355216,Julian Eitschberger,Hertha BSC,fotmob_new_1355216,False,
+fotmob,1357698,Matteo Bignetti,1. FC Saarbrücken,fotmob_new_1357698,False,
+fotmob,1422564,Farid Alfa-Ruprecht,Hertha BSC,fotmob_new_1422564,False,
+fotmob,1439629,Pascal Klemens,Hertha BSC,fotmob_new_1439629,False,
+fotmob,1440103,Seung-Joon Lee,1. FC Saarbrücken,fotmob_new_1440103,False,
+fotmob,1516073,Tim Goller,Hertha BSC,fotmob_new_1516073,False,
+fotmob,1586556,Daniel Gleiber,1. FC Saarbrücken,547485,True,master
+fotmob,1602223,Gökdeniz Gürpüz,1. FC Saarbrücken,fotmob_new_1602223,False,
+fotmob,1624084,Kelsey Meisel,1. FC Saarbrücken,fotmob_new_1624084,False,
+fotmob,1659408,Anton Bäuerle,1. FC Saarbrücken,fotmob_new_1659408,False,
+fotmob,1671560,Jelani Ndi,Hertha BSC,fotmob_new_1671560,False,
+fotmob,1681495,Boris Lum,Hertha BSC,fotmob_new_1681495,False,
+fotmob,1692109,Alexander Staff,1. FC Saarbrücken,593003,True,master
+fotmob,1797148,Soufian Gouram,Hertha BSC,fotmob_new_1797148,False,
+fotmob,2128981,Jerome Diallo,Hertha BSC,fotmob_new_2128981,False,
+fotmob,230907,Andreas Voglsammer,FC Hansa Rostock,fotmob_new_230907,False,
+fotmob,292829,Philipp Klewin,FC Hansa Rostock,fotmob_new_292829,False,
+fotmob,522236,Fabian Bredlow,VfB Stuttgart,179612,True,id_map
+fotmob,554531,Marco Schuster,FC Hansa Rostock,fotmob_new_554531,False,
+fotmob,560391,Franz Pfanne,FC Hansa Rostock,fotmob_new_560391,False,
+fotmob,614384,Maximilian Mittelstädt,VfB Stuttgart,204335,True,id_map
+fotmob,625175,Grischa Prömel,VfB Stuttgart,209184,True,id_map
+fotmob,625581,Florian Bohnert,FC Hansa Rostock,fotmob_new_625581,False,
+fotmob,659086,Marius Funk,VfB Stuttgart,fm_659086,True,id_map
+fotmob,661519,Deniz Undav,VfB Stuttgart,450434,True,id_map
+fotmob,684983,Atakan Karazor,VfB Stuttgart,428181,True,id_map
+fotmob,753799,Maximilian Krauß,FC Hansa Rostock,fotmob_new_753799,False,
+fotmob,820641,Niklas Kölle,FC Hansa Rostock,fotmob_new_820641,False,
+fotmob,840241,Ermedin Demirović,VfB Stuttgart,429256,True,id_map
+fotmob,862954,Kenan Fatkić,FC Hansa Rostock,fotmob_new_862954,False,
+fotmob,867080,Jeff Chabot,VfB Stuttgart,428785,True,id_map
+fotmob,869298,Nikolas Nartey,VfB Stuttgart,430817,True,id_map
+fotmob,884542,Florian Carstens,FC Hansa Rostock,fotmob_new_884542,False,
+fotmob,892679,Chris Führich,VfB Stuttgart,442218,True,id_map
+fotmob,928454,Josha Vagnoman,VfB Stuttgart,438957,True,id_map
+fotmob,942374,Leon Dajaku,FC Hansa Rostock,fotmob_new_942374,False,
+fotmob,954623,Luca Unbehaun,FC Hansa Rostock,fotmob_new_954623,False,
+fotmob,962306,Ahmet Gürleyen,FC Hansa Rostock,fotmob_new_962306,False,
+fotmob,1019947,Leonidas Stergiou,VfB Stuttgart,476824,True,id_map
+fotmob,1071186,Angelo Stiller,VfB Stuttgart,437922,True,id_map
+fotmob,1164506,Tiago Tomás,VfB Stuttgart,465209,True,id_map
+fotmob,1235968,Lukas Wallner,FC Hansa Rostock,fotmob_new_1235968,False,
+fotmob,1257829,Jonas Dirkner,FC Hansa Rostock,fotmob_new_1257829,False,
+fotmob,1279764,Ameen Al Dakhil,VfB Stuttgart,487968,True,id_map
+fotmob,1288273,David Hummel,FC Hansa Rostock,fotmob_new_1288273,False,
+fotmob,1340895,Bilal El Khannouss,VfB Stuttgart,513527,True,id_map
+fotmob,1366602,Dženan Pejčinović,VfB Stuttgart,522019,True,id_map
+fotmob,1382739,Benno Dietze,FC Hansa Rostock,fotmob_new_1382739,False,
+fotmob,1487877,Finn Jeltsch,VfB Stuttgart,554088,True,id_map
+fotmob,1516072,Milosz Brzozowski,FC Hansa Rostock,fotmob_new_1516072,False,
+fotmob,1518938,Lazar Jovanović,VfB Stuttgart,620478,True,id_map
+fotmob,1586552,Chema Andrés,VfB Stuttgart,592984,True,id_map
+fotmob,1691371,Ouassim Karada,FC Hansa Rostock,fotmob_new_1691371,False,
+fotmob,1694469,Yannick Michaelis,FC Hansa Rostock,fotmob_new_1694469,False,
+fotmob,1853285,Bernie Lennemann,FC Hansa Rostock,fotmob_new_1853285,False,
+fotmob,212886,Vitus Eicher,TSV 1860 München,fotmob_new_212886,False,
+fotmob,276760,Florian Niederlechner,TSV 1860 München,fotmob_new_276760,False,
+fotmob,409818,Jonas Meffert,Holstein Kiel,146358,True,master
+fotmob,547145,Cristian Leone,TSV 1860 München,fotmob_new_547145,False,
+fotmob,622415,Tunay Deniz,TSV 1860 München,fotmob_new_622415,False,
+fotmob,661584,Benedikt Hoppe,TSV 1860 München,fotmob_new_661584,False,
+fotmob,663819,Ludwig Severin Estermann,TSV 1860 München,fotmob_new_663819,False,
+fotmob,673043,Michael Eberwein,TSV 1860 München,fotmob_new_673043,False,
+fotmob,702454,Matthew Thomas Clemence Collins,TSV 1860 München,fotmob_new_702454,False,
+fotmob,749703,Raphael Wach,TSV 1860 München,fotmob_new_749703,False,
+fotmob,750279,Felix Weber,TSV 1860 München,fotmob_new_750279,False,
+fotmob,861541,David Zec,Holstein Kiel,fotmob_new_861541,False,
+fotmob,874272,Ivan Nekić,Holstein Kiel,fotmob_new_874272,False,
+fotmob,941217,Dennis Dressel,TSV 1860 München,fotmob_new_941217,False,
+fotmob,951919,Timon Weiner,Holstein Kiel,fotmob_new_951919,False,
+fotmob,1079120,Moritz Seiffert,TSV 1860 München,fotmob_new_1079120,False,
+fotmob,1091141,Faride Alidou,Holstein Kiel,fotmob_new_1091141,False,
+fotmob,1136403,John Tolkin,Holstein Kiel,fotmob_new_1136403,False,
+fotmob,1159556,Adrián Kaprálik,Holstein Kiel,fotmob_new_1159556,False,
+fotmob,1258603,Guillermo Balzi,Holstein Kiel,fotmob_new_1258603,False,
+fotmob,1275291,Phil Harres,Holstein Kiel,fotmob_new_1275291,False,
+fotmob,1320446,Marko Ivezić,Holstein Kiel,fotmob_new_1320446,False,
+fotmob,1323311,Gyan de Regt,Holstein Kiel,fotmob_new_1323311,False,
+fotmob,1332965,Julian Bell,TSV 1860 München,fotmob_new_1332965,False,
+fotmob,1378854,Jonas Torrissen Therkelsen,Holstein Kiel,fotmob_new_1378854,False,
+fotmob,1385257,Mark Gevorgyan,TSV 1860 München,fotmob_new_1385257,False,
+fotmob,1437580,Kasper Davidsen,Holstein Kiel,fotmob_new_1437580,False,
+fotmob,1477966,Niko Takahashi,Holstein Kiel,fotmob_new_1477966,False,
+fotmob,1543415,Hiroki Sekine,Holstein Kiel,fotmob_new_1543415,False,
+fotmob,1577605,Lio Rothenhagen,Holstein Kiel,fotmob_new_1577605,False,
+fotmob,1601774,Noah Madsen,Holstein Kiel,fotmob_new_1601774,False,
+fotmob,1642288,Fabio Wagner,TSV 1860 München,fotmob_new_1642288,False,
+fotmob,1707822,Lasse Faßmann,TSV 1860 München,fotmob_new_1707822,False,
+fotmob,1755732,Emre Erdoğan,TSV 1860 München,fotmob_new_1755732,False,
+fotmob,1797373,Paul Bachmann,TSV 1860 München,fotmob_new_1797373,False,
+fotmob,1800278,Moritz Reimers,Holstein Kiel,fotmob_new_1800278,False,
+fotmob,1899702,Leon Parduzi,Holstein Kiel,fotmob_new_1899702,False,
+fotmob,1921200,Ikem Ugoh,Holstein Kiel,fotmob_new_1921200,False,
+fotmob,2119357,Arian Calderon,TSV 1860 München,fotmob_new_2119357,False,
+fotmob,2139623,Lance Fiedler,TSV 1860 München,fotmob_new_2139623,False,
+fotmob,658444,Tom Baack,SC Paderborn 07,212687,True,id_map
+fotmob,659046,Markus Schubert,SC Paderborn 07,fm_659046,True,id_map
+fotmob,706500,Steffen Tigges,SC Paderborn 07,220369,True,id_map
+fotmob,749907,Philippe Markvoort Beke,1. FC Phönix Lübeck,fotmob_new_749907,False,
+fotmob,770578,Miguel Fernandes,1. FC Phönix Lübeck,fotmob_new_770578,False,
+fotmob,784225,Raphael Obermair,SC Paderborn 07,245795,True,id_map
+fotmob,862288,Jannes Vollert,1. FC Phönix Lübeck,fotmob_new_862288,False,
+fotmob,950822,Oliver Batista Meier,SC Paderborn 07,439348,True,id_map
+fotmob,960952,Tim Kips,1. FC Phönix Lübeck,fotmob_new_960952,False,
+fotmob,1082484,Daniel Haritonov,1. FC Phönix Lübeck,fotmob_new_1082484,False,
+fotmob,1086988,Moritz Kretzer,1. FC Phönix Lübeck,fotmob_new_1086988,False,
+fotmob,1186696,Ousman Touray,1. FC Phönix Lübeck,fotmob_new_1186696,False,
+fotmob,1190501,Benjamin Luis,1. FC Phönix Lübeck,fotmob_new_1190501,False,
+fotmob,1257826,Nahuel Noll,SC Paderborn 07,ws_416165,True,id_map
+fotmob,1276453,Gabriel Vidović,SC Paderborn 07,508347,True,id_map
+fotmob,1285798,Jannis Farr,1. FC Phönix Lübeck,fotmob_new_1285798,False,
+fotmob,1321553,Stefano Marino,SC Paderborn 07,518035,True,id_map
+fotmob,1338985,Julian Boccaccio,1. FC Phönix Lübeck,fotmob_new_1338985,False,
+fotmob,1362492,Santiago Castañeda,SC Paderborn 07,495002,True,id_map
+fotmob,1363789,Julian Markvoort Beke,1. FC Phönix Lübeck,fotmob_new_1363789,False,
+fotmob,1367587,Laurin Ulrich,SC Paderborn 07,516960,True,id_map
+fotmob,1407225,Anton Ihde,1. FC Phönix Lübeck,fotmob_new_1407225,False,
+fotmob,1414723,Jonathan Stöver,1. FC Phönix Lübeck,fotmob_new_1414723,False,
+fotmob,1415115,Christopher Barkmann,1. FC Phönix Lübeck,fotmob_new_1415115,False,
+fotmob,1415373,Tjark Scheller,SC Paderborn 07,633996,True,id_map
+fotmob,1426060,Laurin Curda,SC Paderborn 07,465852,True,id_map
+fotmob,1451194,Fabio Maiolo,1. FC Phönix Lübeck,fotmob_new_1451194,False,
+fotmob,1515976,Mattes Hansen,SC Paderborn 07,513442,True,id_map
+fotmob,1520469,Jano ter Horst,SC Paderborn 07,626599,True,id_map
+fotmob,1520593,Jonah Sticker,SC Paderborn 07,627290,True,id_map
+fotmob,1526681,Kilian Skolik,1. FC Phönix Lübeck,fotmob_new_1526681,False,
+fotmob,1580112,Deniz Zeitler,SC Paderborn 07,640659,True,id_map
+fotmob,1586401,Luka Djuric,SC Paderborn 07,515218,True,id_map
+fotmob,1659457,Karim Hueneburg,1. FC Phönix Lübeck,fotmob_new_1659457,False,
+fotmob,1663195,Michel Dammeier,1. FC Phönix Lübeck,fotmob_new_1663195,False,
+fotmob,1668081,Julius Kliti,1. FC Phönix Lübeck,fotmob_new_1668081,False,
+fotmob,1701615,Clemens Lippmann,SC Paderborn 07,629188,True,id_map
+fotmob,1801952,Niklas Mohr,SC Paderborn 07,704210,True,id_map
+fotmob,1804160,Albert Millgramm,SC Paderborn 07,fotmob_new_1804160,False,
+fotmob,1805488,Omar Rahimic,1. FC Phönix Lübeck,fotmob_new_1805488,False,
+fotmob,293560,Terrence Boyd,SV Waldhof Mannheim,fotmob_new_293560,False,
+fotmob,553556,Marlon Ritter,1. FC Kaiserslautern,fotmob_new_553556,False,
+fotmob,560410,Jan Elvedi,1. FC Kaiserslautern,fotmob_new_560410,False,
+fotmob,597737,Mërgim Berisha,1. FC Kaiserslautern,fotmob_new_597737,False,
+fotmob,642501,Leroy-Jacques Mickels,SV Waldhof Mannheim,fotmob_new_642501,False,
+fotmob,642536,Erik Wekesser,1. FC Kaiserslautern,fotmob_new_642536,False,
+fotmob,664552,Lukas Klünter,SV Waldhof Mannheim,fotmob_new_664552,False,
+fotmob,692973,Noah-Joel Sarenren-Bazee,SV Waldhof Mannheim,fotmob_new_692973,False,
+fotmob,715879,Diego Michel,SV Waldhof Mannheim,fotmob_new_715879,False,
+fotmob,736173,Vincent Thill,SV Waldhof Mannheim,fotmob_new_736173,False,
+fotmob,740595,Thijmen Nijhuis,SV Waldhof Mannheim,fotmob_new_740595,False,
+fotmob,767256,Jacob Rasmussen,1. FC Kaiserslautern,fotmob_new_767256,False,
+fotmob,773933,Maximilian Thalhammer,SV Waldhof Mannheim,fotmob_new_773933,False,
+fotmob,776595,Gonçalo Gregório,SV Waldhof Mannheim,fotmob_new_776595,False,
+fotmob,808155,Fabian Kunze,1. FC Kaiserslautern,fotmob_new_808155,False,
+fotmob,950675,Tim Sechelmann,SV Waldhof Mannheim,fotmob_new_950675,False,
+fotmob,953080,Julian Krahl,1. FC Kaiserslautern,fotmob_new_953080,False,
+fotmob,1002665,Julian Rieckmann,SV Waldhof Mannheim,fotmob_new_1002665,False,
+fotmob,1036119,Julian Ulbricht,SV Waldhof Mannheim,fotmob_new_1036119,False,
+fotmob,1073476,Maxwell Gyamfi,1. FC Kaiserslautern,fotmob_new_1073476,False,
+fotmob,1081707,Erencan Yardımcı,1. FC Kaiserslautern,fotmob_new_1081707,False,
+fotmob,1083342,Semih Şahin,1. FC Kaiserslautern,fotmob_new_1083342,False,
+fotmob,1188661,Claudio Kammerknecht,SV Waldhof Mannheim,fotmob_new_1188661,False,
+fotmob,1236039,Joey Müller,SV Waldhof Mannheim,fotmob_new_1236039,False,
+fotmob,1274452,Paul Joly,1. FC Kaiserslautern,fotmob_new_1274452,False,
+fotmob,1362341,Alex Murphy,1. FC Kaiserslautern,545477,True,master_transfer
+fotmob,1410624,Kushtrim Asallari,SV Waldhof Mannheim,fotmob_new_1410624,False,
+fotmob,1581718,Ibrahim Kanaté,1. FC Kaiserslautern,fotmob_new_1581718,False,
+fotmob,1645655,Lovis Bierschenk,SV Waldhof Mannheim,fotmob_new_1645655,False,
+fotmob,1659454,Mika Haas,1. FC Kaiserslautern,fotmob_new_1659454,False,
+fotmob,1659455,Leon Robinson,1. FC Kaiserslautern,fotmob_new_1659455,False,
+fotmob,1695875,Kelven Frees,1. FC Kaiserslautern,628993,True,master
+fotmob,1700192,Djayson Mendes,SV Waldhof Mannheim,fotmob_new_1700192,False,
+fotmob,1789635,Jan Niemann,SV Waldhof Mannheim,fotmob_new_1789635,False,
+fotmob,1807380,Darnell Keumo,SV Waldhof Mannheim,fotmob_new_1807380,False,
+fotmob,1814353,Moritz Polte,SV Waldhof Mannheim,fotmob_new_1814353,False,
+fotmob,1838936,Dion Hofmeister,1. FC Kaiserslautern,fotmob_new_1838936,False,
+fotmob,1843406,Thierry Fidjeu-Tazemeta,1. FC Kaiserslautern,fotmob_new_1843406,False,
+fotmob,1921594,Enis Kamga,1. FC Kaiserslautern,fotmob_new_1921594,False,
+fotmob,1975549,David Schramm,1. FC Kaiserslautern,fotmob_new_1975549,False,
+fotmob,215151,Marcel Sabitzer,Borussia Dortmund,101338,True,id_map
+fotmob,359203,Patrick Drewes,Borussia Dortmund,fotmob_new_359203,False,
+fotmob,448540,Serhou Guirassy,Borussia Dortmund,162275,True,id_map
+fotmob,516705,Christopher Grünewald,Hamburg-Eimsbütteler BC,fotmob_new_516705,False,
+fotmob,547281,Luca Garcia,Hamburg-Eimsbütteler BC,fotmob_new_547281,False,
+fotmob,549174,Muhammet Ali Aktürk,Hamburg-Eimsbütteler BC,fotmob_new_549174,False,
+fotmob,659272,Julian Ryerson,Borussia Dortmund,213783,True,id_map
+fotmob,664970,Waldemar Anton,Borussia Dortmund,212509,True,id_map
+fotmob,743381,Alexander Meyer,Borussia Dortmund,fm_743381,True,id_map
+fotmob,748844,Nils Ahmann,Hamburg-Eimsbütteler BC,fotmob_new_748844,False,
+fotmob,748877,Julius Emil Stegemann,Hamburg-Eimsbütteler BC,fotmob_new_748877,False,
+fotmob,748879,Jorma Rudolf Gerhard Eggers,Hamburg-Eimsbütteler BC,fotmob_new_748879,False,
+fotmob,748882,Laurel Glen Aug,Hamburg-Eimsbütteler BC,fotmob_new_748882,False,
+fotmob,748884,Semir Demirovic,Hamburg-Eimsbütteler BC,fotmob_new_748884,False,
+fotmob,748885,Piet Ole Oldag,Hamburg-Eimsbütteler BC,fotmob_new_748885,False,
+fotmob,748887,Robert Schick,Hamburg-Eimsbütteler BC,fotmob_new_748887,False,
+fotmob,748891,Tjorven Bastian Dan Köhler,Hamburg-Eimsbütteler BC,fotmob_new_748891,False,
+fotmob,748892,Hammed Umer Nawaz,Hamburg-Eimsbütteler BC,fotmob_new_748892,False,
+fotmob,748894,Malte Alexander Wilhelm,Hamburg-Eimsbütteler BC,fotmob_new_748894,False,
+fotmob,748896,Fabian Lemke,Hamburg-Eimsbütteler BC,fotmob_new_748896,False,
+fotmob,748898,Lionel Aloilela Coelestin Edward,Hamburg-Eimsbütteler BC,fotmob_new_748898,False,
+fotmob,748900,Moses Magens,Hamburg-Eimsbütteler BC,fotmob_new_748900,False,
+fotmob,792429,Joey Veerman,Borussia Dortmund,231653,True,id_map
+fotmob,966019,Felix Nmecha,Borussia Dortmund,219265,True,id_map
+fotmob,1047667,Maximilian Beier,Borussia Dortmund,465859,True,id_map
+fotmob,1050158,Fábio Silva,Borussia Dortmund,449988,True,id_map
+fotmob,1089685,Carney Chukwuemeka,Borussia Dortmund,478912,True,id_map
+fotmob,1209228,Daniel Svensson,Borussia Dortmund,521052,True,id_map
+fotmob,1286009,Philip Onnen,Hamburg-Eimsbütteler BC,fotmob_new_1286009,False,
+fotmob,1286013,Jannik Schoon,Hamburg-Eimsbütteler BC,fotmob_new_1286013,False,
+fotmob,1287373,Jobe Bellingham,Borussia Dortmund,519322,True,id_map
+fotmob,1479742,Joane Gadou,Borussia Dortmund,592891,True,id_map
+fotmob,1536436,Konstantinos Karetsas,Borussia Dortmund,609068,True,id_map
+fotmob,1663094,Filippo Mane,Borussia Dortmund,571642,True,id_map
+fotmob,1692797,Mathis Albert,Borussia Dortmund,609623,True,id_map
+fotmob,1750565,Kauã Prates,Borussia Dortmund,685487,True,id_map
+fotmob,1761151,Samuele Inácio,Borussia Dortmund,636717,True,id_map
+fotmob,1845173,Luca Reggiani,Borussia Dortmund,631121,True,id_map
+fotmob,2182887,Janek Wrede,Hamburg-Eimsbütteler BC,fotmob_new_2182887,False,
+fotmob,27299,Manuel Neuer,FC Bayern München,20388,True,id_map
+fotmob,94841,Sven Ulreich,FC Bayern München,49431,True,id_map
+fotmob,194165,Harry Kane,FC Bayern München,78830,True,id_map
+fotmob,391679,Bjarke Jacobsen,VfL Osnabrück,fotmob_new_391679,False,
+fotmob,458620,Jannik Müller,VfL Osnabrück,fotmob_new_458620,False,
+fotmob,460632,Joshua Kimmich,FC Bayern München,165687,True,id_map
+fotmob,469700,Jonathan Tah,FC Bayern München,164454,True,id_map
+fotmob,526827,Konrad Laimer,FC Bayern München,109126,True,id_map
+fotmob,620577,Daniel-Kofi Kyereh,VfL Osnabrück,fotmob_new_620577,False,
+fotmob,658554,Dayot Upamecano,FC Bayern München,199661,True,id_map
+fotmob,673292,Fridolin Wagner,VfL Osnabrück,fotmob_new_673292,False,
+fotmob,732381,Joël Abu Hanna,VfL Osnabrück,fotmob_new_732381,False,
+fotmob,751202,Alphonso Davies,FC Bayern München,225059,True,id_map
+fotmob,775691,Patrick Kammerbauer,VfL Osnabrück,fotmob_new_775691,False,
+fotmob,794393,Adrian Beck,VfL Osnabrück,452893,True,master
+fotmob,828159,Min-Jae Kim,FC Bayern München,249621,True,id_map
+fotmob,851626,Hiroki Ito,FC Bayern München,248811,True,id_map
+fotmob,860914,Luis Díaz,FC Bayern München,244731,True,id_map
+fotmob,950824,Josip Stanišić,FC Bayern München,437921,True,id_map
+fotmob,964599,Robin Meißner,VfL Osnabrück,fotmob_new_964599,False,
+fotmob,1002652,Konrad Faber,VfL Osnabrück,fotmob_new_1002652,False,
+fotmob,1029063,Michael Olise,FC Bayern München,443661,True,id_map
+fotmob,1052358,Niklas Wiemann,VfL Osnabrück,fotmob_new_1052358,False,
+fotmob,1180288,Ismael Saibari,FC Bayern München,492963,True,id_map
+fotmob,1199140,Jonas Krumrey,VfL Osnabrück,fotmob_new_1199140,False,
+fotmob,1230638,Tony Lesueur,VfL Osnabrück,fotmob_new_1230638,False,
+fotmob,1250794,Leonhard Münst,VfL Osnabrück,fotmob_new_1250794,False,
+fotmob,1282976,Niklas Sauter,VfL Osnabrück,fotmob_new_1282976,False,
+fotmob,1285872,Jonas Urbig,FC Bayern München,494589,True,id_map
+fotmob,1286183,Tom Bischof,FC Bayern München,519086,True,id_map
+fotmob,1385830,Theo Janotta,VfL Osnabrück,fotmob_new_1385830,False,
+fotmob,1395447,Nathaniel Brown,FC Bayern München,515352,True,id_map
+fotmob,1452488,Leon Opitz,VfL Osnabrück,572990,True,master
+fotmob,1473580,Aleksandar Pavlović,FC Bayern München,515675,True,id_map
+fotmob,1515922,Robin Fabinski,VfL Osnabrück,fotmob_new_1515922,False,
+fotmob,1552927,Luca Raimund,VfL Osnabrück,fotmob_new_1552927,False,
+fotmob,1663015,Bernd Riesselman,VfL Osnabrück,fotmob_new_1663015,False,
+fotmob,1663016,Ismail Badjie,VfL Osnabrück,fotmob_new_1663016,False,
+fotmob,1737700,Lennart Karl,FC Bayern München,648440,True,id_map
+fotmob,1798782,Bara Ndiaye,FC Bayern München,704138,True,id_map
+fotmob,658794,Lion Schweers,Borussia Mönchengladbach,ws_405380,True,id_map
+fotmob,764507,Florian Neuhaus,Borussia Mönchengladbach,229231,True,id_map
+fotmob,959696,Joseph Scally,Borussia Mönchengladbach,427426,True,id_map
+fotmob,1054026,Yukhym Konoplya,Borussia Mönchengladbach,437869,True,id_map
+fotmob,1114472,Lilian Egloff,Karlsruher SC,fotmob_new_1114472,False,
+fotmob,1129317,Jan Olschowsky,Borussia Mönchengladbach,fotmob_new_1129317,False,
+fotmob,1185902,Jens Castrop,Borussia Mönchengladbach,510788,True,master
+fotmob,1276331,Fabio Chiarodia,Borussia Mönchengladbach,544822,True,id_map
+fotmob,1337143,Zento Uno,Borussia Mönchengladbach,567067,True,id_map
+fotmob,1382192,Sandro Trémoulet,Karlsruher SC,fotmob_new_1382192,False,
+fotmob,466861,Sean Klaiber,VfL Bochum 1848,fotmob_new_466861,False,
+fotmob,521311,Tino Casali,VfL Bochum 1848,fotmob_new_521311,False,
+fotmob,557325,Stefan Posch,1. FSV Mainz 05,191803,True,id_map
+fotmob,625091,Gerrit Holtmann,VfL Bochum 1848,fotmob_new_625091,False,
+fotmob,1175939,Paul Nebel,1. FSV Mainz 05,487986,True,id_map
+fotmob,1185568,Benedict Hollerbach,1. FSV Mainz 05,465993,True,id_map
+fotmob,1199283,Eric Martel,1. FSV Mainz 05,487868,True,id_map
+fotmob,1224465,Jarne Steuckers,VfL Bochum 1848,fotmob_new_1224465,False,
+fotmob,1229058,Charlie Patino,VfL Bochum 1848,fotmob_new_1229058,False,
+fotmob,1469955,Mansour Ouro-Tagba,VfL Bochum 1848,fotmob_new_1469955,False,
+fotmob,298823,Mitchell Weiser,SV Werder Bremen,109203,True,id_map
+fotmob,764018,Gregor Kobel,Borussia Dortmund,185513,True,id_map
+fotmob,982692,Karl Hein,SV Werder Bremen,463748,True,id_map
+fotmob,1002058,Nico Schlotterbeck,Borussia Dortmund,470836,True,id_map
+fotmob,1111980,Youri Regeer,SV Werder Bremen,492629,True,id_map
+fotmob,1146376,Eren Dinkçi,SV Werder Bremen,513417,True,id_map
+fotmob,1254234,Ethan Nwaneri,Borussia Dortmund,499175,True,id_map
+fotmob,1276988,Dariusz Stalmach,SV Werder Bremen,545189,True,id_map
+fotmob,1283403,Oskar Wójcik,SV Werder Bremen,511704,True,id_map
+fotmob,1353457,Arthur,SV Werder Bremen,566438,True,id_map
+fotmob,1921960,Mats Heitmann,SV Werder Bremen,589866,True,master
+fotmob,2155105,Darwin Soylu,SV Werder Bremen,627809,True,id_map
+fotmob,614571,Matthias Bader,SV Darmstadt 98,fotmob_new_614571,False,
+fotmob,1010726,Hiroki Akiyama,SV Darmstadt 98,fotmob_new_1010726,False,
+fotmob,1185143,Fynn Lakenmacher,SV Darmstadt 98,fotmob_new_1185143,False,
+fotmob,1242757,William Mikelbrencis,SV Darmstadt 98,531075,True,master
+fotmob,1280560,Lukas Pinckert,SV 07 Elversberg,543907,True,id_map
+fotmob,1730149,Raif Adam,SV 07 Elversberg,576784,True,id_map
+fotmob,186557,Frederik Rønnow,1. FC Union Berlin,89628,True,id_map
+fotmob,530858,Marvin Friedrich,1. FC Union Berlin,182157,True,master
+fotmob,540073,Gian-Luca Waldschmidt,1. FC Köln,168143,True,id_map
+fotmob,622091,Borna Sosa,1. FC Köln,218364,True,id_map
+fotmob,852049,Kastriot Imeri,1. FC Union Berlin,486419,True,id_map
+fotmob,936140,Sebastian Sebulonsen,1. FC Köln,502821,True,id_map
+fotmob,1407250,Mikey Moore,1. FC Köln,499721,True,id_map
+fotmob,1640790,Malek El Mala,1. FC Köln,fotmob_new_1640790,False,
+fotmob,2062767,Mekhi Gray,1. FC Union Berlin,685527,True,id_map
+fotmob,343766,Anthony Jung,Sport-Club Freiburg,110927,True,master
+fotmob,408986,Timon Wellenreuther,VfL Wolfsburg,fotmob_new_408986,False,
+fotmob,490489,Robert Glatzel,VfL Wolfsburg,170318,True,master
+fotmob,1030836,Rihito Yamamoto,Sport-Club Freiburg,465917,True,id_map
+fotmob,1281107,Max Rosenfelder,Sport-Club Freiburg,494600,True,id_map
+fotmob,245315,Jeffrey Gouweleeuw,FC Augsburg,93683,True,id_map
+fotmob,900637,Volkan Celiktas,SG Sonnenhof Großaspach,fotmob_new_900637,False,
+fotmob,1132818,Young-Woo Seol,FC Augsburg,fm_1132818,True,id_map
+fotmob,1327150,Arijon Ibrahimović,FC Augsburg,505201,True,id_map
+fotmob,1539619,Juma Bah,FC Augsburg,632880,True,id_map
+fotmob,1894328,Loris Husic,FC Augsburg,fotmob_new_1894328,False,
+fotmob,629805,Ritsu Doan,Eintracht Frankfurt,205252,True,id_map
+fotmob,759817,Miro Muheim,Hamburger SV,198230,True,id_map
+fotmob,885005,Terem Moffi,Hamburger SV,438398,True,id_map
+fotmob,1049679,David Møller Wolfe,Hamburger SV,497949,True,id_map
+fotmob,1071178,Immanuël Pherai,Hamburger SV,423045,True,id_map
+fotmob,1176780,Nnamdi Collins,Eintracht Frankfurt,492942,True,id_map
+fotmob,1202595,Warmed Omari,Hamburger SV,503732,True,id_map
+fotmob,1281100,Noah Atubolu,Eintracht Frankfurt,470306,True,id_map
+fotmob,1287871,Zakaria El Ouahdi,Hamburger SV,547774,True,id_map
+fotmob,1596359,Noël Aséko,Eintracht Frankfurt,549875,True,id_map
+fotmob,1644278,Alexander Røssing,Hamburger SV,657978,True,id_map
+fotmob,657217,Mads Valentin Pedersen,Hertha BSC,207280,True,master
+fotmob,1227421,Kingsley Marcinek,SSV Jeddeloh II,fotmob_new_1227421,False,
+fotmob,1487868,Konstantin Heide,Hertha BSC,fotmob_new_1487868,False,
+fotmob,1747804,Selim Telib,Hertha BSC,fotmob_new_1747804,False,
+fotmob,1789095,Adrian Asani,SSV Jeddeloh II,fotmob_new_1789095,False,
+fotmob,2422735,Diego Raykov,SSV Jeddeloh II,fotmob_new_2422735,False,
+fotmob,2422742,Thure Fengler,SSV Jeddeloh II,fotmob_new_2422742,False,
+fotmob,767790,Felix Götze,SC Paderborn 07,225354,True,id_map
+fotmob,1074968,Jamie Leweling,VfB Stuttgart,488677,True,id_map
+fotmob,1125187,Ramon Hendriks,VfB Stuttgart,450067,True,id_map
+fotmob,1192406,Lorenz Assignon,VfB Stuttgart,503724,True,id_map
+fotmob,1270002,Luca Jaquez,VfB Stuttgart,563987,True,id_map
+fotmob,1478098,Dennis Seimen,VfB Stuttgart,516952,True,id_map
+fotmob,1688956,Ruben Müller,SC Paderborn 07,547335,True,id_map
+fotmob,1793638,Yanik Spalt,VfB Stuttgart,518973,True,id_map
+fotmob,73409,Ørjan Håskjold Nyland,RB Leipzig,98770,True,id_map
+fotmob,466994,Eric Verstappen,Rot-Weiss Essen,fotmob_new_466994,False,
+fotmob,747718,Christoph Baumgartner,RB Leipzig,454831,True,master
+fotmob,1140919,Nick Bätzner,Rot-Weiss Essen,fotmob_new_1140919,False,
+fotmob,1274060,Neil El Aynaoui,RB Leipzig,545286,True,id_map
+fotmob,1314412,Rômulo,RB Leipzig,546855,True,id_map
+fotmob,1380471,Michael Kostka,Rot-Weiss Essen,fotmob_new_1380471,False,
+fotmob,1643776,Abdoul Koné,RB Leipzig,657512,True,id_map
+fotmob,1869273,James Gnagnon,Rot-Weiss Essen,fotmob_new_1869273,False,
+fotmob,2384674,Rami Malaeb,Rot-Weiss Essen,fotmob_new_2384674,False,
+fotmob,2405046,Fadih Vasic,Rot-Weiss Essen,fotmob_new_2405046,False,
+fotmob,469763,Kenan Karaman,FC Schalke 04,165172,True,id_map
+fotmob,620026,Hee-Chan Hwang,FC Schalke 04,184754,True,id_map
+fotmob,721091,Finn Porath,FC Schalke 04,fotmob_new_721091,False,
+fotmob,773519,Christoph Daferner,SG Dynamo Dresden,fotmob_new_773519,False,
+fotmob,801122,Lennart Grill,SG Dynamo Dresden,fotmob_new_801122,False,
+fotmob,815566,Bryan Lasme,FC Schalke 04,fotmob_new_815566,False,
+fotmob,982335,Tobias Raschl,SG Dynamo Dresden,fotmob_new_982335,False,
+fotmob,1738346,Till Neininger,SG Dynamo Dresden,614784,True,master
+fotmob,1813396,Edion Gashi,FC Schalke 04,fotmob_new_1813396,False,
+fotmob,1975808,Jean-Paul Ndiaye,FC Schalke 04,fotmob_new_1975808,False,

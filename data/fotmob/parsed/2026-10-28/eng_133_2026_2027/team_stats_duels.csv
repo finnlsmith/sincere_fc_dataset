@@ -1,0 +1,305 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Duels won,45,51
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Ground duels won,30 (44%),38 (56%)
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Aerial duels won,15 (54%),13 (46%)
+5840286,2026-08-07T19:00:00.000Z,1,EFL Cup,Middlesbrough,8549,Wrexham,9841,Successful dribbles,7 (37%),11 (55%)
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Duels won,41,53
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Ground duels won,34 (50%),34 (50%)
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Aerial duels won,7 (27%),19 (73%)
+5840287,2026-08-08T16:30:00.000Z,1,EFL Cup,Rotherham United,8119,West Bromwich Albion,8659,Successful dribbles,4 (29%),6 (40%)
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Duels won,61,43
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Ground duels won,35 (54%),30 (46%)
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Aerial duels won,26 (67%),13 (33%)
+5840288,2026-08-08T14:00:00.000Z,1,EFL Cup,Barnsley,8283,Wigan Athletic,8528,Successful dribbles,9 (50%),8 (47%)
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Duels won,63,54
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Ground duels won,34 (47%),39 (53%)
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Aerial duels won,29 (66%),15 (34%)
+5840289,2026-08-09T15:00:00.000Z,1,EFL Cup,Mansfield Town,9818,Sheffield United,8657,Successful dribbles,4 (31%),4 (27%)
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Duels won,48,35
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Ground duels won,31 (61%),20 (39%)
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Aerial duels won,17 (53%),15 (47%)
+5840290,2026-08-08T14:00:00.000Z,1,EFL Cup,Stockport County,10007,Doncaster Rovers,9903,Successful dribbles,5 (45%),3 (21%)
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Duels won,50,50
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Ground duels won,35 (50%),35 (50%)
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Aerial duels won,15 (50%),15 (50%)
+5840291,2026-08-08T14:00:00.000Z,1,EFL Cup,Sheffield Wednesday,10163,Bolton Wanderers,8559,Successful dribbles,3 (43%),6 (33%)
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Duels won,52,63
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Ground duels won,30 (39%),46 (61%)
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Aerial duels won,22 (56%),17 (44%)
+5840292,2026-08-08T14:00:00.000Z,1,EFL Cup,Fleetwood Town,45723,Chesterfield,9786,Successful dribbles,8 (47%),9 (56%)
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Duels won,72,48
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Ground duels won,40 (62%),25 (38%)
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Aerial duels won,32 (58%),23 (42%)
+5840293,2026-08-08T14:00:00.000Z,1,EFL Cup,Crewe Alexandra,9784,Accrington Stanley,8671,Successful dribbles,12 (75%),5 (42%)
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Duels won,48,54
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Ground duels won,26 (43%),35 (57%)
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Aerial duels won,22 (54%),19 (46%)
+5840294,2026-08-08T14:00:00.000Z,1,EFL Cup,Stoke City,10194,Oldham Athletic,9785,Successful dribbles,9 (47%),3 (50%)
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Duels won,41,46
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Ground duels won,26 (45%),32 (55%)
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Aerial duels won,15 (52%),14 (48%)
+5840295,2026-08-07T18:45:00.000Z,1,EFL Cup,Wolverhampton Wanderers,8602,Port Vale,9799,Successful dribbles,7 (64%),7 (50%)
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Duels won,48,35
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Ground duels won,36 (57%),27 (43%)
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Aerial duels won,12 (60%),8 (40%)
+5840296,2026-08-08T14:00:00.000Z,1,EFL Cup,Burnley,8191,Notts County,9819,Successful dribbles,6 (46%),3 (27%)
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Duels won,50,51
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Ground duels won,36 (52%),33 (48%)
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Aerial duels won,14 (44%),18 (56%)
+5840297,2026-08-08T14:00:00.000Z,1,EFL Cup,Derby County,10170,Lincoln City,8430,Successful dribbles,5 (36%),2 (15%)
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Duels won,62,58
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Ground duels won,42 (56%),33 (44%)
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Aerial duels won,20 (44%),25 (56%)
+5840298,2026-08-08T14:00:00.000Z,1,EFL Cup,Bradford City,8484,Rochdale,8493,Successful dribbles,11 (65%),9 (47%)
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Duels won,52,43
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Ground duels won,38 (54%),32 (46%)
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Aerial duels won,14 (56%),11 (44%)
+5840299,2026-08-08T14:00:00.000Z,1,EFL Cup,Burton Albion,9792,Blackburn Rovers,8655,Successful dribbles,6 (55%),3 (23%)
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Duels won,54,53
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Ground duels won,32 (44%),40 (56%)
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Aerial duels won,22 (63%),13 (37%)
+5840300,2026-08-08T14:00:00.000Z,1,EFL Cup,Salford City,282326,Shrewsbury Town,9896,Successful dribbles,6 (32%),5 (50%)
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Duels won,58,46
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Ground duels won,36 (63%),21 (37%)
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Aerial duels won,22 (47%),25 (53%)
+5840301,2026-08-08T14:00:00.000Z,1,EFL Cup,Grimsby Town,10005,Blackpool,8483,Successful dribbles,9 (69%),6 (38%)
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Duels won,61,44
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Ground duels won,43 (61%),28 (39%)
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Aerial duels won,18 (53%),16 (47%)
+5840302,2026-08-08T14:00:00.000Z,1,EFL Cup,Preston North End,8411,Huddersfield Town,9796,Successful dribbles,5 (42%),3 (21%)
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Duels won,56,56
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Ground duels won,37 (53%),33 (47%)
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Aerial duels won,19 (45%),23 (55%)
+5840303,2026-08-08T13:00:00.000Z,1,EFL Cup,Queens Park Rangers,10172,Millwall,10004,Successful dribbles,8 (57%),3 (30%)
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Duels won,43,64
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Ground duels won,30 (46%),35 (54%)
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Aerial duels won,13 (31%),29 (69%)
+5840304,2026-08-08T16:30:00.000Z,1,EFL Cup,Cheltenham Town,8680,Charlton Athletic,8451,Successful dribbles,1 (14%),11 (55%)
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Duels won,44,75
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Ground duels won,35 (46%),41 (54%)
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Aerial duels won,9 (21%),34 (79%)
+5840305,2026-08-08T14:00:00.000Z,1,EFL Cup,Gillingham,10173,Luton Town,8346,Successful dribbles,9 (75%),13 (76%)
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Duels won,49,59
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Ground duels won,41 (48%),44 (52%)
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Aerial duels won,8 (35%),15 (65%)
+5840306,2026-08-08T14:00:00.000Z,1,EFL Cup,Cardiff City,8344,Swindon Town,9795,Successful dribbles,10 (53%),13 (68%)
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Duels won,58,53
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Ground duels won,42 (58%),31 (42%)
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Aerial duels won,16 (42%),22 (58%)
+5840307,2026-08-06T18:45:00.000Z,1,EFL Cup,Bristol City,8427,Walsall,10006,Successful dribbles,14 (52%),8 (62%)
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Duels won,74,56
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Ground duels won,27 (49%),28 (51%)
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Aerial duels won,47 (63%),28 (37%)
+5840308,2026-08-10T19:00:00.000Z,1,EFL Cup,Plymouth Argyle,8401,Exeter City,9833,Successful dribbles,3 (43%),8 (67%)
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Duels won,83,50
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Ground duels won,44 (56%),35 (44%)
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Aerial duels won,39 (72%),15 (28%)
+5840309,2026-08-08T14:00:00.000Z,1,EFL Cup,Bristol Rovers,10104,Peterborough United,8677,Successful dribbles,5 (38%),6 (30%)
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Duels won,65,60
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Ground duels won,48 (52%),45 (48%)
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Aerial duels won,17 (53%),15 (47%)
+5840310,2026-08-08T14:00:00.000Z,1,EFL Cup,Watford,9817,Crawley Town,8647,Successful dribbles,18 (51%),4 (31%)
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Duels won,69,61
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Ground duels won,39 (53%),35 (47%)
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Aerial duels won,30 (54%),26 (46%)
+5840311,2026-08-08T12:00:00.000Z,1,EFL Cup,Cambridge United,9834,Barnet,8175,Successful dribbles,7 (41%),4 (20%)
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Duels won,43,50
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Ground duels won,34 (52%),31 (48%)
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Aerial duels won,9 (32%),19 (68%)
+5840312,2026-08-08T14:00:00.000Z,1,EFL Cup,Norwich City,9850,Milton Keynes Dons,8645,Successful dribbles,7 (50%),4 (33%)
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Duels won,42,43
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Ground duels won,30 (49%),31 (51%)
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Aerial duels won,12 (50%),12 (50%)
+5840313,2026-08-08T16:30:00.000Z,1,EFL Cup,Colchester United,8416,Southampton,8466,Successful dribbles,9 (75%),12 (67%)
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Duels won,49,70
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Ground duels won,34 (42%),47 (58%)
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Aerial duels won,15 (39%),23 (61%)
+5840314,2026-08-08T14:00:00.000Z,1,EFL Cup,Leyton Orient,8351,Oxford United,8653,Successful dribbles,10 (56%),6 (40%)
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Duels won,55,56
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Ground duels won,32 (52%),29 (48%)
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Aerial duels won,23 (46%),27 (54%)
+5840315,2026-08-07T18:45:00.000Z,1,EFL Cup,Wycombe Wanderers,8676,Stevenage,10253,Successful dribbles,2 (22%),3 (33%)
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Duels won,57,56
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Ground duels won,39 (61%),25 (39%)
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Aerial duels won,18 (37%),31 (63%)
+5840316,2026-08-08T14:00:00.000Z,1,EFL Cup,Bromley,45729,Reading,9798,Successful dribbles,6 (60%),3 (23%)
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Duels won,77,48
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Ground duels won,47 (61%),30 (39%)
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Aerial duels won,30 (63%),18 (38%)
+5840317,2026-08-08T14:00:00.000Z,1,EFL Cup,Swansea City,10003,Birmingham City,8658,Successful dribbles,7 (44%),5 (31%)
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Duels won,57,47
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Ground duels won,42 (52%),39 (48%)
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Aerial duels won,15 (65%),8 (35%)
+5840318,2026-08-08T14:00:00.000Z,1,EFL Cup,West Ham United,8654,Portsmouth,8462,Successful dribbles,5 (45%),12 (52%)
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Duels won,58,58
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Ground duels won,31 (53%),27 (47%)
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Aerial duels won,27 (47%),31 (53%)
+5840319,2026-08-08T14:00:00.000Z,1,EFL Cup,AFC Wimbledon,158319,Newport County,10262,Successful dribbles,2 (25%),4 (27%)
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Duels won,40,46
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Ground duels won,33 (47%),37 (53%)
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Aerial duels won,7 (44%),9 (56%)
+5840320,2026-08-08T14:00:00.000Z,1,EFL Cup,Leicester City,8197,Northampton Town,8651,Successful dribbles,9 (47%),5 (50%)
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Duels won,48,39
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Ground duels won,35 (53%),31 (47%)
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Aerial duels won,13 (62%),8 (38%)
+6005644,2026-08-25T18:45:00.000Z,2,EFL Cup,Stoke City,10194,Hull City,8667,Successful dribbles,10 (67%),8 (62%)
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Duels won,49,46
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Ground duels won,33 (48%),36 (52%)
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Aerial duels won,16 (62%),10 (38%)
+6005645,2026-08-26T18:45:00.000Z,2,EFL Cup,Newcastle United,10261,West Bromwich Albion,8659,Successful dribbles,7 (39%),6 (46%)
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Duels won,67,65
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Ground duels won,37 (48%),40 (52%)
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Aerial duels won,30 (55%),25 (45%)
+6005646,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackburn Rovers,8655,Sheffield United,8657,Successful dribbles,8 (47%),10 (42%)
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Duels won,56,56
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Ground duels won,30 (48%),33 (52%)
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Aerial duels won,26 (53%),23 (47%)
+6005647,2026-08-25T19:00:00.000Z,2,EFL Cup,Nottingham Forest,10203,Leeds United,8463,Successful dribbles,4 (44%),8 (50%)
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Duels won,47,54
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Ground duels won,40 (49%),42 (51%)
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Aerial duels won,7 (37%),12 (63%)
+6005648,2026-08-25T18:30:00.000Z,2,EFL Cup,Doncaster Rovers,9903,Middlesbrough,8549,Successful dribbles,9 (41%),11 (55%)
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Duels won,40,58
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Ground duels won,30 (43%),40 (57%)
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Aerial duels won,10 (36%),18 (64%)
+6005649,2026-08-25T18:45:00.000Z,2,EFL Cup,Barnsley,8283,Crewe Alexandra,9784,Successful dribbles,12 (46%),7 (50%)
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Duels won,40,33
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Ground duels won,34 (60%),23 (40%)
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Aerial duels won,6 (38%),10 (63%)
+6005650,2026-08-26T19:00:00.000Z,2,EFL Cup,Preston North End,8411,Everton,8668,Successful dribbles,3 (25%),4 (25%)
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Duels won,45,46
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Ground duels won,33 (55%),27 (45%)
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Aerial duels won,12 (39%),19 (61%)
+6005651,2026-08-25T18:45:00.000Z,2,EFL Cup,Blackpool,8483,Lincoln City,8430,Successful dribbles,6 (46%),2 (20%)
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Duels won,41,50
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Ground duels won,31 (43%),41 (57%)
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Aerial duels won,10 (53%),9 (47%)
+6005652,2026-08-25T18:45:00.000Z,2,EFL Cup,Sheffield Wednesday,10163,Wolverhampton Wanderers,8602,Successful dribbles,9 (56%),15 (65%)
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Duels won,55,47
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Ground duels won,31 (47%),35 (53%)
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Aerial duels won,24 (67%),12 (33%)
+6005653,2026-08-26T18:45:00.000Z,2,EFL Cup,Bradford City,8484,Burnley,8191,Successful dribbles,4 (33%),13 (62%)
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Duels won,61,45
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Ground duels won,37 (65%),20 (35%)
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Aerial duels won,24 (49%),25 (51%)
+6005654,2026-08-25T18:45:00.000Z,2,EFL Cup,Fleetwood Town,45723,Shrewsbury Town,9896,Successful dribbles,9 (69%),4 (40%)
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Duels won,46,54
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Ground duels won,34 (45%),42 (55%)
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Aerial duels won,12 (50%),12 (50%)
+6005655,2026-08-25T18:45:00.000Z,2,EFL Cup,Walsall,10006,Leyton Orient,8351,Successful dribbles,6 (43%),10 (56%)
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Duels won,39,33
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Ground duels won,34 (54%),29 (46%)
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Aerial duels won,5 (56%),4 (44%)
+6005656,2026-08-25T18:45:00.000Z,2,EFL Cup,Ipswich Town,9902,Leicester City,8197,Successful dribbles,5 (45%),7 (47%)
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Duels won,43,41
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Ground duels won,32 (52%),30 (48%)
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Aerial duels won,11 (50%),11 (50%)
+6005657,2026-08-25T18:00:00.000Z,2,EFL Cup,Cardiff City,8344,Norwich City,9850,Successful dribbles,6 (67%),5 (56%)
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Duels won,49,29
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Ground duels won,25 (68%),12 (32%)
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Aerial duels won,24 (59%),17 (41%)
+6005658,2026-08-25T18:45:00.000Z,2,EFL Cup,Stevenage,10253,Reading,9798,Successful dribbles,7 (78%),2 (40%)
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Duels won,58,63
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Ground duels won,34 (52%),32 (48%)
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Aerial duels won,24 (44%),31 (56%)
+6005659,2026-08-25T18:45:00.000Z,2,EFL Cup,Cambridge United,9834,Millwall,10004,Successful dribbles,5 (33%),3 (38%)
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Duels won,47,56
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Ground duels won,34 (50%),34 (50%)
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Aerial duels won,13 (37%),22 (63%)
+6005660,2026-08-25T19:00:00.000Z,2,EFL Cup,Birmingham City,8658,Brentford,9937,Successful dribbles,1 (10%),13 (54%)
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Duels won,40,42
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Ground duels won,32 (47%),36 (53%)
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Aerial duels won,8 (57%),6 (43%)
+6005661,2026-08-25T18:45:00.000Z,2,EFL Cup,Southampton,8466,West Ham United,8654,Successful dribbles,11 (52%),8 (50%)
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Duels won,48,45
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Ground duels won,39 (57%),30 (43%)
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Aerial duels won,9 (38%),15 (63%)
+6005662,2026-08-25T18:45:00.000Z,2,EFL Cup,Watford,9817,Peterborough United,8677,Successful dribbles,10 (53%),6 (38%)
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Duels won,47,36
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Ground duels won,31 (54%),26 (46%)
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Aerial duels won,16 (62%),10 (38%)
+6005663,2026-08-27T19:00:00.000Z,2,EFL Cup,Fulham,9879,AFC Wimbledon,158319,Successful dribbles,12 (55%),3 (33%)
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Duels won,39,54
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Ground duels won,27 (42%),37 (58%)
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Aerial duels won,12 (41%),17 (59%)
+6005664,2026-08-25T18:45:00.000Z,2,EFL Cup,Plymouth Argyle,8401,Coventry City,8669,Successful dribbles,4 (67%),5 (42%)
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Duels won,41,43
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Ground duels won,32 (48%),34 (52%)
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Aerial duels won,9 (50%),9 (50%)
+6005665,2026-08-27T18:30:00.000Z,2,EFL Cup,Chelsea,8455,Luton Town,8346,Successful dribbles,12 (63%),8 (50%)
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Duels won,52,44
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Ground duels won,36 (57%),27 (43%)
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Aerial duels won,16 (48%),17 (52%)
+6005666,2026-08-26T18:45:00.000Z,2,EFL Cup,Tottenham Hotspur,8586,Charlton Athletic,8451,Successful dribbles,11 (55%),7 (58%)
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Duels won,62,42
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Ground duels won,51 (58%),37 (42%)
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Aerial duels won,11 (69%),5 (31%)
+6099328,2026-09-08T18:45:00.000Z,3,EFL Cup,Crystal Palace,9826,Middlesbrough,8549,Successful dribbles,6 (75%),19 (50%)
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Duels won,67,45
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Ground duels won,51 (61%),32 (39%)
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Aerial duels won,16 (55%),13 (45%)
+6099329,2026-09-16T19:00:00.000Z,3,EFL Cup,Manchester United,10260,Brighton & Hove Albion,10204,Successful dribbles,12 (50%),10 (50%)
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Duels won,37,52
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Ground duels won,29 (38%),48 (62%)
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Aerial duels won,8 (67%),4 (33%)
+6099330,2026-09-17T18:30:00.000Z,3,EFL Cup,Manchester City,8456,Norwich City,9850,Successful dribbles,11 (44%),9 (69%)
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Duels won,49,39
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Ground duels won,36 (56%),28 (44%)
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Aerial duels won,13 (54%),11 (46%)
+6099331,2026-09-08T18:45:00.000Z,3,EFL Cup,Sunderland,8472,Hull City,8667,Successful dribbles,6 (33%),4 (31%)
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Duels won,51,45
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Ground duels won,45 (53%),40 (47%)
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Aerial duels won,6 (55%),5 (45%)
+6099332,2026-09-15T19:00:00.000Z,3,EFL Cup,Ipswich Town,9902,Arsenal,9825,Successful dribbles,6 (38%),12 (44%)
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Duels won,47,47
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Ground duels won,40 (51%),38 (49%)
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Aerial duels won,7 (44%),9 (56%)
+6099333,2026-09-16T19:00:00.000Z,3,EFL Cup,Coventry City,8669,Aston Villa,10252,Successful dribbles,8 (47%),6 (32%)
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Duels won,47,54
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Ground duels won,31 (48%),34 (52%)
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Aerial duels won,16 (44%),20 (56%)
+6099334,2026-09-08T18:45:00.000Z,3,EFL Cup,AFC Bournemouth,8678,Lincoln City,8430,Successful dribbles,9 (45%),6 (75%)
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Duels won,49,65
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Ground duels won,41 (46%),49 (54%)
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Aerial duels won,8 (33%),16 (67%)
+6099335,2026-09-15T19:00:00.000Z,3,EFL Cup,Liverpool,8650,Tottenham Hotspur,8586,Successful dribbles,8 (57%),13 (62%)
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Duels won,45,63
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Ground duels won,28 (41%),40 (59%)
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Aerial duels won,17 (43%),23 (58%)
+6099336,2026-09-08T19:00:00.000Z,3,EFL Cup,Millwall,10004,Newcastle United,10261,Successful dribbles,4 (50%),12 (63%)
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Duels won,35,45
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Ground duels won,26 (45%),32 (55%)
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Aerial duels won,9 (41%),13 (59%)
+6099337,2026-09-16T18:45:00.000Z,3,EFL Cup,Fleetwood Town,45723,Sheffield United,8657,Successful dribbles,4 (67%),6 (33%)
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Duels won,48,43
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Ground duels won,38 (51%),37 (49%)
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Aerial duels won,10 (63%),6 (38%)
+6099338,2026-09-16T18:45:00.000Z,3,EFL Cup,Everton,8668,Wolverhampton Wanderers,8602,Successful dribbles,15 (68%),12 (71%)
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Duels won,49,62
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Ground duels won,36 (52%),33 (48%)
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Aerial duels won,13 (31%),29 (69%)
+6099339,2026-09-08T18:45:00.000Z,3,EFL Cup,Leyton Orient,8351,Bradford City,8484,Successful dribbles,8 (42%),5 (28%)
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Duels won,41,42
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Ground duels won,31 (53%),27 (47%)
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Aerial duels won,10 (40%),15 (60%)
+6099340,2026-09-15T19:00:00.000Z,3,EFL Cup,Reading,9798,Brentford,9937,Successful dribbles,8 (67%),9 (50%)
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Duels won,62,67
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Ground duels won,42 (49%),43 (51%)
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Aerial duels won,20 (45%),24 (55%)
+6099341,2026-09-15T18:30:00.000Z,3,EFL Cup,Peterborough United,8677,Barnsley,8283,Successful dribbles,15 (65%),15 (68%)
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Duels won,54,57
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Ground duels won,40 (53%),36 (47%)
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Aerial duels won,14 (40%),21 (60%)
+6099342,2026-09-09T19:15:00.000Z,3,EFL Cup,Chelsea,8455,Leeds United,8463,Successful dribbles,8 (42%),10 (56%)
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Duels won,40,41
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Ground duels won,30 (48%),32 (52%)
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Aerial duels won,10 (53%),9 (47%)
+6099343,2026-09-15T18:45:00.000Z,3,EFL Cup,West Ham United,8654,Fulham,9879,Successful dribbles,13 (65%),7 (64%)
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Duels won,41,54
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Ground duels won,30 (45%),36 (55%)
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Aerial duels won,11 (38%),18 (62%)
+6275367,2026-10-27T20:00:00.000Z,4,EFL Cup,Fleetwood Town,45723,Arsenal,9825,Successful dribbles,7 (35%),6 (35%)
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Duels won,66,53
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Ground duels won,37 (50%),37 (50%)
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Aerial duels won,29 (64%),16 (36%)
+6275372,2026-10-27T19:45:00.000Z,4,EFL Cup,Bradford City,8484,Peterborough United,8677,Successful dribbles,6 (40%),5 (36%)

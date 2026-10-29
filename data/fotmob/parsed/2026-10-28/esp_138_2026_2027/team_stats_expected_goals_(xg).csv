@@ -1,0 +1,26 @@
+match_id,match_date,match_round,league_name,home_team,home_team_id,away_team,away_team_id,stat,home,away
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,Expected goals (xG),0.03,3.14
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,xG open play,0.00,1.38
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,xG set play,0.03,0.97
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,xG non-penalty,0.03,2.35
+6386037,2026-10-27T20:00:00.000Z,1,Copa del Rey,Sporting de Alcazar,190128,Málaga,9864,xG on target (xGOT),0.00,2.12
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,Expected goals (xG),0.25,1.98
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,xG open play,0.16,1.73
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,xG set play,0.09,0.24
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,xG non-penalty,0.25,1.98
+6386064,2026-10-27T20:00:00.000Z,1,Copa del Rey,CD Manacor,209025,Villarreal,10205,xG on target (xGOT),0.18,4.08
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,Expected goals (xG),0.33,4.34
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,xG open play,0.27,3.33
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,xG set play,0.06,1.02
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,xG non-penalty,0.33,4.34
+6386071,2026-10-27T18:00:00.000Z,1,Copa del Rey,UD Pinatar,2341166,Elche,10268,xG on target (xGOT),0.26,3.36
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,Expected goals (xG),1.20,4.17
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,xG open play,0.30,2.46
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,xG set play,0.12,0.92
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,xG non-penalty,0.41,3.38
+6386076,2026-10-27T20:00:00.000Z,1,Copa del Rey,Recreativo Huelva,8479,Rayo Vallecano,8370,xG on target (xGOT),1.59,2.14
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,Expected goals (xG),1.85,3.38
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,xG open play,1.33,1.55
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,xG set play,0.52,0.25
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,xG non-penalty,1.85,1.80
+6386082,2026-10-27T18:00:00.000Z,1,Copa del Rey,Sestao,8228,Espanyol,8558,xG on target (xGOT),2.22,2.33
